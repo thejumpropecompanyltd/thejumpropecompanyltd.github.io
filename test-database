@@ -1,1305 +1,1627 @@
-JSON TEST
-
-
 [
     {
-        "skillName": "Arm Wrap Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Arm Wrap Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Arm Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Arm Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Arm Wrap (Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Arm Wrap (Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Arm Wrap to Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Arm Wrap to Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Arm Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Arm Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Arm Wrap to Toad Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Arm Wrap to Toad Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Step-Through Arm Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Step-Through Arm Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Arm Wrap 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Arm Wrap 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Wrap Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Wrap Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad to Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Toad to Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over to Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over to Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross, Toad, Open, Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Cross, Toad, Open, Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "2 Leg Over, 2 Toad, 2 Leg Over, 2 Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "2 Leg Over, 2 Toad, 2 Leg Over, 2 Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Awesome Annie (from Toad)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Awesome Annie (from Toad)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Awesome Annie (from Leg Over)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Awesome Annie (from Leg Over)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Awesome Annie (from Leg Over)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Awesome Annie (from Leg Over)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross to Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Cross to Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Switch Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Switch Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB (EB Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB (EB Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Dive EB",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Dive EB",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Dive EB (EB Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Dive EB (EB Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "TS",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "TS",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (Double after)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (Double after)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (Double out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (Double out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (double) (Single after)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (double) (Single after)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (double) (Double after)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (double) (Double after)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (double) (Double before & after)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (double) (Double before & after)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open Open (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Open Open (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Open (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Open (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Cross (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Cross (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open Cross (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Open Cross (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross Open (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Cross Open (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross Cross (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Cross Cross (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross, Switch Cross (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Cross, Switch Cross (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing EB (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing EB (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing EB (EB Swing out) (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing EB (EB Swing out) (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toe Catch (Breakdown)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toe Catch (Breakdown)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Jump (Breakdown)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Jump (Breakdown)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB (EB Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB (EB Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB to Swing Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB to Swing Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB to Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB to Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB to EB Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB to EB Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB to EB Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB to EB Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (wrist pop) Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (wrist pop) Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (wrist pop) (double rotation) Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (wrist pop) (double rotation) Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Release (double rotation)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Release (double rotation)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Release (wrist pop)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Release (wrist pop)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Release (wrist pop) (double rotation)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Release (wrist pop) (double rotation)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Step-Through Release (double rotation)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Step-Through Release (double rotation)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Inverse Step-Through Release (double rotation)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Inverse Step-Through Release (double rotation)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "EB Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Swing (from Open)",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "EB Swing (from Open)",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing to EB Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Toad Swing to EB Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Swing to EB Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Inverse Toad Swing to EB Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing, Swing out to EB Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Toad Swing, Swing out to EB Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Swing, Swing out to EB Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Inverse Toad Swing, Swing out to EB Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "EB Gogo Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Swing to EB Gogo Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "EB Swing to EB Gogo Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad (Swing in)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toad (Swing in)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad (Swing in, EB Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toad (Swing in, EB Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad (Toad Swing in)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toad (Toad Swing in)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad (Toad Swing in, EB Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toad (Toad Swing in, EB Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Dive EB Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Dive EB Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Dive EB Toad (EB Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Dive EB Toad (EB Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over, Toad Swing, EB Toad, Leg Over, Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over, Toad Swing, EB Toad, Leg Over, Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toad Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Wrap (EB Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Wrap (EB Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Wrap to EB Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Wrap to EB Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Wrap 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Wrap 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Wrap 180 to EB",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Wrap 180 to EB",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Wrap Stall",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Wrap Stall",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Wrap Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Wrap Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross (fp) Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Cross (fp) Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross (ff) Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Cross (ff) Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open (fp) Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Open (fp) Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open (ff) Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Open (ff) Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross (f) Switch Cross (over and under)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Cross (f) Switch Cross (over and under)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross (ff) Switch Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Cross (ff) Switch Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB (f) Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB (f) Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB (fp) Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB (fp) Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB (ff) Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB (ff) Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing (fp) Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Swing (fp) Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing (f) Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Swing (f) Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing (f) Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Toad Swing (f) Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Swing (f) Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Inverse Toad Swing (f) Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Swing (f) Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Leg Over Swing (f) Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Swing (fp) Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Swing (fp) Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Swing (f) Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Gogo Swing (f) Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing (fp) Open (over the shoulder)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Swing (fp) Open (over the shoulder)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing (f) Cross (over the shoulder)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Swing (f) Cross (over the shoulder)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Single Bounce",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Single Bounce",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Double Bounce",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Double Bounce",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Skier",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Skier",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Bell",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Bell",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Twister",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Twister",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Wounded Duck",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Wounded Duck",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Side Straddle",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Side Straddle",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Forward Straddle",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Forward Straddle",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross Straddle (X-Motion)",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Cross Straddle (X-Motion)",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Single Leg Jumps",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Single Leg Jumps",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Heel Tap",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Heel Tap",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toe Tap",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Toe Tap",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Side Tap",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Side Tap",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "High Knee",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "High Knee",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Kick",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Kick",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Heel-to-Heel",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Heel-to-Heel",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toe-to-Toe",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Toe-to-Toe",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Heel-to-Heel (alternating sides)",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Heel-to-Heel (alternating sides)",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toe-to-Toe (alternating sides)",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Toe-to-Toe (alternating sides)",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Heel-to-Toe",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Heel-to-Toe",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Heel-to-Toe (alternating sides) ",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Heel-to-Toe (alternating sides) ",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Single Leg Jumps (2 Left, 2 Right)",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Single Leg Jumps (2 Left, 2 Right)",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Alternating Step",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Alternating Step",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Boxer Step",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Boxer Step",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Kick",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Swing Kick",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Kick (alternating sides)",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Swing Kick (alternating sides)",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Can-Can",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Can-Can",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Knee Crossover",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Knee Crossover",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Running Man",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Running Man",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Running Man (Reverse)",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Running Man (Reverse)",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Grapevine",
-        "url": "https://www.thejumpropecoachchris.com/learn/footwork"
+        "name": "Grapevine",
+        "link": "https://www.thejumpropecoachchris.com/learn/footwork",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Gogo Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Toad Gogo Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Gogo Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Inverse Toad Gogo Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Gogo Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Leg Over Gogo Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Gogo Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "EB Gogo Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Caboose (with Ground Stall)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Caboose (with Ground Stall)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Caboose",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Caboose",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "AS (with Ground Stall)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "AS (with Ground Stall)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "AS",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "AS",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "CL (with Ground Stall)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "CL (with Ground Stall)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "CL",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "CL",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "AS-Weave (with Ground Stall)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "AS-Weave (with Ground Stall)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Ground Awesome Annie (from Leg Over)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Ground Awesome Annie (from Leg Over)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Ground Awesome Annie (from Toad)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Ground Awesome Annie (from Toad)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Toad Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over Toad Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Elephant",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Elephant",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "T-Toad (to Open)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "T-Toad (to Open)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "T-Toad (Swing to Cross)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "T-Toad (Swing to Cross)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 (with an Inverse Toad)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 (with an Inverse Toad)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 (with a Toad)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 (with a Toad)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 to Inverse Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 to Inverse Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 to Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 to Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 to Swing Inverse Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 to Swing Inverse Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 to Swing Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 to Swing Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 to Awesome Annie",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 to Awesome Annie",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 Release (with an Inverse Toad)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 Release (with an Inverse Toad)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360 Release (with a Toad)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360 Release (with a Toad)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over (Swing out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over (Swing out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Awesome Annie (from Leg Over)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Awesome Annie (from Leg Over)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over to Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over to Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over (to Open)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over (to Open)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Wrap (Awesome Annie out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through Wrap (Awesome Annie out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Wrap 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through Wrap 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Wrap Stall",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through Wrap Stall",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Wrap Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through Wrap Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Wrap Release 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through Wrap Release 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Wrap (to Step-Through Release)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through Wrap (to Step-Through Release)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Wrap (Arm Wrap out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Step-Through Wrap (Arm Wrap out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over (Swing to Cross)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over (Swing to Cross)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over (consecutively)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over (consecutively)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Drill 1 (Leg Over, Leg Over, Swing, Cross)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Drill 1 (Leg Over, Leg Over, Swing, Cross)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Drill 2 & 3 (Adding the Wrap)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Drill 2 & 3 (Adding the Wrap)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Wrap (Awesome Annie out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Wrap (Awesome Annie out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Wrap Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Wrap Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Rocker Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Rocker Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Wrap (Cross Unwrap)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Wrap (Cross Unwrap)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Wrap (Awesome Annie out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Wrap (Awesome Annie out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Toad Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Wrap (Awesome Annie out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Wrap (Awesome Annie out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Leg Over Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "EB Leg Over Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Inverse Toad Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "T-Toad Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "T-Toad Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse T-Toad Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Inverse T-Toad Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (wrist pop)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (wrist pop)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release (tissue box)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release (tissue box)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open Release (no swing)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Open Release (no swing)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Reisig Release (half-swing)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Reisig Release (half-swing)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Leg Over Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Leg Over Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to Leg Hook",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to Leg Hook",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to Swing Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to Swing Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to EB",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to EB",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Relase to EB Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Relase to EB Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to Leg Over",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to Leg Over",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to Swing Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to Swing Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Mic Release to EB Toad",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Mic Release to EB Toad",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Body Stall",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Body Stall",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open Stall",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Open Stall",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Between-the-Legs Stall",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Between-the-Legs Stall",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Kick Back",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Kick Back",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross Stall (contact)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Cross Stall (contact)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross Stall (no contact)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Cross Stall (no contact)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Stall (contact)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Over Stall (contact)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Stall (no contact)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Over Stall (no contact)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Double Under Stall (contact)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Double Under Stall (contact)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Toad Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Toad Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Leg Over Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Leg Over Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Toad Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Toad Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Leg Over Step-Through",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Leg Over Step-Through",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Step-Through Arm Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Step-Through Arm Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Step-Through Arm Wrap 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Step-Through Arm Wrap 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Step-Through Arm Wrap 360",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Step-Through Arm Wrap 360",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Step-Through Arm Wrap Texan 360",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Step-Through Arm Wrap Texan 360",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Step-Through Arm Wrap 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Step-Through Arm Wrap 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "180 to Backwards Step-Through Arm Wrap 180 (to the left)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "180 to Backwards Step-Through Arm Wrap 180 (to the left)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "180 to Backwards Step-Through Arm Wrap 180 (to the right)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "180 to Backwards Step-Through Arm Wrap 180 (to the right)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Step-Through Arm Wrap 180 to Backwards Step-Through Arm Wrap 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Step-Through Arm Wrap 180 to Backwards Step-Through Arm Wrap 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Step-Through Arm Wrap 180 to Backwards Inverse Step-Through Arm Wrap 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Step-Through Arm Wrap 180 to Backwards Inverse Step-Through Arm Wrap 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Leg Over Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Swing Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Leg Over Swing Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Leg Over Swing Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Inverse Leg Over Swing Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Toad Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Toad Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Toad Swing Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Gogo Swing Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Toad Gogo Swing Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Swing Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Inverse Toad Swing Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Gogo Swing Step-Through Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Inverse Toad Gogo Swing Step-Through Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing to Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Swing to Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing, Swing to Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Swing, Swing to Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing to Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Swing to Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing, Swing to Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Swing, Swing to Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "EB Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Toad Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Inverse Toad Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Leg Over Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing to EB Swing",
-        "url": "https://www.thejumpropecoachchris.com/learn/swings"
+        "name": "Toad Swing to EB Swing",
+        "link": "https://www.thejumpropecoachchris.com/learn/swings",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Thigh Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Thigh Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Thigh Wrap (Awesome Annie out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Thigh Wrap (Awesome Annie out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Thigh Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Thigh Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Thigh Wrap (Awesome Annie out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Leg Over Thigh Wrap (Awesome Annie out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Thigh Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Inverse Toad Thigh Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Leg Over Thigh Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Inverse Leg Over Thigh Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Toad Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad to Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Toad to Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing, Toad to Open",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing, Toad to Open",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open Open, Swing Toad (doubles) (Single after)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Open Open, Swing Toad (doubles) (Single after)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing, Toad to Open Open (double)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing, Toad to Open Open (double)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open Open, Swing Toad, Open Open (doubles)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Open Open, Swing Toad, Open Open (doubles)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Swing Open & Swing Open Open (triples)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Swing Open & Swing Open Open (triples)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Cross Open (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Cross Open (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Toad Open (TJ)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Toad Open (TJ)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through (Swing in)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through (Swing in)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Wrap",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through Wrap",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Wrap (Awesome Annie out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through Wrap (Awesome Annie out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Wrap Stall",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through Wrap Stall",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Wrap Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through Wrap Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Wrap Release 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through Wrap Release 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Wrap (to Step-Through Release)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through Wrap (to Step-Through Release)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Wrap (Wrist Wrap in)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through Wrap (Wrist Wrap in)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing Step-Through Wrap (Wrist Wrap out)",
-        "url": "https://www.thejumpropecoachchris.com/learn/wraps"
+        "name": "Toad Swing Step-Through Wrap (Wrist Wrap out)",
+        "link": "https://www.thejumpropecoachchris.com/learn/wraps",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Cross Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Toad Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Toad Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Leg Over Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad Toe Catch (Swing in)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toad Toe Catch (Swing in)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Toad Toe Catch (Toad Swing in)",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Toad Toe Catch (Toad Swing in)",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Elephant Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Elephant Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing to Cross Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Swing to Cross Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Swing to EB Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Swing to EB Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Swing to TS Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Swing to TS Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Leg Over Swing to Leg Over Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "EB Leg Over Swing to Leg Over Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing to Toad Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Swing to Toad Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing to Toad Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Toad Swing to Toad Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Swing to Inverse Toad Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Toad Swing to Inverse Toad Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Swing to Elephant Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Toad Swing to Elephant Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Swing to Elephant Toe Catch",
-        "url": "https://www.thejumpropecoachchris.com/learn/crosses"
+        "name": "Inverse Toad Swing to Elephant Toe Catch",
+        "link": "https://www.thejumpropecoachchris.com/learn/crosses",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open Open Open (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Open Open Open (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Swing Open (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Swing Open (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Open Open (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Open Open (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Cross Open (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Cross Open (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Open Cross (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Open Cross (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing Cross Cross (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing Cross Cross (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing EB Open (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing EB Open (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing EB-Swing Open (triple)",
-        "url": "https://www.thejumpropecoachchris.com/learn/multiples"
+        "name": "Swing EB-Swing Open (triple)",
+        "link": "https://www.thejumpropecoachchris.com/learn/multiples",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Swing 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Swing 180 Cross",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Swing 180 Cross",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Dive 180",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Dive 180",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Full Turn",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Full Turn",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Basic 360",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Basic 360",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross 360",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Cross 360",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Texan 360",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Texan 360",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Texan 360 (hands on shoulders)",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Texan 360 (hands on shoulders)",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Hook 360",
-        "url": "https://www.thejumpropecoachchris.com/learn/direction-change"
+        "name": "Leg Hook 360",
+        "link": "https://www.thejumpropecoachchris.com/learn/direction-change",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Open Release (no Swing)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Open Release (no Swing)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Cross Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Cross Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "EB Release (over the shoulder)",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "EB Release (over the shoulder)",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Leg Over Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Leg Over Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Awesome Annie Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Awesome Annie Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Toad Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Toad Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "Inverse Toad Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "Inverse Toad Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     },
     {
-        "skillName": "T-Toad Release",
-        "url": "https://www.thejumpropecoachchris.com/learn/releases"
+        "name": "T-Toad Release",
+        "link": "https://www.thejumpropecoachchris.com/learn/releases",
+        "image": "https://images.squarespace-cdn.com/content/v1/5dc020fbf780261568619575/4528a689-bebe-4c2f-9247-7ef1a121c5cf/Tricktionary+Logo.png?format=1000w"
     }
 ]
