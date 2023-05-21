@@ -34561,7 +34561,7 @@
     },
     {
         "name": "Challenge 1",
-        "skills": "Toad Swing > Toad > Toad Awesome Annie > Leg Over Wrap > Cross > Mic Release",
+        "skills": "Toad Swing > EB Toad > Toad Awesome Annie > Leg Over Wrap > Cross > Mic Release",
         "notation": "Lo, S, C, Lo, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 1",
         "toptip": "This is an auto-generated top tip for Challenge 1",
@@ -34585,7 +34585,7 @@
     },
     {
         "name": "Challenge 2",
-        "skills": "Swing > EB > EB Swing > Switch Cross > Mic Release",
+        "skills": "Swing > EB > EB Swing > EB Toad > Toad Swing > Mic Release",
         "notation": "S, -Lo, Ls, Lo, -S, O, C, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 2",
         "toptip": "This is an auto-generated top tip for Challenge 2",
