@@ -31849,7 +31849,7 @@
     },
     {
         "name": "EB to EB Toad",
-        "skills": "Test > Test > Test > Test",
+        "skills": "Swing > EB > EB Toad",
         "notation": "S, Ec, Et, O,",
         "definition": "This is an auto-generated combo description/definiton for EB to EB Toad",
         "toptip": "This is an auto-generated top tip for EB to EB Toad",
@@ -31873,7 +31873,7 @@
     },
     {
         "name": "EB to EB Toad (via EB Swing)",
-        "skills": "Test > Test > Test > Test",
+        "skills": "Swing > EB > EB Swing > EB Toad",
         "notation": "S, Ec, Es, Et, O,",
         "definition": "This is an auto-generated combo description/definiton for EB to EB Toad (via EB Swing)",
         "toptip": "This is an auto-generated top tip for EB to EB Toad (via EB Swing)",
@@ -32233,7 +32233,7 @@
     },
     {
         "name": "Toad to EB Toad",
-        "skills": "Test > Test > Test > Test",
+        "skills": "Toad > Toad Swing > EB Toad",
         "notation": "Tc, Ts, Et, O,",
         "definition": "This is an auto-generated combo description/definiton for Toad to EB Toad",
         "toptip": "This is an auto-generated top tip for Toad to EB Toad",
@@ -33049,7 +33049,7 @@
     },
     {
         "name": "Leg Over to EB Toad (via Swing)",
-        "skills": "Test > Test > Test > Test",
+        "skills": "Leg Over > Swing > EB Toad",
         "notation": "Lo, S, Et,",
         "definition": "This is an auto-generated combo description/definiton for Leg Over to EB Toad (via Swing)",
         "toptip": "This is an auto-generated top tip for Leg Over to EB Toad (via Swing)",
@@ -33073,7 +33073,7 @@
     },
     {
         "name": "Leg Over to EB Toad (via Toad Swing)",
-        "skills": "Test > Test > Test > Test",
+        "skills": "Leg Over > Toad Swing > EB Toad",
         "notation": "Lo, Ts, Et,",
         "definition": "This is an auto-generated combo description/definiton for Leg Over to EB Toad (via Toad Swing)",
         "toptip": "This is an auto-generated top tip for Leg Over to EB Toad (via Toad Swing)",
@@ -34465,7 +34465,7 @@
     },
     {
         "name": "Mic Release to EB Toad (Swing in)",
-        "skills": "Test > Test > Test > Test",
+        "skills": "Mic Release > Swing > EB Toad",
         "notation": "[S], M, S, Et, O,",
         "definition": "This is an auto-generated combo description/definiton for Mic Release to EB Toad (Swing in)",
         "toptip": "This is an auto-generated top tip for Mic Release to EB Toad (Swing in)",
@@ -34489,7 +34489,7 @@
     },
     {
         "name": "Mic Release to EB Toad (Toad Swing in)",
-        "skills": "Test > Test > Test > Test",
+        "skills": "Mic Release > Toad Swing > EB Toad",
         "notation": "[S], M, Ts, Et, O,",
         "definition": "This is an auto-generated combo description/definiton for Mic Release to EB Toad (Toad Swing in)",
         "toptip": "This is an auto-generated top tip for Mic Release to EB Toad (Toad Swing in)",
