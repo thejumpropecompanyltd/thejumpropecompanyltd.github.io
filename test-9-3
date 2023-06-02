@@ -3223,7 +3223,7 @@
         "type": "Skill",
         "anchor": "Cross",
         "link": "/skill?filter=cross",
-        "video": "https://player.vimeo.com/video/832778321?h=286427082c&badge=0&autopause=0&player_id=0&app_id=58479&quality=1080p",
+        "video": "https://player.vimeo.com/video/832778321?h=286427082c&badge=0&autopause=0&player_id=0&app_id=58479&quality=720p",
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
