@@ -8849,7 +8849,7 @@
     },
     {
         "name": "Wrist Swing",
-        "skills": "Swing <span class=\"pos-tag\">[w]</span> > Open",
+        "skills": "Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "S, O,",
         "definition": "This is an auto-generated skill description/definiton for Swing to Open",
         "toptip": "This is an auto-generated top tip for Swing to Open",
