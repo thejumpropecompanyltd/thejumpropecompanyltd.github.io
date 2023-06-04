@@ -393,7 +393,7 @@
     },
     {
         "name": "Twister",
-        "skills": "Twister > Twister [os]",
+        "skills": "Twister > Twister <span class=\"pos-tag\">OS</span>",
         "notation": "A, B, O, O,",
         "definition": "This is an auto-generated skill description/definiton for Twister",
         "toptip": "This is an auto-generated top tip for Twister",
@@ -421,7 +421,7 @@
     },
     {
         "name": "Twister (4 count)",
-        "skills": "Twister > Twister [os] > Twister [os] > Twister [os]",
+        "skills": "Twister > Twister <span class=\"pos-tag\">OS</span> > Twister <span class=\"pos-tag\">OS</span> > Twister <span class=\"pos-tag\">OS</span>",
         "notation": "A, B, A, B,",
         "definition": "This is an auto-generated skill description/definiton for Twister (4-count)",
         "toptip": "This is an auto-generated top tip for Twister (4 count)",
@@ -449,7 +449,7 @@
     },
     {
         "name": "Skier",
-        "skills": "Skier > Skier [os]",
+        "skills": "Skier > Skier <span class=\"pos-tag\">OS</span>",
         "notation": "A, B, O, O,",
         "definition": "This is an auto-generated skill description/definiton for Skier",
         "toptip": "This is an auto-generated top tip for Skier",
@@ -477,7 +477,7 @@
     },
     {
         "name": "Skier (4 count)",
-        "skills": "Skier > Skier [os] > Skier [os] > Skier [os]",
+        "skills": "Skier > Skier <span class=\"pos-tag\">OS</span> > Skier <span class=\"pos-tag\">OS</span> > Skier <span class=\"pos-tag\">OS</span>",
         "notation": "A, B, A, B,",
         "definition": "This is an auto-generated skill description/definiton for Skier (4-count)",
         "toptip": "This is an auto-generated top tip for Skier (4 count)",
@@ -505,7 +505,7 @@
     },
     {
         "name": "Bell",
-        "skills": "Bell [fw] > Bell [bw]",
+        "skills": "Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\">BW</span>",
         "notation": "A, B, O, O,",
         "definition": "This is an auto-generated skill description/definiton for Bell",
         "toptip": "This is an auto-generated top tip for Bell",
@@ -533,7 +533,7 @@
     },
     {
         "name": "Bell (4 count)",
-        "skills": "Bell [fw] > Bell [bw] > Bell [fw] > Bell [bw]",
+        "skills": "Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\">BW</span> > Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\">BW</span>",
         "notation": "A, B, A, B,",
         "definition": "This is an auto-generated skill description/definiton for Bell (4-count)",
         "toptip": "This is an auto-generated top tip for Bell (4 count)",
@@ -673,7 +673,7 @@
     },
     {
         "name": "Forward Straddle (alternating)",
-        "skills": "Forward Straddle > Single Bounce > Forward Straddle > Single Bounce [os]",
+        "skills": "Forward Straddle > Single Bounce > Forward Straddle > Single Bounce <span class=\"pos-tag\">OS</span>",
         "notation": "A, O, B, O,",
         "definition": "This is an auto-generated skill description/definiton for Forward Straddle (both sides)",
         "toptip": "This is an auto-generated top tip for Forward Straddle (both sides)",
@@ -701,7 +701,7 @@
     },
     {
         "name": "Scissors",
-        "skills": "Forward Straddle > Forward Straddle [os]",
+        "skills": "Forward Straddle > Forward Straddle <span class=\"pos-tag\">OS</span>",
         "notation": "A, B, O, O,",
         "definition": "This is an auto-generated skill description/definiton for Scissors",
         "toptip": "This is an auto-generated top tip for Scissors",
@@ -729,7 +729,7 @@
     },
     {
         "name": "Scissors (4 count)",
-        "skills": "Forward Straddle > Forward Straddle [os] > Forward Straddle [os] > Forward Straddle [os]",
+        "skills": "Forward Straddle > Forward Straddle <span class=\"pos-tag\">OS</span> > Forward Straddle <span class=\"pos-tag\">OS</span> > Forward Straddle <span class=\"pos-tag\">OS</span>",
         "notation": "A, B, A, B,",
         "definition": "This is an auto-generated skill description/definiton for Scissors (4-count)",
         "toptip": "This is an auto-generated top tip for Scissors (4 count)",
@@ -785,7 +785,7 @@
     },
     {
         "name": "X-Motion (4 count)",
-        "skills": "Side Straddle > X-Motion > Side Straddle > X-Motion [os]",
+        "skills": "Side Straddle > X-Motion > Side Straddle > X-Motion <span class=\"pos-tag\">OS</span>",
         "notation": "A, B, A, -B,",
         "definition": "This is an auto-generated skill description/definiton for X-Motion (4-count)",
         "toptip": "This is an auto-generated top tip for X Motion (4 count)",
@@ -1317,7 +1317,7 @@
     },
     {
         "name": "Single Leg Jumps (2-2)",
-        "skills": "Single Leg Jump > Single Leg Jump > Single Leg Jump [os] > Single Leg Jump > Single Leg Jump [os] > Single Leg Jump > Single Leg Jump [os] > Single Leg Jump",
+        "skills": "Single Leg Jump > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump",
         "notation": "R, R, L, L, R, R, L, L,",
         "definition": "This is an auto-generated skill description/definiton for Single Leg Jumps (2-2)",
         "toptip": "This is an auto-generated top tip for Single Leg Jumps (2 2)",
@@ -1345,7 +1345,7 @@
     },
     {
         "name": "Single Leg Jumps (1-2-1)",
-        "skills": "Single Leg Jump > Single Leg Jump [os] > Single Leg Jump > Single Leg Jump [os] > Single Leg Jump [os] > Single Leg Jump [os] > Single Leg Jump > Single Leg Jump [os]",
+        "skills": "Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span>",
         "notation": "R, L, L, R, L, R, R, L,",
         "definition": "This is an auto-generated skill description/definiton for Single Leg Jumps (1-2-1)",
         "toptip": "This is an auto-generated top tip for Single Leg Jumps (1 2 1)",
@@ -1373,7 +1373,7 @@
     },
     {
         "name": "Alternating Step",
-        "skills": "Single Leg Jump > Single Leg Jump [os] > Single Leg Jump [os] > Single Leg Jump [os]",
+        "skills": "Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump <span class=\"pos-tag\">OS</span>",
         "notation": "R, L, R, L, R, L, R, L,",
         "definition": "This is an auto-generated skill description/definiton for Alternating Step / Speed Step",
         "toptip": "This is an auto-generated top tip for Alternating Step / Speed Step",
@@ -1401,7 +1401,7 @@
     },
     {
         "name": "Front Taps (both sides)",
-        "skills": "Front Tap > Single Bounce > Front Tap [os] > Single Bounce",
+        "skills": "Front Tap > Single Bounce > Front Tap <span class=\"pos-tag\">OS</span> > Single Bounce",
         "notation": "A, O, -A, O,",
         "definition": "This is an auto-generated skill description/definiton for Front Taps (both sides)",
         "toptip": "This is an auto-generated top tip for Front Taps (both sides)",
@@ -1457,7 +1457,7 @@
     },
     {
         "name": "Front Taps (alternating double)",
-        "skills": "Front Tap > Front Tap > Front Tap [os] > Front Tap",
+        "skills": "Front Tap > Front Tap > Front Tap <span class=\"pos-tag\">OS</span> > Front Tap",
         "notation": "A, A, -A, A,",
         "definition": "This is an auto-generated skill description/definiton for Front Taps (alternating double)",
         "toptip": "This is an auto-generated top tip for Front Taps (alternating double)",
@@ -1485,7 +1485,7 @@
     },
     {
         "name": "Front Taps (alternating)",
-        "skills": "Front Tap > Front Tap [os] > Front Tap [os] > Front Tap [os]",
+        "skills": "Front Tap > Front Tap <span class=\"pos-tag\">OS</span> > Front Tap <span class=\"pos-tag\">OS</span> > Front Tap <span class=\"pos-tag\">OS</span>",
         "notation": "A, -A, -A, -A,",
         "definition": "This is an auto-generated skill description/definiton for Front Taps (alternating)",
         "toptip": "This is an auto-generated top tip for Front Taps (alternating)",
@@ -1513,7 +1513,7 @@
     },
     {
         "name": "Side Taps (both sides)",
-        "skills": "Side Tap > Single Bounce > Side Tap [os] > Single Bounce",
+        "skills": "Side Tap > Single Bounce > Side Tap <span class=\"pos-tag\">OS</span> > Single Bounce",
         "notation": "A, O, -A, O,",
         "definition": "This is an auto-generated skill description/definiton for Side Taps (both sides)",
         "toptip": "This is an auto-generated top tip for Side Taps (both sides)",
@@ -1569,7 +1569,7 @@
     },
     {
         "name": "Side Taps (alternating double)",
-        "skills": "Side Tap > Side Tap > Side Tap [os] > Side Tap",
+        "skills": "Side Tap > Side Tap > Side Tap <span class=\"pos-tag\">OS</span> > Side Tap",
         "notation": "A, A, -A, A,",
         "definition": "This is an auto-generated skill description/definiton for Side Taps (alternating double)",
         "toptip": "This is an auto-generated top tip for Side Taps (alternating double)",
@@ -1597,7 +1597,7 @@
     },
     {
         "name": "Side Taps (alternating)",
-        "skills": "Side Tap > Side Tap [os] > Side Tap [os] > Side Tap [os]",
+        "skills": "Side Tap > Side Tap <span class=\"pos-tag\">OS</span> > Side Tap <span class=\"pos-tag\">OS</span> > Side Tap <span class=\"pos-tag\">OS</span>",
         "notation": "A, -A, -A, -A,",
         "definition": "This is an auto-generated skill description/definiton for Side Taps (alternating)",
         "toptip": "This is an auto-generated top tip for Side Taps (alternating)",
@@ -1625,7 +1625,7 @@
     },
     {
         "name": "Back Taps (both sides)",
-        "skills": "Back Tap > Single Bounce > Back Tap [os] > Single Bounce",
+        "skills": "Back Tap > Single Bounce > Back Tap <span class=\"pos-tag\">OS</span> > Single Bounce",
         "notation": "A, O, -A, O,",
         "definition": "This is an auto-generated skill description/definiton for Back Taps (both sides)",
         "toptip": "This is an auto-generated top tip for Back Taps (both sides)",
@@ -1681,7 +1681,7 @@
     },
     {
         "name": "Back Taps (alternating double)",
-        "skills": "Back Tap > Back Tap > Back Tap [os] > Back Tap",
+        "skills": "Back Tap > Back Tap > Back Tap <span class=\"pos-tag\">OS</span> > Back Tap",
         "notation": "A, A, -A, A,",
         "definition": "This is an auto-generated skill description/definiton for Back Taps (alternating double)",
         "toptip": "This is an auto-generated top tip for Back Taps (alternating double)",
@@ -1709,7 +1709,7 @@
     },
     {
         "name": "Back Taps (alternating)",
-        "skills": "Back Tap > Back Tap [os] > Back Tap [os] > Back Tap [os]",
+        "skills": "Back Tap > Back Tap <span class=\"pos-tag\">OS</span> > Back Tap <span class=\"pos-tag\">OS</span> > Back Tap <span class=\"pos-tag\">OS</span>",
         "notation": "A, -A, -A, -A,",
         "definition": "This is an auto-generated skill description/definiton for Back Taps (alternating)",
         "toptip": "This is an auto-generated top tip for Back Taps (alternating)",
@@ -1737,7 +1737,7 @@
     },
     {
         "name": "Knee Raises (both sides)",
-        "skills": "Knee Raise > Single Bounce > Knee Raise [os] > Single Bounce",
+        "skills": "Knee Raise > Single Bounce > Knee Raise <span class=\"pos-tag\">OS</span> > Single Bounce",
         "notation": "A, O, -A, O,",
         "definition": "This is an auto-generated skill description/definiton for Knee Raises (both sides)",
         "toptip": "This is an auto-generated top tip for Knee Raises (both sides)",
@@ -1793,7 +1793,7 @@
     },
     {
         "name": "Knee Raises (alternating double)",
-        "skills": "Knee Raise > Knee Raise > Knee Raise [os] > Knee Raise",
+        "skills": "Knee Raise > Knee Raise > Knee Raise <span class=\"pos-tag\">OS</span> > Knee Raise",
         "notation": "A, A, -A, A,",
         "definition": "This is an auto-generated skill description/definiton for Knee Raises (alternating double)",
         "toptip": "This is an auto-generated top tip for Knee Raises (alternating double)",
@@ -1821,7 +1821,7 @@
     },
     {
         "name": "Knee Raises (alternating)",
-        "skills": "Knee Raise > Knee Raise [os] > Knee Raise [os] > Knee Raise [os]",
+        "skills": "Knee Raise > Knee Raise <span class=\"pos-tag\">OS</span> > Knee Raise <span class=\"pos-tag\">OS</span> > Knee Raise <span class=\"pos-tag\">OS</span>",
         "notation": "A, -A, -A, -A,",
         "definition": "This is an auto-generated skill description/definiton for Knee Raises (alternating)",
         "toptip": "This is an auto-generated top tip for Knee Raises (alternating)",
@@ -1849,7 +1849,7 @@
     },
     {
         "name": "Leg Raises (both sides)",
-        "skills": "Leg Raise > Single Bounce > Leg Raise [os] > Single Bounce",
+        "skills": "Leg Raise > Single Bounce > Leg Raise <span class=\"pos-tag\">OS</span> > Single Bounce",
         "notation": "A, O, -A, O,",
         "definition": "This is an auto-generated skill description/definiton for Leg Raises (both sides)",
         "toptip": "This is an auto-generated top tip for Leg Raises (both sides)",
@@ -1933,7 +1933,7 @@
     },
     {
         "name": "Butt Kicks (alternating double)",
-        "skills": "Kick Back > Kick Back > Kick Back [os] > Kick Back",
+        "skills": "Kick Back > Kick Back > Kick Back <span class=\"pos-tag\">OS</span> > Kick Back",
         "notation": "A, A, -A, A,",
         "definition": "This is an auto-generated skill description/definiton for Butt Kicks (alternating double)",
         "toptip": "This is an auto-generated top tip for Butt Kicks (alternating double)",
@@ -1961,7 +1961,7 @@
     },
     {
         "name": "Butt Kicks (alternating)",
-        "skills": "Kick Back > Kick Back [os] > Kick Back [os] > Kick Back [os]",
+        "skills": "Kick Back > Kick Back <span class=\"pos-tag\">OS</span> > Kick Back <span class=\"pos-tag\">OS</span> > Kick Back <span class=\"pos-tag\">OS</span>",
         "notation": "A, -A, -A, -A,",
         "definition": "This is an auto-generated skill description/definiton for Butt Kicks (alternating)",
         "toptip": "This is an auto-generated top tip for Butt Kicks (alternating)",
@@ -2045,7 +2045,7 @@
     },
     {
         "name": "Front to Back (both sides)",
-        "skills": "Front Tap > Back Tap > Front Tap [os] > Back Tap",
+        "skills": "Front Tap > Back Tap > Front Tap <span class=\"pos-tag\">OS</span> > Back Tap",
         "notation": "A, B, -A, B,",
         "definition": "This is an auto-generated skill description/definiton for Front to Back (both sides)",
         "toptip": "This is an auto-generated top tip for Front to Back (both sides)",
@@ -2129,7 +2129,7 @@
     },
     {
         "name": "Back to Front (both sides)",
-        "skills": "Back Tap > Single Bounce > Back Tap [os] > Single Bounce",
+        "skills": "Back Tap > Single Bounce > Back Tap <span class=\"pos-tag\">OS</span> > Single Bounce",
         "notation": "A, B, -A, B,",
         "definition": "This is an auto-generated skill description/definiton for Back to Front (both sides)",
         "toptip": "This is an auto-generated top tip for Back to Front (both sides)",
@@ -2297,7 +2297,7 @@
     },
     {
         "name": "Can Can (both sides)",
-        "skills": "Knee Raise > Leg Raise > Knee Raise [os] > Leg Raise",
+        "skills": "Knee Raise > Leg Raise > Knee Raise <span class=\"pos-tag\">OS</span> > Leg Raise",
         "notation": "A, B, A, C,",
         "definition": "This is an auto-generated skill description/definiton for Can Can",
         "toptip": "This is an auto-generated top tip for Can Can",
@@ -2437,7 +2437,7 @@
     },
     {
         "name": "High Knee Side Straddle (both sides)",
-        "skills": "Knee Raise > Side Straddle > Knee Raise [os] > Side Straddle",
+        "skills": "Knee Raise > Side Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Side Straddle",
         "notation": "A, B, -A, B,",
         "definition": "This is an auto-generated skill description/definiton for High Knee Side Straddle (both sides)",
         "toptip": "This is an auto-generated top tip for High Knee Side Straddle (both sides)",
@@ -2493,7 +2493,7 @@
     },
     {
         "name": "Running Man Shuffle",
-        "skills": "Knee Raise > Forward Straddle > Knee Raise [os] > Forward Straddle",
+        "skills": "Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Forward Straddle",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Running Man",
         "toptip": "This is an auto-generated top tip for Running Man",
@@ -2521,7 +2521,7 @@
     },
     {
         "name": "Reverse Running Man Shuffle",
-        "skills": "Knee Raise > Forward Straddle [os] > Knee Raise > [os] Forward Straddle",
+        "skills": "Knee Raise > Forward Straddle <span class=\"pos-tag\">OS</span> > Knee Raise > <span class=\"pos-tag\">OS</span> Forward Straddle",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Reverse Running Man",
         "toptip": "This is an auto-generated top tip for Reverse Running Man",
@@ -2549,7 +2549,7 @@
     },
     {
         "name": "Front to Back Shuffle",
-        "skills": "Knee Raise > Forward Straddle > Knee Raise [ss] > Forward Straddle [os]",
+        "skills": "Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">SS</span> > Forward Straddle <span class=\"pos-tag\">OS</span>",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Front to Back Shuffle",
         "toptip": "This is an auto-generated top tip for Front to Back Shuffle",
@@ -4453,7 +4453,7 @@
     },
     {
         "name": "Leg Over (Swing Cross out)",
-        "skills": "Leg Over > Swing [b] > Cross",
+        "skills": "Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "Lo, S, C,",
         "definition": "This is an auto-generated skill description/definiton for Leg Over (Swing Cross out)",
         "toptip": "This is an auto-generated top tip for Leg Over (Swing Cross out)",
@@ -4481,7 +4481,7 @@
     },
     {
         "name": "Leg Over (Swing Open out)",
-        "skills": "Leg Over > Swing [w] > Open",
+        "skills": "Leg Over > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "Lo, S, O,",
         "definition": "This is an auto-generated skill description/definiton for Leg Over (Swing Open out)",
         "toptip": "This is an auto-generated top tip for Leg Over (Swing Open out)",
@@ -4565,7 +4565,7 @@
     },
     {
         "name": "Inverse Leg Over (Swing Cross out)",
-        "skills": "Inverse Leg Over > Swing [b] > Cross",
+        "skills": "Inverse Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "Jo, S, C,",
         "definition": "This is an auto-generated skill description/definiton for Inverse Leg Over (Swing Cross out)",
         "toptip": "This is an auto-generated top tip for Inverse Leg Over (Swing Cross out)",
@@ -6105,7 +6105,7 @@
     },
     {
         "name": "T-Toad",
-        "skills": "T-Toad > Swing [b] > Cross",
+        "skills": "T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "T(c), S, C,",
         "definition": "This is an auto-generated skill description/definiton for T-Toad (Swing Cross out)",
         "toptip": "This is an auto-generated top tip for T Toad (Swing Cross out)",
@@ -6133,7 +6133,7 @@
     },
     {
         "name": "T-Toad (Swing in)",
-        "skills": "Swing [b] > T-Toad > Swing [b] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "S, T(c), S, C,",
         "definition": "This is an auto-generated skill description/definiton for T-Toad (Swing in, Swing Cross out)",
         "toptip": "This is an auto-generated top tip for T Toad (Swing in, Swing Cross out)",
@@ -6217,7 +6217,7 @@
     },
     {
         "name": "T-Toad to Open (Swing in)",
-        "skills": "Swing [b] > T-Toad > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > T-Toad > Open",
         "notation": "S, T(c), O,",
         "definition": "This is an auto-generated skill description/definiton for T-Toad (Swing in, Open out)",
         "toptip": "This is an auto-generated top tip for T Toad (Swing in, Open out)",
@@ -6245,7 +6245,7 @@
     },
     {
         "name": "Inverse T-Toad",
-        "skills": "Swing [b] > Inverse T-Toad > Swing [b] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "S, I(c), S, C,",
         "definition": "This is an auto-generated skill description/definiton for Inverse T-Toad (Swing in, Swing Cross out)",
         "toptip": "This is an auto-generated top tip for Inverse T Toad (Swing in, Swing Cross out)",
@@ -6273,7 +6273,7 @@
     },
     {
         "name": "Inverse T-Toad (No Swing in)",
-        "skills": "Inverse T-Toad > Swing [b] > Cross",
+        "skills": "Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "I(c), S, C,",
         "definition": "This is an auto-generated skill description/definiton for Inverse T-Toad (Swing Cross out)",
         "toptip": "This is an auto-generated top tip for Inverse T Toad (Swing Cross out)",
@@ -6581,7 +6581,7 @@
     },
     {
         "name": "T-Toad (consecutively)",
-        "skills": "Swing [b] > T-Toad > T-Toad > T-Toad > Swing [b] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > T-Toad > T-Toad > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "T(c), T(c), T(c),",
         "definition": "This is an auto-generated skill description/definiton for T-Toad to T-Toad (consecutively)",
         "toptip": "This is an auto-generated top tip for T Toad to T Toad (consecutively)",
@@ -6609,7 +6609,7 @@
     },
     {
         "name": "Inverse T-Toad (consecutively)",
-        "skills": "Swing [b] > Inverse T-Toad > Inverse T-Toad > Inverse T-Toad > Swing [b] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Inverse T-Toad > Inverse T-Toad > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "I(c), I(c), I(c),",
         "definition": "This is an auto-generated skill description/definiton for Inverse T-Toad to Inverse T-Toad (consecutively)",
         "toptip": "This is an auto-generated top tip for Inverse T Toad to Inverse T Toad (consecutively)",
@@ -6889,7 +6889,7 @@
     },
     {
         "name": "Toad Gogo (Toad Wrist Swing in)",
-        "skills": "Toad Swing [w] > Toad Gogo > Open",
+        "skills": "Toad Swing <span class=\"pos-tag\">W</span> > Toad Gogo > Open",
         "notation": "T(s), (To)o,",
         "definition": "This is an auto-generated skill description/definiton for Toad Gogo (Toad Wrist Swing in)",
         "toptip": "This is an auto-generated top tip for Toad Gogo (Toad Wrist Swing in)",
@@ -7029,7 +7029,7 @@
     },
     {
         "name": "Inverse Toad Gogo (Inverse Toad Wrist Swing in)",
-        "skills": "Inverse Toad Swing [w] > Inverse Toad Gogo > Open",
+        "skills": "Inverse Toad Swing <span class=\"pos-tag\">W</span> > Inverse Toad Gogo > Open",
         "notation": "I(s), (Io)o,",
         "definition": "This is an auto-generated skill description/definiton for Inverse Toad Gogo (Inverse Toad Wrist Swing in)",
         "toptip": "This is an auto-generated top tip for Inverse Toad Gogo (Inverse Toad Wrist Swing in)",
@@ -8093,7 +8093,7 @@
     },
     {
         "name": "Inverse Toad Knot (Inverse Toad Wrist Swing in)",
-        "skills": "Inverse Toad Swing [w] > Inverse Toad Knot",
+        "skills": "Inverse Toad Swing <span class=\"pos-tag\">W</span> > Inverse Toad Knot",
         "notation": "I(s), (I)c,",
         "definition": "This is an auto-generated skill description/definiton for Inverse Toad Knot (Inverse Toad Wrist Swing in)",
         "toptip": "This is an auto-generated top tip for Inverse Toad Knot (Inverse Toad Wrist Swing in)",
@@ -8877,7 +8877,7 @@
     },
     {
         "name": "Box Swing",
-        "skills": "Swing [b] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "S, C, O,",
         "definition": "This is an auto-generated skill description/definiton for Swing to Cross",
         "toptip": "This is an auto-generated top tip for Swing to Cross",
@@ -8905,7 +8905,7 @@
     },
     {
         "name": "Swing, Swing to Open",
-        "skills": "Swing [b] > Swing [w] [os] > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open",
         "notation": "S, S, O,",
         "definition": "This is an auto-generated skill description/definiton for Swing, Swing to Open",
         "toptip": "This is an auto-generated top tip for Swing, Swing to Open",
@@ -8933,7 +8933,7 @@
     },
     {
         "name": "Swing, Swing to Cross",
-        "skills": "Swing [w] > Swing [b] [ss] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross",
         "notation": "S, -S, C,",
         "definition": "This is an auto-generated skill description/definiton for Swing, Swing to Cross",
         "toptip": "This is an auto-generated top tip for Swing, Swing to Cross",
@@ -9017,7 +9017,7 @@
     },
     {
         "name": "Toad Swing",
-        "skills": "Toad Swing > Swing [w] > Open",
+        "skills": "Toad Swing > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "Ts, S, O,",
         "definition": "This is an auto-generated skill description/definiton for Toad Swing",
         "toptip": "This is an auto-generated top tip for Toad Swing",
@@ -9073,7 +9073,7 @@
     },
     {
         "name": "Toad Wrist Swing to Open",
-        "skills": "Toad Swing [w] > Open",
+        "skills": "Toad Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "T(s), O,",
         "definition": "This is an auto-generated skill description/definiton for Toad Wrist Swing to Open",
         "toptip": "This is an auto-generated top tip for Toad Wrist Swing to Open",
@@ -36317,7 +36317,7 @@
     },
     {
         "name": "Cross to T-Toad",
-        "skills": "Cross > T-Toad > Swing [b] > Cross",
+        "skills": "Cross > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "C, T(c), S, C,",
         "definition": "This is an auto-generated combo description/definiton for Cross to T-Toad",
         "toptip": "This is an auto-generated top tip for Cross to T Toad",
@@ -36345,7 +36345,7 @@
     },
     {
         "name": "Cross to Inverse T-Toad",
-        "skills": "Cross > Inverse T-Toad > Swing [b] > Cross",
+        "skills": "Cross > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "C, I(c), S, C,",
         "definition": "This is an auto-generated combo description/definiton for Cross to Inverse T-Toad",
         "toptip": "This is an auto-generated top tip for Cross to Inverse T Toad",
@@ -40685,7 +40685,7 @@
     },
     {
         "name": "Challenge 1",
-        "skills": "Knee Raise > Forward Straddle > Knee Raise [os] > Forward Straddle",
+        "skills": "Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Forward Straddle",
         "notation": "NA",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 1",
         "toptip": "This is an auto-generated top tip for Challenge 1",
@@ -40713,7 +40713,7 @@
     },
     {
         "name": "Challenge 2",
-        "skills": "Knee Raise > Forward Straddle > Knee Raise [os] > Forward Straddle",
+        "skills": "Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Forward Straddle",
         "notation": "NA",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 2",
         "toptip": "This is an auto-generated top tip for Challenge 2",
@@ -40741,7 +40741,7 @@
     },
     {
         "name": "Challenge 3",
-        "skills": "Knee Raise > Forward Straddle > Knee Raise [os] > Forward Straddle",
+        "skills": "Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Forward Straddle",
         "notation": "NA",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 3",
         "toptip": "This is an auto-generated top tip for Challenge 3",
@@ -40769,7 +40769,7 @@
     },
     {
         "name": "Challenge 4",
-        "skills": "Knee Raise > Forward Straddle > Knee Raise [os] > Forward Straddle",
+        "skills": "Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Forward Straddle",
         "notation": "NA",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 4",
         "toptip": "This is an auto-generated top tip for Challenge 4",
@@ -40797,7 +40797,7 @@
     },
     {
         "name": "Challenge 5",
-        "skills": "Knee Raise > Forward Straddle > Knee Raise [os] > Forward Straddle",
+        "skills": "Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Forward Straddle",
         "notation": "NA",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 5",
         "toptip": "This is an auto-generated top tip for Challenge 5",
@@ -40825,7 +40825,7 @@
     },
     {
         "name": "Challenge 6",
-        "skills": "Knee Raise > Forward Straddle > Knee Raise [os] > Forward Straddle",
+        "skills": "Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Forward Straddle",
         "notation": "NA",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 6",
         "toptip": "This is an auto-generated top tip for Challenge 6",
@@ -40881,7 +40881,7 @@
     },
     {
         "name": "Challenge 8",
-        "skills": "Cross > Open > Cross [os] > Open",
+        "skills": "Cross > Open > Cross <span class=\"pos-tag\">OS</span> > Open",
         "notation": "C, O, -C, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 8",
         "toptip": "This is an auto-generated top tip for Challenge 8",
@@ -40937,7 +40937,7 @@
     },
     {
         "name": "Challenge 10",
-        "skills": "Cross > Cross > Cross [os] > Cross",
+        "skills": "Cross > Cross > Cross <span class=\"pos-tag\">OS</span> > Cross",
         "notation": "C, C, -C, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 10",
         "toptip": "This is an auto-generated top tip for Challenge 10",
@@ -40965,7 +40965,7 @@
     },
     {
         "name": "Challenge 11",
-        "skills": "Cross > Open > Cross [os] > Switch Cross",
+        "skills": "Cross > Open > Cross <span class=\"pos-tag\">OS</span> > Switch Cross",
         "notation": "C, O, -C, -C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 11",
         "toptip": "This is an auto-generated top tip for Challenge 11",
@@ -40993,7 +40993,7 @@
     },
     {
         "name": "Challenge 12",
-        "skills": "Swing [b] > Cross > Swing [w] > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "S, C, S, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 12",
         "toptip": "This is an auto-generated top tip for Challenge 12",
@@ -41016,12 +41016,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 13",
-        "skills": "Swing [w] > Open > Swing [b] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">W</span> > Open > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "S, O, S, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 13",
         "toptip": "This is an auto-generated top tip for Challenge 13",
@@ -41044,12 +41044,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 14",
-        "skills": "Swing [b] > Cross > Swing [w] > Swing [b] [ss] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross",
         "notation": "S, C, S, -S, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 14",
         "toptip": "This is an auto-generated top tip for Challenge 14",
@@ -41072,12 +41072,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 15",
-        "skills": "Swing [w] > Swing [b] [ss] > Cross > Swing [b] > Cross",
+        "skills": "Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "S, -S, C, S, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 15",
         "toptip": "This is an auto-generated top tip for Challenge 15",
@@ -41100,12 +41100,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 16",
-        "skills": "Swing [b] > Swing [w] > Open > Cross > Swing [b] > Swing [w] > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open > Cross > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "S, S, O, C, S, S, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 16",
         "toptip": "This is an auto-generated top tip for Challenge 16",
@@ -41128,12 +41128,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 17",
-        "skills": "Cross > Swing [w] > Swing [b] > Cross > Swing [w] > Swing [b] [ss] > Cross > Swing [w] > Open",
+        "skills": "Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "C, S, S, C, S, -S, C, S, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 17",
         "toptip": "This is an auto-generated top tip for Challenge 17",
@@ -41156,12 +41156,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 18",
-        "skills": "Swing [w] > Open > Swing [w] [os] > Open > Swing [b] > Cross > Open > Cross [os] > Swing [w] > Open",
+        "skills": "Swing <span class=\"pos-tag\">W</span> > Open > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open > Swing <span class=\"pos-tag\">B</span> > Cross > Open > Cross <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "S, O, -S, O, S, C, O, -C, S, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 18",
         "toptip": "This is an auto-generated top tip for Challenge 18",
@@ -41184,12 +41184,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 19",
-        "skills": "Swing > EB > Swing [b] > Cross",
+        "skills": "Swing > EB > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "S, Ec, S, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 19",
         "toptip": "This is an auto-generated top tip for Challenge 19",
@@ -41385,7 +41385,7 @@
     },
     {
         "name": "Challenge 26",
-        "skills": "Swing [b] > Cross > Swing [os] > EB",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">OS</span> > EB",
         "notation": "S, C, S, Ec,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 26",
         "toptip": "This is an auto-generated top tip for Challenge 26",
@@ -41408,12 +41408,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 27",
-        "skills": "Swing [b] > Cross > Swing [b] > EB",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">B</span> > EB",
         "notation": "S, C, (S, Ec,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 27",
         "toptip": "This is an auto-generated top tip for Challenge 27",
@@ -41436,7 +41436,7 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Long",
         "nickname": "NA"
     },
     {
@@ -41497,7 +41497,7 @@
     },
     {
         "name": "Challenge 30",
-        "skills": "Swing [b] > Cross > Toad > Open > Cross [os]",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Cross > Toad > Open > Cross <span class=\"pos-tag\">OS</span>",
         "notation": "S, C, Tc, O, -C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 30",
         "toptip": "This is an auto-generated top tip for Challenge 30",
@@ -41520,12 +41520,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 31",
-        "skills": "Swing [b] > Cross > Open > Swing [b] > Toad > Open > Toad Swing > Toad > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Cross > Open > Swing <span class=\"pos-tag\">B</span> > Toad > Open > Toad Swing > Toad > Open",
         "notation": "S, C, O, S, Tc, O, Ts, Tc, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 31",
         "toptip": "This is an auto-generated top tip for Challenge 31",
@@ -41548,12 +41548,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 32",
-        "skills": "Swing [b] > Toad > Swing [w] > Swing [b] [ss] > Cross > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Toad > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Open",
         "notation": "S, Tc, S, -S, C, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 32",
         "toptip": "This is an auto-generated top tip for Challenge 32",
@@ -41576,12 +41576,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 33",
-        "skills": "Cross > Swing [b] > Cross > Toad > Toad Swing > Toad > Open",
+        "skills": "Cross > Swing <span class=\"pos-tag\">B</span> > Cross > Toad > Toad Swing > Toad > Open",
         "notation": "C, S, C, Tc, Ts, Tc, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 33",
         "toptip": "This is an auto-generated top tip for Challenge 33",
@@ -41609,7 +41609,7 @@
     },
     {
         "name": "Challenge 34",
-        "skills": "Cross > Toad > Swing [w] > Open > Cross > Switch Toad > Swing [w] > Open",
+        "skills": "Cross > Toad > Swing <span class=\"pos-tag\">W</span> > Open > Cross > Switch Toad > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "C, Tc, S, O, C, -Tc, S, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 34",
         "toptip": "This is an auto-generated top tip for Challenge 34",
@@ -41632,12 +41632,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 35",
-        "skills": "Leg Over > Swing [b] > Cross > Leg Over > Cross",
+        "skills": "Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross > Leg Over > Cross",
         "notation": "Lo, S, C, Lo, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 35",
         "toptip": "This is an auto-generated top tip for Challenge 35",
@@ -41660,12 +41660,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 36",
-        "skills": "Swing [w] > Leg Over [os] > Leg Over Swing > Leg Over > Swing [w] [os] > Open > Cross > Open",
+        "skills": "Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Swing > Leg Over > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open > Cross > Open",
         "notation": "S, -Lo, Ls, Lo, -S, O, C, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 36",
         "toptip": "This is an auto-generated top tip for Challenge 36",
@@ -41688,7 +41688,7 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
@@ -41721,7 +41721,7 @@
     },
     {
         "name": "Challenge 38",
-        "skills": "Swing [b] > Toad > Swing [w] > Leg Over > Swing [b] > Cross > Swing [w] > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Toad > Swing <span class=\"pos-tag\">W</span> > Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "S, Tc, S, Lo, S, C, S, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 38",
         "toptip": "This is an auto-generated top tip for Challenge 38",
@@ -41744,12 +41744,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 39",
-        "skills": "Cross > Leg Over > Cross > Switch Cross > Leg Over > Swing [b] > Cross > Switch Cross",
+        "skills": "Cross > Leg Over > Cross > Switch Cross > Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross > Switch Cross",
         "notation": "C, Lo, C, -C, Lo, S, C, -C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 39",
         "toptip": "This is an auto-generated top tip for Challenge 39",
@@ -41777,7 +41777,7 @@
     },
     {
         "name": "Challenge 40",
-        "skills": "Leg Over > Cross > Toad > Swing [w] > Leg Over [os] > Swing [b] > Cross",
+        "skills": "Leg Over > Cross > Toad > Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "Lo, C, Tc, S, -Lo, S, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 40",
         "toptip": "This is an auto-generated top tip for Challenge 40",
@@ -41800,7 +41800,7 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
@@ -41833,7 +41833,7 @@
     },
     {
         "name": "Challenge 42",
-        "skills": "Swing [w] > Leg Over [os] > Leg Over Awesome Annie > Toad > Swing [w] > Open > Cross > Leg Over > Leg Over Awesome Annie > Open",
+        "skills": "Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Toad > Swing <span class=\"pos-tag\">W</span> > Open > Cross > Leg Over > Leg Over Awesome Annie > Open",
         "notation": "S, -Lo, La, Tc, S, O, C, Lo, La, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 42",
         "toptip": "This is an auto-generated top tip for Challenge 42",
@@ -41856,12 +41856,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 43",
-        "skills": "Toad Swing > Toad > Swing [w] > Leg Over [os] > Leg Over Awesome Annie > Open > Cross",
+        "skills": "Toad Swing > Toad > Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Open > Cross",
         "notation": "Ts, Tc, S, -Lo, La, O, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 43",
         "toptip": "This is an auto-generated top tip for Challenge 43",
@@ -41945,7 +41945,7 @@
     },
     {
         "name": "Challenge 46",
-        "skills": "Toad > Toad Awesome Annie > Swing [w] > Leg Over [os] > Leg Over Awesome Annie > Toad Awesome Annie > Cross > Open",
+        "skills": "Toad > Toad Awesome Annie > Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Toad Awesome Annie > Cross > Open",
         "notation": "Tc, Ta, S, -Lo, La, Ta, C, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 46",
         "toptip": "This is an auto-generated top tip for Challenge 46",
@@ -41968,7 +41968,7 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
@@ -42029,7 +42029,7 @@
     },
     {
         "name": "Challenge 49",
-        "skills": "Mic Release > Open > Cross > Open > Swing [b] > Cross > Mic Release > Open > Cross > Open",
+        "skills": "Mic Release > Open > Cross > Open > Swing <span class=\"pos-tag\">B</span> > Cross > Mic Release > Open > Cross > Open",
         "notation": "S, M, O, C, O, S, C, S, M, O, C, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 49",
         "toptip": "This is an auto-generated top tip for Challenge 49",
@@ -42052,7 +42052,7 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
@@ -42085,7 +42085,7 @@
     },
     {
         "name": "Challenge 51",
-        "skills": "Mic Release > Swing [b] > Cross > Mic Release > Swing > EB > Swing [b] > Cross",
+        "skills": "Mic Release > Swing <span class=\"pos-tag\">B</span> > Cross > Mic Release > Swing > EB > Swing <span class=\"pos-tag\">B</span> > Cross",
         "notation": "S, M, S, C, S, M, S, Ec, S, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 51",
         "toptip": "This is an auto-generated top tip for Challenge 51",
@@ -42108,12 +42108,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 52",
-        "skills": "Mic Release > Swing [b] [os] > Cross > Swing [w] > Mic Release",
+        "skills": "Mic Release > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">OS</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Mic Release",
         "notation": "S, M, -S, C, S, -S, M, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 52",
         "toptip": "This is an auto-generated top tip for Challenge 52",
@@ -42136,12 +42136,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 53",
-        "skills": "Mic Release > Leg Over [os] > Swing [b] > Cross > Open > Leg Over > Mic Release",
+        "skills": "Mic Release > Leg Over <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Cross > Open > Leg Over > Mic Release",
         "notation": "S, M, -Lo, S, C, O, Lo, S, M, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 53",
         "toptip": "This is an auto-generated top tip for Challenge 53",
@@ -42729,7 +42729,7 @@
     },
     {
         "name": "Challenge 74",
-        "skills": "Swing [b] > Arm Wrap > Cross > Arm Wrap > Cross > Switch Cross",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross > Arm Wrap > Cross > Switch Cross",
         "notation": "S, [S], [S), C, [S], [S), C, -C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 74",
         "toptip": "This is an auto-generated top tip for Challenge 74",
@@ -42752,12 +42752,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Short",
+        "length": "Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 75",
-        "skills": "Swing [b] > Arm Wrap > Toad > Toad Swing > Toad Arm Wrap > Toad > Swing [w] > Swing [b] [ss] > Cross > Toad > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Toad > Toad Swing > Toad Arm Wrap > Toad > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Toad > Open",
         "notation": "S, [S], [S), Tc, Ts, T[s], (To)[s), Tc, S, -S, C, Tc, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 75",
         "toptip": "This is an auto-generated top tip for Challenge 75",
@@ -42780,12 +42780,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 76",
-        "skills": "Cross > Dive EB Wrap 180 > [bw] Texan 180 > Swing [b] > Cross > Leg Over [os] > Swing [b] > Arm Wrap > Cross",
+        "skills": "Cross > Dive EB Wrap 180 > <span class=\"pos-tag\">BW</span> Texan 180 > Swing <span class=\"pos-tag\">B</span> > Cross > Leg Over <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross",
         "notation": "C, O, E[s], (Eo)[s)>, O, O}, S, C, -Lo, S, [S], [S), C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 76",
         "toptip": "This is an auto-generated top tip for Challenge 76",
@@ -42808,12 +42808,12 @@
         "cat5link": "/category?fitler=180%20turn",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 77",
-        "skills": "Swing [b] > Arm Wrap > Swing [w] > Toad Swing [ss] > Toad Arm Wrap > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Swing <span class=\"pos-tag\">W</span> > Toad Swing <span class=\"pos-tag\">SS</span> > Toad Arm Wrap > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open",
         "notation": "S, [S], [S), S, -Ts, T[s], (To)[s), Tc, Ta, La, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 77",
         "toptip": "This is an auto-generated top tip for Challenge 77",
@@ -42836,12 +42836,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 78",
-        "skills": "Mic Release > Swing [b] > Arm Wrap > Cross > Mic Release > Toad Swing > Toad Arm Wrap > Swing [w] > Open",
+        "skills": "Mic Release > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross > Mic Release > Toad Swing > Toad Arm Wrap > Swing <span class=\"pos-tag\">W</span> > Open",
         "notation": "S, M, S, [S], [S), C, S, M, Ts, T[s], (To)[s), S, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 78",
         "toptip": "This is an auto-generated top tip for Challenge 78",
@@ -42864,12 +42864,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 79",
-        "skills": "Mic Release > Dive EB Wrap 180 > [bw] 180 Turn > Swing [b] > Arm Wrap > Cross > Open > Cross [os] > Cross",
+        "skills": "Mic Release > Dive EB Wrap 180 > <span class=\"pos-tag\">BW</span> 180 Turn > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross > Open > Cross <span class=\"pos-tag\">OS</span> > Cross",
         "notation": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), C, O, -C, C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 79",
         "toptip": "This is an auto-generated top tip for Challenge 79",
@@ -42892,12 +42892,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 80",
-        "skills": "Swing [b] > Arm Wrap > Swing > EB > EB Wrap > EB > Swing [b] > Arm Wrap > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Swing > EB > EB Wrap > EB > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open",
         "notation": "S, [S], [S), S, Ec, E[s], (Eo)[s), Ec, S, [S], [S), Tc, Ta, La, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 80",
         "toptip": "This is an auto-generated top tip for Challenge 80",
@@ -42925,7 +42925,7 @@
     },
     {
         "name": "Challenge 81",
-        "skills": "Leg Over > Leg Over Wrap > Leg Over Awesome Annie > Toad > Toad Swing > Toad > Swing [w] > EB > Open",
+        "skills": "Leg Over > Leg Over Wrap > Leg Over Awesome Annie > Toad > Toad Swing > Toad > Swing <span class=\"pos-tag\">W</span> > EB > Open",
         "notation": "Lo, [L]o, [Lc)s, La, Tc, Ts, Tc, S, Ec, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 81",
         "toptip": "This is an auto-generated top tip for Challenge 81",
@@ -42981,7 +42981,7 @@
     },
     {
         "name": "Challenge 83",
-        "skills": "Swing [b] > Arm Wrap > Swing > EB > EB Swing > Leg Over > Leg Over Wrap > Swing [b] > Cross > Toad > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Swing > EB > EB Swing > Leg Over > Leg Over Wrap > Swing <span class=\"pos-tag\">B</span> > Cross > Toad > Open",
         "notation": "S, [S], [S), S, Ec, Es, Lo, [L]o, (Lc)[s), S, C, Tc, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 83",
         "toptip": "This is an auto-generated top tip for Challenge 83",
@@ -43004,12 +43004,12 @@
         "cat5link": "/category?filter=body%20cross",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 84",
-        "skills": "Leg Over > Leg Over Wrap > Leg Over Awesome Annie > Toad > Toad Wrap > Toad Awesome Annie > Swing [b] > Arm Wrap > Cross",
+        "skills": "Leg Over > Leg Over Wrap > Leg Over Awesome Annie > Toad > Toad Wrap > Toad Awesome Annie > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross",
         "notation": "Lo, [L]o, [Lc)s, La, Tc, [T]c, [To)s, Ta, S, [S], [S), C,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 84",
         "toptip": "This is an auto-generated top tip for Challenge 84",
@@ -43037,7 +43037,7 @@
     },
     {
         "name": "Challenge 85",
-        "skills": "Swing [b] > Arm Wrap > Toad > Toad Wrap > Toad Awesome Annie > Swing [b] > Arm Wrap > Leg Over Swing > Leg Over Wrap > Leg Over Awesome Annie > Open",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Toad > Toad Wrap > Toad Awesome Annie > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Leg Over Swing > Leg Over Wrap > Leg Over Awesome Annie > Open",
         "notation": "S, [S], [S), Tc, [T]c, [To)s, Ta, S, [S], [S), Ls, [L]o, (Lc)[s), La, O,",
         "definition": "This is an auto-generated challenge description/definiton for Challenge 85",
         "toptip": "This is an auto-generated top tip for Challenge 85",
@@ -43060,7 +43060,7 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
@@ -43289,7 +43289,7 @@
     },
     {
         "name": "Challenge 94",
-        "skills": "Cross > Cross > Swing [w] > Swing [b] [ss] > Cross > Swing [w] > Swing [b] > Cross > Open",
+        "skills": "Cross > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Cross > Open",
         "notation": "C, C, S, -S, C, S, S, C, O, -C, S, O,",
         "definition": "Side Swing Challenge 8",
         "toptip": "This is an auto-generated top tip for Challenge 13",
@@ -43312,7 +43312,7 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
@@ -43345,7 +43345,7 @@
     },
     {
         "name": "Challenge 96",
-        "skills": "Swing > EB > Swing [b] > T-Toad > LT Swing > Leg Over > Leg Over Awesome Annie > Toad Swing > Elephant > Open",
+        "skills": "Swing > EB > Swing <span class=\"pos-tag\">B</span> > T-Toad > LT Swing > Leg Over > Leg Over Awesome Annie > Toad Swing > Elephant > Open",
         "notation": "S, Ec, S, T(c), Lt, Lo, La, Ts, Ti, O,",
         "definition": "Leg Cross Challenge 22",
         "toptip": "This is an auto-generated top tip for Challenge 45",
@@ -43368,12 +43368,12 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA"
     },
     {
         "name": "Challenge 97",
-        "skills": "Toad > Toad Awesome Annie Release > Leg Over [os] > Leg Over Awesome Annie > Swing > EB > Open",
+        "skills": "Toad > Toad Awesome Annie Release > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Swing > EB > Open",
         "notation": "Tc, Ta, M, -Lo, La, S, Ec, O,",
         "definition": "Mic Release Challenge 15",
         "toptip": "This is an auto-generated top tip for Challenge 53",
@@ -43401,7 +43401,7 @@
     },
     {
         "name": "Challenge 98",
-        "skills": "Cross > Leg Over > Toad [os] > Toad Awesome Annie Release",
+        "skills": "Cross > Leg Over > Toad <span class=\"pos-tag\">OS</span> > Toad Awesome Annie Release",
         "notation": "C, Lo, -Tc, Ta, M, O,",
         "definition": "Mic Release Challenge 16",
         "toptip": "This is an auto-generated top tip for Challenge 54",
@@ -43429,7 +43429,7 @@
     },
     {
         "name": "Challenge 99",
-        "skills": "Mic Release > Dive EB Wrap 180 > [bw] 180 Turn > Swing [b] > Arm Wrap > Swing > EB > EB Wrap > EB Swing 180 > [bw] Swing > [bw] Crossed Texan 180 > Cross",
+        "skills": "Mic Release > Dive EB Wrap 180 > <span class=\"pos-tag\">BW</span> 180 Turn > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Swing > EB > EB Wrap > EB Swing 180 > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Crossed Texan 180 > Cross",
         "notation": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), S, Ec, E[s], (Eo)[s), Es<, S, C{, C, O,",
         "definition": "Arm Wrap Challenge 8",
         "toptip": "This is an auto-generated top tip for Challenge 62",
