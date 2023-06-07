@@ -38480,7 +38480,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "EB to Toad",
@@ -38509,7 +38509,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "EB to Switch Toad",
@@ -38538,7 +38538,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "EB to Toad (via Swing)",
@@ -38567,7 +38567,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "EB to Toad (via Toad Swing)",
@@ -38596,7 +38596,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "EB to Inverse Toad",
@@ -38625,7 +38625,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "EB to Switch Inverse Toad",
@@ -39034,6 +39034,644 @@
         "uploaded": "NA"
     },
     {
+        "name": "TS to Cross",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, C,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Cross",
+        "toptip": "This is an auto-generated top tip for EB to Cross",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20cross",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Body Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to EB",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, S, Ec,",
+        "definition": "This is an auto-generated combo description/definiton for EB to EB (via Swing)",
+        "toptip": "This is an auto-generated top tip for EB to EB (via Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20eb%20(via%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Body Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to EB (via EB Swing)",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Es, Ec,",
+        "definition": "This is an auto-generated combo description/definiton for EB to EB (via EB Swing)",
+        "toptip": "This is an auto-generated top tip for EB to EB (via EB Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20eb%20(via%20eb%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Body Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to TS (via Open)",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Es, E,",
+        "definition": "This is an auto-generated combo description/definiton for EB to TS (via EB Swing)",
+        "toptip": "This is an auto-generated top tip for EB to TS (via EB Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20ts%20(via%20eb%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Body Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Switch TS",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Es, E,",
+        "definition": "This is an auto-generated combo description/definiton for EB to TS (via EB Swing)",
+        "toptip": "This is an auto-generated top tip for EB to TS (via EB Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20ts%20(via%20eb%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Body Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to TS (via EB Swing)",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Es, E,",
+        "definition": "This is an auto-generated combo description/definiton for EB to TS (via EB Swing)",
+        "toptip": "This is an auto-generated top tip for EB to TS (via EB Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20ts%20(via%20eb%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Body Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Leg Over",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Lo, C,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Leg Over",
+        "toptip": "This is an auto-generated top tip for EB to Leg Over",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20leg%20over",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to EB Leg Over",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Le, C,",
+        "definition": "This is an auto-generated combo description/definiton for EB to EB Leg Over",
+        "toptip": "This is an auto-generated top tip for EB to EB Leg Over",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20eb%20leg%20over",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Toad",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Tc,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Toad",
+        "toptip": "This is an auto-generated top tip for EB to Toad",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20toad",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Inverse Toad",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Ic,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Inverse Toad",
+        "toptip": "This is an auto-generated top tip for EB to Inverse Toad",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20inverse%20toad",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Elephant",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Ic,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Inverse Toad",
+        "toptip": "This is an auto-generated top tip for EB to Inverse Toad",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20inverse%20toad",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to T-Toad",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, T(c), S, C,",
+        "definition": "This is an auto-generated combo description/definiton for EB to T-Toad",
+        "toptip": "This is an auto-generated top tip for EB to T Toad",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20t-toad",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to T-Toad (via Swing)",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, S, T(c), S, C,",
+        "definition": "This is an auto-generated combo description/definiton for EB to T-Toad (via Swing)",
+        "toptip": "This is an auto-generated top tip for EB to T Toad (via Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20t-toad%20(via%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Inverse T-Toad",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, I(c), S, C,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Inverse T-Toad",
+        "toptip": "This is an auto-generated top tip for EB to Inverse T Toad",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20inverse%20t-toad",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Inverse T-Toad (via Swing)",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, S, I(c), S, C,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Inverse T-Toad (via Swing)",
+        "toptip": "This is an auto-generated top tip for EB to Inverse T Toad (via Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20inverse%20t-toad%20(via%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to EB Toad",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Et, O,",
+        "definition": "This is an auto-generated combo description/definiton for EB to EB Toad",
+        "toptip": "This is an auto-generated top tip for EB to EB Toad",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20eb%20toad",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to EB Toad (via EB Swing)",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Es, Et, O,",
+        "definition": "This is an auto-generated combo description/definiton for EB to EB Toad (via EB Swing)",
+        "toptip": "This is an auto-generated top tip for EB to EB Toad (via EB Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20eb%20toad%20(via%20eb%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Inverse EB Toad",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Ei, O,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Inverse EB Toad",
+        "toptip": "This is an auto-generated top tip for EB to Inverse EB Toad",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20inverse%20eb%20toad",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to Inverse EB Toad (via EB Swing)",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Es, Ei, O,",
+        "definition": "This is an auto-generated combo description/definiton for EB to Inverse EB Toad (via EB Swing)",
+        "toptip": "This is an auto-generated top tip for EB to Inverse EB Toad (via EB Swing)",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20inverse%20eb%20toad%20(via%20eb%20swing)",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Leg Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to AS",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Es, N,",
+        "definition": "This is an auto-generated combo description/definiton for EB to AS",
+        "toptip": "This is an auto-generated top tip for EB to AS",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20as",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Ground Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to AS Toad",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Tn, O,",
+        "definition": "This is an auto-generated combo description/definiton for EB to AS Toad",
+        "toptip": "This is an auto-generated top tip for EB to AS Toad",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20as%20toad",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Ground Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
+        "name": "TS to CL",
+        "skills": "To be confirmed",
+        "notation": "S, Ec, Es, En,",
+        "definition": "This is an auto-generated combo description/definiton for EB to CL",
+        "toptip": "This is an auto-generated top tip for EB to CL",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Combo",
+        "anchor": "NA",
+        "link": "/combo?filter=ts%20to%20cl",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "NA",
+        "cat2": "Ground Cross",
+        "cat2link": "NA",
+        "cat3": "NA",
+        "cat3link": "NA",
+        "cat4": "NA",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "NA",
+        "nickname": "NA",
+        "uploaded": "NA"
+    },
+    {
         "name": "Toad to Cross",
         "skills": "To be confirmed",
         "notation": "Tc, C,",
@@ -39089,7 +39727,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to TS",
@@ -39118,7 +39756,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to EB",
@@ -39147,7 +39785,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Dive EB",
@@ -39176,7 +39814,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Switch Toad (via Swing)",
@@ -39205,7 +39843,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Switch Toad",
@@ -39234,7 +39872,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Toad (via TL Swing)",
@@ -39263,7 +39901,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Neck Toad",
@@ -39292,7 +39930,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to EB Toad",
@@ -39321,7 +39959,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Inverse EB Toad",
@@ -39350,7 +39988,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Inverse Toad",
@@ -39379,7 +40017,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Switch Inverse Toad (via Swing)",
@@ -39408,7 +40046,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Switch Inverse Toad",
@@ -39437,7 +40075,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to T-Toad",
@@ -39466,7 +40104,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Switch T-Toad (via Swing)",
@@ -39495,7 +40133,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Toad to Switch T-Toad",
@@ -40075,7 +40713,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over to EB",
@@ -40104,7 +40742,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over to Dive EB",
@@ -40133,7 +40771,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over to Leg Over (via LT Swing)",
@@ -40162,7 +40800,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over to Leg Over (via LN Swing)",
@@ -40191,7 +40829,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over to Switch Leg Over (via Swing)",
@@ -40220,7 +40858,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over Switch Leg Over",
@@ -40249,7 +40887,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over Switch Toad",
@@ -40278,7 +40916,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over to EB Toad (via Swing)",
@@ -40307,7 +40945,7 @@
         "cat6link": "NA",
         "length": "NA",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Leg Over to EB Toad (via Toad Swing)",
@@ -42644,8 +43282,8 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
+        "cat2": "NA",
+        "cat2link": "NA",
         "cat3": "NA",
         "cat3link": "NA",
         "cat4": "NA",
@@ -42673,8 +43311,8 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
+        "cat2": "NA",
+        "cat2link": "NA",
         "cat3": "NA",
         "cat3link": "NA",
         "cat4": "NA",
@@ -42702,8 +43340,8 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
+        "cat2": "NA",
+        "cat2link": "NA",
         "cat3": "NA",
         "cat3link": "NA",
         "cat4": "NA",
@@ -42731,10 +43369,10 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
-        "cat3": "Switch Cross",
-        "cat3link": "/category?filter=switch%20cross",
+        "cat2": "Switch Cross",
+        "cat2link": "/category?filter=switch%20cross",
+        "cat3": "NA",
+        "cat3link": "NA",
         "cat4": "NA",
         "cat4link": "NA",
         "cat5": "NA",
@@ -42760,8 +43398,8 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
+        "cat2": "NA",
+        "cat2link": "NA",
         "cat3": "NA",
         "cat3link": "NA",
         "cat4": "NA",
@@ -42789,10 +43427,10 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
-        "cat3": "EB Swing",
-        "cat3link": "/category?filter=eb%20swing",
+        "cat2": "EB Swing",
+        "cat2link": "/category?filter=eb%20swing",
+        "cat3": "NA",
+        "cat3link": "NA",
         "cat4": "NA",
         "cat4link": "NA",
         "cat5": "NA",
@@ -42818,10 +43456,10 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
-        "cat3": "EB Swing",
-        "cat3link": "/category?filter=eb%20swing",
+        "cat2": "EB Swing",
+        "cat2link": "/category?filter=eb%20swing",
+        "cat3": "NA",
+        "cat3link": "NA",
         "cat4": "NA",
         "cat4link": "NA",
         "cat5": "NA",
@@ -42847,8 +43485,8 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
+        "cat2": "NA",
+        "cat2link": "NA",
         "cat3": "NA",
         "cat3link": "NA",
         "cat4": "NA",
@@ -42876,8 +43514,8 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
+        "cat2": "NA",
+        "cat2link": "NA",
         "cat3": "NA",
         "cat3link": "NA",
         "cat4": "NA",
@@ -42905,8 +43543,8 @@
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "/category?filter=body%20cross",
-        "cat2": "Body Cross",
-        "cat2link": "/category?filter=body%20cross",
+        "cat2": "EB Swing",
+        "cat2link": "/category?filter=eb%20swing",
         "cat3": "EB Swing",
         "cat3link": "/category?filter=eb%20swing",
         "cat4": "NA",
@@ -43700,7 +44338,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 56",
@@ -43729,7 +44367,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 57",
@@ -43758,7 +44396,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 58",
@@ -43787,7 +44425,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 59",
@@ -43816,7 +44454,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 60",
@@ -43845,7 +44483,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 61",
@@ -44454,7 +45092,7 @@
         "cat6link": "NA",
         "length": "Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 82",
@@ -44483,7 +45121,7 @@
         "cat6link": "NA",
         "length": "Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 83",
@@ -44512,7 +45150,7 @@
         "cat6link": "NA",
         "length": "Very Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 84",
@@ -44541,7 +45179,7 @@
         "cat6link": "NA",
         "length": "Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 85",
@@ -44570,7 +45208,7 @@
         "cat6link": "NA",
         "length": "Very Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 86",
@@ -44599,7 +45237,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 87",
@@ -44628,7 +45266,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 88",
@@ -44657,7 +45295,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 89",
@@ -44686,7 +45324,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 90",
@@ -44715,7 +45353,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 91",
@@ -44744,7 +45382,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 92",
@@ -44773,7 +45411,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 93",
@@ -44802,7 +45440,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 94",
@@ -44831,7 +45469,7 @@
         "cat6link": "NA",
         "length": "Very Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 95",
@@ -44860,7 +45498,7 @@
         "cat6link": "NA",
         "length": "Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 96",
@@ -44889,7 +45527,7 @@
         "cat6link": "NA",
         "length": "Very Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 97",
@@ -44918,7 +45556,7 @@
         "cat6link": "NA",
         "length": "Long",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 98",
@@ -44947,7 +45585,7 @@
         "cat6link": "NA",
         "length": "Short",
         "nickname": "NA",
-        "uploaded": "NA"
+        "uploaded": "2023-05-31T23:00:00.000Z"
     },
     {
         "name": "Challenge 99",
