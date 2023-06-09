@@ -4563,7 +4563,7 @@
         "type": "Skill",
         "anchor": "Toad",
         "link": "/skill?filter=toad",
-        "video": "https://player.vimeo.com/video/832944926?h=3d320b7851&badge=0&autopause=1&player_id=0&app_id=58479&quality=720p&mute=1",
+        "video": 832944926,
         "direction": "Forwards",
         "cat1": "Leg Cross",
         "cat1link": "/category?filter=leg%20cross",
