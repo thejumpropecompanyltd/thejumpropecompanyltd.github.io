@@ -11832,7 +11832,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Body Stall",
+        "name": "Backwards Body Stall",
         "skills": "To be confirmed",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Body Stall",
@@ -11861,7 +11861,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Open Stall",
+        "name": "Backwards Open Stall",
         "skills": "To be confirmed",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Open Stall",
@@ -11890,7 +11890,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Between the Legs Stall",
+        "name": "Backwards Between the Legs Stall",
         "skills": "To be confirmed",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Between-the-Legs Stall",
@@ -11919,7 +11919,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Side Swing Stall",
+        "name": "Backwards Side Swing Stall",
         "skills": "To be confirmed",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Side Swing Stall",
@@ -11948,7 +11948,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Kick Back",
+        "name": "Backwards Kick Back",
         "skills": "To be confirmed",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Kick Back",
@@ -11977,7 +11977,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Foot Catch Stall",
+        "name": "Backwards Foot Catch Stall",
         "skills": "To be confirmed",
         "notation": "TBC",
         "definition": "This is an auto-generated skill description/definiton for Foot Catch Stall",
@@ -13021,7 +13021,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> 180",
+        "name": "Backwards 180",
         "skills": "To be confirmed",
         "notation": "_O,> O,",
         "definition": "This is an auto-generated skill description/definiton for Backwards 180",
@@ -13050,7 +13050,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> 180 to Cross",
+        "name": "Backwards 180 to Cross",
         "skills": "To be confirmed",
         "notation": "_O,> C,",
         "definition": "This is an auto-generated skill description/definiton for Backwards 180 Cross",
@@ -13079,7 +13079,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> 180 to Switch Cross",
+        "name": "Backwards 180 to Switch Cross",
         "skills": "To be confirmed",
         "notation": "_O,> -C,",
         "definition": "This is an auto-generated skill description/definiton for Backwards 180 Switch Cross",
@@ -13108,7 +13108,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> 180 to Swing Cross",
+        "name": "Backwards 180 to Swing Cross",
         "skills": "To be confirmed",
         "notation": "_O,> S, C,",
         "definition": "This is an auto-generated skill description/definiton for Backwards 180 Swing Cross",
@@ -13137,7 +13137,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> 180 to EB",
+        "name": "Backwards 180 to EB",
         "skills": "To be confirmed",
         "notation": "_O,> Ec,",
         "definition": "This is an auto-generated skill description/definiton for Backwards 180 EB",
@@ -13166,7 +13166,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> 180 to Toad",
+        "name": "Backwards 180 to Toad",
         "skills": "To be confirmed",
         "notation": "_O,> Tc,",
         "definition": "This is an auto-generated skill description/definiton for Backwards 180 Toad",
@@ -13195,7 +13195,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> 180 to Switch Toad",
+        "name": "Backwards 180 to Switch Toad",
         "skills": "To be confirmed",
         "notation": "_O,> -Tc,",
         "definition": "This is an auto-generated skill description/definiton for Backwards 180 Switch Toad",
@@ -13224,7 +13224,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> 180 to Swing Toad",
+        "name": "Backwards 180 to Swing Toad",
         "skills": "To be confirmed",
         "notation": "_O,> S, Tc,",
         "definition": "This is an auto-generated skill description/definiton for Backwards 180 Swing Toad",
@@ -13253,7 +13253,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Texan 180",
+        "name": "Backwards Texan 180",
         "skills": "To be confirmed",
         "notation": "_O, O}, O,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Texan 180",
@@ -13282,7 +13282,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Texan 180 to Cross",
+        "name": "Backwards Texan 180 to Cross",
         "skills": "To be confirmed",
         "notation": "_O, O}, C,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Texan 180 Cross",
@@ -13311,7 +13311,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Texan 180 to Switch Cross",
+        "name": "Backwards Texan 180 to Switch Cross",
         "skills": "To be confirmed",
         "notation": "_O, O}, -C,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Texan 180 Switch Cross",
@@ -13340,7 +13340,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Texan 180 to Toad",
+        "name": "Backwards Texan 180 to Toad",
         "skills": "To be confirmed",
         "notation": "_O, O}, Tc,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Texan 180 Toad",
@@ -13369,7 +13369,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Texan 180 to Switch Toad",
+        "name": "Backwards Texan 180 to Switch Toad",
         "skills": "To be confirmed",
         "notation": "_O, O}, -Tc,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Texan 180 Switch Toad",
@@ -13398,7 +13398,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Texan 180 to EB",
+        "name": "Backwards Texan 180 to EB",
         "skills": "To be confirmed",
         "notation": "_O, O}, Ec,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Texan 180 EB",
@@ -13427,7 +13427,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Crossed Texan 180",
+        "name": "Backwards Crossed Texan 180",
         "skills": "To be confirmed",
         "notation": "_O, C}, O,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Crossed Texan 180",
@@ -13456,7 +13456,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Crossed Texan 180 to Cross",
+        "name": "Backwards Crossed Texan 180 to Cross",
         "skills": "To be confirmed",
         "notation": "_O, C}, C,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Crossed Texan 180 Cross",
@@ -13485,7 +13485,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "<span class=\"pos-tag\">BW</span> Crossed Texan 180 to Switch Cross",
+        "name": "Backwards Crossed Texan 180 to Switch Cross",
         "skills": "To be confirmed",
         "notation": "_O, C}, -C,",
         "definition": "This is an auto-generated skill description/definiton for Backwards Crossed Texan 180 Switch Cross",
