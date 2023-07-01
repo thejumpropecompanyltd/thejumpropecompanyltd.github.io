@@ -46104,5 +46104,33 @@
         "length": "Very Long",
         "nickname": "NA",
         "uploaded": "2023-05-31T23:00:00.000Z"
+    },
+    {
+        "name": "Challenge 106",
+        "skills": "Swing <span class=\"pos-tag\">B</span> > Toad > Swing > EB > Swing 180 > <span class=\"pos-tag\">BW</span> Toad > <span class=\"pos-tag\">BW</span> Open",
+        "notation": "S, Tc, S, Ec, S>, Tc, O,",
+        "definition": "NA",
+        "toptip": "NA",
+        "category": "NA",
+        "subcategory": "NA",
+        "type": "Challenge",
+        "anchor": "NA",
+        "link": "/challenge?filter=Challenge-106",
+        "video": "COMING SOON",
+        "direction": "Forwards",
+        "cat1": "Body Cross",
+        "cat1link": "/category?filter=body%20cross",
+        "cat2": "Leg Cross",
+        "cat2link": "/category?filter=leg%20cross",
+        "cat3link": "180 Turn",
+        "cat4": "/category?filter=180%20turn",
+        "cat4link": "NA",
+        "cat5": "NA",
+        "cat5link": "NA",
+        "cat6": "NA",
+        "cat6link": "NA",
+        "length": "Very Long",
+        "nickname": "NA",
+        "uploaded": "NA"
     }
 ]
