@@ -12,13 +12,13 @@
       "src": "https://static1.squarespace.com/static/6212ac0330781f309c68d77e/t/647f4161f3739e5c9f7e0ad5/1686061409828/TricktionaryPlus+Logo+192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any"
     },
     {
       "src": "https://static1.squarespace.com/static/6212ac0330781f309c68d77e/t/647f41a8f4e69431ee1cb1c7/1686061480434/TricktionaryPlus+Logo+512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any"
     }
   ]
 }
