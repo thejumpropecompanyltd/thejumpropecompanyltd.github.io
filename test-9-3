@@ -407,7 +407,7 @@
     },
     {
         "name": "Twister",
-        "skills": "> Twister > Twister <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Twister > Twister <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, B, O, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -436,7 +436,7 @@
     },
     {
         "name": "Twister (4 count)",
-        "skills": "> Twister > Twister <span class=\"pos-tag\">OS</span> > Twister <span class=\"pos-tag\">OS</span> > Twister <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Twister > Twister <span class=\"pos-tag\" id=\"OS\">OS</span> > Twister <span class=\"pos-tag\" id=\"OS\">OS</span> > Twister <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, B, A, B,",
         "definition": "NA",
         "toptip": "NA",
@@ -465,7 +465,7 @@
     },
     {
         "name": "Skier",
-        "skills": "> Skier > Skier <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Skier > Skier <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, B, O, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -494,7 +494,7 @@
     },
     {
         "name": "Skier (4 count)",
-        "skills": "> Skier > Skier <span class=\"pos-tag\">OS</span> > Skier <span class=\"pos-tag\">OS</span> > Skier <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Skier > Skier <span class=\"pos-tag\" id=\"OS\">OS</span> > Skier <span class=\"pos-tag\" id=\"OS\">OS</span> > Skier <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, B, A, B,",
         "definition": "NA",
         "toptip": "NA",
@@ -523,7 +523,7 @@
     },
     {
         "name": "Bell",
-        "skills": "> Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\">BW</span> >",
+        "skills": "> Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> >",
         "notation": "A, B, O, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -552,7 +552,7 @@
     },
     {
         "name": "Bell (4 count)",
-        "skills": "> Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\">BW</span> > Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\">BW</span> >",
+        "skills": "> Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> > Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> >",
         "notation": "A, B, A, B,",
         "definition": "NA",
         "toptip": "NA",
@@ -697,7 +697,7 @@
     },
     {
         "name": "Forward Straddle (alternating)",
-        "skills": "> Forward Straddle > Single Bounce > Forward Straddle > Single Bounce <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Forward Straddle > Single Bounce > Forward Straddle > Single Bounce <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, O, B, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -726,7 +726,7 @@
     },
     {
         "name": "Scissors",
-        "skills": "> Forward Straddle > Forward Straddle <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Forward Straddle > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, B, O, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -755,7 +755,7 @@
     },
     {
         "name": "Scissors (4 count)",
-        "skills": "> Forward Straddle > Forward Straddle <span class=\"pos-tag\">OS</span> > Forward Straddle <span class=\"pos-tag\">OS</span> > Forward Straddle <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Forward Straddle > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, B, A, B,",
         "definition": "NA",
         "toptip": "NA",
@@ -813,7 +813,7 @@
     },
     {
         "name": "X-Motion (4 count)",
-        "skills": "> Side Straddle > X-Motion > Side Straddle > X-Motion <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Side Straddle > X-Motion > Side Straddle > X-Motion <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, B, A, -B,",
         "definition": "NA",
         "toptip": "NA",
@@ -1364,7 +1364,7 @@
     },
     {
         "name": "Single Leg Jumps (2-2)",
-        "skills": "> Single Leg Jump > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump >",
+        "skills": "> Single Leg Jump > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump >",
         "notation": "R, R, L, L, R, R, L, L,",
         "definition": "NA",
         "toptip": "NA",
@@ -1393,7 +1393,7 @@
     },
     {
         "name": "Single Leg Jumps (1-2-1)",
-        "skills": "> Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Single Leg Jump > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "R, L, L, R, L, R, R, L,",
         "definition": "NA",
         "toptip": "NA",
@@ -1422,7 +1422,7 @@
     },
     {
         "name": "Alternating Step",
-        "skills": "> Single Leg Jump > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump <span class=\"pos-tag\">OS</span> > Single Leg Jump <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Single Leg Jump > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Leg Jump <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "R, L, R, L, R, L, R, L,",
         "definition": "NA",
         "toptip": "NA",
@@ -1451,7 +1451,7 @@
     },
     {
         "name": "Front Taps (both sides)",
-        "skills": "> Front Tap > Single Bounce > Front Tap <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Front Tap > Single Bounce > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "A, O, -A, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -1509,7 +1509,7 @@
     },
     {
         "name": "Front Taps (alternating double)",
-        "skills": "> Front Tap > Front Tap > Front Tap <span class=\"pos-tag\">OS</span> > Front Tap >",
+        "skills": "> Front Tap > Front Tap > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Front Tap >",
         "notation": "A, A, -A, A,",
         "definition": "NA",
         "toptip": "NA",
@@ -1538,7 +1538,7 @@
     },
     {
         "name": "Front Taps (alternating)",
-        "skills": "> Front Tap > Front Tap <span class=\"pos-tag\">OS</span> > Front Tap <span class=\"pos-tag\">OS</span> > Front Tap <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Front Tap > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, -A, -A, -A,",
         "definition": "NA",
         "toptip": "NA",
@@ -1567,7 +1567,7 @@
     },
     {
         "name": "Side Taps (both sides)",
-        "skills": "> Side Tap > Single Bounce > Side Tap <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Side Tap > Single Bounce > Side Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "A, O, -A, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -1625,7 +1625,7 @@
     },
     {
         "name": "Side Taps (alternating double)",
-        "skills": "> Side Tap > Side Tap > Side Tap <span class=\"pos-tag\">OS</span> > Side Tap >",
+        "skills": "> Side Tap > Side Tap > Side Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Side Tap >",
         "notation": "A, A, -A, A,",
         "definition": "NA",
         "toptip": "NA",
@@ -1654,7 +1654,7 @@
     },
     {
         "name": "Side Taps (alternating)",
-        "skills": "> Side Tap > Side Tap <span class=\"pos-tag\">OS</span> > Side Tap <span class=\"pos-tag\">OS</span> > Side Tap <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Side Tap > Side Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Side Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Side Tap <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, -A, -A, -A,",
         "definition": "NA",
         "toptip": "NA",
@@ -1683,7 +1683,7 @@
     },
     {
         "name": "Back Taps (both sides)",
-        "skills": "> Back Tap > Single Bounce > Back Tap <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Back Tap > Single Bounce > Back Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "A, O, -A, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -1741,7 +1741,7 @@
     },
     {
         "name": "Back Taps (alternating double)",
-        "skills": "> Back Tap > Back Tap > Back Tap <span class=\"pos-tag\">OS</span> > Back Tap >",
+        "skills": "> Back Tap > Back Tap > Back Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Back Tap >",
         "notation": "A, A, -A, A,",
         "definition": "NA",
         "toptip": "NA",
@@ -1770,7 +1770,7 @@
     },
     {
         "name": "Back Taps (alternating)",
-        "skills": "> Back Tap > Back Tap <span class=\"pos-tag\">OS</span> > Back Tap <span class=\"pos-tag\">OS</span> > Back Tap <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Back Tap > Back Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Back Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Back Tap <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, -A, -A, -A,",
         "definition": "NA",
         "toptip": "NA",
@@ -1799,7 +1799,7 @@
     },
     {
         "name": "Knee Raises (both sides)",
-        "skills": "> Knee Raise > Single Bounce > Knee Raise <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Knee Raise > Single Bounce > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "A, O, -A, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -1857,7 +1857,7 @@
     },
     {
         "name": "Knee Raises (alternating double)",
-        "skills": "> Knee Raise > Knee Raise > Knee Raise <span class=\"pos-tag\">OS</span> > Knee Raise >",
+        "skills": "> Knee Raise > Knee Raise > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Knee Raise >",
         "notation": "A, A, -A, A,",
         "definition": "NA",
         "toptip": "NA",
@@ -1886,7 +1886,7 @@
     },
     {
         "name": "Knee Raises (alternating)",
-        "skills": "> Knee Raise > Knee Raise <span class=\"pos-tag\">OS</span> > Knee Raise <span class=\"pos-tag\">OS</span> > Knee Raise <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Knee Raise > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, -A, -A, -A,",
         "definition": "NA",
         "toptip": "NA",
@@ -1915,7 +1915,7 @@
     },
     {
         "name": "Leg Raises (both sides)",
-        "skills": "> Leg Raise > Single Bounce > Leg Raise <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Leg Raise > Single Bounce > Leg Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "A, O, -A, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -2002,7 +2002,7 @@
     },
     {
         "name": "Butt Kicks (alternating double)",
-        "skills": "> Kick Back > Kick Back > Kick Back <span class=\"pos-tag\">OS</span> > Kick Back >",
+        "skills": "> Kick Back > Kick Back > Kick Back <span class=\"pos-tag\" id=\"OS\">OS</span> > Kick Back >",
         "notation": "A, A, -A, A,",
         "definition": "NA",
         "toptip": "NA",
@@ -2031,7 +2031,7 @@
     },
     {
         "name": "Butt Kicks (alternating)",
-        "skills": "> Kick Back > Kick Back <span class=\"pos-tag\">OS</span> > Kick Back <span class=\"pos-tag\">OS</span> > Kick Back <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Kick Back > Kick Back <span class=\"pos-tag\" id=\"OS\">OS</span> > Kick Back <span class=\"pos-tag\" id=\"OS\">OS</span> > Kick Back <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "A, -A, -A, -A,",
         "definition": "NA",
         "toptip": "NA",
@@ -2118,7 +2118,7 @@
     },
     {
         "name": "Front to Back (both sides)",
-        "skills": "> Front Tap > Back Tap > Front Tap <span class=\"pos-tag\">OS</span> > Back Tap >",
+        "skills": "> Front Tap > Back Tap > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Back Tap >",
         "notation": "A, B, -A, B,",
         "definition": "NA",
         "toptip": "NA",
@@ -2205,7 +2205,7 @@
     },
     {
         "name": "Back to Front (both sides)",
-        "skills": "> Back Tap > Single Bounce > Back Tap <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Back Tap > Single Bounce > Back Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "A, B, -A, B,",
         "definition": "NA",
         "toptip": "NA",
@@ -2379,7 +2379,7 @@
     },
     {
         "name": "Can Can (both sides)",
-        "skills": "> Knee Raise > Leg Raise > Knee Raise <span class=\"pos-tag\">OS</span> > Leg Raise >",
+        "skills": "> Knee Raise > Leg Raise > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Raise >",
         "notation": "A, B, A, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -2524,7 +2524,7 @@
     },
     {
         "name": "High Knee Side Straddle (both sides)",
-        "skills": "> Knee Raise > Side Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Side Straddle >",
+        "skills": "> Knee Raise > Side Straddle > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Side Straddle >",
         "notation": "A, B, -A, B,",
         "definition": "NA",
         "toptip": "NA",
@@ -2582,7 +2582,7 @@
     },
     {
         "name": "Running Man Shuffle",
-        "skills": "> Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">OS</span> > Forward Straddle >",
+        "skills": "> Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Forward Straddle >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -2611,7 +2611,7 @@
     },
     {
         "name": "Reverse Running Man Shuffle",
-        "skills": "> Knee Raise > Forward Straddle <span class=\"pos-tag\">OS</span> > Knee Raise > <span class=\"pos-tag\">OS</span> Forward Straddle >",
+        "skills": "> Knee Raise > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Knee Raise > <span class=\"pos-tag\" id=\"OS\">OS</span> Forward Straddle >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -2640,7 +2640,7 @@
     },
     {
         "name": "Front to Back Shuffle",
-        "skills": "> Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\">SS</span> > Forward Straddle <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Knee Raise > Forward Straddle > Knee Raise <span class=\"pos-tag\" id=\"SS\">SS</span> > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -2727,7 +2727,7 @@
     },
     {
         "name": "Wrist Swing (toe catch)",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Open (Toe Catch) >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open (Toe Catch) >",
         "notation": "S, O.",
         "definition": "NA",
         "toptip": "NA",
@@ -2785,7 +2785,7 @@
     },
     {
         "name": "Box Swing (toe catch)",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross (Toe Catch) >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross (Toe Catch) >",
         "notation": "S, C.",
         "definition": "NA",
         "toptip": "NA",
@@ -2814,7 +2814,7 @@
     },
     {
         "name": "Swing. Swing to Open (toe catch)",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open (Toe Catch) >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open (Toe Catch) >",
         "notation": "S, C.",
         "definition": "NA",
         "toptip": "NA",
@@ -2843,7 +2843,7 @@
     },
     {
         "name": "Swing. Swing to Cross (toe catch)",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Cross (Toe Catch) >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross (Toe Catch) >",
         "notation": "S, C.",
         "definition": "NA",
         "toptip": "NA",
@@ -3771,7 +3771,7 @@
     },
     {
         "name": "Tissue Box Release (toe catch)",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Mic Release > Open (Toe Catch) >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release > Open (Toe Catch) >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -3800,7 +3800,7 @@
     },
     {
         "name": "Tissue Box Release (toe catch) (double rotation)",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Mic Release > Open (Toe Catch) >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release > Open (Toe Catch) >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -3829,7 +3829,7 @@
     },
     {
         "name": "Wrist Swing Release (toe catch)",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Mic Release > Open (Toe Catch) >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Mic Release > Open (Toe Catch) >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -3858,7 +3858,7 @@
     },
     {
         "name": "Wrist Swing Release (toe catch) (double rotation)",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Mic Release > 2nd Rotation > Open (Toe Catch) >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Mic Release > 2nd Rotation > Open (Toe Catch) >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -4612,7 +4612,7 @@
     },
     {
         "name": "Leg Over (Swing Cross out)",
-        "skills": "> Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Lo, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -4641,7 +4641,7 @@
     },
     {
         "name": "Leg Over (Swing Open out)",
-        "skills": "> Leg Over > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Leg Over > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Lo, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -4728,7 +4728,7 @@
     },
     {
         "name": "Inverse Leg Over (Swing Cross out)",
-        "skills": "> Inverse Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Inverse Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Jo, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -6323,7 +6323,7 @@
     },
     {
         "name": "T-Toad",
-        "skills": "> T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -6352,7 +6352,7 @@
     },
     {
         "name": "T-Toad (Swing in)",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -6410,7 +6410,7 @@
     },
     {
         "name": "T-Toad to Open (Swing in)",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > T-Toad > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > T-Toad > Open >",
         "notation": "S, T(c), O,",
         "definition": "NA",
         "toptip": "NA",
@@ -6439,7 +6439,7 @@
     },
     {
         "name": "Inverse T-Toad",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -6468,7 +6468,7 @@
     },
     {
         "name": "Inverse T-Toad (No Swing in)",
-        "skills": "> Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -6787,7 +6787,7 @@
     },
     {
         "name": "T-Toad (consecutively)",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > T-Toad > T-Toad > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > T-Toad > T-Toad > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "T(c), T(c), T(c),",
         "definition": "NA",
         "toptip": "NA",
@@ -6816,7 +6816,7 @@
     },
     {
         "name": "Inverse T-Toad (consecutively)",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Inverse T-Toad > Inverse T-Toad > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse T-Toad > Inverse T-Toad > Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "I(c), I(c), I(c),",
         "definition": "NA",
         "toptip": "NA",
@@ -7135,7 +7135,7 @@
     },
     {
         "name": "Toad Gogo (Toad Wrist Swing in)",
-        "skills": "> Toad Swing <span class=\"pos-tag\">W</span> > Toad Gogo > Open >",
+        "skills": "> Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Gogo > Open >",
         "notation": "T(s), (To)o,",
         "definition": "NA",
         "toptip": "NA",
@@ -7280,7 +7280,7 @@
     },
     {
         "name": "Inverse Toad Gogo (Inverse Toad Wrist Swing in)",
-        "skills": "> Inverse Toad Swing <span class=\"pos-tag\">W</span> > Inverse Toad Gogo > Open >",
+        "skills": "> Inverse Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Gogo > Open >",
         "notation": "I(s), (Io)o,",
         "definition": "NA",
         "toptip": "NA",
@@ -8266,7 +8266,7 @@
     },
     {
         "name": "Inverse Toad Knot (Inverse Toad Wrist Swing in)",
-        "skills": "> Inverse Toad Swing <span class=\"pos-tag\">W</span> > Inverse Toad Knot >",
+        "skills": "> Inverse Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Knot >",
         "notation": "I(s), (I)c,",
         "definition": "NA",
         "toptip": "NA",
@@ -8788,7 +8788,7 @@
     },
     {
         "name": "Switch Cross",
-        "skills": "> Cross > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "C, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -9049,7 +9049,7 @@
     },
     {
         "name": "Wrist Swing",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9078,7 +9078,7 @@
     },
     {
         "name": "Box Swing",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9107,7 +9107,7 @@
     },
     {
         "name": "Swing, Swing to Open",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open >",
         "notation": "S, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9136,7 +9136,7 @@
     },
     {
         "name": "Swing, Swing to Cross",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross >",
         "notation": "S, -S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -9223,7 +9223,7 @@
     },
     {
         "name": "Toad Swing",
-        "skills": "> Toad Swing > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Ts, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9252,7 +9252,7 @@
     },
     {
         "name": "Toad Wrist Swing",
-        "skills": "> Toad Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "T(s), O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9281,7 +9281,7 @@
     },
     {
         "name": "Inverse Toad Swing",
-        "skills": "> Inverse Toad Swing > Swing <span class=\"pos-tag\">W</span> > Open  >",
+        "skills": "> Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open  >",
         "notation": "Is, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9310,7 +9310,7 @@
     },
     {
         "name": "Inverse Toad Wrist Swing",
-        "skills": "> Inverse Toad Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Inverse Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "I(s), O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9339,7 +9339,7 @@
     },
     {
         "name": "Leg Over Swing",
-        "skills": "> Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Ls, S, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9368,7 +9368,7 @@
     },
     {
         "name": "Leg Over Swing (Swing Cross out)",
-        "skills": "> Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Ls, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -9397,7 +9397,7 @@
     },
     {
         "name": "Inverse Leg Over Swing",
-        "skills": "> Inverse Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Js, S, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9426,7 +9426,7 @@
     },
     {
         "name": "Inverse Leg Over Swing (Swing Cross out)",
-        "skills": "> Inverse Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Js, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -9571,7 +9571,7 @@
     },
     {
         "name": "LT Wrist Swing",
-        "skills": "> LT Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> LT Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Lt, S, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9600,7 +9600,7 @@
     },
     {
         "name": "LT Wrist Swing (Swing Cross out)",
-        "skills": "> LT Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> LT Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Lt, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -9629,7 +9629,7 @@
     },
     {
         "name": "LT Box Swing",
-        "skills": "> LT Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> LT Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Lt, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -9803,7 +9803,7 @@
     },
     {
         "name": "Inverse Leg Over Awesome Annie",
-        "skills": "> Inverse Leg Over > Inverse Leg Over Awesome Annie > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Inverse Leg Over > Inverse Leg Over Awesome Annie > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Jo, Ja,",
         "definition": "NA",
         "toptip": "NA",
@@ -10209,7 +10209,7 @@
     },
     {
         "name": "Inverse Leg Over Awesome Annie (from Inverse Leg Over Gogo Swing)",
-        "skills": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Awesome Annie > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Awesome Annie > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Js, (Jc)s, Js, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -10325,7 +10325,7 @@
     },
     {
         "name": "Toad Gogo Swing",
-        "skills": "> Toad Swing > Toad Gogo Swing > Toad Swing > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Toad Swing > Toad Gogo Swing > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Ts, (To)s, Ts, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -10354,7 +10354,7 @@
     },
     {
         "name": "Inverse Toad Gogo Swing",
-        "skills": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Is, (Io)s, Is, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -10383,7 +10383,7 @@
     },
     {
         "name": "Leg Over Gogo Swing",
-        "skills": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Ls, (Lc)s, Ls, S, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -10412,7 +10412,7 @@
     },
     {
         "name": "Leg Over Gogo Swing (Swing Cross out)",
-        "skills": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Ls, (Lc)s, Ls, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -10441,7 +10441,7 @@
     },
     {
         "name": "Inverse Leg Over Gogo Swing",
-        "skills": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "Js, (Jc)s, Js, S, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -10470,7 +10470,7 @@
     },
     {
         "name": "Inverse Leg Over Gogo Swing (Swing Cross out)",
-        "skills": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Js, (Jo)s, Js, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -10586,7 +10586,7 @@
     },
     {
         "name": "Swing to Toad",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Toad > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Open >",
         "notation": "S, Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -10644,7 +10644,7 @@
     },
     {
         "name": "Swing to Inverse Toad",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Inverse Toad > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Toad > Open >",
         "notation": "S, Ic,",
         "definition": "NA",
         "toptip": "NA",
@@ -10702,7 +10702,7 @@
     },
     {
         "name": "Swing to Leg Over",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Leg Over > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over > Cross >",
         "notation": "S, Lo,",
         "definition": "NA",
         "toptip": "NA",
@@ -10731,7 +10731,7 @@
     },
     {
         "name": "Swing to Leg Over (opposite side)",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "S, -Lo,",
         "definition": "NA",
         "toptip": "NA",
@@ -10818,7 +10818,7 @@
     },
     {
         "name": "EB Leg Over Swing to Switch Toad",
-        "skills": "> Swing > EB Leg Over Swing > Toad <span class=\"pos-tag\">OS</span> > Open >",
+        "skills": "> Swing > EB Leg Over Swing > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> > Open >",
         "notation": "S, Le, -Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -10847,7 +10847,7 @@
     },
     {
         "name": "EB Leg Over Swing to T-Toad",
-        "skills": "> Swing > EB Leg Over Swing > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing > EB Leg Over Swing > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, Le, T(c),",
         "definition": "NA",
         "toptip": "NA",
@@ -10876,7 +10876,7 @@
     },
     {
         "name": "Swing to Elephant",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Elephant > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Elephant > Open >",
         "notation": "S, It,",
         "definition": "NA",
         "toptip": "NA",
@@ -11340,7 +11340,7 @@
     },
     {
         "name": "O.H. Toad Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Toad Swing > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> >",
+        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11369,7 +11369,7 @@
     },
     {
         "name": "O.H. Inverse Toad Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Inverse Toad Swing > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> >",
+        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11398,7 +11398,7 @@
     },
     {
         "name": "O.H. Leg Over Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> >",
+        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11427,7 +11427,7 @@
     },
     {
         "name": "O.H. Inverse Leg Over Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Inverse Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> >",
+        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11456,7 +11456,7 @@
     },
     {
         "name": "O.H. Toad Gogo Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Toad Swing > Toad Gogo Swing > Toad Swing > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span>  >",
+        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Swing > Toad Gogo Swing > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span>  >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11485,7 +11485,7 @@
     },
     {
         "name": "O.H. Inverse Toad Gogo Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span>  >",
+        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span>  >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11514,7 +11514,7 @@
     },
     {
         "name": "O.H. Leg Over Gogo Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> >",
+        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11543,7 +11543,7 @@
     },
     {
         "name": "O.H. Inverse Leg Over Gogo Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> >",
+        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11717,7 +11717,7 @@
     },
     {
         "name": "Open Stall",
-        "skills": "> Open > No-Contact Stall > Rope Reversal > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Open > No-Contact Stall > Rope Reversal > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11804,7 +11804,7 @@
     },
     {
         "name": "Kick Back Stall",
-        "skills": "> Open > Contact Stall (Foot) > Rope Reversal > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Open > Contact Stall (Foot) > Rope Reversal > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -15777,7 +15777,7 @@
     },
     {
         "name": "Crossed Texan Full Turn to Switch Cross",
-        "skills": "> Swing 180 > Cross Texan 180 > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing 180 > Cross Texan 180 > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S,> C}, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -15806,7 +15806,7 @@
     },
     {
         "name": "Texan 360",
-        "skills": "> Swing 180 > Open <span class=\"pos-tag\">BW</span> > Texan 180 > Open >",
+        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 > Open >",
         "notation": "S,> O, O}, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -15835,7 +15835,7 @@
     },
     {
         "name": "Texan 360 (on shoulders)",
-        "skills": "> Swing 180 > Open <span class=\"pos-tag\">BW</span> > Texan 180 > Open >",
+        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 > Open >",
         "notation": "S,> O, O}, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -15864,7 +15864,7 @@
     },
     {
         "name": "Texan 360 to Cross",
-        "skills": "> Swing 180 > Open <span class=\"pos-tag\">BW</span> > Texan 180 > Cross >",
+        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 > Cross >",
         "notation": "S,> O, O}, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -15951,7 +15951,7 @@
     },
     {
         "name": "Cross Texan 360",
-        "skills": "> Swing 180 > Cross <span class=\"pos-tag\">BW</span> > Texan 180 > Open >",
+        "skills": "> Swing 180 > Cross <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 > Open >",
         "notation": "S,> C, O}, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -15980,7 +15980,7 @@
     },
     {
         "name": "Cross Texan 360 to Cross",
-        "skills": "> Swing 180 > Cross <span class=\"pos-tag\">BW</span> > Texan 180 > Cross >",
+        "skills": "> Swing 180 > Cross <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 > Cross >",
         "notation": "S,> C, O}, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -16125,7 +16125,7 @@
     },
     {
         "name": "Texan Half Turn",
-        "skills": "> Swing 180 > Open <span class=\"pos-tag\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Open >",
+        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Open >",
         "notation": "S,> O, O{, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -16154,7 +16154,7 @@
     },
     {
         "name": "Texan Half Turn to Cross",
-        "skills": "> Swing 180 > Open <span class=\"pos-tag\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
+        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
         "notation": "S,> O, O{, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -16183,7 +16183,7 @@
     },
     {
         "name": "Cross Texan Half Turn",
-        "skills": "> Swing 180 > Cross <span class=\"pos-tag\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Open >",
+        "skills": "> Swing 180 > Cross <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Open >",
         "notation": "S,> C, O{, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -16212,7 +16212,7 @@
     },
     {
         "name": "Cross Texan Half Turn to Cross",
-        "skills": "> Swing 180 > Cross <span class=\"pos-tag\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
+        "skills": "> Swing 180 > Cross <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
         "notation": "S,> C, O{, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -30248,7 +30248,7 @@
     },
     {
         "name": "Cross to EB (via Wrist Swing)",
-        "skills": "> Cross > Swing <span class=\"pos-tag\">W</span> > EB >",
+        "skills": "> Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > EB >",
         "notation": "C, S, Ec,",
         "definition": "NA",
         "toptip": "NA",
@@ -30277,7 +30277,7 @@
     },
     {
         "name": "Cross to EB (via Box Swing)",
-        "skills": "> Cross > Swing <span class=\"pos-tag\">B</span> > EB >",
+        "skills": "> Cross > Swing <span class=\"pos-tag\" id=\"B\">B</span> > EB >",
         "notation": "C, -S, Ec,",
         "definition": "NA",
         "toptip": "NA",
@@ -30509,7 +30509,7 @@
     },
     {
         "name": "Cross to T-Toad",
-        "skills": "> Cross > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Cross > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "C, T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -30538,7 +30538,7 @@
     },
     {
         "name": "Cross to Inverse T-Toad",
-        "skills": "> Cross > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Cross > Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "C, I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -30654,7 +30654,7 @@
     },
     {
         "name": "Cross to Switch Dive EB",
-        "skills": "> Cross > Open > EB <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Cross > Open > EB <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "C, O, -Ec,",
         "definition": "NA",
         "toptip": "NA",
@@ -30683,7 +30683,7 @@
     },
     {
         "name": "Cross to Switch Toad",
-        "skills": "> Cross > Toad <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Cross > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "C, -Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -30712,7 +30712,7 @@
     },
     {
         "name": "Cross to Switch Inverse Toad",
-        "skills": "> Cross > Inverse Toad <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Cross > Inverse Toad <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "C, -Ic,",
         "definition": "NA",
         "toptip": "NA",
@@ -30741,7 +30741,7 @@
     },
     {
         "name": "Cross to Switch Leg Over",
-        "skills": "> Cross > Leg Over <span class=\"pos-tag\">OS</span> > Cross >",
+        "skills": "> Cross > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "C, -Lo, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -30770,7 +30770,7 @@
     },
     {
         "name": "Cross to Switch Inverse Leg Over",
-        "skills": "> Cross > Inverse Leg Over <span class=\"pos-tag\">OS</span> > Cross >",
+        "skills": "> Cross > Inverse Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "C, -Jo, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -30799,7 +30799,7 @@
     },
     {
         "name": "Cross to Switch Elephant",
-        "skills": "> Cross > Elephant <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Cross > Elephant <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "C, -It,",
         "definition": "NA",
         "toptip": "NA",
@@ -30828,7 +30828,7 @@
     },
     {
         "name": "Cross to Switch T-Toad",
-        "skills": "> Cross > T-Toad <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Cross > T-Toad <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "C, -T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -30857,7 +30857,7 @@
     },
     {
         "name": "Cross to Switch Inverse T-Toad",
-        "skills": "> Cross > Inverse T-Toad <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Cross > Inverse T-Toad <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "C, -I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -30886,7 +30886,7 @@
     },
     {
         "name": "Cross to Switch Caboose",
-        "skills": "> Cross > Pull-Through > Caboose <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Cross > Pull-Through > Caboose <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "C, Ø, -T,",
         "definition": "NA",
         "toptip": "NA",
@@ -30944,7 +30944,7 @@
     },
     {
         "name": "Cross to Box Swing Release",
-        "skills": "> Cross > Swing <span class=\"pos-tag\">B</span> > Mic Release > Open >",
+        "skills": "> Cross > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release > Open >",
         "notation": "C, S, M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -30973,7 +30973,7 @@
     },
     {
         "name": "Cross to Wrist Swing Release",
-        "skills": "> Cross > Swing <span class=\"pos-tag\">W</span> > Mic Release > Open >",
+        "skills": "> Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Mic Release > Open >",
         "notation": "C, (S), M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -31031,7 +31031,7 @@
     },
     {
         "name": "EB to Cross (via Swing)",
-        "skills": "> Swing > EB > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, Ec, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -31118,7 +31118,7 @@
     },
     {
         "name": "EB to Switch Cross",
-        "skills": "> Swing > EB > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing > EB > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, Ec, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -31147,7 +31147,7 @@
     },
     {
         "name": "EB to Switch Cross (via EB Swing)",
-        "skills": "> Swing > EB > EB Swing > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing > EB > EB Swing > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, Ec, Es, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -31321,7 +31321,7 @@
     },
     {
         "name": "EB to Switch Leg Over",
-        "skills": "> Swing > EB > Leg Over <span class=\"pos-tag\">OS</span> > Cross >",
+        "skills": "> Swing > EB > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "S, Ec, -Lo, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -31379,7 +31379,7 @@
     },
     {
         "name": "EB to Switch Toad",
-        "skills": "> Swing > EB > Toad <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing > EB > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, Ec, -Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -31408,7 +31408,7 @@
     },
     {
         "name": "EB to Toad (via Swing)",
-        "skills": "> Swing > EB > Swing <span class=\"pos-tag\">B</span> > Toad >",
+        "skills": "> Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad >",
         "notation": "S, Ec, S, Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -31495,7 +31495,7 @@
     },
     {
         "name": "EB to Switch Inverse Toad",
-        "skills": "> Swing > EB > Inverse Toad <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing > EB > Inverse Toad <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, Ec, -Ic,",
         "definition": "NA",
         "toptip": "NA",
@@ -31524,7 +31524,7 @@
     },
     {
         "name": "EB to Inverse Toad (via Swing)",
-        "skills": "> Swing > EB > Swing <span class=\"pos-tag\">B</span> > Inverse Toad >",
+        "skills": "> Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Toad >",
         "notation": "S, Ec, S, Ic,",
         "definition": "NA",
         "toptip": "NA",
@@ -31582,7 +31582,7 @@
     },
     {
         "name": "EB to T-Toad",
-        "skills": "> Swing > EB > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing > EB > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, Ec, T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -31611,7 +31611,7 @@
     },
     {
         "name": "EB to T-Toad (via Swing)",
-        "skills": "> Swing > EB > Swing <span class=\"pos-tag\">B</span> > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, Ec, S, T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -31640,7 +31640,7 @@
     },
     {
         "name": "EB to Inverse T-Toad",
-        "skills": "> Swing > EB > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing > EB > Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, Ec, I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -31669,7 +31669,7 @@
     },
     {
         "name": "EB to Inverse T-Toad (via Swing)",
-        "skills": "> Swing > EB > Swing <span class=\"pos-tag\">B</span> > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, Ec, S, I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -32017,7 +32017,7 @@
     },
     {
         "name": "TS to Switch TS",
-        "skills": "> Open > TS > TS <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Open > TS > TS <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, Ec, Es, E,",
         "definition": "NA",
         "toptip": "NA",
@@ -32191,7 +32191,7 @@
     },
     {
         "name": "TS to T-Toad",
-        "skills": "> Open > TS > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Open > TS > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, Ec, T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -32220,7 +32220,7 @@
     },
     {
         "name": "TS to Inverse T-Toad",
-        "skills": "> Open > TS > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Open > TS > Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, Ec, I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -41732,7 +41732,7 @@
     },
     {
         "name": "Mic Release to Switch Cross",
-        "skills": "> Mic Release > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Mic Release > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "[S], M, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -41761,7 +41761,7 @@
     },
     {
         "name": "Mic Release to Cross (Swing in)",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "[S], M, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -41935,7 +41935,7 @@
     },
     {
         "name": "Mic Release to Switch Toad",
-        "skills": "> Mic Release > Toad <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Mic Release > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "[S], M, -Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -41964,7 +41964,7 @@
     },
     {
         "name": "Mic Release to Toad (Swing in)",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\">B</span> > Toad >",
+        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad >",
         "notation": "[S], M, S, Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -42051,7 +42051,7 @@
     },
     {
         "name": "Mic Release to Switch Inverse Toad",
-        "skills": "> Mic Release > Inverse Toad <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Mic Release > Inverse Toad <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "[S], M, -Ic,",
         "definition": "NA",
         "toptip": "NA",
@@ -42080,7 +42080,7 @@
     },
     {
         "name": "Mic Release to Inverse Toad (Swing in)",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\">B</span> > Inverse Toad >",
+        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Toad >",
         "notation": "[S], M, S, Ic,",
         "definition": "NA",
         "toptip": "NA",
@@ -42167,7 +42167,7 @@
     },
     {
         "name": "Mic Release to Switch Leg Over",
-        "skills": "> Mic Release > Leg Over <span class=\"pos-tag\">OS</span> > Cross >",
+        "skills": "> Mic Release > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "[S], M, -Lo, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -42196,7 +42196,7 @@
     },
     {
         "name": "Mic Release to T-Toad",
-        "skills": "> Mic Release > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Mic Release > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "[S], M, T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -42225,7 +42225,7 @@
     },
     {
         "name": "Mic Release to T-Toad (Swing in)",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\">B</span> > T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "[S], M, S, T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -42254,7 +42254,7 @@
     },
     {
         "name": "Mic Release to Inverse T-Toad",
-        "skills": "> Mic Release > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Mic Release > Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "[S], M, I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -42283,7 +42283,7 @@
     },
     {
         "name": "Mic Release to Inverse T-Toad (Swing in)",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\">B</span> > Inverse T-Toad > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "[S], M, S, I(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -42544,7 +42544,7 @@
     },
     {
         "name": "Mic Release to Dive EB Wrap 180",
-        "skills": "> Mic Release > Open > EB Wrap > 180 Unwrap Swing > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Mic Release > Open > EB Wrap > 180 Unwrap Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "[S], M, O, E[s], >E[s), O,",
         "definition": "NA",
         "toptip": "NA",
@@ -43356,7 +43356,7 @@
     },
     {
         "name": "Challenge 2",
-        "skills": "> Forward Straddle > Single Bounce > Forward Straddle <span class=\"pos-tag\">OS</span> > Forward Straddle <span class=\"pos-tag\">OS</span> > Side Straddle > Forwards Straddle > Forward Straddle <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Forward Straddle > Single Bounce > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Side Straddle > Forwards Straddle > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "NA",
         "definition": "NA",
         "toptip": "NA",
@@ -43385,7 +43385,7 @@
     },
     {
         "name": "Challenge 3",
-        "skills": "> Twister > Single Bounce > Forward Straddle > Twister <span class=\"pos-tag\">OS</span> > Forward Straddle <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Twister > Single Bounce > Forward Straddle > Twister <span class=\"pos-tag\" id=\"OS\">OS</span> > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "NA",
         "definition": "NA",
         "toptip": "NA",
@@ -43414,7 +43414,7 @@
     },
     {
         "name": "Challenge 4",
-        "skills": "> Side Straddle > X-Motion > Side Straddle > Forward Straddle > Forward Straddle <span class=\"pos-tag\">OS</span> > Side Straddle > X-Motion > Single Bounce >",
+        "skills": "> Side Straddle > X-Motion > Side Straddle > Forward Straddle > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Side Straddle > X-Motion > Single Bounce >",
         "notation": "NA",
         "definition": "NA",
         "toptip": "NA",
@@ -43443,7 +43443,7 @@
     },
     {
         "name": "Challenge 5",
-        "skills": "> Skier > Single Bounce > Skier > Single Bounce > Side Straddle > Single Bounce > Skier <span class=\"pos-tag\">OS</span> > Skier <span class=\"pos-tag\">OS</span> > Single Bounce >",
+        "skills": "> Skier > Single Bounce > Skier > Single Bounce > Side Straddle > Single Bounce > Skier <span class=\"pos-tag\" id=\"OS\">OS</span> > Skier <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
         "notation": "NA",
         "definition": "NA",
         "toptip": "NA",
@@ -43472,7 +43472,7 @@
     },
     {
         "name": "Challenge 6",
-        "skills": "> Knee Raise > Single Bounce > Leg Raise > Single Bounce > Knee Raise <span class=\"pos-tag\">OS</span> > Single Bounce > Leg Raise > Single Bounce >",
+        "skills": "> Knee Raise > Single Bounce > Leg Raise > Single Bounce > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce > Leg Raise > Single Bounce >",
         "notation": "NA",
         "definition": "NA",
         "toptip": "NA",
@@ -43501,7 +43501,7 @@
     },
     {
         "name": "Challenge 7",
-        "skills": "> Knee Raise > Cross Over > Knee Raise > Single Bounce > Knee Raise <span class=\"pos-tag\">OS</span> > Cross Over > Front Tap > Side Tap > Single Bounce >",
+        "skills": "> Knee Raise > Cross Over > Knee Raise > Single Bounce > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross Over > Front Tap > Side Tap > Single Bounce >",
         "notation": "NA",
         "definition": "NA",
         "toptip": "NA",
@@ -43530,7 +43530,7 @@
     },
     {
         "name": "Challenge 8",
-        "skills": "> Knee Raise > Single Bounce > Side Tap > Single Bounce > Side Tap <span class=\"pos-tag\">OS</span> > Single Bounce > Knee Raise > Single Bounce >",
+        "skills": "> Knee Raise > Single Bounce > Side Tap > Single Bounce > Side Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce > Knee Raise > Single Bounce >",
         "notation": "NA",
         "definition": "NA",
         "toptip": "NA",
@@ -43617,7 +43617,7 @@
     },
     {
         "name": "Challenge 11",
-        "skills": "> Front Tap > Front Tap > Front Tap <span class=\"pos-tag\">OS</span> > Front Tap > Back Tap > Back Tap > Front Tap <span class=\"pos-tag\">OS</span> > Front Tap >",
+        "skills": "> Front Tap > Front Tap > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Front Tap > Back Tap > Back Tap > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Front Tap >",
         "notation": "NA",
         "definition": "NA",
         "toptip": "NA",
@@ -43675,7 +43675,7 @@
     },
     {
         "name": "Challenge 13",
-        "skills": "> Cross > Open > Cross <span class=\"pos-tag\">OS</span> > Open >",
+        "skills": "> Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Open >",
         "notation": "C, O, -C, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -43704,7 +43704,7 @@
     },
     {
         "name": "Challenge 14",
-        "skills": "> Cross > Cross > Cross <span class=\"pos-tag\">OS</span> > Cross >",
+        "skills": "> Cross > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "C, C, -C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -43733,7 +43733,7 @@
     },
     {
         "name": "Challenge 15",
-        "skills": "> Cross > Cross > Cross <span class=\"pos-tag\" id=\"oM1\">OS</span> > Cross >",
+        "skills": "> Cross > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "C, C, -C, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -43762,7 +43762,7 @@
     },
     {
         "name": "Challenge 16",
-        "skills": "> Cross > Open > Cross <span class=\"pos-tag\">OS</span> > Switch Cross >",
+        "skills": "> Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Switch Cross >",
         "notation": "C, O, -C, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -43791,7 +43791,7 @@
     },
     {
         "name": "Challenge 17",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "S, C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -43820,7 +43820,7 @@
     },
     {
         "name": "Challenge 18",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Open > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, O, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -43849,7 +43849,7 @@
     },
     {
         "name": "Challenge 19",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross >",
         "notation": "S, C, S, -S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -43878,7 +43878,7 @@
     },
     {
         "name": "Challenge 20",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, -S, C, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -43907,7 +43907,7 @@
     },
     {
         "name": "Challenge 21",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open > Cross > Swing <span class=\"pos-tag\">B</span> > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "S, S, O, C, S, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -43936,7 +43936,7 @@
     },
     {
         "name": "Challenge 22",
-        "skills": "> Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "C, S, S, C, S, -S, C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -43965,7 +43965,7 @@
     },
     {
         "name": "Challenge 23",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Open > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open > Swing <span class=\"pos-tag\">B</span> > Cross > Open > Cross <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "S, O, -S, O, S, C, O, -C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44023,7 +44023,7 @@
     },
     {
         "name": "Challenge 25",
-        "skills": "> Swing > EB > Swing > EB > EB Swing > Cross > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing > EB > Swing > EB > EB Swing > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, Ec, S, Ec, Es, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44110,7 +44110,7 @@
     },
     {
         "name": "Challenge 28",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Toad > Open > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Toad > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, C, Tc, O, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -44139,7 +44139,7 @@
     },
     {
         "name": "Challenge 29",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Open > Swing <span class=\"pos-tag\">B</span> > Toad > Open > Toad Swing > Toad > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Open > Toad Swing > Toad > Open >",
         "notation": "S, C, O, S, Tc, O, Ts, Tc, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44168,7 +44168,7 @@
     },
     {
         "name": "Challenge 30",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Toad > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Open >",
         "notation": "S, Tc, S, -S, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44197,7 +44197,7 @@
     },
     {
         "name": "Challenge 31",
-        "skills": "> Cross > Swing <span class=\"pos-tag\">B</span> > Cross > Toad > Toad Swing > Toad > Open >",
+        "skills": "> Cross > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Toad > Toad Swing > Toad > Open >",
         "notation": "C, S, C, Tc, Ts, Tc, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44226,7 +44226,7 @@
     },
     {
         "name": "Challenge 32",
-        "skills": "> Cross > Toad > Swing <span class=\"pos-tag\">W</span> > Open > Cross > Switch Toad > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Cross > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross > Switch Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "C, Tc, S, O, C, -Tc, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44255,7 +44255,7 @@
     },
     {
         "name": "Challenge 33",
-        "skills": "> Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross > Leg Over > Cross >",
+        "skills": "> Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Leg Over > Cross >",
         "notation": "Lo, S, C, Lo, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -44284,7 +44284,7 @@
     },
     {
         "name": "Challenge 34",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Swing > Leg Over > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open > Cross > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Swing > Leg Over > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open > Cross > Open >",
         "notation": "S, -Lo, Ls, Lo, -S, O, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44342,7 +44342,7 @@
     },
     {
         "name": "Challenge 36",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Toad > Swing <span class=\"pos-tag\">W</span> > Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "S, Tc, S, Lo, S, C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44371,7 +44371,7 @@
     },
     {
         "name": "Challenge 37",
-        "skills": "> Cross > Leg Over > Cross > Cross <span class=\"pos-tag\">OS</span> > Leg Over > Swing <span class=\"pos-tag\">B</span> > Cross > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Cross > Leg Over > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "C, Lo, C, -C, Lo, S, C, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -44400,7 +44400,7 @@
     },
     {
         "name": "Challenge 38",
-        "skills": "> Leg Over > Cross > Toad > Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Leg Over > Cross > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "Lo, C, Tc, S, -Lo, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -44458,7 +44458,7 @@
     },
     {
         "name": "Challenge 40",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Toad > Swing <span class=\"pos-tag\">W</span> > Open > Cross > Leg Over > Leg Over Awesome Annie > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross > Leg Over > Leg Over Awesome Annie > Open >",
         "notation": "S, -Lo, La, Tc, S, O, C, Lo, La, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44487,7 +44487,7 @@
     },
     {
         "name": "Challenge 41",
-        "skills": "> Toad Swing > Toad > Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Open > Cross >",
+        "skills": "> Toad Swing > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Open > Cross >",
         "notation": "Ts, Tc, S, -Lo, La, O, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -44574,7 +44574,7 @@
     },
     {
         "name": "Challenge 44",
-        "skills": "> Toad > Toad Awesome Annie > Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Toad Awesome Annie > Cross > Open >",
+        "skills": "> Toad > Toad Awesome Annie > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Toad Awesome Annie > Cross > Open >",
         "notation": "Tc, Ta, S, -Lo, La, Ta, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44661,7 +44661,7 @@
     },
     {
         "name": "Challenge 47",
-        "skills": "> Mic Release > Open > Cross > Open > Swing <span class=\"pos-tag\">B</span> > Cross > Mic Release > Open > Cross > Open >",
+        "skills": "> Mic Release > Open > Cross > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Mic Release > Open > Cross > Open >",
         "notation": "S, M, O, C, O, S, C, S, M, O, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44719,7 +44719,7 @@
     },
     {
         "name": "Challenge 49",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\">B</span> > Cross > Mic Release > Swing > EB > Swing <span class=\"pos-tag\">B</span> > Cross >",
+        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Mic Release > Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, M, S, C, S, M, S, Ec, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -44748,7 +44748,7 @@
     },
     {
         "name": "Challenge 50",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">OS</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Mic Release >",
+        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Mic Release >",
         "notation": "S, M, -S, C, S, -S, M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44777,7 +44777,7 @@
     },
     {
         "name": "Challenge 51",
-        "skills": "> Mic Release > Leg Over <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Cross > Open > Leg Over > Mic Release >",
+        "skills": "> Mic Release > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Leg Over > Mic Release >",
         "notation": "S, M, -Lo, S, C, O, Lo, S, M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44864,7 +44864,7 @@
     },
     {
         "name": "Challenge 54",
-        "skills": "> Cross > Open > Body Stall > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Body Stall > Cross > Open > Cross > Open >",
+        "skills": "> Cross > Open > Body Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Body Stall > Cross > Open > Cross > Open >",
         "notation": "C, O, O; O, O, C, ;O C, O, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44893,7 +44893,7 @@
     },
     {
         "name": "Challenge 55",
-        "skills": "> <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": ";O, S, C, S, O, -C, O, -C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44922,7 +44922,7 @@
     },
     {
         "name": "Challenge 56",
-        "skills": "> <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing <span class=\"pos-tag\">OS</span> > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Cross Stall > Cross > Swing <span class=\"pos-tag\">W</span> > Open > Cross <span class=\"pos-tag\">OS</span> > Swing Stall > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Stall > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": ";O, S, C, -S, C, C;; C, S, O, -C, S;; S, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44951,7 +44951,7 @@
     },
     {
         "name": "Challenge 57",
-        "skills": "> Swing <span class=\"pos-tag\">B</span>  > Cross > Swing <span class=\"pos-tag\">W</span> > Open > Cross > Open > Cross > Cross > Open > Body Stall > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span>  > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross > Open > Cross > Cross > Open > Body Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "S, C, S, O, C, O, C, C, O, ;O; O, C, C, O, C, O, S, C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -44980,7 +44980,7 @@
     },
     {
         "name": "Challenge 58",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Open > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Cross >  Open > Cross > Between the Legs Stall > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Swing <span class=\"pos-tag\">SS</span> > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >  Open > Cross > Between the Legs Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "S, C, O, C, S, -S, C, O, C, ;C; C, O, C, S, -S, C, O, C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45038,7 +45038,7 @@
     },
     {
         "name": "Challenge 60",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Open > Swing 180 <span class=\"pos-tag\">OS</span> > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "S, C, S, O, -S>, O, S, C, O",
         "definition": "NA",
         "toptip": "NA",
@@ -45067,7 +45067,7 @@
     },
     {
         "name": "Challenge 61",
-        "skills": "> Cross > Cross > Swing 180 > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Cross > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "C, C, S>, C, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45096,7 +45096,7 @@
     },
     {
         "name": "Challenge 62",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Wrist Pop Release > Swing 180 > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open  >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Wrist Pop Release > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open  >",
         "notation": "S, C, S, M, S>, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45125,7 +45125,7 @@
     },
     {
         "name": "Challenge 63",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Toad > Swing 180 > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Toad > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "S, C, Tc, S>, S, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45154,7 +45154,7 @@
     },
     {
         "name": "Challenge 64",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Swing <span class=\"pos-tag\">OS</span> > EB > Swing 180 > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > EB > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "S, C, S, Ec, S>, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45183,7 +45183,7 @@
     },
     {
         "name": "Challenge 65",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Cross > Swing 180 > <span class=\"pos-tag\">BW</span> Cross <span class=\"pos-tag\">OS</span> > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing 180 > Cross > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing 180 > Cross > Cross >",
         "notation": "S, C, C, S>, C, C, >S, C, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45212,7 +45212,7 @@
     },
     {
         "name": "Challenge 66",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Swing 180 <span class=\"pos-tag\">OS</span> > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> 180 Swing <span class=\"pos-tag\">OD</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Swing <span class=\"pos-tag\">OD</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "S, C, S>, O, O, <S, C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45241,7 +45241,7 @@
     },
     {
         "name": "Challenge 67",
-        "skills": "> <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> 180 Turn > Swing 180 > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Turn > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": ";S, C, >O, S>, O, C, O, ",
         "definition": "NA",
         "toptip": "NA",
@@ -45270,7 +45270,7 @@
     },
     {
         "name": "Challenge 68",
-        "skills": "> Swing 180 > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Texan 180 > Open > Cross > Open >",
+        "skills": "> Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 > Open > Cross > Open >",
         "notation": "S>, O, C, O} O, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45299,7 +45299,7 @@
     },
     {
         "name": "Challenge 69",
-        "skills": "> Swing 180 > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> 180 Swing > Cross > Swing 180 > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
+        "skills": "> Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Swing > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
         "notation": "S>, O,  >S, C, S>, O, O{ C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45328,7 +45328,7 @@
     },
     {
         "name": "Challenge 70",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross > Arm Wrap > Cross > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Cross > Arm Wrap > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, [S], [S), C, [S], [S), C, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45357,7 +45357,7 @@
     },
     {
         "name": "Challenge 71",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Toad > Toad Swing > Toad Arm Wrap > Toad > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Toad > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Toad > Toad Swing > Toad Arm Wrap > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Toad > Open >",
         "notation": "S, [S], [S), Tc, Ts, T[s], (To)[s), Tc, S, -S, C, Tc, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45386,7 +45386,7 @@
     },
     {
         "name": "Challenge 72",
-        "skills": "> Cross > Dive EB Wrap 180 > <span class=\"pos-tag\">BW</span> Texan 180 > Swing <span class=\"pos-tag\">B</span> > Cross > Leg Over <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross >",
+        "skills": "> Cross > Dive EB Wrap 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Cross >",
         "notation": "C, O, E[s], (Eo)[s)>, O, O}, Lo, S, [S], [S), C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45415,7 +45415,7 @@
     },
     {
         "name": "Challenge 73",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Swing <span class=\"pos-tag\">W</span> > Toad Swing <span class=\"pos-tag\">SS</span> > Toad Arm Wrap > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > Toad Arm Wrap > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
         "notation": "S, [S], [S), S, -Ts, T[s], (To)[s), Tc, Ta, La, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45444,7 +45444,7 @@
     },
     {
         "name": "Challenge 74",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Unwrap Swing > Cross > Mic Release > Toad Swing > Toad Arm Wrap > Unwrap Swing > Toad > Swing <span class=\"pos-tag\">W</span> > Open >",
+        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing > Cross > Mic Release > Toad Swing > Toad Arm Wrap > Unwrap Swing > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "S, M, S, [S], [S), C, S, M, Ts, T[s], (To)[s), Tc, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45473,7 +45473,7 @@
     },
     {
         "name": "Challenge 75",
-        "skills": "> Mic Release > Dive EB Wrap 180 > <span class=\"pos-tag\">BW</span> 180 Turn > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross > Open > Cross <span class=\"pos-tag\">OS</span> > Cross >",
+        "skills": "> Mic Release > Dive EB Wrap 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Turn > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), C, O, -C, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45502,7 +45502,7 @@
     },
     {
         "name": "Challenge 76",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Swing > EB > EB Wrap > EB > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Swing > EB > EB Wrap > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
         "notation": "S, [S], [S), S, Ec, E[s], (Eo)[s), Ec, S, [S], [S), Tc, Ta, La, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45531,7 +45531,7 @@
     },
     {
         "name": "Challenge 77",
-        "skills": "> Leg Over > Leg Over Wrap > Leg Over Awesome Annie > Toad > Toad Swing > Toad > Swing <span class=\"pos-tag\">W</span> > EB > Open >",
+        "skills": "> Leg Over > Leg Over Wrap > Leg Over Awesome Annie > Toad > Toad Swing > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > EB > Open >",
         "notation": "Lo, [L]o, [Lc)s, La, Tc, Ts, Tc, S, Ec, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45589,7 +45589,7 @@
     },
     {
         "name": "Challenge 79",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Swing > EB > EB Swing > Leg Over > Leg Over Wrap > Swing <span class=\"pos-tag\">B</span> > Cross > Toad > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Swing > EB > EB Swing > Leg Over > Leg Over Wrap > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Toad > Open >",
         "notation": "S, [S], [S), S, Ec, Es, Lo, [L]o, (Lc)[s), S, C, Tc, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45618,7 +45618,7 @@
     },
     {
         "name": "Challenge 80",
-        "skills": "> Leg Over > Leg Over Wrap > Leg Over Awesome Annie > Toad > Toad Wrap > Toad Awesome Annie > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Cross >",
+        "skills": "> Leg Over > Leg Over Wrap > Leg Over Awesome Annie > Toad > Toad Wrap > Toad Awesome Annie > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Cross >",
         "notation": "Lo, [L]o, [Lc)s, La, Tc, [T]c, [To)s, Ta, S, [S], [S), C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45647,7 +45647,7 @@
     },
     {
         "name": "Challenge 81",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Toad > Toad Wrap > Toad Awesome Annie > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Leg Over Swing > Leg Over Wrap > Leg Over Awesome Annie > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Toad > Toad Wrap > Toad Awesome Annie > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Leg Over Swing > Leg Over Wrap > Leg Over Awesome Annie > Open >",
         "notation": "S, [S], [S), Tc, [T]c, [To)s, Ta, S, [S], [S), Ls, [L]o, (Lc)[s), La, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45676,7 +45676,7 @@
     },
     {
         "name": "Challenge 82",
-        "skills": "> Cross > Open Open <span class=\"pos-tag\">DU</span> > Cross > Open Cross <span class=\"pos-tag\">DU</span> > Cross > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Cross > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "C, OO, C, OC, C, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45705,7 +45705,7 @@
     },
     {
         "name": "Challenge 83",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > Swing Cross <span class=\"pos-tag\">DU</span> > Swing  <span class=\"pos-tag\">OS</span> > Cross > Open Cross <span class=\"pos-tag\">DU</span> > Swing Cross <span class=\"pos-tag\">DU</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing  <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> >",
         "notation": "S, C, SC, -S, C, O-C, SC,",
         "definition": "NA",
         "toptip": "NA",
@@ -45734,7 +45734,7 @@
     },
     {
         "name": "Challenge 84",
-        "skills": "> Open Open <span class=\"pos-tag\">DU</span> > Cross > Open Cross <span class=\"pos-tag\">DU</span> > Cross > Open Open <span class=\"pos-tag\">DU</span> > Cross > Open Cross <span class=\"pos-tag\">DU</span> > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "OO, C, OC, C, OO, C, OC, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45763,7 +45763,7 @@
     },
     {
         "name": "Challenge 85",
-        "skills": "> Open Open <span class=\"pos-tag\">DU</span> > Swing <span class=\"pos-tag\">W</span> > Open Open <span class=\"pos-tag\">DU</span> > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open Open <span class=\"pos-tag\">DU</span> > Swing Open <span class=\"pos-tag\">DU</span> <span class=\"pos-tag\">OS</span> > Open Open <span class=\"pos-tag\">DU</span> > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open Open <span class=\"pos-tag\">DU</span> > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open Open <span class=\"pos-tag\">DU</span> >",
+        "skills": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
         "notation": "OO, S, OO, -S, OO, -SO, OO, -SO, OO, -S, OO, -S, OO,",
         "definition": "NA",
         "toptip": "NA",
@@ -45792,7 +45792,7 @@
     },
     {
         "name": "Challenge 86",
-        "skills": "> Open Open <span class=\"pos-tag\">DU</span> > Cross > Open Open <span class=\"pos-tag\">DU</span> > Toad > Open > Open Open <span class=\"pos-tag\">DU</span> > Open Cross <span class=\"pos-tag\">DU</span> > Toad > Open > Open Open <span class=\"pos-tag\">DU</span> >",
+        "skills": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Toad > Open > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Toad > Open > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
         "notation": "OO, C, OO, Tc, O, OO, OC, Tc, O, OO,",
         "definition": "NA",
         "toptip": "NA",
@@ -45821,7 +45821,7 @@
     },
     {
         "name": "Challenge 87",
-        "skills": "> Open Open <span class=\"pos-tag\">DU</span> > Swing Cross <span class=\"pos-tag\">DU</span> > Swing Open <span class=\"pos-tag\">DU</span> > Open Open <span class=\"pos-tag\">DU</span> > Swing Cross <span class=\"pos-tag\">DU</span> <span class=\"pos-tag\">OS</span> > Swing Open <span class=\"pos-tag\">DU</span> > Open Open <span class=\"pos-tag\">DU</span> >",
+        "skills": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
         "notation": "OO, SC, SO, OO, -SC, SO, OO,",
         "definition": "NA",
         "toptip": "NA",
@@ -45850,7 +45850,7 @@
     },
     {
         "name": "Challenge 88",
-        "skills": "> Open Open <span class=\"pos-tag\">DU</span> > Cross > Cross <span class=\"pos-tag\">OS</span> > Open Open <span class=\"pos-tag\">DU</span> > Cross > Cross <span class=\"pos-tag\">OS</span> > Open Open <span class=\"pos-tag\">DU</span> > Cross > Cross <span class=\"pos-tag\">OS</span> > Open Open <span class=\"pos-tag\">DU</span> >",
+        "skills": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
         "notation": "OO, C, -C, OO, C, -C, OO, C, -C, OO,",
         "definition": "NA",
         "toptip": "NA",
@@ -45879,7 +45879,7 @@
     },
     {
         "name": "Challenge 89",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Open > Swing Open <span class=\"pos-tag\">DU</span> > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open > Swing Open <span class=\"pos-tag\">DU</span> > Swing <span class=\"pos-tag\">W</span> <span class=\"pos-tag\">OS</span> > Open > Swing Open <span class=\"pos-tag\">DU</span> <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">W</span> > Open > Swing Open <span class=\"pos-tag\">DU</span> <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, O, SO, -S, O, SO, -S, O, -SO, S, O, -SO,",
         "definition": "NA",
         "toptip": "NA",
@@ -45908,7 +45908,7 @@
     },
     {
         "name": "Challenge 90",
-        "skills": "> Cross > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> <span class=\"pos-tag\">SS</span> > Cross > Swing <span class=\"pos-tag\">W</span> > Swing <span class=\"pos-tag\">B</span> > Cross > Open >",
+        "skills": "> Cross > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open >",
         "notation": "C, C, S, -S, C, S, S, C, O, -C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45966,7 +45966,7 @@
     },
     {
         "name": "Challenge 92",
-        "skills": "> Swing > EB > Swing <span class=\"pos-tag\">B</span> > T-Toad > LT Swing > Leg Over > Leg Over Awesome Annie > Toad Swing > Elephant > Open >",
+        "skills": "> Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > T-Toad > LT Swing > Leg Over > Leg Over Awesome Annie > Toad Swing > Elephant > Open >",
         "notation": "S, Ec, S, T(c), Lt, Lo, La, Ts, Ti, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45995,7 +45995,7 @@
     },
     {
         "name": "Challenge 93",
-        "skills": "> Toad > Toad Awesome Annie Release > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Swing > EB > Open >",
+        "skills": "> Toad > Toad Awesome Annie Release > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Swing > EB > Open >",
         "notation": "Tc, Ta, M, -Lo, La, S, Ec, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -46024,7 +46024,7 @@
     },
     {
         "name": "Challenge 94",
-        "skills": "> Cross > Leg Over > Toad <span class=\"pos-tag\">OS</span> > Toad Awesome Annie Release >",
+        "skills": "> Cross > Leg Over > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Awesome Annie Release >",
         "notation": "C, Lo, -Tc, Ta, M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -46053,7 +46053,7 @@
     },
     {
         "name": "Challenge 95",
-        "skills": "> Mic Release > Dive EB Wrap 180 > <span class=\"pos-tag\">BW</span> 180 Turn > Swing <span class=\"pos-tag\">B</span> > Arm Wrap > Swing > EB > EB Wrap > EB Swing 180 > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Crossed Texan 180 > Cross >",
+        "skills": "> Mic Release > Dive EB Wrap 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Turn > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Swing > EB > EB Wrap > EB Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Crossed Texan 180 > Cross >",
         "notation": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), S, Ec, E[s], (Eo)[s), Es<, S, C{, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -46082,7 +46082,7 @@
     },
     {
         "name": "Challenge 96",
-        "skills": "> Swing > EB Toad > EB Toad Awesome Annie > Cross > Cross <span class=\"pos-tag\">OS</span> > Swing > EB > EB Leg Over Swing > Cross >",
+        "skills": "> Swing > EB Toad > EB Toad Awesome Annie > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing > EB > EB Leg Over Swing > Cross >",
         "notation": "S, Et, Ta, C, -C, S, Ec, Le, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -46111,7 +46111,7 @@
     },
     {
         "name": "Challenge 97",
-        "skills": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Toad Awesome Annie > Cross > Cross <span class=\"pos-tag\">OS</span> >",
+        "skills": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Toad Awesome Annie > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "Lo, La, Ts, Tc, Ta, C, -C,",
         "definition": "NA",
         "toptip": "NA",
@@ -46140,7 +46140,7 @@
     },
     {
         "name": "Challenge 98",
-        "skills": "> <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing <span class=\"pos-tag\">OS</span> > <span class=\"pos-tag\">BW</span> Cross Stall > Toad > Toad Swing > Toad > Swing Stall > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Leg Over > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Stall > Toad > Toad Swing > Toad > Swing Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Leg Over > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": ";C, -S, C;; Tc, Ts, Tc, S;; S, Lo, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -46169,7 +46169,7 @@
     },
     {
         "name": "Challenge 99",
-        "skills": "> <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Body Stall > Leg Over > Leg Over Awesome Annie > Toad Swing > Toad > Toad Swing Stall > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Swing <span class=\"pos-tag\">OS</span> > <span class=\"pos-tag\">BW</span> Toad > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Body Stall > Leg Over > Leg Over Awesome Annie > Toad Swing > Toad > Toad Swing Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": ";O, C, C, ;O; Lo, La, Ts, Tc, Ts;; O, -S, Tc, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -46198,7 +46198,7 @@
     },
     {
         "name": "Challenge 100",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Cross > <span class=\"pos-tag\">OS</span> > EB > EB Stall > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Swing <span class=\"pos-tag\">SS</span> > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing <span class=\"pos-tag\">OS</span> > <span class=\"pos-tag\">BW</span> Cross Stall > Swing <span class=\"pos-tag\">SS</span> > EB > EB Swing > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > <span class=\"pos-tag\" id=\"OS\">OS</span> > EB > EB Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Stall > Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > EB > EB Swing > Cross >",
         "notation": "S, C, S, Ec, Ec;; S, -S, C, -S, C;; S, Ec, Es, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -46227,7 +46227,7 @@
     },
     {
         "name": "Challenge 101",
-        "skills": "> Swing <span class=\"pos-tag\">W</span> > Leg Over <span class=\"pos-tag\">OS</span> > Swing <span class=\"pos-tag\">B</span> > Cross > Swing 180 > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Toad > <span class=\"pos-tag\">BW</span> 180 Swing > Toad > Toad Awesome Annie > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Swing > Toad > Toad Awesome Annie > Cross >",
         "notation": "S, -Lo, S, C, S>, O, S, Tc, >S, Tc, Ta, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -46285,7 +46285,7 @@
     },
     {
         "name": "Challenge 103",
-        "skills": "> Cross > Open Open <span class=\"pos-tag\">DU</span> > Cross > Open Cross  <span class=\"pos-tag\">DU</span> > Cross Open  <span class=\"pos-tag\">DU</span> >",
+        "skills": "> Cross > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Cross  <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Open  <span class=\"pos-tag\" id=\"DU\">DU</span> >",
         "notation": "C, OO, C, OC, C, CO,",
         "definition": "NA",
         "toptip": "NA",
@@ -46314,7 +46314,7 @@
     },
     {
         "name": "Challenge 104",
-        "skills": "> Open Open <span class=\"pos-tag\">DU</span> > Swing Open <span class=\"pos-tag\">DU</span> > Open Open <span class=\"pos-tag\">DU</span> > Swing Cross <span class=\"pos-tag\">DU</span> > Open Open <span class=\"pos-tag\">DU</span> > Open Cross <span class=\"pos-tag\">DU</span> > Open Open <span class=\"pos-tag\">DU</span> > Cross Cross <span class=\"pos-tag\">DU</span> > Open Open <span class=\"pos-tag\">DU</span> > Cross Open <span class=\"pos-tag\">DU</span> > Open Open <span class=\"pos-tag\">DU</span> >",
+        "skills": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
         "notation": "OO, SO, OO, SC, OO, OC, OO, CC, OO, OC, OO,",
         "definition": "NA",
         "toptip": "NA",
@@ -46343,7 +46343,7 @@
     },
     {
         "name": "Challenge 105",
-        "skills": "> Open Open <span class=\"pos-tag\">DU</span> > Swing Cross <span class=\"pos-tag\">DU</span> > Swing Open <span class=\"pos-tag\">DU</span> > Open Cross <span class=\"pos-tag\">DU</span> > Cross Cross <span class=\"pos-tag\">DU</span> > Cross Open <span class=\"pos-tag\">DU</span> > Open Open <span class=\"pos-tag\">DU</span> >",
+        "skills": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
         "notation": "OO, SC, SO, OC, CC, CO, OO,",
         "definition": "NA",
         "toptip": "NA",
@@ -46372,7 +46372,7 @@
     },
     {
         "name": "Challenge 106",
-        "skills": "> Swing <span class=\"pos-tag\">B</span> > Toad > Swing > EB > Swing 180 > <span class=\"pos-tag\">BW</span> Toad > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Swing > EB > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": "S, Tc, S, Ec, S>, Tc, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -46401,7 +46401,7 @@
     },
     {
         "name": "Challenge 107",
-        "skills": "> <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Toad > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Swing > <span class=\"pos-tag\">BW</span> Open > <span class=\"pos-tag\">BW</span> Toad > <span class=\"pos-tag\">BW</span> Cross > <span class=\"pos-tag\">BW</span> Open >",
+        "skills": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
         "notation": ":O, S, Tc, C, S, O, Tc, C, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -46430,7 +46430,7 @@
     },
     {
         "name": "Challenge 108",
-        "skills": "> Mic Release > Leg Over > Leg Over Awesome Annie > Toad Awesome Annie Release > Leg Over <span class=\"pos-tag\">OS</span> > Leg Over Awesome Annie > Open >",
+        "skills": "> Mic Release > Leg Over > Leg Over Awesome Annie > Toad Awesome Annie Release > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Open >",
         "notation": "S, M, Lo, La, Ta, M, -Lo, La, O,",
         "definition": "NA",
         "toptip": "NA",
