@@ -46198,7 +46198,7 @@
     },
     {
         "name": "Challenge 100",
-        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > <span class=\"pos-tag\" id=\"OS\">OS</span> > EB > EB Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Stall > Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > EB > EB Swing > Cross >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > EB > EB Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Stall > Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > EB > EB Swing > Cross >",
         "notation": "S, C, S, Ec, Ec;; S, -S, C, -S, C;; S, Ec, Es, C,",
         "definition": "NA",
         "toptip": "NA",
