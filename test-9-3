@@ -523,7 +523,7 @@
     },
     {
         "name": "Bell",
-        "skills": "> Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> >",
+        "skills": "> Bell <span class=\"pos-tag\" id=\"FW\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> >",
         "notation": "A, B, O, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -552,7 +552,7 @@
     },
     {
         "name": "Bell (4 count)",
-        "skills": "> Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> > Bell <span class=\"pos-tag\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> >",
+        "skills": "> Bell <span class=\"pos-tag\" id=\"FW\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> > Bell <span class=\"pos-tag\" id=\"FW\">FW</span> > Bell <span class=\"pos-tag\" id=\"BW\">BW</span> >",
         "notation": "A, B, A, B,",
         "definition": "NA",
         "toptip": "NA",
@@ -16067,7 +16067,7 @@
     },
     {
         "name": "Texan Half Turn (3 count)",
-        "skills": "> Swing 180 > Texan 180 <span class=\"pos-tag\">OD</span> > Open >",
+        "skills": "> Swing 180 > Texan 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Open >",
         "notation": "S,> O}, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -16096,7 +16096,7 @@
     },
     {
         "name": "Dragon Roll",
-        "skills": "> Swing 180 > Texan 180 <span class=\"pos-tag\">OD</span> > Open >",
+        "skills": "> Swing 180 > Texan 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Open >",
         "notation": "S,> O}, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -16125,7 +16125,7 @@
     },
     {
         "name": "Texan Half Turn",
-        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Open >",
+        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Open >",
         "notation": "S,> O, O{, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -16154,7 +16154,7 @@
     },
     {
         "name": "Texan Half Turn to Cross",
-        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
+        "skills": "> Swing 180 > Open <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Cross >",
         "notation": "S,> O, O{, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -16183,7 +16183,7 @@
     },
     {
         "name": "Cross Texan Half Turn",
-        "skills": "> Swing 180 > Cross <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Open >",
+        "skills": "> Swing 180 > Cross <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Open >",
         "notation": "S,> C, O{, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -16212,7 +16212,7 @@
     },
     {
         "name": "Cross Texan Half Turn to Cross",
-        "skills": "> Swing 180 > Cross <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
+        "skills": "> Swing 180 > Cross <span class=\"pos-tag\" id=\"BW\">BW</span> > Texan 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Cross >",
         "notation": "S,> C, O{, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45212,7 +45212,7 @@
     },
     {
         "name": "Challenge 66",
-        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Swing <span class=\"pos-tag\">OD</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Swing <span class=\"pos-tag\" id=\"OD\">OD</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
         "notation": "S, C, S>, O, O, <S, C, S, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45299,7 +45299,7 @@
     },
     {
         "name": "Challenge 69",
-        "skills": "> Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Swing > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 <span class=\"pos-tag\">OD</span> > Cross >",
+        "skills": "> Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> 180 Swing > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Cross >",
         "notation": "S>, O,  >S, C, S>, O, O{ C,",
         "definition": "NA",
         "toptip": "NA",
