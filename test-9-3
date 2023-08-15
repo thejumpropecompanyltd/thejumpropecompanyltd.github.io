@@ -4243,7 +4243,7 @@
         "subcategory": "Body Crosses",
         "type": "Skill Variation",
         "anchor": "Cross",
-        "link": "/skill?filter=cross%20to%20cross%20(consecutively)",
+        "link": "/skill?filter=cross%20(consecutively)",
         "video": 832782502,
         "direction": "Forwards",
         "cat1": "Body Cross",
