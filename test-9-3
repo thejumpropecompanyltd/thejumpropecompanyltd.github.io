@@ -9194,7 +9194,7 @@
     },
     {
         "name": "Double Swing",
-        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, S,",
         "definition": "NA",
         "toptip": "NA",
@@ -31736,7 +31736,7 @@
         "type": "Combo",
         "anchor": "NA",
         "link": "/combo?filter=eb%20to%20t-toad",
-        "video": 833942463,
+        "video": 833942837,
         "direction": "Forwards",
         "cat1": "Body Cross",
         "cat1link": "NA",
