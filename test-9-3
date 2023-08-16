@@ -7338,7 +7338,7 @@
     },
     {
         "name": "Inverse Toad Gogo",
-        "skills": "> Inverse Toad > Inverse Toad Gogo > Open >",
+        "skills": "> Inverse Toad > Inverse Toad Gogo >",
         "notation": "Ic, (Io)o,",
         "definition": "NA",
         "toptip": "NA",
@@ -7367,7 +7367,7 @@
     },
     {
         "name": "Inverse Toad Gogo (Inverse Toad Wrist Swing in)",
-        "skills": "> Inverse Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Gogo > Open >",
+        "skills": "> Inverse Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Gogo >",
         "notation": "I(s), (Io)o,",
         "definition": "NA",
         "toptip": "NA",
@@ -7396,7 +7396,7 @@
     },
     {
         "name": "Inverse Toad Gogo (Inverse Toad Gogo Swing in)",
-        "skills": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo > Open >",
+        "skills": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo >",
         "notation": "Is, (Io)s, (Io)o,",
         "definition": "NA",
         "toptip": "NA",
@@ -7425,8 +7425,8 @@
     },
     {
         "name": "Inverse Toad Gogo (consecutively)",
-        "skills": "> Inverse Toad > Inverse Toad Gogo > Inverse Toad Gogo > Inverse Toad Gogo > Open >",
-        "notation": "(Io)o, (Io)o, (Io)o,",
+        "skills": "> Inverse Toad > Inverse Toad Gogo > Inverse Toad Gogo > Inverse Toad Gogo >",
+        "notation": "Ic, (Io)o, (Io)o, (Io)o,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Crosses",
@@ -9368,8 +9368,8 @@
     },
     {
         "name": "Toad Swing",
-        "skills": "> Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Ts, S, O,",
+        "skills": "> Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Ts, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9397,8 +9397,8 @@
     },
     {
         "name": "Toad Wrist Swing",
-        "skills": "> Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "T(s), O,",
+        "skills": "> Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "T(s),",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9426,8 +9426,8 @@
     },
     {
         "name": "Inverse Toad Swing",
-        "skills": "> Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open  >",
-        "notation": "Is, S, O,",
+        "skills": "> Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Is, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9455,8 +9455,8 @@
     },
     {
         "name": "Inverse Toad Wrist Swing",
-        "skills": "> Inverse Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "I(s), O,",
+        "skills": "> Inverse Toad Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "I(s),",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9484,8 +9484,8 @@
     },
     {
         "name": "Leg Over Swing",
-        "skills": "> Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Ls, S, S, O,",
+        "skills": "> Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Ls, S, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9542,8 +9542,8 @@
     },
     {
         "name": "Inverse Leg Over Swing",
-        "skills": "> Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Js, S, S, O,",
+        "skills": "> Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Js, S, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9658,7 +9658,7 @@
     },
     {
         "name": "AS Leg Over Swing",
-        "skills": "> Swing > AS Leg Over Swing > Open >",
+        "skills": "> Swing > AS Leg Over Swing > Cross >",
         "notation": "S, Ln, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -9716,8 +9716,8 @@
     },
     {
         "name": "LT Wrist Swing",
-        "skills": "> LT Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Lt, S, S, O,",
+        "skills": "> LT Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Lt, S, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9774,8 +9774,8 @@
     },
     {
         "name": "LT Box Swing",
-        "skills": "> LT Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Lt, S, O,",
+        "skills": "> LT Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Lt, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9832,8 +9832,8 @@
     },
     {
         "name": "LT Swing to Toad",
-        "skills": "> LT Swing <span class=\"pos-tag\">B</span > Toad > Open >",
-        "notation": "Lt, Tc, O,",
+        "skills": "> LT Swing <span class=\"pos-tag\">B</span > Toad >",
+        "notation": "Lt, Tc,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -9890,7 +9890,7 @@
     },
     {
         "name": "Leg Over Awesome Annie",
-        "skills": "> Leg Over > Leg Over Awesome Annie > Open >",
+        "skills": "> Leg Over > Leg Over Awesome Annie >",
         "notation": "Lo, La,",
         "definition": "NA",
         "toptip": "NA",
@@ -9949,7 +9949,7 @@
     {
         "name": "Inverse Leg Over Awesome Annie",
         "skills": "> Inverse Leg Over > Inverse Leg Over Awesome Annie > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
-        "notation": "Jo, Ja,",
+        "notation": "Jo, Ja, S, C,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10006,7 +10006,7 @@
     },
     {
         "name": "Toad Awesome Annie (consecutively)",
-        "skills": "> Toad > Elephant Awesome Annie > Leg Over Awesome Annie > Toad Awesome Annie >Cross >",
+        "skills": "> Toad > Elephant Awesome Annie > Leg Over Awesome Annie > Toad Awesome Annie > Cross >",
         "notation": "Tc, Ta, La, Ta, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -10035,8 +10035,8 @@
     },
     {
         "name": "Leg Over Awesome Annie (consecutively)",
-        "skills": "> Leg Over > Leg Over Awesome Annie > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
-        "notation": "Lo, La, Ta, La, O,",
+        "skills": "> Leg Over > Leg Over Awesome Annie > Toad Awesome Annie > Leg Over Awesome Annie >",
+        "notation": "Lo, La, Ta, La,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10238,8 +10238,8 @@
     },
     {
         "name": "EB Leg Over Awesome Annie",
-        "skills": "> Swing > EB Leg Over > Leg Over Awesome Annie > Open >",
-        "notation": "S, Le, La, O,",
+        "skills": "> Swing > EB Leg Over > Leg Over Awesome Annie >",
+        "notation": "S, Le, La,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10325,8 +10325,8 @@
     },
     {
         "name": "Leg Over Awesome Annie (from Leg Over Gogo Swing)",
-        "skills": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Awesome Annie > Open >",
-        "notation": "Ls, (Lc)s, La, O,",
+        "skills": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Awesome Annie >",
+        "notation": "Ls, (Lc)s, La,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10441,8 +10441,8 @@
     },
     {
         "name": "Leg Over Neck Awesome Annie",
-        "skills": "> Leg Over > Leg Over Neck Awesome Annie > Open >",
-        "notation": "Lo, Lr, O,",
+        "skills": "> Leg Over > Leg Over Neck Awesome Annie >",
+        "notation": "Lo, Lr,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10470,8 +10470,8 @@
     },
     {
         "name": "Toad Gogo Swing",
-        "skills": "> Toad Swing > Toad Gogo Swing > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Ts, (To)s, Ts, S, O,",
+        "skills": "> Toad Swing > Toad Gogo Swing > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Ts, (To)s, Ts, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10499,8 +10499,8 @@
     },
     {
         "name": "Inverse Toad Gogo Swing",
-        "skills": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Is, (Io)s, Is, S, O,",
+        "skills": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Is, (Io)s, Is, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10528,8 +10528,8 @@
     },
     {
         "name": "Leg Over Gogo Swing",
-        "skills": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Ls, (Lc)s, Ls, S, S, O,",
+        "skills": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Ls, (Lc)s, Ls, S, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10586,8 +10586,8 @@
     },
     {
         "name": "Inverse Leg Over Gogo Swing",
-        "skills": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
-        "notation": "Js, (Jc)s, Js, S, S, O,",
+        "skills": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "notation": "Js, (Jc)s, Js, S, S,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10644,8 +10644,8 @@
     },
     {
         "name": "EB Gogo Swing",
-        "skills": "> Swing > EB Swing > EB Gogo Swing > EB Swing > Open >",
-        "notation": "S, Es, (Eo)s, Es, O,",
+        "skills": "> Swing > EB Swing > EB Gogo Swing > EB Swing >",
+        "notation": "S, Es, (Eo)s, Es,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10673,7 +10673,7 @@
     },
     {
         "name": "EB Swing to TS",
-        "skills": "> Swing > EB Swing > TS > Open >",
+        "skills": "> Swing > EB Swing > TS >",
         "notation": "S, Es, E,",
         "definition": "NA",
         "toptip": "NA",
@@ -10702,7 +10702,7 @@
     },
     {
         "name": "EB Swing to TS (Open in)",
-        "skills": "> Open > EB Swing > TS > Open >",
+        "skills": "> Open > EB Swing > TS >",
         "notation": "O, Es, E,",
         "definition": "NA",
         "toptip": "NA",
@@ -10760,8 +10760,8 @@
     },
     {
         "name": "Toad Swing to Toad",
-        "skills": "> Toad Swing > Toad > Open >",
-        "notation": "Ts, Tc, O,",
+        "skills": "> Toad Swing > Toad >",
+        "notation": "Ts, Tc,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10848,7 +10848,7 @@
     {
         "name": "Swing to Leg Over",
         "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over > Cross >",
-        "notation": "S, Lo,",
+        "notation": "S, Lo, C,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10877,7 +10877,7 @@
     {
         "name": "Swing to Leg Over (opposite side)",
         "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
-        "notation": "S, -Lo,",
+        "notation": "S, -Lo, C,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10906,7 +10906,7 @@
     {
         "name": "Leg Over Swing to Leg Over",
         "skills": "> Leg Over Swing > Leg Over > Cross >",
-        "notation": "Ls, Lo,",
+        "notation": "Ls, Lo, C,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -10963,7 +10963,7 @@
     },
     {
         "name": "EB Leg Over Swing to Switch Toad",
-        "skills": "> Swing > EB Leg Over Swing > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> > Open >",
+        "skills": "> Swing > EB Leg Over Swing > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> >",
         "notation": "S, Le, -Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -10993,7 +10993,7 @@
     {
         "name": "EB Leg Over Swing to T-Toad",
         "skills": "> Swing > EB Leg Over Swing > T-Toad > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
-        "notation": "S, Le, T(c),",
+        "notation": "S, Le, T(c), S, C,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Swings",
@@ -11021,7 +11021,7 @@
     },
     {
         "name": "Swing to Elephant",
-        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Elephant > Open >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Elephant >",
         "notation": "S, It,",
         "definition": "NA",
         "toptip": "NA",
@@ -11050,7 +11050,7 @@
     },
     {
         "name": "Toad Swing to Elephant",
-        "skills": "> Toad Swing > Elephant > Open >",
+        "skills": "> Toad Swing > Elephant >",
         "notation": "Ts, Ti,",
         "definition": "NA",
         "toptip": "NA",
@@ -11079,7 +11079,7 @@
     },
     {
         "name": "Inverse Toad Swing to Elephant",
-        "skills": "> Inverse Toad Swing > Elephant > Open >",
+        "skills": "> Inverse Toad Swing > Elephant >",
         "notation": "Is, It,",
         "definition": "NA",
         "toptip": "NA",
@@ -11108,7 +11108,7 @@
     },
     {
         "name": "Toad Gogo EB Swing to Toad",
-        "skills": "To be confirmed",
+        "skills": "> Toad Swing > Toad Gogo EB Swing > Toad >",
         "notation": "Ts, (To)e, Tc,",
         "definition": "NA",
         "toptip": "NA",
@@ -11137,7 +11137,7 @@
     },
     {
         "name": "Toad Gogo EB Swing to Elephant",
-        "skills": "To be confirmed",
+        "skills": "> Toad Swing > Toad Gogo EB Swing > Elephant >",
         "notation": "Ts, (To)e, Ti,",
         "definition": "NA",
         "toptip": "NA",
@@ -11166,7 +11166,7 @@
     },
     {
         "name": "Inverse Toad Gogo EB Swing to Inverse Toad",
-        "skills": "> Inverse Toad Swing > Inverse Toad Gogo EB Swing > Inverse Toad > Open >",
+        "skills": "> Inverse Toad Swing > Inverse Toad Gogo EB Swing > Inverse Toad >",
         "notation": "Is, (Io)e, Ic,",
         "definition": "NA",
         "toptip": "NA",
@@ -11195,7 +11195,7 @@
     },
     {
         "name": "Inverse Toad Gogo EB Swing to Elephant",
-        "skills": "> Inverse Toad Swing > Inverse Toad Gogo EB Swing > Elephant > Open >",
+        "skills": "> Inverse Toad Swing > Inverse Toad Gogo EB Swing > Elephant >",
         "notation": "Is, (Io)e, It,",
         "definition": "NA",
         "toptip": "NA",
@@ -11224,7 +11224,7 @@
     },
     {
         "name": "AS Swing to AS (Swing in)",
-        "skills": "To be confirmed",
+        "skills": "> Swing > AS Swing > AS >",
         "notation": "S, Ns, N,",
         "definition": "NA",
         "toptip": "NA",
@@ -11253,7 +11253,7 @@
     },
     {
         "name": "AS Swing to AS (Open in)",
-        "skills": "To be confirmed",
+        "skills": "> Open > AS Swing > AS >",
         "notation": "O, Ns, N,",
         "definition": "NA",
         "toptip": "NA",
@@ -11282,7 +11282,7 @@
     },
     {
         "name": "EB Swing to CL (Swing in)",
-        "skills": "To be confirmed",
+        "skills": "> Swing > EB Swing > CL >",
         "notation": "S, Es, En,",
         "definition": "NA",
         "toptip": "NA",
@@ -11311,7 +11311,7 @@
     },
     {
         "name": "EB Swing to CL (Open in)",
-        "skills": "To be confirmed",
+        "skills": "> Open > EB Swing > CL >",
         "notation": "O, Es, En,",
         "definition": "NA",
         "toptip": "NA",
@@ -11340,7 +11340,7 @@
     },
     {
         "name": "AS Swing to CL (Swing in)",
-        "skills": "To be confirmed",
+        "skills": "> Swing > AS Swing > CL >",
         "notation": "S, Ns, En,",
         "definition": "NA",
         "toptip": "NA",
@@ -11369,7 +11369,7 @@
     },
     {
         "name": "AS Swing to CL (Open in)",
-        "skills": "To be confirmed",
+        "skills": "> Open > AS Swing > CL >",
         "notation": "O, Ns, En,",
         "definition": "NA",
         "toptip": "NA",
@@ -11398,7 +11398,7 @@
     },
     {
         "name": "Swing to Caboose",
-        "skills": "To be confirmed",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Pull-Through > Caboose >",
         "notation": "S, Ø, T,",
         "definition": "NA",
         "toptip": "NA",
@@ -11427,7 +11427,7 @@
     },
     {
         "name": "Toad Swing to Caboose",
-        "skills": "To be confirmed",
+        "skills": "> Toad Swing <span class=\"pos-tag\" id=\"B\">B</span> > Pull-Through > Caboose >",
         "notation": "Ts, Tø, T,",
         "definition": "NA",
         "toptip": "NA",
@@ -11456,7 +11456,7 @@
     },
     {
         "name": "LT Swing to Caboose",
-        "skills": "To be confirmed",
+        "skills": "> LT Swing <span class=\"pos-tag\" id=\"B\">B</span> > Pull-Through > Caboose >",
         "notation": "Lt, Tø, T,",
         "definition": "NA",
         "toptip": "NA",
@@ -11485,7 +11485,7 @@
     },
     {
         "name": "O.H. Toad Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11514,7 +11514,7 @@
     },
     {
         "name": "O.H. Inverse Toad Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11543,7 +11543,7 @@
     },
     {
         "name": "O.H. Leg Over Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11572,7 +11572,7 @@
     },
     {
         "name": "O.H. Inverse Leg Over Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11601,7 +11601,7 @@
     },
     {
         "name": "O.H. Toad Gogo Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Swing > Toad Gogo Swing > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span>  >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Swing > Toad Gogo Swing > Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span>  >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11630,7 +11630,7 @@
     },
     {
         "name": "O.H. Inverse Toad Gogo Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span>  >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span>  >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11659,7 +11659,7 @@
     },
     {
         "name": "O.H. Leg Over Gogo Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
@@ -11688,7 +11688,7 @@
     },
     {
         "name": "O.H. Inverse Leg Over Gogo Swing",
-        "skills": "> (All one-handed) > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> >",
         "notation": "TBC",
         "definition": "NA",
         "toptip": "NA",
