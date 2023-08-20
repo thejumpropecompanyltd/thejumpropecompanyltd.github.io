@@ -2669,8 +2669,8 @@
     },
     {
         "name": "Heel Tap Shuffle",
-        "skills": "To be confirmed",
-        "notation": "TBC",
+        "skills": "> Front Tap > Knee Raise > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Knee Raise >",
+        "notation": "A, B, -A, B,",
         "definition": "NA",
         "toptip": "NA",
         "category": "Footwork",
