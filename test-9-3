@@ -22067,7 +22067,7 @@
     },
     {
         "name": "Wrist Pop Release",
-        "skills": "To be confirmed",
+        "skills": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open >",
         "notation": "[S], M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -22096,7 +22096,7 @@
     },
     {
         "name": "Wrist Pop Release (double rotation)",
-        "skills": "To be confirmed",
+        "skills": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> <span class=\"pos-tag\" id=\"DR\">DR</span> > Open >",
         "notation": "[S], M, M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -22125,7 +22125,7 @@
     },
     {
         "name": "Box Swing Release",
-        "skills": "To be confirmed",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release > Open >",
         "notation": "S, M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -22154,7 +22154,7 @@
     },
     {
         "name": "Box Swing Release (double rotation)",
-        "skills": "To be confirmed",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release <span class=\"pos-tag\" id=\"DR\">DR</span> > Open >",
         "notation": "S, M, M, O,",
         "definition": "NA",
         "toptip": "NA",
