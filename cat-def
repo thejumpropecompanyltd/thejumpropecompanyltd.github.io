@@ -2,7 +2,7 @@
     {
         "category": "Footwork",
         "subcategory": "Main",
-        "definition": "Footwork is any type of lower body movement which is independent from the jumper’s rope manipulation. Footwork is very good for beginners, as it helps build up your coordination and timing. On top of that, footwork such as the <a class=\"cat-def-link\" href=\"skill?filter=knee%20raise\">Knee Raise</a> forms the basis of <a class=\"cat-def-link\" href=\"/category?filter=leg%20cross\">leg crosses</a>. They include...",
+        "definition": "Footwork is any type of lower body movement which is independent from the jumper’s rope manipulation. Footwork is very good for beginners, as it helps build up your coordination and timing. On top of that, footwork such as the <a class=\"cat-def-link\" href=\"skill?filter=knee%20raise\">Knee Raise</a> forms the basis of <a class=\"cat-def-link\" href=\"/category?filter=leg%20cross\">leg crosses</a>.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -38,7 +38,7 @@
     {
         "category": "Crosses",
         "subcategory": "Main",
-        "definition": "Crosses are skills where the jumper reaches across their body and jumps through the loop of the rope. They form the backbone of jump rope, allowing jumper’s to fully explore their creavity due to how many possible ways you can cross your arms. They include…",
+        "definition": "Crosses are skills where the jumper reaches across their body and jumps through the loop of the rope. They form the backbone of jump rope, allowing jumper’s to fully explore their creavity due to how many possible ways you can cross your arms.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -127,7 +127,7 @@
     {
         "category": "Swings",
         "subcategory": "Main",
-        "definition": "Side swings are skills where both of the jumper’s hands are on the same side of their body, resulting in the loop of the swings beside their body. Swings are the connective tissue which binds all other skills types together by allowing jumpers to transition between or nest skills. They are great for beginners to start out with since they don’t involve any jumping and really help with building an understanding of how the rope can move around your body in different ways. They include...",
+        "definition": "Side swings are skills where both of the jumper’s hands are on the same side of their body, resulting in the loop of the swings beside their body. Swings are the connective tissue which binds all other skills types together by allowing jumpers to transition between or nest skills. They are great for beginners to start out with since they don’t involve any jumping and really help with building an understanding of how the rope can move around your body in different ways.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -188,23 +188,23 @@
         "prerequisites": "Foundational Swings, Leg Swings"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Main",
-        "definition": "Direction change are skils where the jump transitions from jumping forwards to backwards, or vice versa. There are basic two ways to change direction; a jumper can turn their body whilst the rope continues moving in the same direction uninterrupted or they can also bring the rope to a complete stop by stalling it, then reverse its direction.\n\nThey include…",
+        "definition": "Direction change are skils where the jump transitions from jumping forwards to backwards, or vice versa. There are basic two ways to change direction; a jumper can turn their body whilst the rope continues moving in the same direction uninterrupted or they can also bring the rope to a complete stop by stalling it, then reverse its direction.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
         "prerequisites": "NA"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Contact Stall",
         "definition": "Stalls are skills where the jumper brings the rope to a complete stop and reverses its direction.",
         "tips": "✅ Count your jumps, the stall itself will take two ‘beats’<br>✅ Let your hands pass by your sides as you reverse the rope’s direction<br>✅ Be gentle as you stall the rope so it doesn’t flick up at you<br>‼️ Avoid pulling away from the stall too early<br>‼️ Avoid jumping too early as you exit the stall",
         "beginner": "Yes"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "No Contact Stall",
         "definition": "To be confirmed",
         "tips": "NA",
@@ -212,7 +212,7 @@
         "restday": "NA"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Forwards 180 Turns",
         "definition": "To be confirmed",
         "tips": "NA",
@@ -221,7 +221,7 @@
         "prerequisites": "Bilateral Footwork, Foundational Swings, Body Crosses"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Backwards 180 Turns",
         "definition": "To be confirmed",
         "tips": "NA",
@@ -230,7 +230,7 @@
         "prerequisites": "Bilateral Footwork, Foundational Swings, Body Crosses"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "360 Turns",
         "definition": "Turns are skills where the jumper turns their body whilst the rope continues moving in the same direction uninterrupted.",
         "tips": "NA",
@@ -239,7 +239,7 @@
         "prerequisites": "Forwards 180 Turns, Backwards 180 Turns"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Dive Turns",
         "definition": "To be confirmed",
         "tips": "NA",
@@ -248,7 +248,7 @@
         "prerequisites": "Forwards 180 Turns, Backwards 180 Turns"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Leg Hook Turns",
         "definition": "Leg Hook 360’s are 360 combos where one hand hooks underneath one of the jumper’s legs.",
         "tips": "✅ Reach under your leg as much as possible<br>✅ Keep the rope travelling vertically at all times<br>✅ Keep your chest up so it’s easier to turn without losing your balance<br>‼️ Avoid finishing the 360 early and pulling the rope around diagonally<br>‼️ Avoid double bounding during the 360",
@@ -257,7 +257,7 @@
         "prerequisites": "Leg Crosses, 360 Turns, Dive Turns"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Half Turns",
         "definition": "To be confirmed",
         "tips": "NA",
@@ -266,7 +266,7 @@
         "prerequisites": "Forwards 180 Turns, Backwards 180 Turns"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Full Turns",
         "definition": "To be confirmed",
         "tips": "NA",
@@ -275,7 +275,7 @@
         "prerequisites": "360 Turns"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Texan Turns",
         "definition": "To be confirmed",
         "tips": "NA",
@@ -284,7 +284,7 @@
         "prerequisites": "Forwards 180 Turns, Backwards 180 Turns"
     },
     {
-        "category": "Direction-Change",
+        "category": "Direction Change",
         "subcategory": "Texan Half Turns",
         "definition": "To be confirmed",
         "tips": "NA",
