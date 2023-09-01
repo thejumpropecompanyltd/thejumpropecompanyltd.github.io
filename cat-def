@@ -6,7 +6,7 @@
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
-        "prerequisites": "Leg Crosses"
+        "prerequisites": "NA"
     },
     {
         "category": "Footwork",
@@ -198,14 +198,14 @@
     },
     {
         "category": "Direction Change",
-        "subcategory": "Contact Stall",
+        "subcategory": "Contact Stalls",
         "definition": "Stalls are skills where the jumper brings the rope to a complete stop and reverses its direction.",
         "tips": "✅ Count your jumps, the stall itself will take two ‘beats’<br>✅ Let your hands pass by your sides as you reverse the rope’s direction<br>✅ Be gentle as you stall the rope so it doesn’t flick up at you<br>‼️ Avoid pulling away from the stall too early<br>‼️ Avoid jumping too early as you exit the stall",
         "beginner": "Yes"
     },
     {
         "category": "Direction Change",
-        "subcategory": "No Contact Stall",
+        "subcategory": "No Contact Stalls",
         "definition": "To be confirmed",
         "tips": "NA",
         "beginner": "NA",
@@ -405,7 +405,7 @@
     },
     {
         "category": "Releases",
-        "subcategory": "Mic Release",
+        "subcategory": "Mic Releases",
         "definition": "Mic Releases are skills where the jumper releases the handle during a side swing, allowing the rope to complete a rotation next to their body, before catching it again.",
         "tips": "✅ Focus on the upwards energy of the rope during pop/throw<br>✅ Feel the feedback or ‘tug’ in the rope as you turn<br>✅ Use a toe catch to help you find your feet immediately after the catch<br>‼️ Try without jumping first, but then don’t forget to add the bounding later<br>‼️ Avoid throwing the rope too far away from you",
         "beginner": "Yes",
@@ -414,7 +414,7 @@
     },
     {
         "category": "Releases",
-        "subcategory": "Vertical Release",
+        "subcategory": "Vertical Releases",
         "definition": "Vertical releases are skills where the jumper performs a release without a swing whilst the rope’s arc is above their head.",
         "tips": "✅ Release the handle gently so the rope’s tension remains clean<br>✅ Keep your wrist scooping and directing the rope’s momentum throughout <br>✅ Scoop DOWN not up as you release the rope, unlike a standard Mic Release <br>‼️ Avoid releasing too late when the rope’s arc passes out in front of you<br>‼️ Avoid the rope touching your body as you jump the rope into body or leg cross",
         "beginner": "NA",
@@ -423,7 +423,7 @@
     },
     {
         "category": "Releases",
-        "subcategory": "Wrap Release",
+        "subcategory": "Wrap Releases",
         "definition": "Wrap Releases are skills where the jumper releases the wrapped handle, thus allowing the rope to unwrap itself and complete two rotations in the air next to their body.",
         "tips": "✅ Wrap the rope tightly round your leg to avoid the release tangling<br>✅ Keep your unrestricted hand close to your hip<br>✅ Rotate the Mic Release directly next to your body<br>‼️ Avoid sticking your leg out too wide during the Unwrap Swing<br>‼️ Avoid releasing your handle too early",
         "beginner": "NA",
@@ -432,7 +432,7 @@
     },
     {
         "category": "Releases",
-        "subcategory": "Same-Side Release",
+        "subcategory": "Same-Side Releases",
         "definition": "To be confirmed",
         "tips": "NA",
         "beginner": "NA",
@@ -441,7 +441,7 @@
     },
     {
         "category": "Releases",
-        "subcategory": "Step-Through Release",
+        "subcategory": "Step-Through Releases",
         "definition": "To be confirmed",
         "tips": "NA",
         "beginner": "NA",
@@ -450,7 +450,7 @@
     },
     {
         "category": "Releases",
-        "subcategory": "Mamba",
+        "subcategory": "Mambas",
         "definition": "To be confirmed",
         "tips": "✅ Count the rotations: 2 on your left, 2 on your right<br>✅ Keep your arm raised to chest-height<br>✅ Tug on the rope gently as it transitions from side to side<br>‼️ Avoid spinning the rope at different speeds on each side<br>‼️ Avoid advancing too quickly through these drills. Take your time to master each in turn.",
         "beginner": "NA",
@@ -485,7 +485,7 @@
     },
     {
         "category": "Releases",
-        "subcategory": "Handle Pass",
+        "subcategory": "Handle Passes",
         "definition": "Handle passes are skills where the jumper passes one of their handles in the opposite hand for a period of time before passing it back again.",
         "tips": "✅ Start with a Box Swing<br>✅ Swing the rope close to your body<br>✅ Pass the handles when the rope’s arc reaches the floor<br>‼️ Avoid holding the handles together<br>‼️ Avoid switching the handles",
         "beginner": "Yes",
@@ -494,7 +494,7 @@
     },
     {
         "category": "Releases",
-        "subcategory": "Handle Hold",
+        "subcategory": "Handle Holds",
         "definition": "To be confirmed",
         "tips": "NA",
         "beginner": "NA",
@@ -502,14 +502,14 @@
     },
     {
         "category": "Releases",
-        "subcategory": "180 Release",
+        "subcategory": "180 Releases",
         "definition": "To be confirmed",
         "tips": "NA",
         "prerequisites": "Forwards 180 Turns, Mic Releases"
     },
     {
         "category": "Releases",
-        "subcategory": "360 Release",
+        "subcategory": "360 Releases",
         "definition": "To be confirmed",
         "tips": "NA",
         "prerequisites": "360 Turns, Mic Releases"
@@ -525,7 +525,7 @@
     },
     {
         "category": "Multiples",
-        "subcategory": "Double Under",
+        "subcategory": "Double Unders",
         "definition": "Double unders are skills where the rope completes two revolutions in one jump, either passing under the jumper’s feet or in a swing at their side. There are 10 foundational double unders, upon which all other advanced double under variations are built.",
         "tips": "🆙 Keep your chest up and eyes fixed on the horizon<br>↔️ Keep your hands tight to your body so the rope’s arc is narrow<br>⬇️ Drive down with your hands and elbows as you turn the rope<br>⬆️ Elevate THEN rotate. This is critical advice courtesy of @rxsmartgear and this applies even when there’s a Swing for the first ‘under’.<br>↕️ Jump up straight like a pencil, land softly and spring straight back up<br>‼️ Avoid hinging at your hips, like a ‘dolphin kick’ ⠀",
         "beginner": "NA",
@@ -533,7 +533,7 @@
     },
     {
         "category": "Multiples",
-        "subcategory": "Triple Under",
+        "subcategory": "Triple Unders",
         "definition": "Triple unders are skills where the rope completes three revolutions in one jump, either passing under the jumper’s feet or in a swing at their side. There are 28 foundational triple unders, upon which all other advanced triple under variations are built.\n",
         "tips": "NA",
         "beginner": "NA",
@@ -541,26 +541,8 @@
         "prerequisites": "Double Unders"
     },
     {
-        "category": "Multiples",
-        "subcategory": "Leg Cross Double",
-        "definition": "To be confirmed",
-        "tips": "NA",
-        "beginner": "NA",
-        "restday": "NA",
-        "prerequisites": "Double Unders, Leg Crosses, Leg Swings"
-    },
-    {
-        "category": "Multiples",
-        "subcategory": "Leg Cross Triple",
-        "definition": "To be confirmed",
-        "tips": "NA",
-        "beginner": "NA",
-        "restday": "NA",
-        "prerequisites": "Double Unders, Triples Leg Crosses, Leg Swings"
-    },
-    {
         "category": "Principle",
-        "subcategory": "Front Cross",
+        "subcategory": "Front Crosses",
         "definition": "Front crosses are skills where the jumper crosses both hands in front of their body, such as the basic <a class=\"cat-def-link\" href=“/skill?filter=cross”>Cross</a> and <a class=\"cat-def-link\" href=“/skill?filter=elephant”>Elephant</a>. The require no Swings or Opens to enter into.",
         "tips": "NA",
         "beginner": "NA",
@@ -569,7 +551,7 @@
     },
     {
         "category": "Principle",
-        "subcategory": "Half Cross",
+        "subcategory": "Half Crosses",
         "definition": "Half crosses are skills where the jumper crosses one hand in front of their body and one behind their body, such as the <a class=\"cat-def-link\" href=“/skill?filter=eb”>EB</a> and the <a class=\"cat-def-link\" href=“/skill?filter=as%20toad”>AS Toad</a>. The require one Swing to enter into or an Open, commonly referred to as a “Dive in”.",
         "tips": "✅ Cross both arms around your hips as level as possible. Uneven hands will prevent the rope from reaching your feet<br>✅ Draw a straight line on the floor next to you to direct the rope past your side and into the EB position.<br>✅ Scoop both wrists as you jump the loop of the rope<br>‼️ Avoid hooking excessively with your back hand as you reach behind you<br>‼️ Avoid lifting your front hand up near your face to get through this skill, this will prevent the rope travelling diagonally across you during the jump",
         "beginner": "NA",
@@ -578,7 +560,7 @@
     },
     {
         "category": "Principle",
-        "subcategory": "Back Cross",
+        "subcategory": "Back Crosses",
         "definition": "Back crosses are skills where the jumper crosses both hands behind their body, such as the <a class=\"cat-def-link\" href=“/skill?filter=ts”>TS</a> and <a class=\"cat-def-link\" href=“/skill?filter=CL”>CL</a>. The require two Swings to enter into or an Open (the default option).",
         "tips": "NA",
         "beginner": "NA",
@@ -587,7 +569,7 @@
     },
     {
         "category": "Principle",
-        "subcategory": "Front Swing",
+        "subcategory": "Front Swings",
         "definition": "Front swings are skills where the jumper swings the rope whilst both hands are in front of their body, such as the <a class=\"cat-def-link\" href=“/skill?filter=wrist%20swing”>Wrist Swing</a> and <a class=\"cat-def-link\" href=“/skill?filter=toad%20gogo%20swing”>Toad Gogo Swing</a>. The require no Swings or Opens to enter into,",
         "tips": "NA",
         "beginner": "NA",
@@ -596,7 +578,7 @@
     },
     {
         "category": "Principle",
-        "subcategory": "Back Swing",
+        "subcategory": "Back Swings",
         "definition": "Back swings are skills where the jumper swings the rope whilst one or both of their hands are behind their body, such as the <a class=\"cat-def-link\" href=“/skill?filter=eb%20swing”>EB Swing</a> and <a class=\"cat-def-link\" href=“/skill?filter=eb%20leg%20over%20swing”>EB Leg Over Swing</a>. The require one front swing to enter into or an Open, commonly referred to as a “Dive in”.",
         "tips": "NA",
         "beginner": "NA",
@@ -632,7 +614,7 @@
     },
     {
         "category": "Principle",
-        "subcategory": "Wrist Swing Release",
+        "subcategory": "Wrist Swing Releases",
         "definition": "To be confirmed",
         "tips": "NA",
         "beginner": "NA",
@@ -641,7 +623,7 @@
     },
     {
         "category": "Principle",
-        "subcategory": "Wrist Pop Release",
+        "subcategory": "Wrist Pop Releases",
         "definition": "To be confirmed",
         "tips": "NA",
         "beginner": "NA",
@@ -650,7 +632,7 @@
     },
     {
         "category": "Principle",
-        "subcategory": "Box Swing Release",
+        "subcategory": "Box Swing Releases",
         "definition": "To be confirmed",
         "tips": "NA",
         "beginner": "NA",
