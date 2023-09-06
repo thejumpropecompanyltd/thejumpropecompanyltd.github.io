@@ -11,7 +11,7 @@
     {
         "category": "Footwork",
         "subcategory": "Bilateral Footwork",
-        "definition": "Bilateral Footwork are skills where both feet move together in unison, either doing the same thing or mirroring each other. This can be in the same direction, like a <a class=\"cat-def-link\" href=\"/skill?filter=skier\">Skier</a>, or in opposite directions, like a <a class=\"cat-def-link\" href=\"/skill?filter=side%20straddle\">Side Straddle<a/>). This footwork is the easiest to learn and therefore highly recommended for beginners.",
+        "definition": "Bilateral Footwork are skills where the jumper moves both feet together in unison, either doing the same thing or mirroring each other. This footwork is the easiest to learn and highly recommended for beginners.",
         "tips": "✅ Start without the rope, keeping your bounces low to the ground<br>✅ Try to stay in one spot the whole time<br>✅ Use music to develop your rhythm and timing<br>‼️ Avoid holding your hands too wide<br>‼️ Avoid jumping too high or too heavily",
         "beginner": "Yes",
         "restday": "NA",
@@ -20,7 +20,7 @@
     {
         "category": "Footwork",
         "subcategory": "Unilateral Footwork",
-        "definition": "Unilateral Footwork are skills where one foot moves, whilst the other stays under the jumper's body. The jumper can either move the one foot horizontally, such as a <a class=\"cat-def-link\" href=\"skill?filter=side%20tap\">Side Tap</a>, or vertically such as a <a class=\"cat-def-link\" href=\"skill?filter=knee%20raise\">Knee Raise</a>. <a class=\"cat-def-link\" href=“/category?filter=unilateral%20footwork”>Unilateral Footwoork</a> is harder than <a class=\"cat-def-link\" href=“/category?filter=bilateral%20footwork”>Bilateral Footwork</a> because it requires more leg strength and good balance to perform cleanly.",
+        "definition": "Unilateral Footwork are skills where the jumper one foot moves (horiztonally or vertically), whilst the other stays under the jumper's body. <a class=\"cat-def-link\" href=“/category?filter=unilateral%20footwork”>Unilateral Footwoork</a> is harder than <a class=\"cat-def-link\" href=“/category?filter=bilateral%20footwork”>Bilateral Footwork</a> because it requires more leg strength and good balance to perform cleanly.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -38,7 +38,7 @@
     {
         "category": "Crosses",
         "subcategory": "Main",
-        "definition": "Crosses are skills where the jumper reaches across their body and jumps through the loop of the rope. They form the backbone of jump rope, allowing jumper’s to fully explore their creavity due to how many possible ways you can cross your arms.",
+        "definition": "Crosses are skills where the jumper reaches across their body and jumps through the loop of the rope. They form the backbone of jump rope, since every other skill category can be layered on top of crosses.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -47,7 +47,7 @@
     {
         "category": "Crosses",
         "subcategory": "Body Crosses",
-        "definition": "Body Crosses are skills where the jumper crosses both hands around their upper body, such as the basic <a class=\"cat-def-link\" href=\"/skill?filter=cross”> Cross</a> itself and the <a class=\"cat-def-link\" href=\"/skill?filter=eb”>EB</a>. These crosses are the easiest to learn and therefore highly recommended for beginners.",
+        "definition": "Body Crosses are skills where the jumper crosses both hands around their upper body, such as the basic <a class=\"cat-def-link\" href=\"/skill?filter=cross”> Cross</a> itself and the <a class=\"cat-def-link\" href=\"/skill?filter=eb”>EB</a>. These crosses are the easiest to learn and highly recommended for beginners.",
         "tips": "✅ Cross your arms at hip level with only a slight bend in your elbows<br>✅ Scoop fully with both wrists at all times<br>✅ Use Two Catches in any/all body crosses to check your form when first learning<br>‼️ Avoid swiping in/out of each crossing position<br>‼️ Avoid pulling the rope diagonally when entering/exiting with a swing",
         "beginner": "Yes",
         "restday": "NA",
@@ -83,7 +83,7 @@
     {
         "category": "Crosses",
         "subcategory": "Gogo Crosses",
-        "definition": "Gogo Crosses are skills where the jumper crosses one of their hands around their body twice. Imagine your left hand crossing under your leg from left to right, then reaching back around the front of your leg from right to left -  the hand <i>goes</i> one way then it <i>goes</i> the other way - it gogos. These skills require a lot of flexiblility rope control. One of the easiest gogos to learn first is the <a class=\"cat-def-link\" href=\"/skill?filter=inverse%20toad%20gogo\">Inverse Toad Gogo</a>.",
+        "definition": "Gogo Crosses are skills where the jumper crosses one of their hands around their body twice. Imagine your left hand crossing under your leg from left to right, then reaching back around the front of your leg from right to left -  the hand <i>goes</i> one way then it <i>goes</i> the other way - it 'gogos'. These skills require a lot of flexiblility rope control.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -92,7 +92,7 @@
     {
         "category": "Crosses",
         "subcategory": "Knot Crosses",
-        "definition": "Knot Crosses are skills where the jumper performs a normal Body, Leg or Ground cross except that the most restricted hand crosses above the least restricted hand. For example, in a <a class=\"cat-def-link\" href=\"/skill?filter=eb%20knot\">EB Knot</a> the hand which is behind the jumper’s back reaches forward (from behind their back) and crosses in front of the other arm. Knot crosses hard to perform cleanly, so a long handle jump rope is recommended.",
+        "definition": "Knot Crosses are skills where the jumper performs a normal Body, Leg or Ground cross except that the most restricted hand crosses above the least restricted hand. For example, in a <a class=\"cat-def-link\" href=\"/skill?filter=eb%20knot\">EB Knot</a> the hand which is behind the jumper’s back reaches forward (from behind their back) and crosses in front of the other arm.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -110,7 +110,7 @@
     {
         "category": "Crosses",
         "subcategory": "Switch Crosses",
-        "definition": "A Switch Cross is a transition between any two crosses where the most restricted hand changes without an Open in between them. The most common of these is the <a class=\"cat-def-link\" href=“/skill?filter=switch%20cross”>Switch Cross</a> itself, but a jumper can switch between any two skills, such as a left and right Toad, or from a left <a class=\"cat-def-link\" href=“/skill?filter=cross”>Cross</a> to a right <a class=\"cat-def-link\" href=“/skill?filter=toad”>Toad</a>. Technically, Switch Crosses are 'combos' since they are literally combinations of two crosses - for the sake of simplicity, all \"perfect\" Switch Crosses are found here where the switch occurs between two identical skills, such as a left and a right <a class=\"cat-def-link\" href=“/skill?filter=leg%20over”>Toad</a>. All other combinations can be found on a skill's dedicated page under the header, <i>'Combos This Appears In'</i>.",
+        "definition": "A Switch Cross is a transition between any two crosses where the most restricted hand changes without an Open in between them. The most common of these is the <a class=\"cat-def-link\" href=“/skill?filter=switch%20cross”>Switch Cross</a> itself, but a jumper can switch between any two skills, such as a left and right Toad, or from a left <a class=\"cat-def-link\" href=“/skill?filter=cross”>Cross</a> to a right <a class=\"cat-def-link\" href=“/skill?filter=toad”>Toad</a>. All \"perfect\" Switch Crosses where the switch occurs between two identical skills (e.g. a left and a right <a class=\"cat-def-link\" href=“/skill?filter=leg%20over”>Toad</a>) can be found here. All other combinations can be found on a skill's dedicated page under the header, <i>'Combos This Appears In'</i>.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -119,7 +119,7 @@
     {
         "category": "Crosses",
         "subcategory": "Step-Throughs",
-        "definition": "Step-throughs are skills where the jumper <i>steps</i> through the loop of the rope instead of jumping over it. <a class=\"cat-def-link\" href=“/category?filter=leg%20cross”>Leg Crosses</a> and <a class=\"cat-def-link\" href=“/category?filter=leg%20wrap”>Leg Wraps</a> are commonly performed as Step-Throughs. They are excellent active rest day skills since they involve no jumping whatsoever. On top of that, they completely change the style and energy of a jump rope sequence.",
+        "definition": "Step-throughs are skills where the jumper <i>steps</i> through the loop of the rope instead of jumping over it. <a class=\"cat-def-link\" href=“/category?filter=leg%20cross”>Leg Crosses</a> and <a class=\"cat-def-link\" href=“/category?filter=leg%20wrap”>Leg Wraps</a> are commonly performed as Step-Throughs. They are excellent active rest day skills since they involve no jumping whatsoever.",
         "tips": "⬇️ Crouch down slightly to help you reach into these ground crosses<br>⤵️ Step over the rope with the leg you would’ve jumped on<br>⏸ Wait for the rope to pass over your head out in front of you before exiting the skill<br>↕️ Try your best to keep the rope travelling vertical at all times<br>‼️ Avoid letting the rope touch your legs as it passes in-between them<br>‼️ Avoid letting your unrestricted hand pass over your head ",
         "restday": "Yes",
         "prerequisites": "Leg Crosses"
@@ -127,7 +127,7 @@
     {
         "category": "Swings",
         "subcategory": "Main",
-        "definition": "Side swings are skills where both of the jumper’s hands are on the same side of their body, resulting in the loop of the swings beside their body. Swings are the connective tissue which binds all other skills types together by allowing jumpers to transition between or nest skills. They are great for beginners to start out with since they don’t involve any jumping and really help with building an understanding of how the rope can move around your body in different ways.",
+        "definition": "Side swings are skills where both of the jumper’s hands are on the same side of their body, resulting in the loop of the swings beside their body. Swings are the connective tissue which binds all other skills types together by allowing jumpers to transition between or nest skills.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -136,7 +136,7 @@
     {
         "category": "Swings",
         "subcategory": "Foundational Swings",
-        "definition": "Foundational swings are the first two side swings any beginner will learn: the <a class=\"cat-def-link\" href=“/skill?filter=wrist%20swing”>Wrist Swing</a> and the <a class=\"cat-def-link\" href=“/skill?filter=box%20swing”>Box Swing</a>. They’re extremely versatile and the most common swings in sequences. You can learn a lot about how jump rope freestyle works just by mastering your foundational swings, so they’re ideal for beginners.",
+        "definition": "Foundational swings are the first two side swings any beginner will learn: the <a class=\"cat-def-link\" href=“/skill?filter=wrist%20swing”>Wrist Swing</a> and the <a class=\"cat-def-link\" href=“/skill?filter=box%20swing”>Box Swing</a>. They’re extremely versatile and the most common swings in sequences. You can learn a lot about how jump rope freestyle works just by mastering your foundational swings.",
         "tips": "✅ Always scoop with BOTH wrists<br>✅ Start with just single bounces BEFORE adding other footwork<br>✅ Remember to jump during all your swings<br>‼️ Avoid holding your arms too wide<br>‼️ Avoid swiping across excessively and making the rope slant",
         "beginner": "Yes",
         "restday": "Yes",
@@ -145,7 +145,7 @@
     {
         "category": "Swings",
         "subcategory": "EB Swings",
-        "definition": "EB swings are swings where one hand is restricted behind the jumper’s back in the “EB” position. These are a great way for beginners to explore swings which lead to more advanced skills such as the <a class=\"cat-def-link\" href=“/skill?filter=eb”>EB</a> itself or <a class=\"cat-def-link\" href=“/skill?filter=eb%20toad”>EB Toad</a>. EB Swings also function as a fun skill unto themselves when coupled with a foundational swing.",
+        "definition": "EB swings are swings where one hand is restricted behind the jumper’s back in the “EB” position. They are a great way for beginners to explore swings which lead to more advanced skills such as the <a class=\"cat-def-link\" href=“/skill?filter=eb”>EB</a> itself or <a class=\"cat-def-link\" href=“/skill?filter=eb%20toad”>EB Toad</a>. EB Swings also function as a fun skill unto themselves when coupled with a foundational swing.",
         "tips": "✅ Lead with your front hand to direct the rope<br>✅ Imagine drawing a straight line at your side as you swing the rope past<br>✅ Make sure you’re always reaching far enough across your back<br>‼️ Avoid lifting your front hand up to your face to transition to each side of your body<br>‼️ Avoid pulling your back hand out too early at the end",
         "beginner": "Yes",
         "restday": "Yes",
@@ -154,7 +154,7 @@
     {
         "category": "Swings",
         "subcategory": "Leg Swings",
-        "definition": "Legs swings are swings where one hand or both hands are restricted under one of the jumper’s legs. Leg swings can be used as an entry point or transition between different leg crosses, such as <a class=\"cat-def-link\" href=“/skill?filter=toad%20swing”>Toad Swing</a> to <a class=\"cat-def-link\" href=“/skill?filter=toad”>Toad</a>. Leg swings are great for beginners, as doing them without leg crosses can help the jumper focus specifically on their balance.",
+        "definition": "Legs swings are swings where one hand or both of the jumper's hands are restricted under one of their legs. They can be used as an entry point or transition between different leg crosses, such as <a class=\"cat-def-link\" href=“/skill?filter=toad%20swing”>Toad Swing</a> to <a class=\"cat-def-link\" href=“/skill?filter=toad”>Toad</a>. Leg swings are great for beginners, as doing them without their leg cross counterparts can help the jumper focus specifically on their balance.",
         "tips": "NA",
         "beginner": "Yes",
         "restday": "Yes",
@@ -190,7 +190,7 @@
     {
         "category": "Direction Change",
         "subcategory": "Main",
-        "definition": "Direction change are skils where the jump transitions from jumping forwards to backwards, or vice versa. There are basic two ways to change direction; a jumper can turn their body whilst the rope continues moving in the same direction uninterrupted or they can also bring the rope to a complete stop by stalling it, then reverse its direction.",
+        "definition": "Direction change are skils where the jumper transitions from jumping forwards to backwards, or vice versa. There are basic two ways to change direction; a jumper can turn their body whilst the rope continues moving in the same direction uninterrupted or they can also bring the rope to a complete stop by stalling it, then reverse its direction.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -295,7 +295,7 @@
     {
         "category": "Wraps",
         "subcategory": "Main",
-        "definition": "Wraps are skills where the rope is wrapped around part of the jumper’s body, usually their wrist or ankle. These skills usually require a swing to unwrap. Turning, stalling and releasing are all ways of unwrapping.",
+        "definition": "Wraps are skills where the rope is wrapped around part of the jumper’s body, usually their wrist or ankle. Wraps allow jumpers to explore the concept of nesting skills where the jumper performs a totally different skill <i>inside of</i> of the wrap, such as a 360 Turn or a Floater. ",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -397,7 +397,7 @@
     {
         "category": "Releases",
         "subcategory": "Main",
-        "definition": "Releases are skills where the jumper releases one or both handles for a period of time. This includes mic releases, handle passes and floaters.",
+        "definition": "Releases are skills where the jumper releases one or both of their handles for a period of time, before catching it/them again. They can serve as a more creative way to transition between two different crosses.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
