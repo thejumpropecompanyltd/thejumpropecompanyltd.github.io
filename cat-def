@@ -127,7 +127,7 @@
     {
         "category": "Swings",
         "subcategory": "Main",
-        "definition": "Side swings are skills where both of the jumper’s hands are on the same side of their body, resulting in the loop of the swings beside their body. Swings are the connective tissue which binds all other skills types together by allowing jumpers to transition between or nest skills.",
+        "definition": "Side swings are skills where both of the jumper’s hands are on the same side of their body, resulting in the loop of the swings beside their body. Swings are the connective tissue of jump rope, allowing jumpers to transition between all skills.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -190,7 +190,7 @@
     {
         "category": "Direction Change",
         "subcategory": "Main",
-        "definition": "Direction change are skils where the jumper transitions from jumping forwards to backwards, or vice versa. There are basic two ways to change direction; a jumper can turn their body whilst the rope continues moving in the same direction uninterrupted or they can also bring the rope to a complete stop by stalling it, then reverse its direction.",
+        "definition": "Direction changes are skils where the jumper transitions from jumping forwards to backwards, or vice versa. A jumper can turn their body, whilst the rope continues moving in the same direction, or they can bring the rope to a complete stop by stalling it and reverse its direction.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -295,7 +295,7 @@
     {
         "category": "Wraps",
         "subcategory": "Main",
-        "definition": "Wraps are skills where the rope is wrapped around part of the jumper’s body, usually their wrist or ankle. Wraps allow jumpers to explore the concept of nesting skills where the jumper performs a totally different skill <i>inside of</i> of the wrap, such as a 360 Turn or a Floater. ",
+        "definition": "Wraps are skills where the rope is wrapped around part of the jumper’s body, usually their wrist or ankle. Wraps allow jumpers to explore the concept of nesting where they perform different skills <i>inside of</i> of their wraps.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
@@ -517,7 +517,7 @@
     {
         "category": "Multiples",
         "subcategory": "Main",
-        "definition": "Multiples are skills where the rope makes two or more revolutions per one jump, either passing under the jumper’s feet or in a swing at their side. Multiples are described by how many revolutions or ‘unders’ they have, e.g. double under, triple under and so forth.",
+        "definition": "Multiples are skills where the rope makes two or more revolutions per one jump, either passing under the jumper’s feet or in a swing at their side. Multiples are described by how many revolutions they contain, e.g. double, triple, quadruple under and so on.",
         "tips": "NA",
         "beginner": "NA",
         "restday": "NA",
