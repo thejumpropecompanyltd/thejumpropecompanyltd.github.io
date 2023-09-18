@@ -45644,8 +45644,8 @@
     },
     {
         "name": "Challenge 48",
-        "skills": "> Mic Release > Open > Open > Mic Release [2] > Open > Open >",
-        "notation": "S, M, O, O, S, M, M, O, O,",
+        "skills": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open > Open > Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> <span class=\"pos-tag\" id=\"DR\">DR</span> > Open >",
+        "notation": "S, M, O, O, S, M, M, O,",
         "definition": "NA",
         "toptip": "NA",
         "category": "NA",
@@ -45667,7 +45667,7 @@
         "cat5link": "NA",
         "cat6": "NA",
         "cat6link": "NA",
-        "length": "Long",
+        "length": "Very Long",
         "nickname": "NA",
         "uploaded": "NA"
     },
