@@ -45615,7 +45615,7 @@
     },
     {
         "name": "Challenge 47",
-        "skills": "> Mic Release > Open > Cross > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Mic Release > Open >",
+        "skills": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open > Cross > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open >",
         "notation": "S, M, O, C, O, S, C, S, M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45673,7 +45673,7 @@
     },
     {
         "name": "Challenge 49",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Mic Release > Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
+        "skills": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
         "notation": "S, M, S, C, S, M, S, Ec, S, C,",
         "definition": "NA",
         "toptip": "NA",
@@ -45702,7 +45702,7 @@
     },
     {
         "name": "Challenge 50",
-        "skills": "> Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Mic Release >",
+        "skills": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Mic Release > Open >",
         "notation": "S, M, -S, C, S, -S, M, O,",
         "definition": "NA",
         "toptip": "NA",
@@ -45731,7 +45731,7 @@
     },
     {
         "name": "Challenge 51",
-        "skills": "> Mic Release > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Leg Over > Mic Release >",
+        "skills": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release > Open >",
         "notation": "S, M, -Lo, S, C, O, Lo, S, M, O,",
         "definition": "NA",
         "toptip": "NA",
