@@ -3974,7 +3974,7 @@
     },
     {
         "name": "Dive EB",
-        "skills": "> EB >",
+        "skills": "> Open > EB >",
         "notation": "O, Ec,",
         "definition": "NA",
         "toptip": "NA",
@@ -4003,7 +4003,7 @@
     },
     {
         "name": "Dive EB (EB Swing out)",
-        "skills": "> EB > EB Swing >",
+        "skills": "> Open > EB > EB Swing >",
         "notation": "O, Ec, Es,",
         "definition": "NA",
         "toptip": "NA",
