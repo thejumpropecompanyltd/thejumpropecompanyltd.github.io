@@ -39524,7 +39524,7 @@
         "uploaded": "NA"
     },
     {
-        "name": "Inverse Leg Over to EB Gogo Leg Arm Wrap",
+        "name": "Inverse Leg Over to EB Gogo Leg Over Arm Wrap",
         "skills": "> Inverse Leg Over > EB Gogo Leg Over Swing > EB Gogo Leg Over Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > EB Swing > Open >",
         "notation": "Jo, (El)s, (El)[s], (Elc)[s), Es, O,",
         "definition": "NA",
@@ -39533,7 +39533,7 @@
         "subcategory": "NA",
         "type": "Combo",
         "anchor": "NA",
-        "link": "/combo?filter=inverse%20leg%20over%20to%20eb%20gogo%20leg%20arm%20wrap",
+        "link": "/combo?filter=inverse%20leg%20over%20to%20eb%20gogo%20leg%20over%20arm%20wrap",
         "video": 833652608,
         "direction": "Forwards",
         "cat1": "Arm Wrap",
@@ -46456,7 +46456,7 @@
     },
     {
         "name": "Challenge 72",
-        "skills": "> Cross > Open > EB Arm Wrap > Unwrap Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
+        "skills": "> Cross > Open > EB Arm Wrap > Unwrap Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "C, O, E[s], (Eo)[s)>, O, O}, Lo, S, [S], [S), C,",
         "definition": "NA",
         "toptip": "NA",
