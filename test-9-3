@@ -47123,7 +47123,7 @@
     },
     {
         "name": "Challenge 95",
-        "skills": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open > EB Arm Wrap > Unwrap Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing > EB > EB Arm Wrap > EB Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Texan 180 > Cross >",
+        "skills": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open > EB Arm Wrap > Unwrap Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing > EB > EB Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > EB Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Texan 180 > Cross >",
         "notation": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), S, Ec, E[s], (Eo)[s), Es<, S, C{, C, O,",
         "definition": "NA",
         "toptip": "NA",
