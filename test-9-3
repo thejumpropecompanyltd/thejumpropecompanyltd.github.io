@@ -46456,7 +46456,7 @@
     },
     {
         "name": "Challenge 72",
-        "skills": "> Cross > Open > EB Arm Wrap > Unwrap Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
+        "skills": "> Cross > Open > EB Arm Wrap > Unwrap Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "notation": "C, O, E[s], (Eo)[s)>, O, O}, Lo, S, [S], [S), C,",
         "definition": "NA",
         "toptip": "NA",
