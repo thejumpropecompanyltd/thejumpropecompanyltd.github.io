@@ -249,7 +249,7 @@
         "ca": "Crosses",
         "vi": 832778321,
         "c1": "Body Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "EB",
@@ -258,7 +258,7 @@
         "ca": "Crosses",
         "vi": 832786139,
         "c1": "Body Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "TS",
@@ -267,7 +267,7 @@
         "ca": "Crosses",
         "vi": 832787931,
         "c1": "Body Cross",
-        "c5": "Back Cross"
+        "p1": "Back Cross"
     },
     {
         "na": "Neck Cross",
@@ -276,7 +276,7 @@
         "ca": "Crosses",
         "vi": "COMING SOON",
         "c1": "Body Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Neck EB",
@@ -285,7 +285,7 @@
         "ca": "Crosses",
         "vi": "COMING SOON",
         "c1": "Body Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Double Neck Cross",
@@ -293,7 +293,7 @@
         "ca": "Crosses",
         "vi": "COMING SOON",
         "c1": "Body Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Toad",
@@ -302,7 +302,7 @@
         "ca": "Crosses",
         "vi": 832944926,
         "c1": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Toad",
@@ -311,7 +311,7 @@
         "ca": "Crosses",
         "vi": 832947404,
         "c1": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Elephant",
@@ -320,7 +320,7 @@
         "ca": "Crosses",
         "vi": 832949253,
         "c1": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Leg Over",
@@ -329,7 +329,7 @@
         "ca": "Crosses",
         "vi": 832945940,
         "c1": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Leg Over",
@@ -338,7 +338,7 @@
         "ca": "Crosses",
         "vi": 832947864,
         "c1": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "EB Toad",
@@ -347,7 +347,7 @@
         "ca": "Crosses",
         "vi": 832951399,
         "c1": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Inverse EB Toad",
@@ -356,7 +356,7 @@
         "ca": "Crosses",
         "vi": 832948430,
         "c1": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Neck Toad",
@@ -365,7 +365,7 @@
         "ca": "Crosses",
         "vi": 832944908,
         "c1": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Neck Toad",
@@ -374,7 +374,7 @@
         "ca": "Crosses",
         "vi": 832946842,
         "c1": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Ground Stall",
@@ -383,7 +383,7 @@
         "ca": "Crosses",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Caboose",
@@ -392,7 +392,7 @@
         "ca": "Crosses",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Open Caboose",
@@ -401,7 +401,7 @@
         "ca": "Crosses",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "AS",
@@ -410,7 +410,7 @@
         "ca": "Crosses",
         "vi": 832938823,
         "c1": "Ground Cross",
-        "c5": "Back Cross"
+        "p1": "Back Cross"
     },
     {
         "na": "CL",
@@ -419,7 +419,7 @@
         "ca": "Crosses",
         "vi": 832941441,
         "c1": "Ground Cross",
-        "c5": "Back Cross"
+        "p1": "Back Cross"
     },
     {
         "na": "Neck AS",
@@ -428,7 +428,7 @@
         "ca": "Crosses",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "AS Toad",
@@ -437,7 +437,7 @@
         "ca": "Crosses",
         "vi": 832938973,
         "c1": "Ground Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Inverse AS Toad",
@@ -446,7 +446,7 @@
         "ca": "Crosses",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "T-Toad (Swing in)",
@@ -456,9 +456,9 @@
         "vi": 833062543,
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
-        "c3": "Swing in",
-        "c4": "Swing out",
-        "c5": "Front Cross"
+        "p1": "Front Cross",
+        "p2": "Swing in",
+        "p3": "Swing out"
     },
     {
         "na": "Inverse T-Toad",
@@ -468,9 +468,9 @@
         "vi": 833059836,
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
-        "c3": "Swing in",
-        "c4": "Swing out",
-        "c5": "Front Cross"
+        "p1": "Front Cross",
+        "p2": "Swing in",
+        "p3": "Swing out"
     },
     {
         "na": "Tucked EB",
@@ -480,7 +480,7 @@
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Body Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Tummy Tuck",
@@ -490,7 +490,7 @@
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Tucked AS Toad",
@@ -500,7 +500,7 @@
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Tucked Inverse AS Toad",
@@ -510,7 +510,7 @@
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Tucked Leg Over",
@@ -518,7 +518,7 @@
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Tucked Inverse Leg Over",
@@ -526,7 +526,7 @@
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Tucked Toad 'Awesome Annie'",
@@ -535,7 +535,7 @@
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Tucked Leg Over 'Awesome Annie'",
@@ -544,7 +544,7 @@
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Tucked Inverse Toad 'Awesome Annie'",
@@ -553,7 +553,7 @@
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Tucked Inverse Leg Over 'Awesome Annie'",
@@ -562,7 +562,7 @@
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Cross Gogo",
@@ -570,7 +570,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Body Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "EB Gogo",
@@ -580,7 +580,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Body Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Toad Gogo",
@@ -590,7 +590,7 @@
         "vi": 832938230,
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Toad Gogo",
@@ -600,7 +600,7 @@
         "vi": 832935188,
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Leg Over Gogo",
@@ -608,7 +608,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "AS Gogo",
@@ -616,7 +616,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Ground Cross",
-        "c5": "Back Cross"
+        "p1": "Back Cross"
     },
     {
         "na": "EB Leg Over Gogo",
@@ -624,7 +624,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Neck Leg Over Gogo",
@@ -632,7 +632,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Leg Over Neck Gogo",
@@ -640,7 +640,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "TL Gogo (TL Swing out)",
@@ -648,7 +648,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "LI Gogo",
@@ -656,7 +656,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Toad Knot",
@@ -664,7 +664,7 @@
         "vi": "COMING SOON",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Toad Knot",
@@ -674,7 +674,7 @@
         "vi": 832943635,
         "c1": "Knot Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "EB Knot (EB in)",
@@ -682,7 +682,7 @@
         "vi": "COMING SOON",
         "c1": "Knot Cross",
         "c2": "Body Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "EB Toad Knot",
@@ -690,7 +690,7 @@
         "vi": "COMING SOON",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Inverse EB Toad Knot",
@@ -698,7 +698,7 @@
         "vi": "COMING SOON",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "AS Toad Knot",
@@ -706,7 +706,7 @@
         "vi": "COMING SOON",
         "c1": "Knot Cross",
         "c2": "Ground Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Inverse AS Toad Knot",
@@ -714,7 +714,7 @@
         "vi": "COMING SOON",
         "c1": "Knot Cross",
         "c2": "Ground Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Toad Rocker",
@@ -722,7 +722,7 @@
         "vi": "COMING SOON",
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Leg Over Rocker",
@@ -730,7 +730,7 @@
         "vi": "COMING SOON",
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "EB Toad Rocker",
@@ -738,7 +738,7 @@
         "vi": "COMING SOON",
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Inverse EB Toad Rocker",
@@ -746,7 +746,7 @@
         "vi": "COMING SOON",
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Inverse Toad Rocker",
@@ -754,7 +754,7 @@
         "vi": "COMING SOON",
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Elephant Rocker",
@@ -762,7 +762,7 @@
         "vi": "COMING SOON",
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "T-Toad Rocker",
@@ -771,7 +771,7 @@
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse T-Toad Rocker",
@@ -780,7 +780,7 @@
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Toad Gogo Rocker",
@@ -789,7 +789,7 @@
         "c1": "Inverse Bound",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Switch Cross",
@@ -799,7 +799,7 @@
         "vi": 833058341,
         "c1": "Switch Cross",
         "c2": "Body Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Switch EB",
@@ -809,7 +809,7 @@
         "vi": "COMING SOON",
         "c1": "Switch Cross",
         "c2": "Body Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Switch TS",
@@ -819,7 +819,7 @@
         "vi": "COMING SOON",
         "c1": "Switch Cross",
         "c2": "Body Cross",
-        "c5": "Back Cross"
+        "p1": "Back Cross"
     },
     {
         "na": "Switch Toad",
@@ -829,7 +829,7 @@
         "vi": "COMING SOON",
         "c1": "Switch Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Switch Elephant",
@@ -839,7 +839,7 @@
         "vi": "COMING SOON",
         "c1": "Switch Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Switch Leg Over",
@@ -849,7 +849,7 @@
         "vi": "COMING SOON",
         "c1": "Switch Cross",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Switch Caboose",
@@ -859,7 +859,7 @@
         "vi": "COMING SOON",
         "c1": "Switch Cross",
         "c2": "Ground Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Switch AS",
@@ -869,7 +869,7 @@
         "vi": "COMING SOON",
         "c1": "Switch Cross",
         "c2": "Ground Cross",
-        "c5": "Back Cross"
+        "p1": "Back Cross"
     },
     {
         "na": "Switch CL",
@@ -879,7 +879,7 @@
         "vi": "COMING SOON",
         "c1": "Switch Cross",
         "c2": "Ground Cross",
-        "c5": "Back Cross"
+        "p1": "Back Cross"
     },
     {
         "na": "Wrist Swing",
@@ -888,7 +888,7 @@
         "ca": "Swings",
         "vi": 833105008,
         "c1": "Foundational Swing",
-        "c5": "Front Swing",
+        "p1": "Front Swing",
         "nn": "Swing to Open / Southpaw / Side Swing / Sideswing Sideswing Open / Side Open / Crossed Swing / Cross Swing"
     },
     {
@@ -898,7 +898,7 @@
         "ca": "Swings",
         "vi": 833238114,
         "c1": "Foundational Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Double Swing",
@@ -907,7 +907,7 @@
         "ca": "Swings",
         "vi": 833240537,
         "c1": "Foundational Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "EB Swing",
@@ -916,7 +916,7 @@
         "ca": "Swings",
         "vi": 833238091,
         "c1": "EB Swing",
-        "c5": "Back Swing"
+        "p1": "Back Swing"
     },
     {
         "na": "Toad Swing",
@@ -925,7 +925,7 @@
         "ca": "Swings",
         "vi": 833241072,
         "c1": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Inverse Toad Swing",
@@ -934,7 +934,7 @@
         "ca": "Swings",
         "vi": 833240841,
         "c1": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Leg Over Swing",
@@ -943,7 +943,7 @@
         "ca": "Swings",
         "vi": 833240927,
         "c1": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Inverse Leg Over Swing",
@@ -952,7 +952,7 @@
         "ca": "Swings",
         "vi": 833240815,
         "c1": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "EB Leg Over Swing",
@@ -962,7 +962,7 @@
         "vi": 832950520,
         "c1": "EB Swing",
         "c2": "Leg Swing",
-        "c5": "Back Swing"
+        "p1": "Back Swing"
     },
     {
         "na": "Inverse EB Leg Over Swing",
@@ -972,7 +972,7 @@
         "vi": "COMING SOON",
         "c1": "EB Swing",
         "c2": "Leg Swing",
-        "c5": "Back Swing"
+        "p1": "Back Swing"
     },
     {
         "na": "AS Leg Over Swing",
@@ -981,7 +981,7 @@
         "ca": "Swings",
         "vi": 832938854,
         "c1": "Leg Swing",
-        "c5": "Back Swing"
+        "p1": "Back Swing"
     },
     {
         "na": "Inverse AS Leg Over Swing",
@@ -989,7 +989,7 @@
         "ca": "Swings",
         "vi": "COMING SOON",
         "c1": "Leg Swing",
-        "c5": "Back Swing"
+        "p1": "Back Swing"
     },
     {
         "na": "LT Wrist Swing",
@@ -998,7 +998,7 @@
         "ca": "Swings",
         "vi": 833241041,
         "c1": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Toad Awesome Annie",
@@ -1008,7 +1008,7 @@
         "vi": 833255269,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Leg Over Awesome Annie",
@@ -1018,7 +1018,7 @@
         "vi": 833267942,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Toad Awesome Annie",
@@ -1028,7 +1028,7 @@
         "vi": 833254947,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Leg Over Awesome Annie",
@@ -1038,7 +1038,7 @@
         "vi": 833254868,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Elephant Awesome Annie",
@@ -1048,7 +1048,7 @@
         "vi": 833254811,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "EB Toad Awesome Annie",
@@ -1058,7 +1058,7 @@
         "vi": 833254761,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Inverse EB Toad Awesome Annie",
@@ -1068,8 +1068,7 @@
         "vi": "COMING SOON",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c4": "Dive in",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "EB Leg Over Awesome Annie",
@@ -1080,7 +1079,7 @@
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "EB Swing",
-        "c5": "Half Cross"
+        "p1": "Half Cross"
     },
     {
         "na": "Toad Gogo Awesome Annie",
@@ -1091,7 +1090,7 @@
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Toad Gogo Awesome Annie",
@@ -1102,7 +1101,7 @@
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Neck Toad Awesome Annie",
@@ -1112,7 +1111,7 @@
         "vi": 833255120,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Inverse Neck Toad Awesome Annie",
@@ -1122,7 +1121,7 @@
         "vi": "COMING SOON",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Leg Over Neck Awesome Annie",
@@ -1132,7 +1131,7 @@
         "vi": 833255079,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
-        "c5": "Front Cross"
+        "p1": "Front Cross"
     },
     {
         "na": "Toad Gogo Swing",
@@ -1142,7 +1141,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Inverse Toad Gogo Swing",
@@ -1152,7 +1151,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Leg Over Gogo Swing",
@@ -1162,7 +1161,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Inverse Leg Over Gogo Swing",
@@ -1172,7 +1171,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "EB Gogo Swing",
@@ -1182,7 +1181,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "c2": "EB Swing",
-        "c5": "Back Swing"
+        "p1": "Back Swing"
     },
     {
         "na": "Body Stall",
@@ -1267,7 +1266,7 @@
         "c1": "Forwards 180",
         "c2": "Swing 180",
         "c3": "Body Cross",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "180 Cross",
@@ -1278,7 +1277,7 @@
         "c1": "Forwards 180",
         "c2": "Swing 180",
         "c3": "Body Cross",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "180 EB",
@@ -1289,7 +1288,7 @@
         "c1": "Forwards 180",
         "c2": "Swing 180",
         "c3": "Body Cross",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "180 Toad",
@@ -1300,7 +1299,7 @@
         "c1": "Forwards 180",
         "c2": "Swing 180",
         "c3": "Leg Cross",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "180 Inverse Toad",
@@ -1311,7 +1310,7 @@
         "c1": "Forwards 180",
         "c2": "Swing 180",
         "c3": "Leg Cross",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "180 Leg Over",
@@ -1322,7 +1321,7 @@
         "c1": "Forwards 180",
         "c2": "Swing 180",
         "c3": "Leg Cross",
-        "c5": "Front Swing"
+        "p1": "Front Swing"
     },
     {
         "na": "Dive 180",
@@ -1432,7 +1431,7 @@
         "vi": 833937119,
         "c1": "Backwards 180",
         "c2": "Texan 180",
-        "c5": "Back Swing",
+        "p1": "Back Swing",
         "nn": "BW Texan 180"
     },
     {
@@ -1443,7 +1442,7 @@
         "vi": 833937040,
         "c1": "Backwards 180",
         "c2": "Texan 180",
-        "c5": "Back Swing",
+        "p1": "Back Swing",
         "nn": "BW Crossed Texan 180"
     },
     {
@@ -1758,7 +1757,7 @@
         "ca": "Direction Change",
         "vi": "COMING SOON",
         "c1": "Half Turn",
-        "c2": "Dive in"
+        "p1": "Dive in"
     },
     {
         "na": "Leg Hook Half Turn",
@@ -1782,7 +1781,7 @@
         "vi": "COMING SOON",
         "c1": "Half Turn",
         "c2": "Leg Hook",
-        "c4": "Dive in"
+        "p1": "Dive in"
     },
     {
         "na": "Dive Inverse Leg Hook Half Turn",
@@ -1790,7 +1789,7 @@
         "vi": "COMING SOON",
         "c1": "Half Turn",
         "c2": "Leg Hook",
-        "c4": "Dive in"
+        "p1": "Dive in"
     },
     {
         "na": "Full Turn",
@@ -2538,7 +2537,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Inverse Toad Gogo Release",
@@ -2549,7 +2548,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Toad Awesome Annie Release",
@@ -2560,7 +2559,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Leg Over Awesome Annie Release (double rotation)",
@@ -2571,7 +2570,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Inverse Toad Awesome Annie Release",
@@ -2582,7 +2581,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Inverse Leg Over Awesome Annie Release (double rotation)",
@@ -2593,7 +2592,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Elephant Awesome Annie Release",
@@ -2604,7 +2603,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Inverse Toad Gogo Awesome Annie Release",
@@ -2616,7 +2615,7 @@
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "c4": "Awesome Annie",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Toad Knot Release (double rotation)",
@@ -2627,7 +2626,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Knot Cross",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Inverse Toad Knot Release (double rotation)",
@@ -2638,7 +2637,7 @@
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Knot Cross",
-        "c5": "No Swing Release"
+        "p1": "No Swing Release"
     },
     {
         "na": "Wrist Pop Release",
@@ -2647,7 +2646,7 @@
         "ca": "Releases",
         "vi": 833622893,
         "c1": "Mic Release",
-        "c5": "Wrist Pop Release",
+        "p1": "Wrist Pop Release",
         "nn": "Mic Release"
     },
     {
@@ -2657,7 +2656,7 @@
         "ca": "Releases",
         "vi": 833581037,
         "c1": "Mic Release",
-        "c5": "Box Swing Release",
+        "p1": "Box Swing Release",
         "nn": "Mic Release"
     },
     {
@@ -2667,7 +2666,7 @@
         "ca": "Releases",
         "vi": 833637660,
         "c1": "Mic Release",
-        "c5": "Wrist Swing Release",
+        "p1": "Wrist Swing Release",
         "nn": "Mic Release"
     },
     {
@@ -2678,8 +2677,7 @@
         "vi": 833624443,
         "c1": "Mic Release",
         "c2": "Gogo Swing",
-        "c3": "/ca",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "EB Gogo Leg Over Swing Release",
@@ -2690,7 +2688,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "EB Gogo Inverse Leg Over Swing Release",
@@ -2701,7 +2699,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "Leg Over Swing Release",
@@ -2711,7 +2709,7 @@
         "vi": 833635752,
         "c1": "Mic Release",
         "c2": "Leg Swing",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "Inverse Leg Over Swing Release",
@@ -2721,7 +2719,7 @@
         "vi": 833625001,
         "c1": "Mic Release",
         "c2": "Leg Swing",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "Tucked Leg Over Swing Release",
@@ -2731,7 +2729,7 @@
         "vi": 833637144,
         "c1": "Mic Release",
         "c2": "Leg Swing",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "Inverse Tucked Leg Over Swing Release",
@@ -2741,7 +2739,7 @@
         "vi": 833626399,
         "c1": "Mic Release",
         "c2": "Leg Swing",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "Toad Gogo Swing Release",
@@ -2752,7 +2750,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "Inverse Toad Gogo Swing Release",
@@ -2763,7 +2761,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
-        "c5": "Wrist Swing Release"
+        "p1": "Wrist Swing Release"
     },
     {
         "na": "EB Gogo Wrist Pop Release",
@@ -2773,7 +2771,7 @@
         "vi": 833622249,
         "c1": "Mic Release",
         "c2": "Gogo Swing",
-        "c5": "Wrist Pop Release"
+        "p1": "Wrist Pop Release"
     },
     {
         "na": "Toad Swing Release",
@@ -2783,7 +2781,7 @@
         "vi": 833584148,
         "c1": "Mic Release",
         "c2": "Leg Swing",
-        "c5": "Box Swing Release"
+        "p1": "Box Swing Release"
     },
     {
         "na": "EB Swing Release",
@@ -2793,7 +2791,7 @@
         "vi": "COMING SOON",
         "c1": "Mic Release",
         "c2": "EB Swing",
-        "c5": "Box Swing Release"
+        "p1": "Box Swing Release"
     },
     {
         "na": "Dive EB Swing Release",
@@ -2802,8 +2800,8 @@
         "vi": "COMING SOON",
         "c1": "Mic Release",
         "c2": "EB Swing",
-        "c3": "Dive in",
-        "c5": "Box Swing Release"
+        "p1": "Box Swing Release",
+        "p2": "Dive in"
     },
     {
         "na": "Inverse Toad Swing Release",
@@ -2813,7 +2811,7 @@
         "vi": 833582352,
         "c1": "Mic Release",
         "c2": "Leg Swing",
-        "c5": "Box Swing Release"
+        "p1": "Box Swing Release"
     },
     {
         "na": "Cross Arm Wrap Release",
