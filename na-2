@@ -1,6685 +1,6685 @@
 [
     {
         "na": "Single Bounce",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833099743,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Double Bounce",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833065423,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Twister",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833066999,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Twister (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833066987,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Skier",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833066969,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Skier (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833066952,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Bell",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833065400,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Bell (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833065373,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Side Straddle",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833066928,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Side Straddle (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833066895,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Forward Straddle",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833065486,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Forward Straddle (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833065446,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Forward Straddle (alternating)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833065465,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Scissors",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833065515,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Scissors (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833065500,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "X-Motion",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833068409,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "X-Motion (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833067020,
         "sc": "Bilateral Footwork"
     },
     {
         "na": "Single Leg Jumps",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833073570,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front Tap",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833071640,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Side Tap",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833071678,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back Tap",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833071552,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Cross Over",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833071608,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Cross Behind",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833071579,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Knee Raise",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833073485,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Leg Raise",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833073530,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Side Raise",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833073549,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Kick Back",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833073438,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front Tap (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833071624,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Side Tap (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833071654,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back Tap (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833071508,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Cross Over (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833071590,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Knee Raise (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833073458,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Leg Raise (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833073505,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Side Raise (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Kick Back (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833073379,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Single Leg Jumps (2-2)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095732,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Single Leg Jumps (1-2-1)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Alternating Step",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833087711,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front Taps (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089991,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front Taps (double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833090004,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front Taps (alternating double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089956,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front Taps (alternating)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089980,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Side Taps (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095700,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Side Taps (double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095720,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Side Taps (alternating double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095626,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Side Taps (alternating)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095669,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back Taps (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833087775,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back Taps (double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833087790,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back Taps (alternating double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833087741,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back Taps (alternating)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833087755,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Knee Raises (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095549,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Knee Raises (double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095575,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Knee Raises (alternating double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095483,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Knee Raises (alternating)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095516,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Leg Raises (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833095599,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Kick Backs (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089530,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Kick Backs (double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089576,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Kick Backs (alternating double)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089497,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Kick Backs (alternating)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089511,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front to Back",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833090074,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front to Back (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833090027,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Front to Back (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833090053,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back to Front",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833089479,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back to Front (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089430,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Back to Front (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833089467,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Boxer Step",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833068827,
         "sc": "Compound Footwork"
     },
     {
         "na": "Boxer Step (with Side Taps)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833068804,
         "sc": "Compound Footwork"
     },
     {
         "na": "Boxer Step (with Back Taps)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833068774,
         "sc": "Compound Footwork"
     },
     {
         "na": "Can Can",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833089924,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Can Can (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Can Can (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Unilateral Footwork"
     },
     {
         "na": "High Knee Cross Over",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833095439,
         "sc": "Unilateral Footwork"
     },
     {
         "na": "High Knee Cross Over (to Side Straddle)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833075643,
         "sc": "Compound Footwork"
     },
     {
         "na": "High Knee Side Straddle",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833076954,
         "sc": "Compound Footwork"
     },
     {
         "na": "High Knee Side Straddle (4 count)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833076858,
         "sc": "Compound Footwork"
     },
     {
         "na": "High Knee Side Straddle (both sides)",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "V",
         "vi": 833076926,
         "sc": "Compound Footwork"
     },
     {
         "na": "Swing Kick",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Unilateral Footwork"
     },
     {
         "na": "Running Man Shuffle",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833068718,
         "sc": "Compound Footwork"
     },
     {
         "na": "Reverse Running Man Shuffle",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833068904,
         "sc": "Compound Footwork"
     },
     {
         "na": "Front to Back Shuffle",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833068859,
         "sc": "Compound Footwork"
     },
     {
         "na": "Heel Tap Shuffle",
-        "ca": "Footwork",
+        "ca": "F",
         "ty": "S",
         "vi": 833068883,
         "sc": "Compound Footwork"
     },
     {
         "na": "Cross",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832778321,
         "sc": "Body Cross"
     },
     {
         "na": "EB",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832786139,
         "sc": "Body Cross"
     },
     {
         "na": "EB (EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832786088,
         "sc": "Body Cross"
     },
     {
         "na": "Dive EB",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832785547,
         "sc": "Body Cross"
     },
     {
         "na": "Dive EB (EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832784265,
         "sc": "Body Cross"
     },
     {
         "na": "TS",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832787931,
         "sc": "Body Cross"
     },
     {
         "na": "Neck Cross",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Body Cross"
     },
     {
         "na": "Neck EB",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Body Cross"
     },
     {
         "na": "Neck EB (EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Body Cross"
     },
     {
         "na": "Dive Neck EB",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Body Cross"
     },
     {
         "na": "Dive Neck EB (EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Body Cross"
     },
     {
         "na": "Double Neck Cross",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Body Cross"
     },
     {
         "na": "Cross (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832782502,
         "sc": "Body Cross"
     },
     {
         "na": "Cross to Open (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832782526,
         "sc": "Body Cross"
     },
     {
         "na": "EB (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832786458,
         "sc": "Body Cross"
     },
     {
         "na": "Swing to EB (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832786516,
         "sc": "Body Cross"
     },
     {
         "na": "EB to Open (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832786488,
         "sc": "Body Cross"
     },
     {
         "na": "TS (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832790405,
         "sc": "Body Cross"
     },
     {
         "na": "TS to Open (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832790383,
         "sc": "Body Cross"
     },
     {
         "na": "Neck Cross (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Body Cross"
     },
     {
         "na": "Neck EB (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Body Cross"
     },
     {
         "na": "Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832944926,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832947404,
         "sc": "Leg Cross"
     },
     {
         "na": "Elephant",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832949253,
         "sc": "Leg Cross"
     },
     {
         "na": "Leg Over",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832945940,
         "sc": "Leg Cross"
     },
     {
         "na": "Leg Over (Swing Cross out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832945896,
         "sc": "Leg Cross"
     },
     {
         "na": "Leg Over (Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832945927,
         "sc": "Leg Cross"
     },
     {
         "na": "Leg Over to Open",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832946518,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse Leg Over",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832947864,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse Leg Over (Swing Cross out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832947854,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse Leg Over (Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Cross"
     },
     {
         "na": "EB Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832951399,
         "sc": "Leg Cross"
     },
     {
         "na": "EB Toad (EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832951361,
         "sc": "Leg Cross"
     },
     {
         "na": "EB Toad (Toad Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832951387,
         "sc": "Leg Cross"
     },
     {
         "na": "EB Toad (Toad Swing in, EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832951372,
         "sc": "Leg Cross"
     },
     {
         "na": "Dive EB Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832949774,
         "sc": "Leg Cross"
     },
     {
         "na": "Dive EB Toad (EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832949749,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse EB Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832948430,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse EB Toad (EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832948388,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse EB Toad (Inverse Toad Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832948415,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse EB Toad (Inverse Toad Swing in, EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832948953,
         "sc": "Leg Cross"
     },
     {
         "na": "Dive Inverse EB Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832950379,
         "sc": "Leg Cross"
     },
     {
         "na": "Dive Inverse EB Toad (EB Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832949788,
         "sc": "Leg Cross"
     },
     {
         "na": "Neck Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832944908,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse Neck Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832946842,
         "sc": "Leg Cross"
     },
     {
         "na": "Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832944952,
         "sc": "Leg Cross"
     },
     {
         "na": "Toad to Open (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832944937,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832947421,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse Toad to Open (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832947434,
         "sc": "Leg Cross"
     },
     {
         "na": "Elephant (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832949272,
         "sc": "Leg Cross"
     },
     {
         "na": "Elephant to Open (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832949285,
         "sc": "Leg Cross"
     },
     {
         "na": "Leg Over (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832945969,
         "sc": "Leg Cross"
     },
     {
         "na": "Leg Over to Cross (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832945956,
         "sc": "Leg Cross"
     },
     {
         "na": "EB Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832950534,
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse EB Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832948443,
         "sc": "Leg Cross"
     },
     {
         "na": "Neck Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Cross"
     },
     {
         "na": "Inverse Neck Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Cross"
     },
     {
         "na": "Ground Stall",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Caboose",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Caboose (Ground Stall in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832941415,
         "sc": "Ground Cross"
     },
     {
         "na": "Caboose (L.T. Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Open Caboose",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Open Caboose (Ground Stall in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Open Caboose (LT Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "AS",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832938823,
         "sc": "Ground Cross"
     },
     {
         "na": "AS (Ground Stall in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832938783,
         "sc": "Ground Cross"
     },
     {
         "na": "CL",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832941441,
         "sc": "Ground Cross"
     },
     {
         "na": "CL (Ground Stall in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832941430,
         "sc": "Ground Cross"
     },
     {
         "na": "Neck AS",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Neck AS (AS Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "AS Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832938973,
         "sc": "Ground Cross"
     },
     {
         "na": "AS Toad (AS Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832938884,
         "sc": "Ground Cross"
     },
     {
         "na": "AS Toad (Toad Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832938937,
         "sc": "Ground Cross"
     },
     {
         "na": "AS Toad (Toad Swing in, AS Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832938913,
         "sc": "Ground Cross"
     },
     {
         "na": "Dive AS Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Dive AS Toad (AS Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Inverse AS Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Inverse AS Toad (AS Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Caboose (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Open Caboose (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "AS (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "AS to Open (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "CL (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "CL to Open (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Neck AS (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "AS Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "Inverse AS Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Ground Cross"
     },
     {
         "na": "T-Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 833062470,
         "sc": "Tucked Cross"
     },
     {
         "na": "T-Toad (Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 833062543,
         "sc": "Tucked Cross"
     },
     {
         "na": "T-Toad to Open",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 833062575,
         "sc": "Tucked Cross"
     },
     {
         "na": "T-Toad to Open (Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 833062522,
         "sc": "Tucked Cross"
     },
     {
         "na": "Inverse T-Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 833059836,
         "sc": "Tucked Cross"
     },
     {
         "na": "Inverse T-Toad (No Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 833059808,
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked EB",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tummy Tuck",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked AS Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked Inverse AS Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked Leg Over",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked Inverse Leg Over",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked Toad 'Awesome Annie'",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked Leg Over 'Awesome Annie'",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked Inverse Toad 'Awesome Annie'",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked Inverse Leg Over 'Awesome Annie'",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "T-Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 833062590,
         "sc": "Tucked Cross"
     },
     {
         "na": "Inverse T-Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 833059859,
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked EB (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tummy Tuck (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked AS Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Tucked Inverse AS Toad (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Tucked Cross"
     },
     {
         "na": "Cross Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "EB Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "EB Gogo (EB Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "EB Gogo (from TS)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "Toad Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832938230,
         "sc": "Gogo Cross"
     },
     {
         "na": "Toad Gogo (Toad Wrist Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832938211,
         "sc": "Gogo Cross"
     },
     {
         "na": "Toad Gogo (Toad Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832938182,
         "sc": "Gogo Cross"
     },
     {
         "na": "Inverse Toad Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832935188,
         "sc": "Gogo Cross"
     },
     {
         "na": "Inverse Toad Gogo (Inverse Toad Wrist Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832935168,
         "sc": "Gogo Cross"
     },
     {
         "na": "Inverse Toad Gogo (Inverse Toad Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832935142,
         "sc": "Gogo Cross"
     },
     {
         "na": "Inverse Toad Gogo (consecutively)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832936377,
         "sc": "Gogo Cross"
     },
     {
         "na": "Leg Over Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "Leg Over Gogo (Leg Over Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "Leg Over Gogo (EB Leg Over Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "AS Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "AS Gogo (AS Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "AS Gogo (from CL)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "EB Leg Over Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "EB Leg Over Gogo (Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "EB Leg Over Gogo (EB Leg Over Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "EB Leg Over Gogo (Leg Over in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "EB Leg Over Gogo (Leg Over in, EB Leg Over Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "Neck Leg Over Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "Neck Leg Over Gogo (Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "AS Leg Over Gogo (Neck Leg Over Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "Leg Over Neck Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "Leg Over Neck Gogo (Awesome Annie in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "TL Gogo (TL Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "TL Gogo (LT Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "TL Gogo (TL. Swing out)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "LI Gogo",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "LI Gogo (Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "LI Gogo (from Inverse Toad Gogo)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Cross"
     },
     {
         "na": "Toad Knot",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "Toad Knot (Toad Gogo in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "Toad Knot (Toad in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "Toad Knot (Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "Toad Knot (Toad Wrist Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "Inverse Toad Knot",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 832943635,
         "sc": "Knot Cross"
     },
     {
         "na": "Inverse Toad Knot (from Inverse Toad)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832942565,
         "sc": "Knot Cross"
     },
     {
         "na": "Inverse Toad Knot (Inverse Toad Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832942615,
         "sc": "Knot Cross"
     },
     {
         "na": "Inverse Toad Knot (Inverse Toad Wrist Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": 832942634,
         "sc": "Knot Cross"
     },
     {
         "na": "EB Knot (EB in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "EB Knot (Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "EB Knot (Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "AS Knot (Gogo Swing in)",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "EB Toad Knot",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "Inverse EB Toad Knot",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "AS Toad Knot",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "Inverse AS Toad Knot",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Knot Cross"
     },
     {
         "na": "Toad Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "Leg Over Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "EB Toad Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "Inverse EB Toad Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "Inverse Toad Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "Elephant Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "T-Toad Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "Inverse T-Toad Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "Inverse Toad Gogo Rocker",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Inverse Bound"
     },
     {
         "na": "Switch Cross",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": 833058341,
         "sc": "Switch Cross"
     },
     {
         "na": "Switch EB",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Switch Cross"
     },
     {
         "na": "Switch TS",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Switch Cross"
     },
     {
         "na": "Switch Toad",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Switch Cross"
     },
     {
         "na": "Switch Elephant",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Switch Cross"
     },
     {
         "na": "Switch Leg Over",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Switch Cross"
     },
     {
         "na": "Switch Caboose",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Switch Cross"
     },
     {
         "na": "Switch AS",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Switch Cross"
     },
     {
         "na": "Switch CL",
-        "ca": "Crosses",
+        "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Switch Cross"
     },
     {
         "na": "Wrist Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833105008,
         "sc": "Foundational Swing"
     },
     {
         "na": "Box Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833238114,
         "sc": "Foundational Swing"
     },
     {
         "na": "Double Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833240537,
         "sc": "Foundational Swing"
     },
     {
         "na": "Double Swing (consecutively)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Foundational Swing"
     },
     {
         "na": "Double Swing (same side)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Foundational Swing"
     },
     {
         "na": "Double Swing (same side, consecutively)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Foundational Swing"
     },
     {
         "na": "EB Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833238091,
         "sc": "EB Swing"
     },
     {
         "na": "Dive EB Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "EB Swing"
     },
     {
         "na": "Toad Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833241072,
         "sc": "Leg Swing"
     },
     {
         "na": "Toad Wrist Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833241107,
         "sc": "Leg Swing"
     },
     {
         "na": "Inverse Toad Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833240841,
         "sc": "Leg Swing"
     },
     {
         "na": "Inverse Toad Wrist Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833240873,
         "sc": "Leg Swing"
     },
     {
         "na": "Leg Over Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833240927,
         "sc": "Leg Swing"
     },
     {
         "na": "Leg Over Swing (Swing Cross out)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833240902,
         "sc": "Leg Swing"
     },
     {
         "na": "Inverse Leg Over Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833240815,
         "sc": "Leg Swing"
     },
     {
         "na": "Inverse Leg Over Swing (Swing Cross out)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833240735,
         "sc": "Leg Swing"
     },
     {
         "na": "EB Leg Over Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 832950520,
         "sc": "EB Swing"
     },
     {
         "na": "Inverse EB Leg Over Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "EB Swing"
     },
     {
         "na": "AS Leg Over Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 832938854,
         "sc": "Leg Swing"
     },
     {
         "na": "Inverse AS Leg Over Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Swing"
     },
     {
         "na": "LT Wrist Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833241041,
         "sc": "Leg Swing"
     },
     {
         "na": "LT Wrist Swing (Swing Cross out)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833241006,
         "sc": "Leg Swing"
     },
     {
         "na": "LT Box Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833240960,
         "sc": "Leg Swing"
     },
     {
         "na": "LT Swing to Leg Over",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246432,
         "sc": "Leg Swing"
     },
     {
         "na": "LT Swing to Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246462,
         "sc": "Leg Swing"
     },
     {
         "na": "Toad Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833255269,
         "sc": "Awesome Annie"
     },
     {
         "na": "Leg Over Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833267942,
         "sc": "Awesome Annie"
     },
     {
         "na": "Inverse Toad Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833254947,
         "sc": "Awesome Annie"
     },
     {
         "na": "Inverse Leg Over Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833254868,
         "sc": "Awesome Annie"
     },
     {
         "na": "Elephant Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833254811,
         "sc": "Awesome Annie"
     },
     {
         "na": "Toad Awesome Annie (consecutively)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833255167,
         "sc": "Awesome Annie"
     },
     {
         "na": "Leg Over Awesome Annie (consecutively)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833254978,
         "sc": "Awesome Annie"
     },
     {
         "na": "EB Toad Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833254761,
         "sc": "Awesome Annie"
     },
     {
         "na": "EB Toad Awesome Annie (Toad Swing in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833254718,
         "sc": "Awesome Annie"
     },
     {
         "na": "Dive EB Toad Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833254504,
         "sc": "Awesome Annie"
     },
     {
         "na": "Inverse EB Toad Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Awesome Annie"
     },
     {
         "na": "Inverse EB Toad Awesome Annie (Toad Swing in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Awesome Annie"
     },
     {
         "na": "Dive Inverse EB Toad Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Awesome Annie"
     },
     {
         "na": "EB Leg Over Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833254684,
         "sc": "Awesome Annie"
     },
     {
         "na": "Toad Gogo Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Awesome Annie"
     },
     {
         "na": "Inverse Toad Gogo Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 832936278,
         "sc": "Awesome Annie"
     },
     {
         "na": "Toad Awesome Annie (from Toad Gogo Swing)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833255220,
         "sc": "Awesome Annie"
     },
     {
         "na": "Inverse Toad Awesome Annie (from Inverse Toad Gogo Swing)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833254901,
         "sc": "Awesome Annie"
     },
     {
         "na": "Leg Over Awesome Annie (from Leg Over Gogo Swing)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833255018,
         "sc": "Awesome Annie"
     },
     {
         "na": "Inverse Leg Over Awesome Annie (from Inverse Leg Over Gogo Swing)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833254836,
         "sc": "Awesome Annie"
     },
     {
         "na": "Neck Toad Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833255120,
         "sc": "Awesome Annie"
     },
     {
         "na": "Inverse Neck Toad Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Awesome Annie"
     },
     {
         "na": "Leg Over Neck Awesome Annie",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": 833255079,
         "sc": "Awesome Annie"
     },
     {
         "na": "Toad Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "Inverse Toad Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "Leg Over Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "Leg Over Gogo Swing (Swing Cross out)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "Inverse Leg Over Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "Inverse Leg Over Gogo Swing (Swing Cross out)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "EB Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "EB Swing to TS",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246144,
         "sc": "Foundational Swing"
     },
     {
         "na": "EB Swing to TS (Open in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246114,
         "sc": "Foundational Swing"
     },
     {
         "na": "Swing to Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833245869,
         "sc": "Foundational Swing"
     },
     {
         "na": "Toad Swing to Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246564,
         "sc": "Leg Swing"
     },
     {
         "na": "Swing to Inverse Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833245682,
         "sc": "Foundational Swing"
     },
     {
         "na": "Inverse Toad Swing to Inverse Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246327,
         "sc": "Leg Swing"
     },
     {
         "na": "Swing to Leg Over",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246650,
         "sc": "Foundational Swing"
     },
     {
         "na": "Swing to Leg Over (opposite side)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246620,
         "sc": "Foundational Swing"
     },
     {
         "na": "Leg Over Swing to Leg Over",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246396,
         "sc": "Leg Swing"
     },
     {
         "na": "EB Leg Over Swing to Leg Over",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833245991,
         "sc": "Leg Swing"
     },
     {
         "na": "EB Leg Over Swing to Switch Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246021,
         "sc": "Leg Swing"
     },
     {
         "na": "EB Leg Over Swing to T-Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246075,
         "sc": "Leg Swing"
     },
     {
         "na": "Swing to Elephant",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246591,
         "sc": "Foundational Swing"
     },
     {
         "na": "Toad Swing to Elephant",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246500,
         "sc": "Leg Swing"
     },
     {
         "na": "Inverse Toad Swing to Elephant",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246266,
         "sc": "Leg Swing"
     },
     {
         "na": "Toad Gogo EB Swing to Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "Toad Gogo EB Swing to Elephant",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Swing"
     },
     {
         "na": "Inverse Toad Gogo EB Swing to Inverse Toad",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246219,
         "sc": "Gogo Swing"
     },
     {
         "na": "Inverse Toad Gogo EB Swing to Elephant",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833246183,
         "sc": "Gogo Swing"
     },
     {
         "na": "AS Swing to AS (Swing in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Swing"
     },
     {
         "na": "AS Swing to AS (Open in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Swing"
     },
     {
         "na": "EB Swing to CL (Swing in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Foundational Swing"
     },
     {
         "na": "EB Swing to CL (Open in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Foundational Swing"
     },
     {
         "na": "AS Swing to CL (Swing in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Swing"
     },
     {
         "na": "AS Swing to CL (Open in)",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Swing"
     },
     {
         "na": "Swing to Caboose",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Foundational Swing"
     },
     {
         "na": "Toad Swing to Caboose",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Swing"
     },
     {
         "na": "LT Swing to Caboose",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Swing"
     },
     {
         "na": "O.H. Toad Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833243616,
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Inverse Toad Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833243509,
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Leg Over Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833243554,
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Inverse Leg Over Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833243451,
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Toad Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833243582,
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Inverse Toad Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833243478,
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Leg Over Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833243530,
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Inverse Leg Over Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": 833243374,
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Toad D-Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Inverse Toad D-Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Leg Over D-Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Swing"
     },
     {
         "na": "O.H. Inverse Leg Over D-Gogo Swing",
-        "ca": "Swings",
+        "ca": "S",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Swing"
     },
     {
         "na": "Body Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833939714,
         "sc": "Contact Stall"
     },
     {
         "na": "Open Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833939907,
         "sc": "No Contact Stall"
     },
     {
         "na": "Between the Legs Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833939618,
         "sc": "No Contact Stall"
     },
     {
         "na": "Side Swing Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "No Contact Stall"
     },
     {
         "na": "Kick Back Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833939847,
         "sc": "Contact Stall"
     },
     {
         "na": "Foot Catch Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833939826,
         "sc": "Contact Stall"
     },
     {
         "na": "Backwards Body Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833939768,
         "sc": "Contact Stall"
     },
     {
         "na": "Backwards Open Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833939799,
         "sc": "No Contact Stall"
     },
     {
         "na": "Backwards Between the Legs Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833939746,
         "sc": "No Contact Stall"
     },
     {
         "na": "Backwards Side Swing Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "No Contact Stall"
     },
     {
         "na": "Backwards Kick Back",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Contact Stall"
     },
     {
         "na": "Backwards Foot Catch Stall",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Contact Stall"
     },
     {
         "na": "180 Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833938194,
         "sc": "Forwards 180"
     },
     {
         "na": "180 Cross",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937991,
         "sc": "Forwards 180"
     },
     {
         "na": "180 EB",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833938107,
         "sc": "Forwards 180"
     },
     {
         "na": "180 Toad",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833938167,
         "sc": "Forwards 180"
     },
     {
         "na": "180 Inverse Toad",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833938125,
         "sc": "Forwards 180"
     },
     {
         "na": "180 Leg Over",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833938143,
         "sc": "Forwards 180"
     },
     {
         "na": "Dive 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833938568,
         "sc": "Forwards 180"
     },
     {
         "na": "Cross 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Forwards 180"
     },
     {
         "na": "EB 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Forwards 180"
     },
     {
         "na": "TS 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Forwards 180"
     },
     {
         "na": "Backwards 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833936808,
         "sc": "Backwards 180"
     },
     {
         "na": "Backwards Cross 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Backwards 180"
     },
     {
         "na": "Backwards EB 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Backwards 180"
     },
     {
         "na": "Backwards Toad 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Backwards 180"
     },
     {
         "na": "Backwards Inverse Toad 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Backwards 180"
     },
     {
         "na": "Backwards Leg Over 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Backwards 180"
     },
     {
         "na": "Backwards Elephant 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Backwards 180"
     },
     {
         "na": "Backwards Texan 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937119,
         "sc": "Backwards 180"
     },
     {
         "na": "Backwards Cross Texan 180",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937040,
         "sc": "Backwards 180"
     },
     {
         "na": "360 Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937443,
         "sc": "360 Turn"
     },
     {
         "na": "Cross 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937464,
         "sc": "360 Turn"
     },
     {
         "na": "EB 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "TS 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Inverse Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Leg Over 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Inverse Leg Over 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Elephant 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "T-Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Inverse T-Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "EB Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Inverse EB Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "AS 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "CL 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Caboose 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Turn"
     },
     {
         "na": "Dive 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937763,
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Cross 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937784,
         "sc": "Dive Turn"
     },
     {
         "na": "Dive EB 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive TS 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Inverse Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Leg Over 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Inverse Leg Over 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Elephant 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive T-Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Inverse T-Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive EB Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Inverse EB Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive AS 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive CL 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Caboose 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Cross 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": 833937810,
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing EB 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing TS 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Inverse Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Leg Over 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Inverse Leg Over 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Elephant 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing T-Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Inverse T-Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing EB Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Inverse EB Toad 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing AS 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing CL 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Dive Swing Caboose 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Dive Turn"
     },
     {
         "na": "Leg Hook 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Hook Turn"
     },
     {
         "na": "Leg Hook 360 (Counter)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Hook Turn"
     },
     {
         "na": "Inverse Leg Hook 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Hook Turn"
     },
     {
         "na": "Inverse Leg Hook 360 (Counter)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Hook Turn"
     },
     {
         "na": "Dive Leg Hook 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Hook Turn"
     },
     {
         "na": "Dive Leg Hook 360 (Counter)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Hook Turn"
     },
     {
         "na": "Dive Inverse Leg Hook 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Hook Turn"
     },
     {
         "na": "Dive Inverse Leg Hook 360 (Counter)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Hook Turn"
     },
     {
         "na": "Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937845,
         "sc": "Half Turn"
     },
     {
         "na": "Cross Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833937658,
         "sc": "Half Turn"
     },
     {
         "na": "Dive Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Leg Hook Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Leg Hook Half Turn (Counter)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Inverse Leg Hook Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Inverse Leg Hook Half Turn (Counter)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Dive Leg Hook Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Dive Leg C Hook Half Turn (Counter)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Dive Inverse Leg Hook Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Dive Inverse Leg Hook Half Turn (Counter)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Half Turn"
     },
     {
         "na": "Full Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Full Turn"
     },
     {
         "na": "Texan Full Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833941005,
         "sc": "Texan Turn"
     },
     {
         "na": "Texan Full Turn (on shoulders)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": 833940970,
         "sc": "Texan Turn"
     },
     {
         "na": "Crossed Texan Full Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Texan Turn"
     },
     {
         "na": "Texan 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833940950,
         "sc": "Texan Turn"
     },
     {
         "na": "Texan 360 (on shoulders)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": 833940899,
         "sc": "Texan Turn"
     },
     {
         "na": "Crossed Texan 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Texan Turn"
     },
     {
         "na": "Cross Texan 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833940830,
         "sc": "Texan Turn"
     },
     {
         "na": "Double Cross Texan 360",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Texan Turn"
     },
     {
         "na": "Texan Half Turn (3 count)",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833941111,
         "sc": "Texan Turn"
     },
     {
         "na": "Dragon Roll",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Texan Turn"
     },
     {
         "na": "Texan Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833941078,
         "sc": "Texan Turn"
     },
     {
         "na": "Cross Texan Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": 833940877,
         "sc": "Texan Turn"
     },
     {
         "na": "Crossed Texan Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Texan Turn"
     },
     {
         "na": "Double Cross Texan Half Turn",
-        "ca": "Direction Change",
+        "ca": "D",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Texan Turn"
     },
     {
         "na": "Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833649389,
         "sc": "Arm Wrap"
     },
     {
         "na": "Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833649045,
         "sc": "Arm Wrap"
     },
     {
         "na": "Wrist Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833670753,
         "sc": "Arm Wrap"
     },
     {
         "na": "Wrist Wrap (Swing)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833670520,
         "sc": "Arm Wrap"
     },
     {
         "na": "EB Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833655032,
         "sc": "Arm Wrap"
     },
     {
         "na": "EB Arm Wrap (EB Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833654685,
         "sc": "Arm Wrap"
     },
     {
         "na": "EB Arm Wrap (EB Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833654286,
         "sc": "Arm Wrap"
     },
     {
         "na": "EB Arm Wrap (EB Swing in & out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833654026,
         "sc": "Arm Wrap"
     },
     {
         "na": "Dive EB Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833651896,
         "sc": "Arm Wrap"
     },
     {
         "na": "Dive EB Arm Wrap (EB Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833651646,
         "sc": "Arm Wrap"
     },
     {
         "na": "EB Arm Wrap (EB Leg Over Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Arm Wrap"
     },
     {
         "na": "Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833669512,
         "sc": "Arm Wrap"
     },
     {
         "na": "Toad Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833668829,
         "sc": "Arm Wrap"
     },
     {
         "na": "Inverse Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833664399,
         "sc": "Arm Wrap"
     },
     {
         "na": "Inverse Toad Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833663968,
         "sc": "Arm Wrap"
     },
     {
         "na": "Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833667567,
         "sc": "Arm Wrap"
     },
     {
         "na": "Leg Over Arm Wrap (EB Leg Over Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833665144,
         "sc": "Arm Wrap"
     },
     {
         "na": "Leg Over Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833666822,
         "sc": "Arm Wrap"
     },
     {
         "na": "Leg Over Arm Wrap (Swing Cross out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833666532,
         "sc": "Arm Wrap"
     },
     {
         "na": "Inverse Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Arm Wrap"
     },
     {
         "na": "Inverse Leg Over Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833662445,
         "sc": "Arm Wrap"
     },
     {
         "na": "Inverse Leg Over Arm Wrap (Swing Cross out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833662020,
         "sc": "Arm Wrap"
     },
     {
         "na": "Neck Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Arm Wrap"
     },
     {
         "na": "AS Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Arm Wrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833660518,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Arm Wrap (EB Leg Over Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833660086,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Dive EB Gogo Inverse Leg Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833652340,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB Gogo Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833661631,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB Gogo Leg Over Arm Wrap (Inverse EB Leg Over Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Dive EB Gogo Leg Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833652980,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Toad Arm Wrap (EB Gogo Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Toad Arm Wrap (EB Gogo Inverse Toad Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap (EB Gogo swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap (EB Gogo Toad Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "EB Gogo Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833737344,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Dive EB Gogo Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833736776,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Toad Gogo Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833759508,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Toad Gogo Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833757593,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Toad Gogo Arm Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833756874,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Inverse Toad Gogo Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833750907,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Inverse Toad Gogo Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833750359,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Inverse Toad Gogo Arm Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833747760,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Leg Over Gogo Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833755614,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Leg Over Gogo Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833754925,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Leg Over Gogo Arm Wrap (Swing Cross out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833754026,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Leg Over Gogo Arm Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833752869,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833747047,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833743393,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap (Swing Cross out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833739406,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833737582,
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Neck Gogo Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "AS Gogo Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Gogo Arm Wrap"
     },
     {
         "na": "Toad Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833936430,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Toad Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833936283,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Inverse Toad Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833936156,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Inverse Toad Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "Leg Over Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833936245,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Leg Over Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833936192,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Inverse Leg Over Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833936100,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Inverse Leg Over Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833936033,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Tucked Leg Over Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833936545,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Tucked Leg Over Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833936511,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Tucked Inverse Leg Over Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833936487,
         "sc": "Thigh Wrap"
     },
     {
         "na": "Tucked Inverse Leg Over Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833936454,
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB D-Gogo Toad Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB D-Gogo Toad Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Thigh Wrap"
     },
     {
         "na": "EB Leg Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "EB Leg Wrap (EB Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "EB Leg Wrap (EB Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Dive EB Leg Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Dive EB Leg Wrap (EB Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Toad Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833934288,
         "sc": "Leg Wrap"
     },
     {
         "na": "Toad Wrap (Toad Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833934239,
         "sc": "Leg Wrap"
     },
     {
         "na": "Toad Wrap (Toad Wrist Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833934263,
         "sc": "Leg Wrap"
     },
     {
         "na": "Toad Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833934136,
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse Toad Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833933901,
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse Toad Wrap (Inverse Toad Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933850,
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse Toad Wrap (Inverse Toad Wrist Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933872,
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse Toad Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933753,
         "sc": "Leg Wrap"
     },
     {
         "na": "Leg Over Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833934075,
         "sc": "Leg Wrap"
     },
     {
         "na": "Leg Over Wrap (Leg Over Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833934020,
         "sc": "Leg Wrap"
     },
     {
         "na": "Leg Over Wrap (EB Leg Over Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933951,
         "sc": "Leg Wrap"
     },
     {
         "na": "Leg Over Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933926,
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse Leg Over Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833933628,
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse Leg Over Wrap (Inverse Leg Over Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933602,
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse Leg Over Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933581,
         "sc": "Leg Wrap"
     },
     {
         "na": "EB Toad Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833933560,
         "sc": "Leg Wrap"
     },
     {
         "na": "EB Toad Wrap (Toad Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933541,
         "sc": "Leg Wrap"
     },
     {
         "na": "EB Toad Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833933452,
         "sc": "Leg Wrap"
     },
     {
         "na": "Dive EB Toad Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Dive EB Toad Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse EB Toad Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse EB Toad Wrap (Inverse Toad Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse EB Toad Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Dive Inverse EB Toad Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Dive Inverse EB Toad Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "T-Toad Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Inverse T-Toad Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "AS Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "AS Wrap (Open in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "AS Wrap (AS Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "TS Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "TS Wrap (EB Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "CL Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "CL Wrap (Open in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "CL Wrap (EB Swing in)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Caboose Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Caboose Tucked Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Leg Wrap"
     },
     {
         "na": "Toad Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Toad Step Through Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Toad Swing Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Toad Swing Step Through Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Leg Over Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Leg Over Step Through Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Leg Over Swing Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Leg Over Swing Step Through Wrap (Awesome Annie out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Double Toad Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Double Leg Over Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Toad Step Through Wrap Release",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Toad Swing Step Through Wrap Release",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Step-Through Wrap"
     },
     {
         "na": "Double Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double Wrist Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double EB Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double Dive EB Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double Inverse Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double EB Gogo Wrist Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double EB Gogo Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double EB Gogo Inverse Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double EB D-Gogo Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Double EB D-Gogo Inverse Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Wrap"
     },
     {
         "na": "Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833649616,
         "sc": "180 Unwrap"
     },
     {
         "na": "EB Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833639543,
         "sc": "180 Unwrap"
     },
     {
         "na": "Dive EB Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833639256,
         "sc": "180 Unwrap"
     },
     {
         "na": "Toad Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833644078,
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Toad Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833641578,
         "sc": "180 Unwrap"
     },
     {
         "na": "Leg Over Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833642571,
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Leg Over Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833640978,
         "sc": "180 Unwrap"
     },
     {
         "na": "EB Gogo Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833639781,
         "sc": "180 Unwrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833640295,
         "sc": "180 Unwrap"
     },
     {
         "na": "EB Gogo Leg Over Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833640656,
         "sc": "180 Unwrap"
     },
     {
         "na": "EB D-Gogo Toad Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Toad Gogo Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833644309,
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Toad Gogo Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833641842,
         "sc": "180 Unwrap"
     },
     {
         "na": "Leg Over Gogo Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833642943,
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Toad Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Toad Thigh Wrap 180 (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833644616,
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Toad Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Toad Thigh Wrap 180 (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833642229,
         "sc": "180 Unwrap"
     },
     {
         "na": "Leg Over Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Leg Over Thigh Wrap 180  (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833643715,
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Leg Over Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Leg Over Thigh Wrap 180 (Swing out)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833641285,
         "sc": "180 Unwrap"
     },
     {
         "na": "Tucked Leg Over Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Tucked Inverse Leg Over Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "EB D Gogo Toad Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "EB D Gogo Inverse Toad Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "EB Leg Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Dive EB Leg Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Toad Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Toad Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Leg Over Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse Leg Over Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "EB Toad Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse EB Toad Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "T-Toad Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Inverse T-Toad Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "AS Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "TS Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "CL Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Caboose Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Caboose Tucked Wrap 180",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "180 Unwrap"
     },
     {
         "na": "Toad Wrap (Gogo Unwrap)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Unwrap"
     },
     {
         "na": "Inverse Toad Wrap (Gogo Unwrap)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Unwrap"
     },
     {
         "na": "Leg Over Wrap (Gogo Unwrap)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Unwrap"
     },
     {
         "na": "Inverse Leg Over Wrap (Gogo Unwrap)",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Gogo Unwrap"
     },
     {
         "na": "Toad Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833930652,
         "sc": "Layered Wrap"
     },
     {
         "na": "Inverse Toad Wrap to Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833930465,
         "sc": "Layered Wrap"
     },
     {
         "na": "Leg Over Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833930554,
         "sc": "Layered Wrap"
     },
     {
         "na": "Inverse Leg Over Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Layered Wrap"
     },
     {
         "na": "EB Toad Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833930300,
         "sc": "Layered Wrap"
     },
     {
         "na": "Inverse EB Toad Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Layered Wrap"
     },
     {
         "na": "EB Leg Over Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Layered Wrap"
     },
     {
         "na": "T-Toad Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Layered Wrap"
     },
     {
         "na": "Inverse T-Toad Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Layered Wrap"
     },
     {
         "na": "TS Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": 833930684,
         "sc": "Layered Wrap"
     },
     {
         "na": "AS Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Layered Wrap"
     },
     {
         "na": "CL Wrap with Embedded Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Layered Wrap"
     },
     {
         "na": "O.H. Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935003,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Wrist Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935596,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935514,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Inverse Toad Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935293,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935409,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Inverse Leg Over Arm Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935108,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Toad Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935539,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Inverse Toad Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935325,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Leg Over Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935444,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Inverse Leg Over Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": 833935146,
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Toad Gogo Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Inverse Toad Gogo Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Leg Over Gogo Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Inverse Leg Over Gogo Thigh Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Toad Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Inverse Toad Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Leg Over Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "One-Handed Wrap"
     },
     {
         "na": "O.H. Inverse Leg Over Step Through Wrap",
-        "ca": "Wraps",
+        "ca": "W",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "One-Handed Wrap"
     },
     {
         "na": "Open Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833599468,
         "sc": "Vertical Release"
     },
     {
         "na": "Open Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833599225,
         "sc": "Vertical Release"
     },
     {
         "na": "Cross Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833594651,
         "sc": "Vertical Release"
     },
     {
         "na": "EB Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833594983,
         "sc": "Vertical Release"
     },
     {
         "na": "Toad Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833600764,
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse Toad Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833598284,
         "sc": "Vertical Release"
     },
     {
         "na": "Leg Over Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833598981,
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse Leg Over Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833595744,
         "sc": "Vertical Release"
     },
     {
         "na": "T-Toad Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833599781,
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse T-Toad Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833596113,
         "sc": "Vertical Release"
     },
     {
         "na": "Toad Gogo Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833600495,
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse Toad Gogo Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833597550,
         "sc": "Vertical Release"
     },
     {
         "na": "Toad Awesome Annie Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833600207,
         "sc": "Vertical Release"
     },
     {
         "na": "Leg Over Awesome Annie Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833598581,
         "sc": "Vertical Release"
     },
     {
         "na": "Leg Over Awesome Annie Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse Toad Awesome Annie Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833596524,
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse Toad Awesome Annie Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse Leg Over Awesome Annie Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Vertical Release"
     },
     {
         "na": "Elephant Awesome Annie Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833595398,
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse Toad Gogo Awesome Annie Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833597113,
         "sc": "Vertical Release"
     },
     {
         "na": "Toad Knot Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Vertical Release"
     },
     {
         "na": "Inverse Toad Knot Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Vertical Release"
     },
     {
         "na": "Wrist Pop Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833622893,
         "sc": "Mic Release"
     },
     {
         "na": "Wrist Pop Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833622524,
         "sc": "Mic Release"
     },
     {
         "na": "Box Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833581037,
         "sc": "Mic Release"
     },
     {
         "na": "Box Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833580874,
         "sc": "Mic Release"
     },
     {
         "na": "Wrist Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833637660,
         "sc": "Mic Release"
     },
     {
         "na": "Wrist Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833637412,
         "sc": "Mic Release"
     },
     {
         "na": "EB Gogo Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833624443,
         "sc": "Mic Release"
     },
     {
         "na": "EB Gogo Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833624169,
         "sc": "Mic Release"
     },
     {
         "na": "EB Gogo Leg Over Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "EB Gogo Leg Over Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "EB Gogo Inverse Leg Over Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833623941,
         "sc": "Mic Release"
     },
     {
         "na": "EB Gogo Inverse Leg Over Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833623533,
         "sc": "Mic Release"
     },
     {
         "na": "Leg Over Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833635752,
         "sc": "Mic Release"
     },
     {
         "na": "Leg Over Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833635470,
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Leg Over Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833625001,
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Leg Over Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833624759,
         "sc": "Mic Release"
     },
     {
         "na": "Tucked Leg Over Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833637144,
         "sc": "Mic Release"
     },
     {
         "na": "Tucked Leg Over Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833636776,
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Tucked Leg Over Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833626399,
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Tucked Leg Over Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833626005,
         "sc": "Mic Release"
     },
     {
         "na": "Toad Gogo Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833636410,
         "sc": "Mic Release"
     },
     {
         "na": "Toad Gogo Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833636014,
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Toad Gogo Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833625594,
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Toad Gogo Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833625253,
         "sc": "Mic Release"
     },
     {
         "na": "EB Gogo Wrist Pop Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833622249,
         "sc": "Mic Release"
     },
     {
         "na": "EB Gogo Wrist Pop Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833622004,
         "sc": "Mic Release"
     },
     {
         "na": "Toad Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833584148,
         "sc": "Mic Release"
     },
     {
         "na": "Toad Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "Toad Swing Release (wrist pop)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "Toad Swing Release (Awesome Annie out)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833582902,
         "sc": "Mic Release"
     },
     {
         "na": "EB Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "EB Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "Dive EB Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "Dive EB Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Toad Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833582352,
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Toad Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Toad Swing Release (wrist pop)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Mic Release"
     },
     {
         "na": "Inverse Toad Swing Release (Awesome Annie out)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833581319,
         "sc": "Mic Release"
     },
     {
         "na": "Cross Arm Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833609392,
         "sc": "Wrap Release"
     },
     {
         "na": "Cross Arm Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833608779,
         "sc": "Wrap Release"
     },
     {
         "na": "EB Arm Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833611993,
         "sc": "Wrap Release"
     },
     {
         "na": "EB Arm Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833611733,
         "sc": "Wrap Release"
     },
     {
         "na": "Dive EB Arm Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833610785,
         "sc": "Wrap Release"
     },
     {
         "na": "Dive EB Arm Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833610476,
         "sc": "Wrap Release"
     },
     {
         "na": "Toad Arm Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833616510,
         "sc": "Wrap Release"
     },
     {
         "na": "Toad Arm Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833615892,
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Toad Arm Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833613986,
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Toad Arm Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833613672,
         "sc": "Wrap Release"
     },
     {
         "na": "Leg Over Gogo Arm Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Leg Over Gogo Arm Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "EB Leg Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "EB Leg Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Dive EB Leg Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833611398,
         "sc": "Wrap Release"
     },
     {
         "na": "Dive EB Leg Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833611075,
         "sc": "Wrap Release"
     },
     {
         "na": "Toad Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833617511,
         "sc": "Wrap Release"
     },
     {
         "na": "Toad Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833617033,
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Toad Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833614704,
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Toad Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833614354,
         "sc": "Wrap Release"
     },
     {
         "na": "Leg Over Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Leg Over Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "EB Toad Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833612608,
         "sc": "Wrap Release"
     },
     {
         "na": "EB Toad Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833612270,
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse EB Toad Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse EB Toad Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "T-Toad Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833615364,
         "sc": "Wrap Release"
     },
     {
         "na": "T-Toad Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833615056,
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse T-Toad Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833613341,
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse T-Toad Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833612959,
         "sc": "Wrap Release"
     },
     {
         "na": "TS Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833618913,
         "sc": "Wrap Release"
     },
     {
         "na": "TS Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833617814,
         "sc": "Wrap Release"
     },
     {
         "na": "TS Wrap Release (EB Swing in)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833618456,
         "sc": "Wrap Release"
     },
     {
         "na": "TS Wrap Release (EB Swing in) (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833618066,
         "sc": "Wrap Release"
     },
     {
         "na": "AS Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "AS Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Dive AS Cross Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833610134,
         "sc": "Wrap Release"
     },
     {
         "na": "Dive AS Cross Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833609759,
         "sc": "Wrap Release"
     },
     {
         "na": "CL Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833608478,
         "sc": "Wrap Release"
     },
     {
         "na": "CL Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833608186,
         "sc": "Wrap Release"
     },
     {
         "na": "CL Wrap Release (EB Swing in)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "CL Wrap Release (EB Swing in) (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Toad Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Toad Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Leg Over Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Inverse Leg Over Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Tucked Leg Over Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Tucked Inverse Leg Over Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "EB D Gogo Toad Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "EB D Gogo Inverse Toad Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Wrap Release"
     },
     {
         "na": "Open Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Leg Over Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Leg Over Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Toad Gogo Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Toad Gogo Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Toad Awesome Annie Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Toad Awesome Annie Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Elephant Awesome Annie Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "EB Toad Awesome Annie Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse EB Toad Awesome Annie Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "EB Leg Over Swing Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "EB Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Toad Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Toad Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Elephant Floater to Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Elephant Floater to Inverse Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "EB Toad Floater to EB",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse EB Toad Floater to EB",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "T-Toad Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse T-Toad Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Leg Over Awesome Annie Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Toad Knot Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Toad Knot Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to EB",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to Inverse Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to T-Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to Inverse T-Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to Toad Awesome Annie",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to Toad Knot",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater to Inverse Toad Knot",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Toad Floater to Elephant",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Toad Floater to Elephant",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "EB Floater to EB Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "EB Floater to Inverse EB Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater Switch Cross (under over)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "EB Floater Switch Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Toad Floater Switch Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Toad Floater Switch Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "T-Toad Floater Switch Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse T-Toad Floater Switch Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Leg Over Awesome Annie Floater Switch Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Toad Knot Floater Switch Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Toad Knot Floater Switch Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Toad Knot Floater Switch Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Inverse Toad Knot Floater Switch Inverse Toad",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater Switch Cross (over under)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Open Double Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Open Double Floater to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Double Floater to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Open Floater Pass to Cross",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Cross Floater Pass to Open",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater"
     },
     {
         "na": "Open Floater Mic Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater Release"
     },
     {
         "na": "Cross Floater Mic Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater Release"
     },
     {
         "na": "EB Floater Mic Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater Release"
     },
     {
         "na": "Toad Floater Mic Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater Release"
     },
     {
         "na": "Inverse Toad Floater Mic Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater Release"
     },
     {
         "na": "T-Toad Floater Mic Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater Release"
     },
     {
         "na": "Inverse T-Toad Floater Mic Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Floater Release"
     },
     {
         "na": "O.H. Wrist Swing Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "O.H. Wrist Swing Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "O.H. Wrist Pop Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "O.H. Wrist Pop Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "O.H. Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "O.H. Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "O.H. Toad Step Through Wrap Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "O.H. Toad Step Through Wrap Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "O.H. Same Side Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "One-Handed Release"
     },
     {
         "na": "Handle Pass",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833592004,
         "sc": "Handle Pass"
     },
     {
         "na": "EB Handle Pass",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833590185,
         "sc": "Handle Pass"
     },
     {
         "na": "Dive EB Handle Pass",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833589633,
         "sc": "Handle Pass"
     },
     {
         "na": "Toad Handle Pass",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833593742,
         "sc": "Handle Pass"
     },
     {
         "na": "Inverse Toad Handle Pass",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833593448,
         "sc": "Handle Pass"
     },
     {
         "na": "Handle Pass Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833590604,
         "sc": "Handle Pass"
     },
     {
         "na": "Handle Pass Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": 833590357,
         "sc": "Handle Pass"
     },
     {
         "na": "Toad Handle Hold",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833586126,
         "sc": "Handle Hold"
     },
     {
         "na": "Inverse Toad Handle Hold",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Handle Hold"
     },
     {
         "na": "Leg Over Handle Hold",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": 833585297,
         "sc": "Handle Hold"
     },
     {
         "na": "T-Toad Handle Hold",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Handle Hold"
     },
     {
         "na": "Inverse T-Toad Handle Hold",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Handle Hold"
     },
     {
         "na": "Inverse Leg Hook 360 Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Inverse Leg Hook 360 Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Leg Hook 360 Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Leg Hook 360 Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Dive Inverse Leg Hook 360 Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Dive Inverse Leg Hook 360 Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Dive Leg Hook 360 Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Dive Leg Hook 360 Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Inverse Leg Hook Half Turn Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Inverse Leg Hook Half Turn Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Leg Hook Half Turn Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Leg Hook Half Turn Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Dive Inverse Leg Hook Half Turn Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Dive Inverse Leg Hook Half Turn Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Dive Leg Hook Half Turn Release",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Dive Leg Hook Half Turn Release (double rotation)",
-        "ca": "Releases",
+        "ca": "R",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "360 Release"
     },
     {
         "na": "Open Open (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Swing Open (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SO Double (OO before)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SO Double (OO after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SO Double (OO before & after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SO Double (consecutively)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SO Double (consecutively alternating)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Swing Cross (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SC Double (OO before)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SC Double (OO after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SC Double (OO before & after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SC Double (consecutively)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "SC Double (consecutively alternating)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Open Cross (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "OC Double (OO before)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "OC Double (OO after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "OC Double (OO before & after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "OC Double (consecutively)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "OC Double (consecutively alternating)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Cross Cross (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CC Double (OO before)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CC Double (OO after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CC Double (OO before & after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CC Double (consecutively)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CC Double (consecutively alternating)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Cross Open (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CO Double (OO before)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CO Double (OO after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CO Double (OO before & after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CO Double (consecutively)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "CO Double (consecutively alternating)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Swing EB (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB Double (OO before)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB Double (OO after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB Double (OO before & after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB Double (Consecutively)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB Double (EB Swing out)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB Double (EB Swing out) (OO before)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB Double (EB Swing out) (OO after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB Double (EB Swing out) (OO before & after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Switch Cross (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Swing EB (EB Swing out) (double)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB EB (DU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "EB EB (EB Swing out) (double)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Double Under"
     },
     {
         "na": "Mic Release (Double after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrist Pop Release"
     },
     {
         "na": "Mic Release (Double out)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrist Pop Release"
     },
     {
         "na": "Mic Release (double) (Single after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrist Pop Release"
     },
     {
         "na": "Mic Release (double) (Double after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrist Pop Release"
     },
     {
         "na": "Mic Release (double) (Double before & after)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "V",
         "vi": "COMING SOON",
         "sc": "Wrist Pop Release"
     },
     {
         "na": "Open Open Open (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing Swing Open (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing Open Open (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing Cross Open (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing Swing Cross (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing Open Cross (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing Cross Cross (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing EB Open (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing EB Swing Open (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing Cross Open (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
     },
     {
         "na": "Swing Toad Open (TU)",
-        "ca": "Multiples",
+        "ca": "M",
         "ty": "S",
         "vi": "COMING SOON",
         "sc": "Triple Under"
