@@ -1,0 +1,882 @@
+[
+    {
+        "na": "Challenge 1",
+        "sk": "> Side Straddle > Single Bounce > Bell > Single Bounce > Side Straddle > Single Bounce >",
+        "no": "NA",
+        "vi": 848301222,
+        "sc": "[\"Bilateral Footwork\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 2",
+        "sk": "> Forward Straddle > Single Bounce > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Side Straddle > Forwards Straddle > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
+        "no": "NA",
+        "vi": 848301336,
+        "sc": "[\"Bilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 3",
+        "sk": "> Twister > Single Bounce > Forward Straddle > Twister <span class=\"pos-tag\" id=\"OS\">OS</span> > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
+        "no": "NA",
+        "vi": 848301381,
+        "sc": "[\"Bilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 4",
+        "sk": "> Side Straddle > X-Motion > Side Straddle > Forward Straddle > Forward Straddle <span class=\"pos-tag\" id=\"OS\">OS</span> > Side Straddle > X-Motion > Single Bounce >",
+        "no": "NA",
+        "vi": 848301415,
+        "sc": "[\"Bilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 5",
+        "sk": "> Skier > Single Bounce > Skier > Single Bounce > Side Straddle > Single Bounce > Skier <span class=\"pos-tag\" id=\"OS\">OS</span> > Skier <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce >",
+        "no": "NA",
+        "vi": 848301450,
+        "sc": "[\"Bilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 6",
+        "sk": "> Knee Raise > Single Bounce > Leg Raise > Single Bounce > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce > Leg Raise > Single Bounce >",
+        "no": "NA",
+        "vi": 848301483,
+        "sc": "[\"Unilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 7",
+        "sk": "> Knee Raise > Cross Over > Knee Raise > Single Bounce > Knee Raise <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross Over > Front Tap > Side Tap > Single Bounce >",
+        "no": "NA",
+        "vi": 848301575,
+        "sc": "[\"Unilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 8",
+        "sk": "> Knee Raise > Single Bounce > Side Tap > Single Bounce > Side Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Single Bounce > Knee Raise > Single Bounce >",
+        "no": "NA",
+        "vi": 848301616,
+        "sc": "[\"Unilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 9",
+        "sk": "> Cross Over > Single Bounce > Front Tap > Single Bounce > Side Tap > Single Bounce > Back Tap > Single Bounce > Cross Under > Single Bounce >",
+        "no": "NA",
+        "vi": 848301666,
+        "sc": "[\"Unilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 10",
+        "sk": "> Knee Raise > Single Bounce > Leg Raise > Single Bounce > Butt Kick > Single Raise > Side Raise > Single Bounce >",
+        "no": "NA",
+        "vi": 848301710,
+        "sc": "[\"Unilateral Footwork\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 11",
+        "sk": "> Front Tap > Front Tap > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Front Tap > Back Tap > Back Tap > Front Tap <span class=\"pos-tag\" id=\"OS\">OS</span> > Front Tap >",
+        "no": "NA",
+        "vi": 848301751,
+        "sc": "[\"Unilateral Footwork\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 12",
+        "sk": "> Cross > Open > Cross > Cross >",
+        "no": "C, O, C, C,",
+        "vi": 836502187,
+        "sc": "[\"Body Cross\"]",
+        "le": "Short"
+    },
+    {
+        "na": "Challenge 13",
+        "sk": "> Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Open >",
+        "no": "C, O, -C, C,",
+        "vi": 836502253,
+        "sc": "[\"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 14",
+        "sk": "> Cross > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
+        "no": "C, C, -C, O,",
+        "vi": 836502282,
+        "sc": "[\"Body Cross\", \"Switch Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 15",
+        "sk": "> Cross > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
+        "no": "C, C, -C, C,",
+        "vi": 836502305,
+        "sc": "[\"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 16",
+        "sk": "> Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "C, O, -C, -C,",
+        "vi": 836502330,
+        "sc": "[\"Body Cross\", \"Switch Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 17",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "no": "S, C, S, O,",
+        "vi": 836512741,
+        "sc": "[\"Foundational Swing\", \"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 18",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
+        "no": "S, O, S, C,",
+        "vi": 836512811,
+        "sc": "[\"Foundational Swing\", \"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 19",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross >",
+        "no": "S, C, S, -S, C,",
+        "vi": 836512856,
+        "sc": "[\"Foundational Swing\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 20",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
+        "no": "S, -S, C, S, C,",
+        "vi": 836512908,
+        "sc": "[\"Foundational Swing\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 21",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "no": "S, S, O, C, S, S, O,",
+        "vi": 836512972,
+        "sc": "[\"Foundational Swing\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 22",
+        "sk": "> Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "no": "C, S, S, C, S, -S, C, S, O,",
+        "vi": 836513042,
+        "sc": "[\"Foundational Swing\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 23",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "no": "S, O, -S, O, S, C, O, -C, S, O,",
+        "vi": 836513108,
+        "sc": "[\"Foundational Swing\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 24",
+        "sk": "> Swing > EB Swing > Swing > EB >",
+        "no": "S, Es, S, Ec,",
+        "vi": 836507262,
+        "sc": "[\"Body Cross\", \"EB Swing\"]",
+        "le": "Short"
+    },
+    {
+        "na": "Challenge 25",
+        "sk": "> Swing > EB > Swing > EB > EB Swing > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "S, Ec, S, Ec, Es, O,",
+        "vi": 836507297,
+        "sc": "[\"Body Cross\", \"EB Swing\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 26",
+        "sk": "> Swing > EB > EB Swing > EB > Open >",
+        "no": "S, Ec, Es, Ec, O,",
+        "vi": 836507528,
+        "sc": "[\"Body Cross\", \"EB Swing\", \"EB Swing\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 27",
+        "sk": "> Cross > Open > Toad > Open > Cross > Toad > Open >",
+        "no": "C, O, Tc, O, C, Tc, O,",
+        "vi": 836507768,
+        "sc": "[\"Leg Cross\", \"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 28",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Toad > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "S, C, Tc, O, -C,",
+        "vi": 836507896,
+        "sc": "[\"Leg Cross\", \"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 29",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Open > Toad Swing > Toad > Open >",
+        "no": "S, C, O, S, Tc, O, Ts, Tc, O,",
+        "vi": 836507948,
+        "sc": "[\"Leg Cross\", \"Body Cross\", \"Leg Swing\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 30",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Open >",
+        "no": "S, Tc, S, -S, C, O,",
+        "vi": 836508010,
+        "sc": "[\"Leg Cross\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 31",
+        "sk": "> Cross > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Toad > Toad Swing > Toad > Open >",
+        "no": "C, S, C, Tc, Ts, Tc, O,",
+        "vi": 836508123,
+        "sc": "[\"Leg Cross\", \"Body Cross\", \"Leg Swing\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 32",
+        "sk": "> Cross > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross > Switch Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "no": "C, Tc, S, O, C, -Tc, S, O,",
+        "vi": 836508186,
+        "sc": "[\"Leg Cross\", \"Body Cross\", \"Switch Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 33",
+        "sk": "> Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Leg Over > Cross >",
+        "no": "Lo, S, C, Lo, C,",
+        "vi": 836508239,
+        "sc": "[\"Leg Cross\", \"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 34",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Swing > Leg Over > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open > Cross > Open >",
+        "no": "S, -Lo, Ls, Lo, -S, O, C, O,",
+        "vi": 836510384,
+        "sc": "[\"Leg Cross\", \"Body Cross\", \"Leg Swing\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 35",
+        "sk": "> Cross > Cross > Leg Over > Leg Over > Cross > Cross >",
+        "no": "C, C, Lo, Lo, C, C,",
+        "vi": 836510552,
+        "sc": "[\"Leg Cross\", \"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 36",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "no": "S, Tc, S, Lo, S, C, S, O,",
+        "vi": 836510598,
+        "sc": "[\"Leg Cross\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 37",
+        "sk": "> Cross > Leg Over > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "C, Lo, C, -C, Lo, S, C, -C,",
+        "vi": 836510654,
+        "sc": "[\"Leg Cross\", \"Body Cross\", \"Switch Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 38",
+        "sk": "> Leg Over > Cross > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
+        "no": "Lo, C, Tc, S, -Lo, S, C,",
+        "vi": 836510793,
+        "sc": "[\"Leg Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 39",
+        "sk": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Toad > Toad Awesome Annie > Cross >",
+        "no": "Lo, La, Ts, Tc, Ta, C,",
+        "vi": 836510835,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 40",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross > Leg Over > Leg Over Awesome Annie > Open >",
+        "no": "S, -Lo, La, Tc, S, O, C, Lo, La, O,",
+        "vi": 836510895,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 41",
+        "sk": "> Toad Swing > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Open > Cross >",
+        "no": "Ts, Tc, S, -Lo, La, O, C,",
+        "vi": 836510952,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 42",
+        "sk": "> Cross > Toad > Toad Swing > Toad > Toad Awesome Annie > Leg Over > Leg Over Swing > Leg Over > Leg Over Awesome Annie > Toad > Open >",
+        "no": "C, Tc, Ts, Tc, Ta, Lo, Ls, Lo, La, Tc, O,",
+        "vi": 836510992,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 43",
+        "sk": "> Leg Over > Leg Over Awesome Annie > Open > Cross > Open > Leg Over > Leg Over Awesome Annie > Toad Awesome Annie > Leg Over Awesome Annie > Open > Cross > Open >",
+        "no": "Lo, La, O, C, O, Lo, La, Ta, La, O, C, O,",
+        "vi": 836511035,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 44",
+        "sk": "> Toad > Toad Awesome Annie > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Toad Awesome Annie > Cross > Open >",
+        "no": "Tc, Ta, S, -Lo, La, Ta, C, O,",
+        "vi": 836511078,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 45",
+        "sk": "> Toad > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad > Toad >",
+        "no": "Tc, Tc, Ta, La, Tc, Tc, Ta, La, Tc, Tc,",
+        "vi": "COMING SOON",
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\", \"EB Swing\", \"Switch Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 46",
+        "sk": "> Cross > Toad > Open > Leg Over > Cross > Toad > Toad Awesome Annie > Cross >",
+        "no": "C, Tc, O, Lo, C, Tc, Ta, C,",
+        "vi": "COMING SOON",
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\", \"Switch Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 47",
+        "sk": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open > Cross > Open > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open >",
+        "no": "S, M, O, C, O, S, C, S, M, O,",
+        "vi": 836511704,
+        "sc": "[\"Mic Release\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 48",
+        "sk": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open > Open > Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> <span class=\"pos-tag\" id=\"DR\">DR</span> > Open >",
+        "no": "S, M, O, O, S, M, M, O,",
+        "vi": 836511763,
+        "sc": "[\"Mic Release\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 49",
+        "sk": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >",
+        "no": "S, M, S, C, S, M, S, Ec, S, C,",
+        "vi": 836511816,
+        "sc": "[\"Mic Release\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 50",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Mic Release > Open >",
+        "no": "S, M, -S, C, S, -S, M, O,",
+        "vi": 836511864,
+        "sc": "[\"Mic Release\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 51",
+        "sk": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Leg Over > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Mic Release > Open >",
+        "no": "S, M, -Lo, S, C, O, Lo, S, M, O,",
+        "vi": 836511917,
+        "sc": "[\"Mic Release\", \"Body Cross\", \"Leg Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 52",
+        "sk": "> Mic Release > Mic Release + Single Leg Jumps  >",
+        "no": "TBC",
+        "vi": 836511981,
+        "sc": "[\"Mic Release\", \"Unilateral Footwork\"]",
+        "le": "Short"
+    },
+    {
+        "na": "Challenge 53",
+        "sk": "> Mic Release + Running Man Shuffle >",
+        "no": "TBC",
+        "vi": 836512061,
+        "sc": "[\"Mic Release\", \"Compound Footwork\"]",
+        "le": "Short"
+    },
+    {
+        "na": "Challenge 54",
+        "sk": "> Cross > Open > Body Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Body Stall > Cross > Open > Cross > Open >",
+        "no": "C, O, O; O, O, C, ;O C, O, C, O,",
+        "vi": 836500993,
+        "sc": "[\"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 55",
+        "sk": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": ";O, S, C, S, O, -C, O, -C, O,",
+        "vi": 836501041,
+        "sc": "[\"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 56",
+        "sk": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Stall > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": ";O, S, C, -S, C, C;; C, S, O, -C, S;; S, C, O,",
+        "vi": 836501072,
+        "sc": "[\"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 57",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span>  > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Cross > Open > Cross > Cross > Open > Body Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": "S, C, S, O, C, O, C, C, O, ;O; O, C, C, O, C, O, S, C, S, O,",
+        "vi": 836501116,
+        "sc": "[\"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 58",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross >  Open > Cross > Between the Legs Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": "S, C, O, C, S, -S, C, O, C, ;C; C, O, C, S, -S, C, O, C, S, O,",
+        "vi": 836501168,
+        "sc": "[\"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 59",
+        "sk": "> TBC >",
+        "no": "TBC",
+        "vi": "COMING SOON",
+        "sc": "[\"Body Cross\"]",
+        "le": "Short"
+    },
+    {
+        "na": "Challenge 60",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": "S, C, S, O, -S>, O, S, C, O",
+        "vi": 836496285,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 61",
+        "sk": "> Cross > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": "C, C, S>, C, C, O,",
+        "vi": 836496314,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 62",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Wrist Pop Release > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open  >",
+        "no": "S, C, S, M, S>, C, O,",
+        "vi": 836496417,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 63",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Toad > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": "S, C, Tc, S>, S, C, O,",
+        "vi": 836496453,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 64",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > EB > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": "S, C, S, Ec, S>, C, O,",
+        "vi": 836496478,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 65",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Cross >",
+        "no": "S, C, C, S>, C, C>, S, C, C,",
+        "vi": 836496134,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 66",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "no": "S, C, S>, O, O<, S, C, S, O,",
+        "vi": 836496173,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 67",
+        "sk": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": ";S, C, >O, S>, O, C, O, ",
+        "vi": 836496211,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 68",
+        "sk": "> Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 > Open > Cross > Open >",
+        "no": "S>, O, C, O} O, C, O,",
+        "vi": 836496236,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 69",
+        "sk": "> Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 <span class=\"pos-tag\" id=\"OD\">OD</span> > Cross >",
+        "no": "S>, O,  >S, C, S>, O, O{ C,",
+        "vi": 836496263,
+        "sc": "[\"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 70",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Arm Wrap > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "S, [S], [S), C, [S], [S), C, -C,",
+        "vi": 836498468,
+        "sc": "[\"Arm Wrap\", \"Body Cross\", \"Switch Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 71",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad > Toad Swing > Toad Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Toad > Open >",
+        "no": "S, [S], [S), Tc, Ts, T[s], (To)[s), Tc, S, -S, C, Tc, O,",
+        "vi": 836498568,
+        "sc": "[\"Arm Wrap\", \"Leg Cross\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 72",
+        "sk": "> Cross > Open > EB Arm Wrap > Unwrap Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Texan 180 > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
+        "no": "C, O, E[s], (Eo)[s)>, O, O}, Lo, S, [S], [S), C,",
+        "vi": 836498609,
+        "sc": "[\"Arm Wrap\", \"Dive in\", \"Leg Cross\", \"Body Cross\", \"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 73",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Toad Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > Toad Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
+        "no": "S, [S], [S), S, -Ts, T[s], (To)[s), Tc, Ta, La, O,",
+        "vi": 836498655,
+        "sc": "[\"Arm Wrap\", \"Awesome Annie\", \"Leg Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 74",
+        "sk": "> Swing > Mic Release > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Swing > Mic Release > Toad Swing > Toad Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open >",
+        "no": "S, M, S, [S], [S), C, S, M, Ts, T[s], (To)[s), Tc, S, O,",
+        "vi": 836498700,
+        "sc": "[\"Arm Wrap\", \"Mic Release\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 75",
+        "sk": "> Swing > > Mic Release > Open > EB Arm Wrap 180 > <span class=\"pos-tag\" id=\"B\">B</span> Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
+        "no": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), C, O, -C, C,",
+        "vi": 836498750,
+        "sc": "[\"Arm Wrap\", \"Dive in\", \"Leg Cross\", \"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 76",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing > EB > EB Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
+        "no": "S, [S], [S), S, Ec, E[s], (Eo)[s), Ec, S, [S], [S), Tc, Ta, La, O,",
+        "vi": 836498854,
+        "sc": "[\"Arm Wrap\", \"Leg Cross\", \"Awesome Annie\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 77",
+        "sk": "> Leg Over > Leg Over Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Toad > Toad Swing > Toad > Swing <span class=\"pos-tag\" id=\"W\">W</span> > EB > Open >",
+        "no": "Lo, [L]o, [Lc)s, La, Tc, Ts, Tc, S, Ec, O,",
+        "vi": 848299343,
+        "sc": "[\"Leg Wrap\", \"Leg Cross\", \"Leg Swing\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 78",
+        "sk": "> Cross > Leg Over > Cross > Toad > Toad Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
+        "no": "C, Lo, C, Tc, [T]c, [To)s, Ta, La, O,",
+        "vi": 848299396,
+        "sc": "[\"Leg Wrap\", \"Leg Cross\", \"Awesome Annie\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 79",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing > EB > EB Swing > Leg Over > Leg Over Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Toad > Open >",
+        "no": "S, [S], [S), S, Ec, Es, Lo, [L]o, (Lc)[s), S, C, Tc, O,",
+        "vi": 848299465,
+        "sc": "[\"Leg Wrap\", \"Arm Wrap\", \"EB Swing\", \"Leg Cross\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 80",
+        "sk": "> Leg Over > Leg Over Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Toad > Toad Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Awesome Annie > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
+        "no": "Lo, [L]o, [Lc)s, La, Tc, [T]c, [To)s, Ta, S, [S], [S), C,",
+        "vi": 848299522,
+        "sc": "[\"Leg Wrap\", \"Leg Cross\", \"Awesome Annie\", \"Arm Wrap\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 81",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad > Toad Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Awesome Annie > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Swing > Leg Over Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Open >",
+        "no": "S, [S], [S), Tc, [T]c, [To)s, Ta, S, [S], [S), Ls, [L]o, (Lc)[s), La, O,",
+        "vi": 848299589,
+        "sc": "[\"Leg Wrap\", \"Arm Wrap\", \"Leg Swing\", \"Awesome Annie\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 82",
+        "sk": "> Cross > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "C, OO, C, OC, C, -C,",
+        "vi": 836506457,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 83",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> >",
+        "no": "S, C, SC, -S, C, O-C, SC,",
+        "vi": 836506576,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 84",
+        "sk": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "OO, C, OC, C, OO, C, OC, -C,",
+        "vi": 836506601,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 85",
+        "sk": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
+        "no": "OO, S, OO, -S, OO, -SO, OO, -SO, OO, -S, OO, -S, OO,",
+        "vi": 836506627,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 86",
+        "sk": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Toad > Open > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Toad > Open > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
+        "no": "OO, C, OO, Tc, O, OO, OC, Tc, O, OO,",
+        "vi": 836506669,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 87",
+        "sk": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
+        "no": "OO, SC, SO, OO, -SC, SO, OO,",
+        "vi": 836506692,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 88",
+        "sk": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
+        "no": "OO, C, -C, OO, C, -C, OO, C, -C, OO,",
+        "vi": 836506718,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 89",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Open > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Open > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "S, O, SO, -S, O, SO, -S, O, -SO, S, O, -SO,",
+        "vi": 836506807,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 90",
+        "sk": "> Cross > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> <span class=\"pos-tag\" id=\"SS\">SS</span> > Cross > Swing <span class=\"pos-tag\" id=\"W\">W</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Open >",
+        "no": "C, C, S, -S, C, S, S, C, O, -C, S, O,",
+        "vi": 836513166,
+        "sc": "[\"Foundational Swing\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 91",
+        "sk": "> Toad > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Swing > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
+        "no": "Tc, -Lo, -Tc, Ts, Tc, Ta, La, O,",
+        "vi": 836511211,
+        "sc": "[\"Leg Cross\", \"Leg Swing\", \"Awesome Annie\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 92",
+        "sk": "> Swing > EB > Swing <span class=\"pos-tag\" id=\"B\">B</span> > T-Toad > LT Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over > Leg Over Awesome Annie > Toad Swing > Elephant > Open >",
+        "no": "S, Ec, S, T(c), Lt, Lo, La, Ts, Ti, O,",
+        "vi": 836511268,
+        "sc": "[\"Leg Cross\", \"Tucked Cross\", \"Leg Swing\", \"Awesome Annie\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 93",
+        "sk": "> Toad > Toad Awesome Annie > Vertical Release > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Swing > EB > Open >",
+        "no": "Tc, Ta, M, -Lo, La, S, Ec, O,",
+        "vi": 836512113,
+        "sc": "[\"Leg Cross\", \"Awesome Annie\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 94",
+        "sk": "> Cross > Leg Over > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Awesome Annie > Vertical Release > Open >",
+        "no": "C, Lo, -Tc, Ta, M, O,",
+        "vi": 836512170,
+        "sc": "[\"Body Cross\", \"Leg Cross\", \"Awesome Annie\", \"Vertical Release\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 95",
+        "sk": "> Swing > Mic Release <span class=\"pos-tag\" id=\"WP\">WP</span> > Open > EB Arm Wrap > Unwrap Swing 180 <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing > EB > EB Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > EB Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Texan 180 > Cross >",
+        "no": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), S, Ec, E[s], (Eo)[s), Es<, S, C{, C, O,",
+        "vi": 836498894,
+        "sc": "[\"Mic Release\", \"Arm Wrap\", \"Dive in\", \"Body Cross\", \"180 Turn\", \"Texan Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 96",
+        "sk": "> Swing > EB Toad > Toad Awesome Annie > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing > EB > EB Leg Over Swing > Cross >",
+        "no": "S, Et, Ta, C, -C, S, Ec, Le, C,",
+        "vi": 836511122,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\", \"EB Swing\", \"Switch Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 97",
+        "sk": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Toad > Toad Awesome Annie > Cross > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> >",
+        "no": "Lo, La, Ts, Tc, Ta, C, -C,",
+        "vi": 836511165,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\", \"Switch Cross\"]",
+        "le": "Long"
+    },
+    {
+        "na": "Challenge 98",
+        "sk": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Stall > Toad > Toad Swing > Toad > Swing Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Leg Over > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": ";C, -S, C;; Tc, Ts, Tc, S;; S, Lo, C, O,",
+        "vi": 836501210,
+        "sc": "[\"Leg Cross\", \"Body Cross\", \"Leg Swing\", \"No Contact Stall\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 99",
+        "sk": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Body Stall > Leg Over > Leg Over Awesome Annie > Toad Swing > Toad > Toad Swing Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": ";O, C, C, ;O; Lo, La, Ts, Tc, Ts;; O, -S, Tc, C, O,",
+        "vi": 836501242,
+        "sc": "[\"Awesome Annie\", \"Leg Cross\", \"Body Cross\", \"Leg Swing\", \"No Contact Stall\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 100",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > EB > EB Stall > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross Stall > Swing <span class=\"pos-tag\" id=\"SS\">SS</span> > EB > EB Swing > Cross >",
+        "no": "S, C, S, Ec, Ec;; S, -S, C, -S, C;; S, Ec, Es, C,",
+        "vi": 836501304,
+        "sc": "[\"Body Cross\", \"EB Swing\", \"No Contact Stall\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 101",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"W\">W</span> > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Cross > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Toad Awesome Annie > Cross >",
+        "no": "S, -Lo, S, C, S>, O, S, Tc>, S, Tc, Ta, C,",
+        "vi": 836496014,
+        "sc": "[\"180 Turn\", \"Leg Cross\", \"Body Cross\", \"Awesome Annie\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 102",
+        "sk": "> Swing > EB > EB Toad > Toad Swing > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad Awesome Annie > Vertical Release > Inverse Toad Swing > Inverse Toad Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Inverse Toad > Elephant >",
+        "no": "S, Ec, Et, Ts, Tc, Ta, La, Ta, M, Is, I[s], I[s), Ic, It,",
+        "vi": 836513750,
+        "sc": "[\"Leg Cross\", \"Body Cross\", \"Leg Swing\", \"Awesome Annie\", \"Leg Wrap\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 103",
+        "sk": "> Cross > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Open Cross  <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross > Cross Open  <span class=\"pos-tag\" id=\"DU\">DU</span> >",
+        "no": "C, OO, C, OC, C, CO,",
+        "vi": 836506850,
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 104",
+        "sk": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
+        "no": "OO, SO, OO, SC, OO, OC, OO, CC, OO, OC, OO,",
+        "vi": "COMING SOON",
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 105",
+        "sk": "> Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Swing Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Cross <span class=\"pos-tag\" id=\"DU\">DU</span> > Cross Open <span class=\"pos-tag\" id=\"DU\">DU</span> > Open Open <span class=\"pos-tag\" id=\"DU\">DU</span> >",
+        "no": "OO, SC, SO, OC, CC, CO, OO,",
+        "vi": "COMING SOON",
+        "sc": "[\"Double Under\", \"Body Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 106",
+        "sk": "> Swing <span class=\"pos-tag\" id=\"B\">B</span> > Toad > Swing > EB > Swing 180 > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": "S, Tc, S, Ec, S>, Tc, O,",
+        "vi": "COMING SOON",
+        "sc": "[\"Body Cross\", \"Leg Cross\", \"180 Turn\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 107",
+        "sk": "> <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Swing > <span class=\"pos-tag\" id=\"BW\">BW</span> Open > <span class=\"pos-tag\" id=\"BW\">BW</span> Toad > <span class=\"pos-tag\" id=\"BW\">BW</span> Cross > <span class=\"pos-tag\" id=\"BW\">BW</span> Open >",
+        "no": ":O, S, Tc, C, S, O, Tc, C, O,",
+        "vi": "COMING SOON",
+        "sc": "[\"Body Cross\", \"Leg Cross\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 108",
+        "sk": "> Swing > Mic Release > Leg Over > Leg Over Awesome Annie > Toad Awesome Annie > Vertical Release > Leg Over <span class=\"pos-tag\" id=\"OS\">OS</span> > Leg Over Awesome Annie > Open >",
+        "no": "S, M, Lo, La, Ta, M, -Lo, La, O,",
+        "vi": "COMING SOON",
+        "sc": "[\"Leg Cross\", \"Awesome Annie\", \"Mic Release\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 109",
+        "sk": "> Swing > Mic Release > Toad Swing > EB Toad > Toad Swing > Toad > Toad Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Awesome Annie > Cross >",
+        "no": "S, M, Ts, Et, Ts, Tc, [T]c, [T)s, Ta, C,",
+        "vi": "COMING SOON",
+        "sc": "[\"Leg Cross\", \"Awesome Annie\", \"Mic Release\", \"Leg Wrap\"]",
+        "le": "Very Long"
+    },
+    {
+        "na": "Challenge 110",
+        "sk": "> Swing > Mic Release > Open > EB Toad > EB Toad Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Awesome Annie > Toad <span class=\"pos-tag\" id=\"OS\">OS</span> > Toad Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Mic Release <span class=\"pos-tag\" id=\"DR\">DR</span> > Open >",
+        "no": "S, M, O, Et, E[t], [To)s, Ta, -Tc, [T]c, [To)s, M, M, O,",
+        "vi": "COMING SOON",
+        "sc": "[\"Leg Cross\", \"Awesome Annie\", \"Mic Release\", \"Leg Wrap\", \"Dive in\"]",
+        "le": "Very Long"
+    }
+]
