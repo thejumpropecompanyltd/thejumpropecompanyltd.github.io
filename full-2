@@ -10957,15 +10957,6 @@
         "c1": "Leg Cross"
     },
     {
-        "na": "Inverse Toad Arm Wrap to Elephant",
-        "sk": "> Inverse Toad Swing > Inverse Toad Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Elephant >",
-        "no": "Is, I[s], (Io)[s), It,",
-        "ty": "CO",
-        "vi": "CS",
-        "c1": "Arm Wrap",
-        "c2": "Leg Cross"
-    },
-    {
         "na": "Leg Over Awesome Annie to Toad (via Toad Swing)",
         "sk": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Toad >",
         "no": "Lo, La, Ts, Tc,",
@@ -14768,7 +14759,7 @@
     },
     {
         "na": "Challenge 75",
-        "sk": "> Swing > > Mic Release > Open > EB Arm Wrap 180 > <span class=\"pos-tag\" id=\"B\">B</span> Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
+        "sk": "> Swing > Mic Release > Open > EB Arm Wrap 180 > <span class=\"pos-tag\" id=\"B\">B</span> Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > <span class=\"pos-tag\" id=\"BW\">BW</span> Open 180 > Swing <span class=\"pos-tag\" id=\"B\">B</span> > Arm Wrap > Unwrap Swing <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross > Open > Cross <span class=\"pos-tag\" id=\"OS\">OS</span> > Cross >",
         "no": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), C, O, -C, C,",
         "ty": "CH",
         "vi": 836498750,
