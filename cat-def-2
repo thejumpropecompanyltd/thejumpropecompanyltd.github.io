@@ -458,6 +458,6 @@
     {
         "ca": "P",
         "sc": "Consecutives",
-        "df": "All crossing and swinging skills can be performed consecutively, where the jumper repeated the same skills back-to-back without anything in between. full-consecutives have no Opens in between the skills at all (e.g Cross > Cross > Cross), and semi-consecutives have one Open in between the skills (e.g. Cross > Open > Cross > Open > Cross). These can be fun (and very benefitial) ways to challenge yourself by testing how many consecutives of a skill you can without tripping."
+        "df": "All crossing and swinging skills can be performed consecutively, where the jumper repeated the same skills back-to-back without anything in between. True consecutives have no Opens in between the skills at all (e.g Cross > Cross > Cross), whereas semi-consecutives have one Open in between the skills (e.g. Cross > Open > Cross > Open > Cross). These can be fun (and very benefitial) ways to challenge yourself by testing how many consecutives of a skill you can without tripping."
     }
 ]
