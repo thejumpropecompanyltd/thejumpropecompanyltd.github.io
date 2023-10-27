@@ -1684,63 +1684,63 @@
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "Leg Over Rocker",
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "EB Toad Rocker",
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "Inverse EB Toad Rocker",
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "Inverse Toad Rocker",
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "Elephant Rocker",
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "T-Toad Rocker",
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "Inverse T-Toad Rocker",
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "Inverse Toad Gogo Rocker",
         "ca": "C",
         "ty": "S",
         "vi": "COMING SOON",
-        "sc": "Inverse Bound"
+        "sc": "Inverse Bounding"
     },
     {
         "na": "Switch Cross",
@@ -7831,13 +7831,6 @@
         "ty": "CO",
         "vi": "COMING SOON",
         "sc": "Leg Cross"
-    },
-    {
-        "na": "Inverse Toad Arm Wrap to Elephant",
-        "ty": "CO",
-        "vi": "COMING SOON",
-        "sc": "Arm Wrap",
-        "sc2": "Leg Cross"
     },
     {
         "na": "Leg Over Awesome Annie to Toad (via Toad Swing)",
