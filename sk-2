@@ -720,7 +720,7 @@
         "na": "Toad Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -728,7 +728,7 @@
         "na": "Leg Over Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -736,7 +736,7 @@
         "na": "EB Toad Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -744,7 +744,7 @@
         "na": "Inverse EB Toad Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -752,7 +752,7 @@
         "na": "Inverse Toad Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -760,7 +760,7 @@
         "na": "Elephant Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -768,7 +768,7 @@
         "na": "T-Toad Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
         "p1": "Front Cross"
@@ -777,7 +777,7 @@
         "na": "Inverse T-Toad Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
         "p1": "Front Cross"
@@ -786,7 +786,7 @@
         "na": "Inverse Toad Gogo Rocker",
         "ca": "Crosses",
         "vi": "COMING SOON",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "p1": "Front Cross"
