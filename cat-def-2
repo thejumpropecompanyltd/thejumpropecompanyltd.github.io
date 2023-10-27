@@ -448,11 +448,11 @@
     {
         "ca": "P",
         "sc": "Box Swing Releases",
-        "df": "Box Swinf Releases are skills where the jumper performs a modified Box Swing, where the outer handle (the hand <i>not</i> crossing the body) is pointed towards the floor, before then releasing this handle by pulling it gently upwards."
+        "df": "Box Swing Releases are skills where the jumper performs a modified Box Swing, where the outer handle (the hand <i>not</i> crossing the body) is pointed towards the floor, before then releasing this handle by pulling it gently upwards."
     },
     {
         "ca": "P",
         "sc": "No Swing Releases",
-        "df": "Vertical releases are skills where the jumper performs a release without a swing whilst the rope’s arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body."
+        "df": "No Swing Releases are skills where the jumper performs a release without a swing whilst the rope’s arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body."
     }
 ]
