@@ -2815,7 +2815,7 @@
         "ty": "S",
         "as": "C54",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -2824,7 +2824,7 @@
         "ty": "S",
         "as": "C55",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -2833,7 +2833,7 @@
         "ty": "S",
         "as": "C56",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -2842,7 +2842,7 @@
         "ty": "S",
         "as": "C57",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -2851,7 +2851,7 @@
         "ty": "S",
         "as": "C58",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -2860,7 +2860,7 @@
         "ty": "S",
         "as": "C59",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -2869,7 +2869,7 @@
         "ty": "S",
         "as": "C60",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
         "p1": "Front Cross"
@@ -2879,7 +2879,7 @@
         "ty": "S",
         "as": "C61",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
         "p1": "Front Cross"
@@ -2889,7 +2889,7 @@
         "ty": "S",
         "as": "C62",
         "vi": "CS",
-        "c1": "Inverse Bound",
+        "c1": "Inverse Bounding",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "p1": "Front Cross"
@@ -14028,7 +14028,7 @@
         "ty": "CH",
         "vi": 848301222,
         "c1": "Bilateral Footwork",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 2",
@@ -14037,7 +14037,7 @@
         "ty": "CH",
         "vi": 848301336,
         "c1": "Bilateral Footwork",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 3",
@@ -14046,7 +14046,7 @@
         "ty": "CH",
         "vi": 848301381,
         "c1": "Bilateral Footwork",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 4",
@@ -14055,7 +14055,7 @@
         "ty": "CH",
         "vi": 848301415,
         "c1": "Bilateral Footwork",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 5",
@@ -14064,7 +14064,7 @@
         "ty": "CH",
         "vi": 848301450,
         "c1": "Bilateral Footwork",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 6",
@@ -14073,7 +14073,7 @@
         "ty": "CH",
         "vi": 848301483,
         "c1": "Unilateral Footwork",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 7",
@@ -14082,7 +14082,7 @@
         "ty": "CH",
         "vi": 848301575,
         "c1": "Unilateral Footwork",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 8",
@@ -14091,7 +14091,7 @@
         "ty": "CH",
         "vi": 848301616,
         "c1": "Unilateral Footwork",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 9",
@@ -14100,7 +14100,7 @@
         "ty": "CH",
         "vi": 848301666,
         "c1": "Unilateral Footwork",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 10",
@@ -14109,7 +14109,7 @@
         "ty": "CH",
         "vi": 848301710,
         "c1": "Unilateral Footwork",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 11",
@@ -14118,7 +14118,7 @@
         "ty": "CH",
         "vi": 848301751,
         "c1": "Unilateral Footwork",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 12",
@@ -14136,7 +14136,7 @@
         "ty": "CH",
         "vi": 836502253,
         "c1": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 14",
@@ -14146,7 +14146,7 @@
         "vi": 836502282,
         "c1": "Body Cross",
         "c2": "Switch Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 15",
@@ -14155,7 +14155,7 @@
         "ty": "CH",
         "vi": 836502305,
         "c1": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 16",
@@ -14165,7 +14165,7 @@
         "vi": 836502330,
         "c1": "Body Cross",
         "c2": "Switch Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 17",
@@ -14175,7 +14175,7 @@
         "vi": 836512741,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 18",
@@ -14185,7 +14185,7 @@
         "vi": 836512811,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 19",
@@ -14195,7 +14195,7 @@
         "vi": 836512856,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 20",
@@ -14205,7 +14205,7 @@
         "vi": 836512908,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 21",
@@ -14215,7 +14215,7 @@
         "vi": 836512972,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 22",
@@ -14225,7 +14225,7 @@
         "vi": 836513042,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 23",
@@ -14235,7 +14235,7 @@
         "vi": 836513108,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 24",
@@ -14255,7 +14255,7 @@
         "vi": 836507297,
         "c1": "Body Cross",
         "c2": "EB Swing",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 26",
@@ -14266,7 +14266,7 @@
         "c1": "Body Cross",
         "c2": "EB Swing",
         "c3": "EB Swing",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 27",
@@ -14276,7 +14276,7 @@
         "vi": 836507768,
         "c1": "Leg Cross",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 28",
@@ -14286,7 +14286,7 @@
         "vi": 836507896,
         "c1": "Leg Cross",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 29",
@@ -14297,7 +14297,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Leg Swing",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 30",
@@ -14307,7 +14307,7 @@
         "vi": 836508010,
         "c1": "Leg Cross",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 31",
@@ -14318,7 +14318,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Leg Swing",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 32",
@@ -14329,7 +14329,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Switch Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 33",
@@ -14339,7 +14339,7 @@
         "vi": 836508239,
         "c1": "Leg Cross",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 34",
@@ -14350,7 +14350,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Leg Swing",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 35",
@@ -14360,7 +14360,7 @@
         "vi": 836510552,
         "c1": "Leg Cross",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 36",
@@ -14370,7 +14370,7 @@
         "vi": 836510598,
         "c1": "Leg Cross",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 37",
@@ -14381,7 +14381,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Switch Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 38",
@@ -14390,7 +14390,7 @@
         "ty": "CH",
         "vi": 836510793,
         "c1": "Leg Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 39",
@@ -14401,7 +14401,7 @@
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 40",
@@ -14412,7 +14412,7 @@
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 41",
@@ -14424,7 +14424,7 @@
         "c2": "Leg Cross",
         "c3": "Body Cross",
         "c4": "Leg Swing",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 42",
@@ -14436,7 +14436,7 @@
         "c2": "Leg Cross",
         "c3": "Body Cross",
         "c4": "Leg Swing",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 43",
@@ -14448,7 +14448,7 @@
         "c2": "Leg Cross",
         "c3": "Body Cross",
         "c4": "Leg Swing",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 44",
@@ -14460,7 +14460,7 @@
         "c2": "Leg Cross",
         "c3": "Body Cross",
         "c4": "Leg Swing",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 45",
@@ -14474,7 +14474,7 @@
         "c4": "Leg Swing",
         "c5": "EB Swing",
         "c6": "Switch Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 46",
@@ -14487,7 +14487,7 @@
         "c3": "Body Cross",
         "c4": "Leg Swing",
         "c5": "Switch Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 47",
@@ -14497,7 +14497,7 @@
         "vi": 836511704,
         "c1": "Mic Release",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 48",
@@ -14506,7 +14506,7 @@
         "ty": "CH",
         "vi": 836511763,
         "c1": "Mic Release",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 49",
@@ -14516,7 +14516,7 @@
         "vi": 836511816,
         "c1": "Mic Release",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 50",
@@ -14526,7 +14526,7 @@
         "vi": 836511864,
         "c1": "Mic Release",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 51",
@@ -14537,7 +14537,7 @@
         "c1": "Mic Release",
         "c2": "Body Cross",
         "c3": "Leg Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 52",
@@ -14564,7 +14564,7 @@
         "ty": "CH",
         "vi": 836500993,
         "c1": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 55",
@@ -14573,7 +14573,7 @@
         "ty": "CH",
         "vi": 836501041,
         "c1": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 56",
@@ -14582,7 +14582,7 @@
         "ty": "CH",
         "vi": 836501072,
         "c1": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 57",
@@ -14617,7 +14617,7 @@
         "ty": "CH",
         "vi": 836496285,
         "c1": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 61",
@@ -14626,7 +14626,7 @@
         "ty": "CH",
         "vi": 836496314,
         "c1": "180 Turn",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 62",
@@ -14635,7 +14635,7 @@
         "ty": "CH",
         "vi": 836496417,
         "c1": "180 Turn",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 63",
@@ -14644,7 +14644,7 @@
         "ty": "CH",
         "vi": 836496453,
         "c1": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 64",
@@ -14653,7 +14653,7 @@
         "ty": "CH",
         "vi": 836496478,
         "c1": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 65",
@@ -14662,7 +14662,7 @@
         "ty": "CH",
         "vi": 836496134,
         "c1": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 66",
@@ -14671,7 +14671,7 @@
         "ty": "CH",
         "vi": 836496173,
         "c1": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 67",
@@ -14680,7 +14680,7 @@
         "ty": "CH",
         "vi": 836496211,
         "c1": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 68",
@@ -14689,7 +14689,7 @@
         "ty": "CH",
         "vi": 836496236,
         "c1": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 69",
@@ -14698,7 +14698,7 @@
         "ty": "CH",
         "vi": 836496263,
         "c1": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 70",
@@ -14709,7 +14709,7 @@
         "c1": "Arm Wrap",
         "c2": "Body Cross",
         "c3": "Switch Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 71",
@@ -14720,7 +14720,7 @@
         "c1": "Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 72",
@@ -14733,7 +14733,7 @@
         "c3": "Leg Cross",
         "c4": "Body Cross",
         "c5": "180 Turn",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 73",
@@ -14744,7 +14744,7 @@
         "c1": "Arm Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 74",
@@ -14755,7 +14755,7 @@
         "c1": "Arm Wrap",
         "c2": "Mic Release",
         "c3": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 75",
@@ -14767,7 +14767,7 @@
         "c2": "Dive in",
         "c3": "Leg Cross",
         "c4": "180 Turn",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 76",
@@ -14778,7 +14778,7 @@
         "c1": "Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 77",
@@ -14790,7 +14790,7 @@
         "c2": "Leg Cross",
         "c3": "Leg Swing",
         "c4": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 78",
@@ -14802,7 +14802,7 @@
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "c4": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 79",
@@ -14815,7 +14815,7 @@
         "c3": "EB Swing",
         "c4": "Leg Cross",
         "c5": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 80",
@@ -14827,7 +14827,7 @@
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "c4": "Arm Wrap",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 81",
@@ -14839,7 +14839,7 @@
         "c2": "Arm Wrap",
         "c3": "Leg Swing",
         "c4": "Awesome Annie",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 82",
@@ -14849,7 +14849,7 @@
         "vi": 836506457,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 83",
@@ -14859,7 +14859,7 @@
         "vi": 836506576,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 84",
@@ -14869,7 +14869,7 @@
         "vi": 836506601,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 85",
@@ -14879,7 +14879,7 @@
         "vi": 836506627,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 86",
@@ -14889,7 +14889,7 @@
         "vi": 836506669,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 87",
@@ -14899,7 +14899,7 @@
         "vi": 836506692,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 88",
@@ -14909,7 +14909,7 @@
         "vi": 836506718,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 89",
@@ -14919,7 +14919,7 @@
         "vi": 836506807,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 90",
@@ -14929,7 +14929,7 @@
         "vi": 836513166,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 91",
@@ -14940,7 +14940,7 @@
         "c1": "Leg Cross",
         "c2": "Leg Swing",
         "c3": "Awesome Annie",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 92",
@@ -14952,7 +14952,7 @@
         "c2": "Tucked Cross",
         "c3": "Leg Swing",
         "c4": "Awesome Annie",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 93",
@@ -14963,7 +14963,7 @@
         "c1": "Leg Cross",
         "c2": "Awesome Annie",
         "c3": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 94",
@@ -14975,7 +14975,7 @@
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "c4": "Vertical Release",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 95",
@@ -15003,7 +15003,7 @@
         "c4": "Leg Swing",
         "c5": "EB Swing",
         "c6": "Switch Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 97",
@@ -15016,7 +15016,7 @@
         "c3": "Body Cross",
         "c4": "Leg Swing",
         "c5": "Switch Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 98",
@@ -15028,7 +15028,7 @@
         "c2": "Body Cross",
         "c3": "Leg Swing",
         "c4": "No Contact Stall",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 99",
@@ -15041,7 +15041,7 @@
         "c3": "Body Cross",
         "c4": "Leg Swing",
         "c5": "No Contact Stall",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 100",
@@ -15052,7 +15052,7 @@
         "c1": "Body Cross",
         "c2": "EB Swing",
         "c3": "No Contact Stall",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 101",
@@ -15064,7 +15064,7 @@
         "c2": "Leg Cross",
         "c3": "Body Cross",
         "c4": "Awesome Annie",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 102",
@@ -15077,7 +15077,7 @@
         "c3": "Leg Swing",
         "c4": "Awesome Annie",
         "c5": "Leg Wrap",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 103",
@@ -15087,7 +15087,7 @@
         "vi": 836506850,
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 104",
@@ -15097,7 +15097,7 @@
         "vi": "CS",
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 105",
@@ -15107,7 +15107,7 @@
         "vi": "CS",
         "c1": "Double Under",
         "c2": "Body Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 106",
@@ -15118,7 +15118,7 @@
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "180 Turn",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 107",
@@ -15128,7 +15128,7 @@
         "vi": "CS",
         "c1": "Body Cross",
         "c2": "Leg Cross",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 108",
@@ -15139,7 +15139,7 @@
         "c1": "Leg Cross",
         "c2": "Awesome Annie",
         "c3": "Mic Release",
-        "le": "Very Long"
+        "le": "Short"
     },
     {
         "na": "Challenge 109",
@@ -15151,7 +15151,7 @@
         "c2": "Awesome Annie",
         "c3": "Mic Release",
         "c4": "Leg Wrap",
-        "le": "Very Long"
+        "le": "Long"
     },
     {
         "na": "Challenge 110",
@@ -15164,6 +15164,6 @@
         "c3": "Mic Release",
         "c4": "Leg Wrap",
         "c5": "Dive in",
-        "le": "Very Long"
+        "le": "Long"
     }
 ]
