@@ -39,7 +39,40 @@
         "ca": "C",
         "sc": "Leg Crosses",
         "df": "Leg Crosses are skills where the jumper crosses one or both hands under one of their legs, such as the Toad and Leg Over. They require good balance and leg strength to perform cleanly.",
-        "tt": "✅ Keep your leg up with your knee level or slightly above hip-height<br>✅ Keep your weight over your back foot the entire time<br>✅ Pull your hands back to your pockets using your elbows as you uncross<br>‼️ Avoid leaning forward and switching to your front foot as you exit<br>‼️ Avoid swinging out if you struggle to exit, unless doing so intentionally"
+        "tt": [
+                {
+                "h": "lift your leg",
+                "p": "Lift your leg up as high as you can. Ensure your knee is at hip height and your thigh is parallel with the ground."
+                },
+                {
+                "h": "pull back to exit",
+                "p": "When exiting this skill, reach to the back of the room rather than reaching outward to the sides. This will keep the rope's loop narrow and prevent it speeding up unexpectedly."
+                },
+                {
+                "h": "land on two feet",
+                "p": "When you exit this skill, land evenly on both feet together rather than on only one leg. Returning to our most neutral body position is critical for preparing you for whatever skill you want to do next."
+                },
+                {
+                "h": "keep your chest up",
+                "p": "Keep your chest up as much as possible. Lean back slightly and keep your bodyweight over the single leg you're jumping on. This will give you more power in your jumping leg."
+                },
+                {
+                "h": "reach all the way",
+                "p": "Your restricted hand should be reaching all the way under your leg. Imagine you need to wave at someone from under your leg; they should to be able to see your whole hand. This will prevent the rope brushing your shoulders as it passes around you."
+                },
+                {
+                "h": "avoid hunching over",
+                "p": "Avoid rounding your shoulders and hunching forwards. Doing so will make it harder to jump the rope and exit the skill by reducing the power in your jumping leg."
+                },
+                {
+                "h": "avoid galloping the exit",
+                "p": "Avoid switching to your front foot as you exit. Jump on your back leg instead of kicking it behind you as you exit the skill."
+                },
+                {
+                "h": "avoid swinging our"
+                "p": "Swinging out can be a good transition into other skills, but avoid doing it as your default exit when performing this skill standalone."
+                }
+             ]
     },
     {
         "ca": "C",
@@ -395,10 +428,20 @@
         "pr": "Double Unders"
     },
     {
-        "ca": "P",
-        "sc": "Front Crosses",
-        "df": "Front crosses are skills where the jumper crosses both hands in front of their body, such as the basic Cross and. They require no Swings or Opens to enter into, and can be performed after <i>any</i> other type of Cross."
-    },
+    "ca": "P",
+    "sc": "Front Crosses",
+    "df": "Front crosses are skills where the jumper crosses both hands in front of their body, such as the basic Cross and. They require no Swings or Opens to enter into, and can be performed after <i>any</i> other type of Cross.",
+    "tt": [
+        {
+            "h": "cross & uncross by 3 o'clock",
+            "p": "Imagine a clock around you, with 12 above your head and 6 beneath your feet. In this skill, begin entering the cross by the time the rope's loop reaches 3 o'clock."
+        },
+        {
+            "h": "no swings required",
+            "p": "When entering this skill, you can do so without needing any swings before it. Once you've mastered that, try adding entering this skill from many types of swings."
+        }
+    ]
+},
     {
         "ca": "P",
         "sc": "Half Crosses",
