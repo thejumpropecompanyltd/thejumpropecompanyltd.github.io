@@ -790,7 +790,29 @@
     {
         "ca": "P",
         "sc": "Back Crosses",
-        "df": "Back crosses are skills where the jumper crosses both hands behind their body, such as the TS and CL. They require two Swings to enter into or an Open (the default option). Only three of these exist."
+        "df": "Back crosses are skills where the jumper crosses both hands behind their body, such as the TS and CL. They require two Swings to enter into or an Open (the default option). Only three of these exist.",
+        "tt": [
+{
+"h": "enter with an Open",
+"p": "This skill is traditionally entered with an Open. Immediately after you jump the loop of the rope, put both hands behind your body and reach across ."
+},
+{ 
+"h": "entering two swings",
+"p": "Another way to enter this skill is with two swings. Swing the rope beside you as if entering an EB (or any other Half Cross) and place one hand behind your body. Wait for the rope to pass overhead then, as it approaches your feet, place your other hand behind your body as well. Let the rope pass overhead one more time then jump the skill."
+},
+{ 
+"h": "Avoid uncrossing early",
+"p": "When you jump the loop of the rope, wait until you've completely cleared it before uncrossing your arms. Uncrossing too early will cause you to trip."
+},
+{ 
+"h": "Reach fully across",
+"p": "When placing your hand behind your body, cross as far as you can such that your rope can travel around your shoulders without touching your body. If you don't reach far enough, the rope will get caught and lose all its momentum."
+},
+{ 
+"h": "two-count skill",
+"p": "This skill traditionally takes two jumps to complete. One to get your hands into position and one more to actually jump the cross."
+}
+]
     },
     {
         "ca": "P",
