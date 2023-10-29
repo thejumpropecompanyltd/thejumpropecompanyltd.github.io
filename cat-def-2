@@ -32,8 +32,38 @@
         "ca": "C",
         "sc": "Body Crosses",
         "df": "Body Crosses are skills where the jumper crosses both hands around their upper body, such as the basic Cross and the EB. These crosses are the easiest to learn and recommended for beginners.",
-        "tt": "✅ Cross your arms at hip level with only a slight bend in your elbows<br>✅ Scoop fully with both wrists at all times<br>✅ Use Two Catches in any/all body crosses to check your form when first learning<br>‼️ Avoid swiping in/out of each crossing position<br>‼️ Avoid pulling the rope diagonally when entering/exiting with a swing",
-        "bg": "Y"
+        "bg": "Y",
+        "tt":
+[
+{ 
+"h": "Hands on hips",
+"p": "Keep both hands at hip-level all times. You can check your form with a toe catch in this skill. If the loop of the rope can reach both feet, your hands are low enough on your torso."
+},
+{
+"h": "Scoop both wrists",
+"p": "Scoop both wrists evenly during the skill. If you use one wrist more than the other it can cause the rope to move around your diagonally, which will you trip you up."
+},
+{ 
+"h": "Reach past your shoudlers",
+"p": "Ensure you reach fully past your shoulders, so that the loop of the rope can travel around you without touching your body."
+},
+{ 
+"h": "Beginner friendly",
+"p": "There are three foundational Body Crosses - the basic Cross, the EB and the TS. These three are great for beginners because they're easy to learn and they teach you the core movement patterns for all other crossing skills."
+},
+{ 
+"h": "Chest up, head forward",
+"p": "Keep your chest up and head looking forward as you do this skill. "
+},
+{ 
+"h": "Relax your shoulders",
+"p": "Keep your shoulders relaxed and low so your hands can stay on your hips as they reach around your hips. If you're too tense, you'll struggle to reach properly."
+},
+{ 
+"h": "Jump on two feet",
+"p": "When first learning this skill, it's important to jump on both feet at all times. If this causes you to trip (and you find jumping on foot helps) then this is a strong indicator that you're not reaching far enough."
+}
+]
     },
     {
         "ca": "C",
@@ -469,15 +499,19 @@
     "sc": "Front Crosses",
     "df": "Front crosses are skills where the jumper crosses both hands in front of their body, such as the basic Cross and. They require no Swings or Opens to enter into, and can be performed after <i>any</i> other type of Cross.",
     "tt": [
-        {
-            "h": "cross & uncross by 3 o'clock",
-            "p": "Imagine a clock around you, with 12 above your head and 6 beneath your feet. In this skill, begin entering the cross by the time the rope's loop reaches 3 o'clock."
-        },
-        {
-            "h": "no swings required",
-            "p": "When entering this skill, you can do so without needing any swings before it. Once you've mastered that, try adding entering this skill from many types of swings."
-        }
-    ]
+{
+"h": "cross & uncross by 3 o'clock",
+"p": "Imagine a clock around you, with 12 above your head and 6 beneath your feet. In this skill, being entering the cross by the time the rope's loop reaches 3 o'clock."
+},
+{
+"h": "no swings are needed",
+"p": "When entering this skill, you can do so without needing any swings before it. Once you've mastered that, try adding entering this skill from many types of swings."
+},
+{
+"h": "avoid reaching forwards",
+"p": "Avoid reaching out too far in front of your hips during this skill. Your hands should be as close to your mid-section as possible, as if you were giving yourself a hug."
+}
+]
 },
     {
         "ca": "P",
@@ -500,6 +534,10 @@
 { 
 "h": "Avoid hooking your hand",
 "p": "When placing your hand behind your body, avoid hooking it with too much force. If you hook it, it will cause the rope to move around you diagonally, preventing you from clearing the loop of the rope."
+},
+{ 
+"h": "Avoid bending your elbow",
+"p": "When placing your hand behind your body, avoid bending your elbow too much to reach around. This will usually cause you to over-reach. Instead, keep a relaxed, most-straight arm. As you reach behind, you'll find you can reach far enough without bending your elbow much at all."
 },
 { 
 "h": "Exiting with a swing",
