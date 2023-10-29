@@ -446,7 +446,33 @@
         "ca": "P",
         "sc": "Half Crosses",
         "df": "Half crosses are skills where the jumper crosses one hand in front of their body and one behind their body, such as the EB and the AS Toad. They require one Swing to enter into or an Open, commonly referred to as a Dive in.",
-        "tt": "✅ Cross both arms around your hips as level as possible. Uneven hands will prevent the rope from reaching your feet<br>✅ Draw a straight line on the floor next to you to direct the rope past your side and into the EB position.<br>✅ Scoop both wrists as you jump the loop of the rope<br>‼️ Avoid hooking excessively with your back hand as you reach behind you<br>‼️ Avoid lifting your front hand up near your face to get through this skill, this will prevent the rope travelling diagonally across you during the jump"
+        "tt": 
+[
+{
+"h": "enter with a swing",
+"p": "This skill is traditionally entered with a swing. As you swing, bring your hand very close together and draw a straight line beside you. As you reach past you, put your arm (left hand if swinging to the left), behind your body and you're done."
+},
+{ 
+"h": "exit directly to Open",
+"p": "This skill is traditionally exited directly into an Open. Immediately after jumping the loop of the rope, gently remove your arm from behind your body and allow the rope's loop to pass of your shoulder before reaching your feet."
+},
+{ 
+"h": "Diving in",
+"p": "This skill can be spiced up with a Dive enterance. This involves removing the swing (which normally proceeds it) entirely. To do this, place your arm behind your body immediately after jumping the loop of the rope (of the last Open)."
+},
+{ 
+"h": "Avoid hooking your hand",
+"p": "When placing your hand behind your body, avoid hooking it with too much force. If you hook it, it will cause the rope to move around you diagonally, preventing you from clearing the loop of the rope."
+},
+{ 
+"h": "Exiting with a swing",
+"p": "This skill can be exited with a swing, which is sometimes easier than its traditional exit (Open). To do this, jump through the skill and then wait for the loop of the rope to pass over your head another time. Then, as it approaches your feet again, uncross your front hand as opening a door and swing out."
+},
+{ 
+"h": "Keep your hands in position",
+"p": "When jumping through this skill, it's important to not let your hand drift upwards (such as reach too high up your back). Doing so will cause the loop of the rope to move around your diagonally."
+}
+]
     },
     {
         "ca": "P",
