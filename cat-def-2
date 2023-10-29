@@ -204,7 +204,41 @@
         "ca": "C",
         "sc": "Ground Crosses",
         "df": "Ground Crosses are skills where the jumper crosses one or both hands around their lower legs. This usually requires them to squat down to the ground such as with the Caboose, hence their name. They are easiest to learn if performed with a Ground Stall at the beginning.",
-        "tt": "✅ Utilise the Ground Stall to prep your entry into the foundational ground crosses<br>✅ Tuck your knees into your chest and make yourself as small as you can<br>✅ Keep your hips up so you have room for your arms to cross behind your knees <br>‼️ Avoid uncrossing your arms too early after the rope clears past your ankles<br>‼️ Avoid slamming your rope into the floor as your enter your ground crosses"
+        "tt": 
+[
+{
+"h": "The Ground Stall",
+"p": "Ground Crosses feel very different other types of foundational crossing skills. To make them easier to complete, set up with a Ground Stall. After your last Open, hunch forward and place the rope on the floor in front of you in a bell-shape. The rope should come to a complete stop. Then. you're ready to enter the Ground Cross by sweeping the rope under your feet."
+},
+{
+"h": "Sandwich skills. Yum!",
+"p": "Ground Crosses are the first example (for many jumpers) of sandwich skills. Sandwich skills are skills which take more than two jumps (from start to finish). In this case, it's usually three jumps."
+},
+{
+"h": "Knees to chest",
+"p": "To be able to reach full in this skill, make sure your bent over as far as you can - your knees should touch your chest. In this position, you should then be able to reach fully around your knees."
+},
+{
+"h": "head down, hips up",
+"p": "This skill requires a farily awkward body position. Hunch over with your knee bents and get your chest as low as you can. In this position, your hips will be above your head. You will be looking directly at the floor 15cm in front of your toes. Stay in this position throughout the skill."
+},
+{
+"h": "sweep the rope",
+"p": "Because you're so close to the ground, more of the rope will contact the floor. This will make it harder to turn the rope. To overcome this, sweep the rope under your feet by pulling it towards the back of the room."
+},
+{
+"h": "On the ground",
+"p": "Ground Crosses are exactly as they sound, on the ground. One or both hands will cross around your knees. "
+},
+{
+"h": "Avoid uncrossing early",
+"p": "After jumping the loop of the rope, avoid uncrossing to early. This will cause you to trip immediately. This can also be casued by trying to standing back up too soon, meaning you can't reach fully."
+},
+{
+"h": "Avoid slamming the rope",
+"p": "Doing this skill at speed can be tough. Avoid slamming the rope down, otherwise it'll bounce up and become even harder to control. If doing it at speed or from another skill, reach our slightly wider than shoulder-width as you hunch over. Then pull the rope under your feet before it reaches the floor".
+}
+]
     },
     {
         "ca": "C",
