@@ -528,5 +528,19 @@
         "ca": "P",
         "sc": "Consecutives",
         "df": "All crossing and swinging skills can be performed consecutively, where the jumper repeated the same skills back-to-back without anything in between. True consecutives have no Opens in between the skills at all (e.g Cross > Cross > Cross), whereas semi-consecutives have one Open in between the skills (e.g. Cross > Open > Cross > Open > Cross). These can be fun (and very benefitial) ways to challenge yourself by testing how many consecutives of a skill you can without tripping."
-    }
+        "tt": [
+{ 
+"h": "Scoop wrists evenly",
+"p": "It's critical you scoop/rotate both wrists evenly. If one wrist works harder than the other, the rope's arc will begin to tilt to one side and it'll trip you up."
+},
+{ 
+"h": "Keep hands in position",
+"p": "Avoid letting your hands drift from where they belon in each skill. If they drift forwards or upwards you'll trip."
+},
+{ 
+"h": "Momentum if your friend",
+"p": "Some restrictions be challenging to create mementum in. To be successful, ensure you jump at a good pace (both before and during these skills) so the rope has plenty of momentum throughout."
+}
+]
+}
 ]
