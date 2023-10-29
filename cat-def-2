@@ -37,7 +37,10 @@
 {
 "h": "Do the hokey cokey",
 "p": "Just like the Hokey Cokey, Bilateral Footwork is usually performed in pairs, in & out. This makes it easy to practice to music, which is usually in groups of four beats (in, out, in, out)."
-}
+},
+{
+"h": "Beginner friendly",
+"p": "Bilateral Footwork skills are the easiest to learn, so they're great for beginners! They also teach you all the fundamental movement patterns such as moving your feet into different positions, moving your whole body and twisting too."
 ]
     },
     {
@@ -73,6 +76,10 @@
 {
 "h": "Do the hokey cokey",
 "p": "Just like the Hokey Cokey, Bilateral Footwork is usually performed in pairs, in & out. This makes it easy to practice to music, which is usually in groups of four beats (in, out, in, out)."
+},
+{
+"h": "Protect your shins",
+"p": "Unilateral skills require a lot more leg strength to do confidently. Be careful not to overdo it when first learning them. However, the increased leg strength they'll give you will prove benefiical so many skill types later on inluding Leg Crosses and Double Unders." 
 }
 ]
     },
@@ -80,7 +87,37 @@
         "ca": "F",
         "sc": "Compound Footwork",
         "df": "Compound Footwork are skills where the jumper moves their feet independently from one another in a combination of unilateral and bilateral positions, such as the Running Man Shuffle. These are the hardest footwork skills to learn since they require the most coordination to perform cleanly.",
-        "pr": "Bilateral Footwork, Unilateral Footwork"
+        "pr": "Bilateral Footwork, Unilateral Footwork",
+        "tt": [
+{
+"h": "Ditch the rope",
+"p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
+},
+{
+"h": "Jump low",
+"p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
+},
+{
+"h": "Find your ryhthm",
+"p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
+},
+{
+"h": "Stay in one spot",
+"p": "Compound footwork are skills where you alternate between jumping on both feet and only one. Keep your torso in one spot so the different footwork positions are distinct."
+},
+{
+"h": "Break it down",
+"p": "Compound footwork are skills where you alternate between jumping on both feet and only one. Start by breaking the footwork into its individual pieces to make sure you're comfortable before putting them together"
+},
+{
+"h": "Master your basics",
+"p": "Compound footwork is a combination of Bilateral & Unilateral Footwork. If you struggle with this skill, it's recommended that go back and practice those separately first."
+},
+{
+"h": "Shift, don't bounce",
+"p": "Compound Footwork skills involve constantly switching between jumping on one leg and two. This means you'll be required to shift your bodyweight between your feet, rather than bouncing from foot to foot/feet. Stay light on your feet as youn do these skills."
+}
+]
     },
     {
         "ca": "C",
