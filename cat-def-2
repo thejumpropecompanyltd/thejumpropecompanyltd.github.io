@@ -339,10 +339,35 @@
         "ca": "S",
         "sc": "EB Swings",
         "df": "EB Swings are swings where one hand is restricted behind the jumper’s back in the “EB” position. They are a great way for beginners to explore swings which lead to more advanced skills such as the EB itself or EB Toad. EB Swings also function as a fun skill unto themselves on active rest days.",
-        "tt": "✅ Lead with your front hand to direct the rope<br>✅ Imagine drawing a straight line at your side as you swing the rope past<br>✅ Make sure you’re always reaching far enough across your back<br>‼️ Avoid lifting your front hand up to your face to transition to each side of your body<br>‼️ Avoid pulling your back hand out too early at the end",
         "bg": "Y",
         "rd": "Y",
-        "pr": "Foundational Swings"
+        "pr": "Foundational Swings",
+        "tt": [
+{
+"h": "Front hand leads",
+"p": "Lead with the front hand to direct the rope. As you do the first swing, bring your hands together in front of you and draw a straight line next your body. Then, put your outside hand behind your back"
+},
+{
+"h": "Two-Step Skills",
+"p": "EB Swing skills, in isolation, generally have two steps. The swing in and the swing out. Once you've mastered the basic movement pattern, you can connect EB Swings in many other ways."
+},
+{
+"h": "Avoid early uncrossing",
+"p": "Avoid uncrossing your back hand too early. Wait until the rope has passed your hips before removing the hand from behind your body."
+},
+{
+"h": "Use both wrists",
+"p": "Use both wrists to generate the rope's momentum. If one wrist becomes frozen, the rope's arc will being moving around your diagonally."
+},
+{
+"h": "Avoid lifting your hands",
+"p": "Keep both hands on your hips at all times. Avoid lifting them up to guide the rope around you. This will interfer with the flow of the rope and make it harder to complete the skill."
+},
+{
+"h": "Connect with it",
+"p": "EB Swings can connect different skills together such as the EB Toad and the basic EB. Try it yourself and build a sequence with one hand 'stuck' behind your back."
+}
+]
     },
     {
         "ca": "S",
