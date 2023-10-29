@@ -970,7 +970,8 @@
         "vi": 833062590,
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
-        "p1": "Consecutive"
+        "p1": "Front Cross",
+        "p3": "Consecutive"
     },
     {
         "na": "Inverse T-Toad (consecutively)",
@@ -979,35 +980,40 @@
         "vi": 833059859,
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
-        "p1": "Consecutive"
+        "p1": "Front Cross",
+        "p3": "Consecutive"
     },
     {
         "na": "Tucked EB (consecutively)",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Body Cross",
-        "p1": "Consecutive"
+        "p1": "Front Cross",
+        "p3": "Consecutive"
     },
     {
         "na": "Tummy Tuck (consecutively)",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
-        "p1": "Consecutive"
+        "p1": "Front Cross",
+        "p3": "Consecutive"
     },
     {
         "na": "Tucked AS Toad (consecutively)",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
-        "p1": "Consecutive"
+        "p1": "Front Cross",
+        "p3": "Consecutive"
     },
     {
         "na": "Tucked Inverse AS Toad (consecutively)",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
-        "p1": "Consecutive"
+        "p1": "Front Cross",
+        "p3": "Consecutive"
     },
     {
         "na": "EB Gogo (EB Gogo Swing in)",
@@ -1075,7 +1081,8 @@
         "vi": 832936377,
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
-        "p1": "Consecutive"
+        "p1": "Front Cross",
+        "p3": "Consecutive"
     },
     {
         "na": "Leg Over Gogo (Leg Over Gogo Swing in)",
