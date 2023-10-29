@@ -8,8 +8,29 @@
         "ca": "F",
         "sc": "Bilateral Footwork",
         "df": "Bilateral Footwork are skills where the jumper moves both feet together in unison, either doing the same thing or mirroring each other. This footwork is the easiest to learn and highly recommended for beginners.",
-        "tt": "✅ Start without the rope, keeping your bounces low to the ground<br>✅ Try to stay in one spot the whole time<br>✅ Use music to develop your rhythm and timing<br>‼️ Avoid holding your hands too wide<br>‼️ Avoid jumping too high or too heavily",
-        "bg": "Y"
+        "bg": "Y",
+        "tt": [
+{
+"h": "Ditch the rope",
+"p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
+},
+{
+"h": "Jump low",
+"p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
+},
+{
+"h": "Avoid wandering hands",
+"p": "Keep your hands as close to your hips at all times. When focusing on your feet, it can be easy for your hands to gradually drift out wide. If this happens, the rope's 'working length will shorten and you'll trip.r"
+},
+{
+"h": "Find your ryhthm",
+"p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
+},
+{
+"h": "Stay in one spot",
+"p": "Try to stay in one spot. Before you do this skill, do several Single Bounces in one spot. Treat this as a your 'home position'. Regardless of where your feet move to, try to use this 'home position' ad your central jumping spot."
+}
+]
     },
     {
         "ca": "F",
