@@ -109,7 +109,7 @@
         "sc": "Switch Crosses",
         "df": "A Switch Cross is a transition between any two crosses where the most restricted hand changes without an Open in between the two crosses. The most common of these is the basic Switch Cross itself, however a jumper can switch between <i>any</i> two skills, such as a left and right Toad, or from a left Cross and a right Toad. All \"perfect\" Switch Crosses where the switch occurs between two identical skills can be found here. All other 'combinations' can be found in the <i>'Combos This Appears In'</i> section of the skills' dedicated page.",
         "bg": "Y",
-        "pr": "Body Crosses, Leg Crosses, Ground Crosses"
+        "pr": "Body Crosses, Leg Crosses, Ground Crosses",
         "tt": [
 { 
 "h": "Timing is key",
@@ -545,7 +545,7 @@
     {
         "ca": "P",
         "sc": "Consecutives",
-        "df": "All crossing and swinging skills can be performed consecutively, where the jumper repeated the same skills back-to-back without anything in between. True consecutives have no Opens in between the skills at all (e.g Cross > Cross > Cross), whereas semi-consecutives have one Open in between the skills (e.g. Cross > Open > Cross > Open > Cross). These can be fun (and very benefitial) ways to challenge yourself by testing how many consecutives of a skill you can without tripping."
+        "df": "All crossing and swinging skills can be performed consecutively, where the jumper repeated the same skills back-to-back without anything in between. True consecutives have no Opens in between the skills at all (e.g Cross > Cross > Cross), whereas semi-consecutives have one Open in between the skills (e.g. Cross > Open > Cross > Open > Cross). These can be fun (and very benefitial) ways to challenge yourself by testing how many consecutives of a skill you can without tripping.",
         "tt": [
 { 
 "h": "Scoop wrists evenly",
