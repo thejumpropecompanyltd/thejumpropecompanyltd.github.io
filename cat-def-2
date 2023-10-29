@@ -173,7 +173,26 @@
         "sc": "Awesome Annies",
         "df": "Awesome Annies are swings which enable the jumper to transition between the two Leg Crosses, such as the Toad and Leg Over. All Leg Crosses can be Awesome Annie'd <i>from</i> but not only a few can be Awesome Annie'd <i>into</i>, including the Leg Over, Toad and T-Toad.",
         "tt": "✅ Leg your leg lifted at hip level <br>✅ Cross fully under your leg<br>✅ Swing the rope as vertically as possible <br>‼️ Avoid kicking back as you exit the second position<br>‼️ Lifting your top arm too far away from your hips",
-        "pr": "Leg Crosses"
+        "pr": "Leg Crosses",
+        "tt":
+    [
+{ 
+"h": "Keep Knees High",
+"p": "As you switch from leg to leg, keep your lifted knee at hip height or higher. If your knee(s) begins to drop it'll prevent you from transitioning smoothly."
+},
+{ 
+"h": "Transition at 3 o'clock",
+"p": "Wait until the loop of the rope approaches 3 o'clock before you being the transition."
+},
+{ 
+"h": "Hand, leg, wait!",
+"p": "The key to a successful Awesome Annie is executing all the steps in the correct order. Once the rope is in position and you're ready, first move your top hand across to the other side of your body. Then, switch legs and lift your opposite knee up high - at this point your restricted hand will naturally want to reach under the newly-liftd leg. Finally, wait. Wait for the loop of the rope to pass overhead and out in front of you before starting the next skill - or another Awesome Annie."
+},
+{ 
+"h": "Master your basics",
+"p": "All Awesome Annie skills are fundamentally based on the two 'base' variations - Toad & Leg Over Awesome Annie. To improve any and all your Awesome Annies, master these two variations (on both sides if you can) for seemless transitions everytime."
+}
+]
     },
     {
         "ca": "S",
