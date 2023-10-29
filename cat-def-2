@@ -293,10 +293,34 @@
         "ca": "C",
         "sc": "Step-Throughs",
         "df": "Step-Throughs are skills where the jumper <i>steps</i> through the loop of the rope instead of jumping over it. Leg Crosses and Leg Wraps are commonly performed as Step-Throughs as a stylist choice. They are excellent active rest day skills since they involve no jumping whatsoever.",
-        "tt": "⬇️ Crouch down slightly to help you reach into these ground crosses<br>⤵️ Step over the rope with the leg you would’ve jumped on<br>⏸ Wait for the rope to pass over your head out in front of you before exiting the skill<br>↕️ Try your best to keep the rope travelling vertical at all times<br>‼️ Avoid letting the rope touch your legs as it passes in-between them<br>‼️ Avoid letting your unrestricted hand pass over your head ",
-        "bg": "Y",
         "rd": "Y",
-        "pr": "Leg Crosses"
+        "pr": "Leg Crosses",
+        "tt": [
+{
+"h": "Crouch down",
+"p": "Crouch down slightly to help you reach under your leg for this skill. Place your legs at shoulder-width distance so and bend your knees slightly."
+},
+{
+"h": "Step through, literally",
+"p": "Step-Throughs are usually modified Leg Crosses. How they differ is that we step over the loop of the rope rather than jump over it. Do to this, plant the foot you would normally lift up and step through the rope with the foot you would've jumped over it with. After the loop has passed around and overhead, shift your bodyweight onto the leg you stepped through with, and lift up the leg which would normally be lifted."
+},
+{
+"h": "Swing out",
+"p": "Usually, Step-Through skills are exited with a swing on the opposite side of the body. Imagine a clock - wait for the rope to pass overhead and, as the rope it approaches 3 o'clock, lift your planted leg and begin swinging out. Swing the rope as vertically as possible and stand back up straight to finish."
+},
+{
+"h": "Rest Day Friendly",
+"p": "Since these skills require no jumping whatsoever, they're a great choice for active rest days, or if you have an injury which prevents you from jumping."
+},
+{
+"h": "Avoid Touching The Rope",
+"p": "Because of the hunched-over body position, it can be easy for the rope to touch your leg as it passes around in this skill. Avoid the rope touching your body, otherwise it will disrupt the flow of the rope. Reach under your leg as far as possible."
+},
+{
+"h": "The Unrestricted Hand",
+"p": "Because of the hunched-over body position, the rope may move around you slightly diagonally. This is okay, but it's important that your unrestricted hand isn't not lifted up too high away from your hips. It's also crucial your unrestricted hand does not pass overhead."
+}
+]
     },
     {
         "ca": "S",
