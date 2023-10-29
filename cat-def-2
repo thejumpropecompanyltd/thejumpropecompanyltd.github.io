@@ -817,12 +817,60 @@
     {
         "ca": "P",
         "sc": "Front Swings",
-        "df": "Front swings are skills where the jumper swings the rope whilst both hands are in front of their body, such as the Wrist Swing and Toad Gogo Swing. The require no Swings or Opens to enter into, but usually serve <i>as</i> the entrance for many other skills."
+        "df": "Front swings are skills where the jumper swings the rope whilst both hands are in front of their body, such as the Wrist Swing and Toad Gogo Swing. The require no Swings or Opens to enter into, but usually serve <i>as</i> the entrance for many other skills.",
+        "tt": [
+{
+"h": "Transition at 3 o'clock",
+"p": "Imagine a clock, with 12 o'clock above your head and 6 o'clock underneath you. Transition into and out of this skill when the rope is at 3 o'clock."
+},
+{
+"h": "Hand positions",
+"p": "Front Swings are skills where both hands are in front of their body you swing the rope next you."
+}
+]
     },
     {
         "ca": "P",
         "sc": "Back Swings",
-        "df": "Back swings are skills where the jumper swings the rope whilst one or both of their hands are behind their body, such as the EB Swing and EB Leg Over Swing. They require one Front Swing to enter into or an Open, commonly referred to as a Dive in. "
+        "df": "Back swings are skills where the jumper swings the rope whilst one or both of their hands are behind their body, such as the EB Swing and EB Leg Over Swing. They require one Front Swing to enter into or an Open, commonly referred to as a Dive in.",
+        "tt": [
+{
+"h": "Transition at 6 o'clock",
+"p": "Imagine a clock, with 12 o'clock above your head and 6 o'clock underneath you. Transition into and out of this skill after the rope is passes your feet at 6 o'clock."
+},
+{
+"h": "Enter with a swing",
+"p": "Traditionall this skill is entered with a Front Swing Bring the rope into a Box Swing then, as the rope passes your feet, place your outside hand behind your body. Let the rope pass over head then, as it approaches your feet again, uncross you the hand that's in front of you."
+},
+{
+"h": "Enter with a swing",
+"p": "Traditionall this skill is entered with a Front Swing Bring the rope into a Box Swing then, as the rope passes your feet, place your outside hand behind your body. Let the rope pass over head then, as it approaches your feet again, uncross you the hand that's in front of you."
+},
+{
+"h": "Front hand leads",
+"p": "Lead with the front hand to direct the rope. As you do the first swing, bring your hands together in front of you and draw a straight line next your body. Then, put your outside hand behind your back"
+},
+{
+"h": "Two-Step Skills",
+"p": "Back Swings, in isolation, generally have two steps. The swing in and the swing out. Once you've mastered the basic movement pattern, you can connect them in many other ways."
+},
+{
+"h": "Avoid early uncrossing",
+"p": "Avoid uncrossing your back hand too early. Wait until the rope has passed your hips before removing the hand from behind your body."
+},
+{
+"h": "Use both wrists",
+"p": "Use both wrists to generate the rope's momentum. If one wrist becomes frozen, the rope's arc will being moving around your diagonally."
+},
+{
+"h": "Avoid lifting your hands",
+"p": "Keep both hands on your hips at all times. Avoid lifting them up to guide the rope around you. This will interfer with the flow of the rope and make it harder to complete the skill."
+},
+{
+"h": "Connect with it",
+"p": "EB Swings can connect different skills together such as the EB Toad and the basic EB. Try it yourself and build a sequence with one hand 'stuck' behind your back."
+}
+]
     },
     {
         "ca": "P",
