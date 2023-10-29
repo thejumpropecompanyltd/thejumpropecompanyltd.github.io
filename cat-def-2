@@ -451,7 +451,17 @@
         "sc": "One-Handed Swings",
         "df": "One-handed swings are swings where the jumper holds both handles in one hand. To prevent the rope kinking, it's important to hold the second handle by your pink finger - this will ensure there is an adequate gap in the loop of the rope. These skills are great for a rest day since they involve no jumping at all.",
         "rd": "Y",
-        "pr": "Foundational Swings, Leg Swings"
+        "pr": "Foundational Swings, Leg Swings",
+        "tt": [
+{
+"h": "use your pinky",
+"p": "Hold the second handle with your pinky finger. This will ensure there is an adequete gap in the loop of the rope so it doesn't tangle as you swing."
+},
+{
+"h": "Pass at 6 o'clock",
+"p": "Always pass the handle from one hand to the other when the loop of the rope passes your feet at 6 o'clock."
+}
+]
     },
     {
         "ca": "D",
@@ -469,7 +479,21 @@
         "ca": "D",
         "sc": "No Contact Stalls",
         "df": "No Contact Stalls are skills where the jumper transitions from jumping frowards to backwards, or vice versa, without allowing the rope to contact their body before reversing its direction. This is achieved by jumping the loop of the rope such as in a basic Cross, then exiting by jumping another basic Cross, this time backwards.",
-        "pr": "Contact Stalls"
+        "pr": "Contact Stalls",
+        "tt": [
+{
+"h": "point the handles",
+"p": "The stall the rope in this skill, point the handles in the direction the rope is travelling. This will cancel out the rope's momentum, and allow you to then reverse its direction."
+},
+{
+"h": "Time it right",
+"p": "This stall happens immediately after you have jumped over the loop of the rope. Remove all energy in the rope as you land so that the loop of the rope travels no further than a quarter rotation away from your feet, before you reverse its direction and jump over the loop again (now in the opposite direction)."
+},
+{
+"h": "three-count stall",
+"p": "This stall will take three counts (or jumps) altogether to complete. The jump over the loop of the rope, another jumper as you reverse the direction of the rope, then one final jump over the rope again to exit the skill."
+}
+]
     },
     {
         "ca": "D",
