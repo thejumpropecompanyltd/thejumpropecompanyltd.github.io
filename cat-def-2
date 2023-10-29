@@ -29,6 +29,14 @@
 {
 "h": "Stay in one spot",
 "p": "Try to stay in one spot. Before you do this skill, do several Single Bounces in one spot. Treat this as a your 'home position'. Regardless of where your feet move to, try to use this 'home position' ad your central jumping spot."
+},
+{
+"h": "Keep it even",
+"p": "Bilateral footwork are skills where the feet move in pairs, either in the same direction or mirroring each other. As you jump, keep your bodyweight evenly distributed over both feet."
+},
+{
+"h": "Do the hokey cokey",
+"p": "Just like the Hokey Cokey, Bilateral Footwork is usually performed in pairs, in & out. This makes it easy to practice to music, which is usually in groups of four beats (in, out, in, out)."
 }
 ]
     },
@@ -36,7 +44,37 @@
         "ca": "F",
         "sc": "Unilateral Footwork",
         "df": "Unilateral Footwork are skills where the jumper one foot moves horizontally or vertically, whilst the other stays under the jumper's body. Unilateral Footwoork is harder than Bilateral Footwork because it requires more leg strength and good balance to perform cleanly.",
-        "bg": "Y"
+        "bg": "Y",
+        "tt": [
+{
+"h": "Ditch the rope",
+"p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
+},
+{
+"h": "Jump low",
+"p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
+},
+{
+"h": "Avoid wandering hands",
+"p": "Keep your hands as close to your hips at all times. Unilateral Footwork will test your balance, which may encourage your hands to drift away from your hips to help you. To combat this be mindful and keep your bodyweight directly over your non-moving foot."
+},
+{
+"h": "Balance better",
+"p": "Unilateral footwork are skills where you only move one foot, while the other stays under your body as you jump on it. Keep your full bodyweight over this feet."
+},
+{
+"h": "Find your ryhthm",
+"p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
+},
+{
+"h": "Stay in one spot",
+"p": "Unilateral footwork are skills where you only move one foot, while the other stays under your body as you jump on it. This foot should stay in one spot at all times."
+},
+{
+"h": "Do the hokey cokey",
+"p": "Just like the Hokey Cokey, Bilateral Footwork is usually performed in pairs, in & out. This makes it easy to practice to music, which is usually in groups of four beats (in, out, in, out)."
+}
+]
     },
     {
         "ca": "F",
