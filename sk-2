@@ -5,7 +5,8 @@
         "no": "O,",
         "ca": "Footwork",
         "vi": 833099743,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Double Bounce",
@@ -13,7 +14,8 @@
         "no": "O,,",
         "ca": "Footwork",
         "vi": 833065423,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Twister",
@@ -21,7 +23,8 @@
         "no": "A, B,",
         "ca": "Footwork",
         "vi": 833066999,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Skier",
@@ -29,7 +32,8 @@
         "no": "A, B,",
         "ca": "Footwork",
         "vi": 833066969,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Bell",
@@ -37,7 +41,8 @@
         "no": "A, B,",
         "ca": "Footwork",
         "vi": 833065400,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Side Straddle",
@@ -45,7 +50,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833066928,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Forward Straddle",
@@ -53,7 +59,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833065486,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Scissors",
@@ -61,7 +68,8 @@
         "no": "A, B,",
         "ca": "Footwork",
         "vi": 833065515,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "X-Motion",
@@ -69,7 +77,8 @@
         "no": "A, B,",
         "ca": "Footwork",
         "vi": 833068409,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Single Leg Jumps",
@@ -77,7 +86,8 @@
         "no": "R, R, R, R,",
         "ca": "Footwork",
         "vi": 833073570,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Front Tap",
@@ -85,7 +95,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833071640,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Side Tap",
@@ -93,7 +104,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833071678,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Back Tap",
@@ -101,7 +113,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833071552,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Cross Over",
@@ -109,7 +122,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833071608,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Cross Behind",
@@ -117,7 +131,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833071579,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Knee Raise",
@@ -125,7 +140,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833073485,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Leg Raise",
@@ -133,7 +149,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833073530,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Side Raise",
@@ -141,7 +158,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833073549,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Kick Back",
@@ -149,7 +167,8 @@
         "no": "A, O,",
         "ca": "Footwork",
         "vi": 833073438,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Alternating Step",
@@ -157,7 +176,8 @@
         "no": "R, L, R, L, R, L, R, L,",
         "ca": "Footwork",
         "vi": 833087711,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Front to Back",
@@ -165,7 +185,8 @@
         "no": "A, B,",
         "ca": "Footwork",
         "vi": 833090074,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Back to Front",
@@ -173,7 +194,8 @@
         "no": "A, B,",
         "ca": "Footwork",
         "vi": 833089479,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "Boxer Step",
@@ -188,7 +210,8 @@
         "no": "A, B, A, C,",
         "ca": "Footwork",
         "vi": 833089924,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "High Knee Cross Over",
@@ -196,7 +219,8 @@
         "no": "A, B, A, C,",
         "ca": "Footwork",
         "vi": 833095439,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "bg": "Y"
     },
     {
         "na": "High Knee Side Straddle",
@@ -248,6 +272,7 @@
         "ca": "Crosses",
         "vi": 832778321,
         "c1": "Body Cross",
+        "bg": "Y",
         "p1": "Front Cross"
     },
     {
@@ -257,6 +282,7 @@
         "ca": "Crosses",
         "vi": 832786139,
         "c1": "Body Cross",
+        "bg": "Y",
         "p1": "Half Cross"
     },
     {
@@ -266,6 +292,7 @@
         "ca": "Crosses",
         "vi": 832787931,
         "c1": "Body Cross",
+        "bg": "Y",
         "p1": "Back Cross"
     },
     {
@@ -887,6 +914,8 @@
         "ca": "Swings",
         "vi": 833105008,
         "c1": "Foundational Swing",
+        "bg": "Y",
+        "rd": "Y",
         "p1": "Front Swing",
         "nn": "Swing to Open / Southpaw / Side Swing / Sideswing Sideswing Open / Side Open / Crossed Swing / Cross Swing"
     },
@@ -897,6 +926,8 @@
         "ca": "Swings",
         "vi": 833238114,
         "c1": "Foundational Swing",
+        "bg": "Y",
+        "rd": "Y",
         "p1": "Front Swing"
     },
     {
@@ -906,6 +937,8 @@
         "ca": "Swings",
         "vi": 833240537,
         "c1": "Foundational Swing",
+        "bg": "Y",
+        "rd": "Y",
         "p1": "Front Swing"
     },
     {
@@ -915,6 +948,8 @@
         "ca": "Swings",
         "vi": 833238091,
         "c1": "EB Swing",
+        "bg": "Y",
+        "rd": "Y",
         "p1": "Back Swing"
     },
     {
@@ -924,6 +959,8 @@
         "ca": "Swings",
         "vi": 833241072,
         "c1": "Leg Swing",
+        "bg": "Y",
+        "rd": "Y",
         "p1": "Front Swing"
     },
     {
@@ -933,6 +970,7 @@
         "ca": "Swings",
         "vi": 833240841,
         "c1": "Leg Swing",
+        "rd": "Y",
         "p1": "Front Swing"
     },
     {
@@ -942,6 +980,8 @@
         "ca": "Swings",
         "vi": 833240927,
         "c1": "Leg Swing",
+        "bg": "Y",
+        "rd": "Y",
         "p1": "Front Swing"
     },
     {
@@ -951,6 +991,7 @@
         "ca": "Swings",
         "vi": 833240815,
         "c1": "Leg Swing",
+        "rd": "Y",
         "p1": "Front Swing"
     },
     {
@@ -960,6 +1001,7 @@
         "ca": "Swings",
         "vi": 832950520,
         "c1": "EB Swing",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Back Swing"
     },
@@ -970,6 +1012,7 @@
         "ca": "Swings",
         "vi": "COMING SOON",
         "c1": "EB Swing",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Back Swing"
     },
@@ -980,6 +1023,7 @@
         "ca": "Swings",
         "vi": 832938854,
         "c1": "Leg Swing",
+        "rd": "Y",
         "p1": "Back Swing"
     },
     {
@@ -988,6 +1032,7 @@
         "ca": "Swings",
         "vi": "COMING SOON",
         "c1": "Leg Swing",
+        "rd": "Y",
         "p1": "Back Swing"
     },
     {
@@ -997,6 +1042,7 @@
         "ca": "Swings",
         "vi": 833241041,
         "c1": "Leg Swing",
+        "rd": "Y",
         "p1": "Front Swing"
     },
     {
@@ -1139,6 +1185,7 @@
         "ca": "Swings",
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1149,6 +1196,7 @@
         "ca": "Swings",
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1159,6 +1207,7 @@
         "ca": "Swings",
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1169,6 +1218,7 @@
         "ca": "Swings",
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1179,6 +1229,7 @@
         "ca": "Swings",
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
+        "rd": "Y",
         "c2": "EB Swing",
         "p1": "Back Swing"
     },
@@ -1186,20 +1237,23 @@
         "na": "Body Stall",
         "ca": "Direction Change",
         "vi": 833939714,
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "bg": "Y"
     },
     {
         "na": "Open Stall",
         "sk": "> Open > No-Contact Stall > Rope Reversal > <BW> Open >",
         "ca": "Direction Change",
         "vi": 833939907,
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "bg": "Y"
     },
     {
         "na": "Between the Legs Stall",
         "ca": "Direction Change",
         "vi": 833939618,
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "bg": "Y"
     },
     {
         "na": "Side Swing Stall",
@@ -1212,13 +1266,15 @@
         "sk": "> Open > Contact Stall (Foot) > Rope Reversal > <BW> Open >",
         "ca": "Direction Change",
         "vi": 833939847,
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "bg": "Y"
     },
     {
         "na": "Foot Catch Stall",
         "ca": "Direction Change",
         "vi": 833939826,
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "bg": "Y"
     },
     {
         "na": "Backwards Body Stall",
@@ -1263,6 +1319,7 @@
         "ca": "Direction Change",
         "vi": 833938194,
         "c1": "Forwards 180",
+        "bg": "Y",
         "c2": "Swing 180",
         "c3": "Body Cross",
         "p1": "Front Swing"
@@ -1274,6 +1331,7 @@
         "ca": "Direction Change",
         "vi": 833937991,
         "c1": "Forwards 180",
+        "bg": "Y",
         "c2": "Swing 180",
         "c3": "Body Cross",
         "p1": "Front Swing"
@@ -1372,6 +1430,7 @@
         "ca": "Direction Change",
         "vi": 833936808,
         "c1": "Backwards 180",
+        "bg": "Y",
         "nn": "BW 180"
     },
     {
@@ -1804,6 +1863,7 @@
         "ca": "Direction Change",
         "vi": 833941005,
         "c1": "Texan Turn",
+        "bg": "Y",
         "c2": "Full Turn"
     },
     {
@@ -1823,6 +1883,7 @@
         "ca": "Direction Change",
         "vi": 833940950,
         "c1": "Texan Turn",
+        "bg": "Y",
         "c2": "360 Turn"
     },
     {
@@ -1841,6 +1902,7 @@
         "ca": "Direction Change",
         "vi": 833940830,
         "c1": "Texan Turn",
+        "bg": "Y",
         "c2": "360 Turn",
         "c3": "Body Cross"
     },
@@ -1905,7 +1967,9 @@
         "no": "S, [S], [S), C,",
         "ca": "Wraps",
         "vi": 833649389,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "bg": "Y",
+        "rd": "Y"
     },
     {
         "na": "Wrist Wrap",
@@ -1913,7 +1977,9 @@
         "no": "(S), (S], [S, O,",
         "ca": "Wraps",
         "vi": 833670753,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "bg": "Y",
+        "rd": "Y"
     },
     {
         "na": "EB Arm Wrap",
@@ -1922,6 +1988,8 @@
         "ca": "Wraps",
         "vi": 833655032,
         "c1": "Arm Wrap",
+        "bg": "Y",
+        "rd": "Y",
         "nn": "EB Wrap"
     },
     {
@@ -1930,7 +1998,8 @@
         "no": "Ts, T[s], (To)[s), Tc,",
         "ca": "Wraps",
         "vi": 833669512,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Inverse Toad Arm Wrap",
@@ -1938,7 +2007,8 @@
         "no": "Is, I[s], (Io)[s), Ic,",
         "ca": "Wraps",
         "vi": 833664399,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Leg Over Arm Wrap",
@@ -1946,7 +2016,8 @@
         "no": "Ls, L[s], (Lo)[s), Lo, C,",
         "ca": "Wraps",
         "vi": 833667567,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Inverse Leg Over Arm Wrap",
@@ -1954,19 +2025,22 @@
         "no": "Js, J[s], (Jo)[s), Jo, C,",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Neck Arm Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "AS Arm Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB Gogo Inverse Leg Over Arm Wrap",
@@ -1974,7 +2048,8 @@
         "no": "S, (Ej)s, (Ej)[s], (Ejc)[s), Es,",
         "ca": "Wraps",
         "vi": 833660518,
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB Gogo Leg Over Arm Wrap",
@@ -1982,21 +2057,24 @@
         "no": "S, (El)s, (El)[s], (Elc)[s), Es,",
         "ca": "Wraps",
         "vi": 833661631,
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB D-Gogo Toad Arm Wrap",
         "no": "S, (Eot)s, (Eot)[s], (Eo)[s), (Eo)s, Es,",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap",
         "no": "S, (Eoi)s, (Eoi)[s], (Eo)[s), (Eo)s, Es,",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB Gogo Arm Wrap",
@@ -2004,7 +2082,8 @@
         "no": "S, (Eo)s, (Eo)[s], E[s), Es,",
         "ca": "Wraps",
         "vi": 833737344,
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Toad Gogo Arm Wrap",
@@ -2012,7 +2091,8 @@
         "no": "Ts, (To)s, (To)[s], T[s, O,",
         "ca": "Wraps",
         "vi": 833759508,
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Inverse Toad Gogo Arm Wrap",
@@ -2020,7 +2100,8 @@
         "no": "Is, (Io)s, (Io)[s], I[s, O,",
         "ca": "Wraps",
         "vi": 833750907,
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Leg Over Gogo Arm Wrap",
@@ -2028,7 +2109,8 @@
         "no": "Ls, (Lc)s, (Lc)[s], L[s, C,",
         "ca": "Wraps",
         "vi": 833755614,
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap",
@@ -2036,19 +2118,22 @@
         "no": "Js, (Jc)s, (Jc)[s], J[s, C,",
         "ca": "Wraps",
         "vi": 833747047,
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Neck Gogo Arm Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "AS Gogo Arm Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "rd": "Y"
     },
     {
         "na": "Toad Thigh Wrap",
@@ -2056,7 +2141,8 @@
         "no": "Ts, [T]s, [To)s, O,",
         "ca": "Wraps",
         "vi": 833936430,
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "Inverse Toad Thigh Wrap",
@@ -2064,7 +2150,8 @@
         "no": "Is, [I]s, [Io)s, O,",
         "ca": "Wraps",
         "vi": 833936156,
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "Leg Over Thigh Wrap",
@@ -2072,7 +2159,8 @@
         "no": "Ls, [L]s, [Lc)s, C,",
         "ca": "Wraps",
         "vi": 833936245,
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "Inverse Leg Over Thigh Wrap",
@@ -2080,7 +2168,8 @@
         "no": "Js, [J]s, [Jc)s, C,",
         "ca": "Wraps",
         "vi": 833936100,
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "Tucked Leg Over Thigh Wrap",
@@ -2088,7 +2177,8 @@
         "no": "S, L(s), [L](s), [Lc)(so), C,",
         "ca": "Wraps",
         "vi": 833936545,
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "Tucked Inverse Leg Over Thigh Wrap",
@@ -2096,31 +2186,36 @@
         "no": "S, J(s), [J](s), [Jc)(so), C,",
         "ca": "Wraps",
         "vi": 833936487,
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB D-Gogo Toad Thigh Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB D-Gogo Inverse Toad Thigh Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "rd": "Y"
     },
     {
         "na": "EB Leg Wrap",
@@ -2215,25 +2310,29 @@
         "na": "Toad Step Through Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Step-Through Wrap"
+        "c1": "Step-Through Wrap",
+        "rd": "Y"
     },
     {
         "na": "Leg Over Step Through Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Step-Through Wrap"
+        "c1": "Step-Through Wrap",
+        "rd": "Y"
     },
     {
         "na": "Double Toad Step Through Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Step-Through Wrap"
+        "c1": "Step-Through Wrap",
+        "rd": "Y"
     },
     {
         "na": "Double Leg Over Step Through Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Step-Through Wrap"
+        "c1": "Step-Through Wrap",
+        "rd": "Y"
     },
     {
         "na": "Double Arm Wrap",
@@ -2324,6 +2423,7 @@
         "ca": "Wraps",
         "vi": 833935003,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2331,6 +2431,7 @@
         "ca": "Wraps",
         "vi": 833935596,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2338,6 +2439,7 @@
         "ca": "Wraps",
         "vi": 833935514,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2345,6 +2447,7 @@
         "ca": "Wraps",
         "vi": 833935293,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2352,6 +2455,7 @@
         "ca": "Wraps",
         "vi": 833935409,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2359,6 +2463,7 @@
         "ca": "Wraps",
         "vi": 833935108,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2366,6 +2471,7 @@
         "ca": "Wraps",
         "vi": 833935539,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -2373,6 +2479,7 @@
         "ca": "Wraps",
         "vi": 833935325,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -2380,6 +2487,7 @@
         "ca": "Wraps",
         "vi": 833935444,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -2387,6 +2495,7 @@
         "ca": "Wraps",
         "vi": 833935146,
         "c1": "One-Handed Wrap",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -2645,6 +2754,8 @@
         "ca": "Releases",
         "vi": 833622893,
         "c1": "Mic Release",
+        "bg": "Y",
+        "rd": "Y",
         "p1": "Wrist Pop Release",
         "nn": "Mic Release"
     },
@@ -2655,6 +2766,8 @@
         "ca": "Releases",
         "vi": 833581037,
         "c1": "Mic Release",
+        "bg": "Y",
+        "rd": "Y",
         "p1": "Box Swing Release",
         "nn": "Mic Release"
     },
@@ -2665,6 +2778,7 @@
         "ca": "Releases",
         "vi": 833637660,
         "c1": "Mic Release",
+        "rd": "Y",
         "p1": "Wrist Swing Release",
         "nn": "Mic Release"
     },
@@ -2675,6 +2789,7 @@
         "ca": "Releases",
         "vi": 833624443,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Gogo Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2685,6 +2800,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2696,6 +2812,7 @@
         "ca": "Releases",
         "vi": 833623941,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2707,6 +2824,7 @@
         "ca": "Releases",
         "vi": 833635752,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2717,6 +2835,7 @@
         "ca": "Releases",
         "vi": 833625001,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2727,6 +2846,7 @@
         "ca": "Releases",
         "vi": 833637144,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2737,6 +2857,7 @@
         "ca": "Releases",
         "vi": 833626399,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2747,6 +2868,7 @@
         "ca": "Releases",
         "vi": 833636410,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2758,6 +2880,7 @@
         "ca": "Releases",
         "vi": 833625594,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2769,6 +2892,7 @@
         "ca": "Releases",
         "vi": 833622249,
         "c1": "Mic Release",
+        "rd": "Y",
         "c2": "Gogo Swing",
         "p1": "Wrist Pop Release"
     },
@@ -2819,6 +2943,7 @@
         "ca": "Releases",
         "vi": 833609392,
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2828,6 +2953,7 @@
         "ca": "Releases",
         "vi": 833611993,
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2837,6 +2963,7 @@
         "ca": "Releases",
         "vi": 833610785,
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2846,6 +2973,7 @@
         "ca": "Releases",
         "vi": 833616510,
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2855,6 +2983,7 @@
         "ca": "Releases",
         "vi": 833613986,
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2864,6 +2993,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -2873,6 +3003,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -3004,6 +3135,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3013,6 +3145,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3020,6 +3153,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3027,6 +3161,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3034,6 +3169,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3041,6 +3177,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3048,6 +3185,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3055,6 +3193,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3062,6 +3201,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3069,6 +3209,7 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3538,7 +3679,9 @@
         "no": "S*, *S, O,",
         "ca": "Releases",
         "vi": 833592004,
-        "c1": "Handle Pass"
+        "c1": "Handle Pass",
+        "bg": "Y",
+        "rd": "Y"
     },
     {
         "na": "EB Handle Pass",
@@ -3546,7 +3689,9 @@
         "no": "S, Es*, *S, O,",
         "ca": "Releases",
         "vi": 833590185,
-        "c1": "Handle Pass"
+        "c1": "Handle Pass",
+        "bg": "Y",
+        "rd": "Y"
     },
     {
         "na": "Dive EB Handle Pass",
@@ -3554,7 +3699,8 @@
         "no": "Oe*, *S, O,",
         "ca": "Releases",
         "vi": 833589633,
-        "c1": "Handle Pass"
+        "c1": "Handle Pass",
+        "rd": "Y"
     },
     {
         "na": "Toad Handle Pass",
@@ -3562,7 +3708,9 @@
         "no": "Ts*, *S, O,",
         "ca": "Releases",
         "vi": 833593742,
-        "c1": "Handle Pass"
+        "c1": "Handle Pass",
+        "bg": "Y",
+        "rd": "Y"
     },
     {
         "na": "Inverse Toad Handle Pass",
@@ -3570,7 +3718,9 @@
         "no": "Ic*, *S, O,",
         "ca": "Releases",
         "vi": 833593448,
-        "c1": "Handle Pass"
+        "c1": "Handle Pass",
+        "bg": "Y",
+        "rd": "Y"
     },
     {
         "na": "Handle Pass Release",
@@ -3578,7 +3728,8 @@
         "no": "S*, s, M, O,",
         "ca": "Releases",
         "vi": 833590604,
-        "c1": "Handle Pass"
+        "c1": "Handle Pass",
+        "rd": "Y"
     },
     {
         "na": "Toad Handle Hold",
