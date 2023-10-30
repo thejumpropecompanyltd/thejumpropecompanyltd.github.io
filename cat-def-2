@@ -516,8 +516,33 @@
         "ca": "D",
         "sc": "Contact Stalls",
         "df": "Contact Stalls are skills where the jumper transitions from jumping forwards to backwards, or vice versa, by allowing the rope to contact their body briefly, before reversing its direction. This 'contact' can be with the foot, your torso or during a Leg Wrap.",
-        "tt": "✅ Count your jumps, the stall itself will take two ‘beats’<br>✅ Let your hands pass by your sides as you reverse the rope’s direction<br>✅ Be gentle as you stall the rope so it doesn’t flick up at you<br>‼️ Avoid pulling away from the stall too early<br>‼️ Avoid jumping too early as you exit the stall",
-        "bg": "Y"
+        "bg": "Y",
+        "tt": [
+{
+"h": "point the handles",
+"p": "The stall the rope in this skill, point the handles in the direction the rope is travelling. This will cancel out the rope's momentum, and allow you to then reverse its direction."
+},
+{
+"h": "reach past your hips",
+"p": "As the rope contacts your body, continue moving your hands in the direction the rope was travelling it until you're reaching fully past your hips. This will help you kepe the tension in the rope, making it easier to reverse the direction of the rope smothly."
+},
+{
+"h": "Time it right",
+"p": "This stall happens immediately after you have jumped over the loop of the rope. Remove all energy in the rope as you land so that the loop of the rope travels no further than a quarter rotation away from your feet, before you reverse its direction and jump over the loop again (now in the opposite direction)."
+},
+{
+"h": "four-count stall",
+"p": "This stall will take four counts (or jumps) altogether to complete. The jump over the loop of the rope of the last skill before the stall begins, a 'mini' jump as you bring the rope into the stal against your body, another jump as you reverse the direction of the rope, then one final jump over the rope again as you complete the exit skill."
+},
+{
+"h": "avoid exiting too early",
+"p": "This stall will take four counts to complete. Don't rush the middle section as you reverse the rope's direction."
+},
+{
+"h": "count out loud",
+"p": "Try jumping four times (all Opens) before you start this skill, whilst counting out loud. Continue counting as you start the stall until the very end. Keep your counting confident as a constant pace."
+}
+]
     },
     {
         "ca": "D",
@@ -535,7 +560,11 @@
 },
 {
 "h": "three-count stall",
-"p": "This stall will take three counts (or jumps) altogether to complete. The jump over the loop of the rope, another jumper as you reverse the direction of the rope, then one final jump over the rope again to exit the skill."
+"p": "This stall will take three counts (or jumps) altogether to complete. The jump over the loop of the rope, another jump as you reverse the direction of the rope, then one final jump over the rope again to exit the skill."
+},
+{
+"h": "be gentle",
+"p": "No Contact Stalls are diffuclt skills to control, especially at speed. Be gentle by holding your handles with a light grip."
 }
 ]
     },
