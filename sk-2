@@ -2025,22 +2025,19 @@
         "no": "Js, J[s], (Jo)[s), Jo, C,",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap",
-        "rd": "Y"
+        "c1": "Arm Wrap"
     },
     {
         "na": "Neck Arm Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap",
-        "rd": "Y"
+        "c1": "Arm Wrap"
     },
     {
         "na": "AS Arm Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap",
-        "rd": "Y"
+        "c1": "Arm Wrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Arm Wrap",
@@ -2065,16 +2062,14 @@
         "no": "S, (Eot)s, (Eot)[s], (Eo)[s), (Eo)s, Es,",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "c1": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap",
         "no": "S, (Eoi)s, (Eoi)[s], (Eo)[s), (Eo)s, Es,",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "c1": "Gogo Arm Wrap"
     },
     {
         "na": "EB Gogo Arm Wrap",
@@ -2125,15 +2120,13 @@
         "na": "Neck Gogo Arm Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "c1": "Gogo Arm Wrap"
     },
     {
         "na": "AS Gogo Arm Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "c1": "Gogo Arm Wrap"
     },
     {
         "na": "Toad Thigh Wrap",
@@ -2193,29 +2186,25 @@
         "na": "EB D-Gogo Toad Thigh Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap",
-        "rd": "Y"
+        "c1": "Thigh Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Thigh Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap",
-        "rd": "Y"
+        "c1": "Thigh Wrap"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap",
-        "rd": "Y"
+        "c1": "Thigh Wrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap",
         "ca": "Wraps",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap",
-        "rd": "Y"
+        "c1": "Thigh Wrap"
     },
     {
         "na": "EB Leg Wrap",
@@ -2800,7 +2789,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Mic Release",
-        "rd": "Y",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2993,7 +2981,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -3003,7 +2990,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Arm Wrap"
     },
     {
@@ -3135,7 +3121,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3145,7 +3130,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3153,7 +3137,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3161,7 +3144,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3169,7 +3151,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3177,7 +3158,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3185,7 +3165,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3193,7 +3172,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3201,7 +3179,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
@@ -3209,7 +3186,6 @@
         "ca": "Releases",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
-        "rd": "Y",
         "c2": "Thigh Wrap"
     },
     {
