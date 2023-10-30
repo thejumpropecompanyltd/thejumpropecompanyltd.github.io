@@ -130,8 +130,7 @@
         "sc": "Body Crosses",
         "df": "Body Crosses are skills where the jumper crosses both hands around their upper body, such as the basic Cross and the EB. These crosses are the easiest to learn and recommended for beginners.",
         "bg": "Y",
-        "tt":
-[
+        "tt": [
 { 
 "h": "Hands on hips",
 "p": "Keep both hands at hip-level at all times. You can check your form with a toe catch in this skill. If the loop of the rope can reach both feet, your hands are low enough on your torso."
@@ -205,8 +204,7 @@
         "ca": "C",
         "sc": "Ground Crosses",
         "df": "Ground Crosses are skills where the jumper crosses one or both hands around their lower legs. This usually requires them to squat down to the ground such as with the Caboose, hence their name. They are easiest to learn if performed with a Ground Stall at the beginning.",
-        "tt": 
-[
+        "tt": [
 {
 "h": "The Ground Stall",
 "p": "Ground Crosses feel very different other types of foundational crossing skills. To make them easier to complete, set up with a Ground Stall. After your last Open, hunch forward and place the rope on the floor in front of you in a bell-shape. The rope should come to a complete stop. Then. you're ready to enter the Ground Cross by sweeping the rope under your feet."
@@ -245,25 +243,49 @@
         "ca": "C",
         "sc": "Tucked Crosses",
         "df": "Tucked Crosses are skills where the jumper performs a normal Body, Leg or Ground Cross, but with the top hand tucked under the other hand. For example, in a T-Toad, the jumper tucks the hand that's usually above their leg (top hand) underneath the hand that’s crossing under their leg, effectively trapping the ‘top’ hand.",
-        "pr": "Leg Crosses"
+        "pr": "Leg Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "C",
         "sc": "Gogo Crosses",
         "df": "Gogo Crosses are skills where the jumper crosses one of their hands around their body twice. Imagine your left hand crossing under your leg from left to right, then reaching back around the front of your leg from right to left -  the hand <i>goes</i> one way then it <i>goes</i> the other way - it 'go-gos'.",
-        "pr": "Leg Crosses, Gogo Swings"
+        "pr": "Leg Crosses, Gogo Swings",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "C",
         "sc": "Knot Crosses",
         "df": "Knot Crosses are skills where the jumper performs a normal Body, Leg or Ground cross except that the most restricted hand crosses above the least restricted hand from within the original restriction. For example, in an EB Knot the hand which is behind the jumper’s back reaches forward (from behind their back) and crosses over and in front of their other arm.",
-        "pr": "Body Crosses, Leg Crosses"
+        "pr": "Body Crosses, Leg Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "C",
         "sc": "Inverse Bounding",
         "df": "Inverse Bounding are skills where the jumper peforms a Leg Cross, except the way they 'jump' is non-standard. This can mean jumping on the 'opposite' leg or both at the same time. Inverse Bounding is useful for adapting skills to better suit othher aspects of a sequence’s choreography, such as Leg Cross in Double Unders.",
-        "pr": "Leg Crosses"
+        "pr": "Leg Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "C",
@@ -460,7 +482,6 @@
         "ca": "S",
         "sc": "Awesome Annies",
         "df": "Awesome Annies are swings which enable the jumper to transition between the two Leg Crosses, such as the Toad and Leg Over. All Leg Crosses can be Awesome Annie'd <i>from</i> but not only a few can be Awesome Annie'd <i>into</i>, including the Leg Over, Toad and T-Toad.",
-        "tt": "✅ Leg your leg lifted at hip level <br>✅ Cross fully under your leg<br>✅ Swing the rope as vertically as possible <br>‼️ Avoid kicking back as you exit the second position<br>‼️ Lifting your top arm too far away from your hips",
         "pr": "Leg Crosses",
         "tt":
     [
@@ -486,9 +507,14 @@
         "ca": "S",
         "sc": "Gogo Swings",
         "df": "Gogo swings are swings where one hand crosses around one of the jumper's body part twice, such as around their hips. Imagine your left hand crossing across your back from left to right, then reaching back around the front of your hips from right to left -  the hand <i>goes</i> one way then it <i>goes</i> the other way - it 'go-gos'. One of the most common gogo swings is the EB Gogo Swing which is used to create a popular type of Mic Release called the EB Gogo Mic Release.",
-        "tt": "✅ Cross as fully as possible in the initial ‘entry’ swing<br>✅ Keep the rope travelling vertically at all times<br>✅ The Gogo Swing will always be on the opposite side of the initial swing <br>‼️ Avoid exiting each position too early and snagging your body<br>‼️ Avoid hunching or leaning awkwardly and losing your balance",
         "rd": "Y",
-        "pr": "Foundational Swings, Leg Swings, EB Swings"
+        "pr": "Foundational Swings, Leg Swings, EB Swings",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "S",
@@ -573,45 +599,86 @@
         "sc": "Forwards 180s",
         "df": "Forwards 180 Turns are skills where the jumper transitions from jumping forwards to backwards by turning their body 180º whilst the rope continues moving in the same direction. This can be done two fundamental ways - with a side swing (recommended for beginners) or without a side swing (commonly referred to as a Dive).",
         "bg": "Y",
-        "pr": "Bilateral Footwork, Foundational Swings, Body Crosses"
+        "pr": "Bilateral Footwork, Foundational Swings, Body Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "D",
         "sc": "Backwards 180s",
         "df": "Backwards 180 Turns are skills where the jumper transitions from jumping backwards to forwards by turning their body 180º whilst the rope continues moving in the same direction. This can be done two fundamental ways - witout a side swing (recommended for beginners) or with a side swing (commonly referred to as a Texan).",
         "bg": "Y",
-        "pr": "Bilateral Footwork, Foundational Swings, Body Crosses"
+        "pr": "Bilateral Footwork, Foundational Swings, Body Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "D",
         "sc": "360 Turns",
         "df": "360 Turns are skills where the jumper completes a full 360º, starting and ending forwards (or backwards), whilst the rope continues moving in the same direction throughout the entire skill. This can be done three fundamental ways - as basic 360 Turns with a jump in backwards phase (recommended for beginners), as Full Turns with no jump in the backwards phase, or as Half Turns where you turn 180º in each direction such left <i>then</i> right, or vice versa.",
-        "pr": "Forwards 180s, Backwards 180s"
+        "pr": "Forwards 180s, Backwards 180s",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "D",
         "sc": "Dive Turns",
         "df": "Dive Turns are skills where the jumper performs a 180 or 360 Turn with no side swing in the forwards phase.",
-        "pr": "Forwards 180s, 360 Turns"
+        "pr": "Forwards 180s, 360 Turns",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "D",
         "sc": "Leg Hook Turns",
         "df": "Leg Hook Turns are skills where the jumper performs a 180 or 360 Turn with a Leg Hook in the backwards phase. A Leg Hook is a pseudo-Leg Cross where the jumper jumps the loop of the rope with one hand under the leg, except their arms aren't <i>crossed</i>.",
-        "tt": "✅ Reach under your leg as much as possible<br>✅ Keep the rope travelling vertically at all times<br>✅ Keep your chest up so it’s easier to turn without losing your balance<br>‼️ Avoid finishing the 360 early and pulling the rope around diagonally<br>‼️ Avoid double bounding during the 360",
-        "pr": "Leg Crosses, 360 Turns"
+        "pr": "Leg Crosses, 360 Turns",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "D",
         "sc": "Half Turns",
         "df": "Half Turns are skills where the jumpers performs a 360 Turn except they turn 180º in <i>each</i> direction such left <i>then</i> right, or vice versa.",
-        "pr": "Forwards 180s, Backwards 180s"
+        "pr": "Forwards 180s, Backwards 180s",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "D",
         "sc": "Full Turns",
         "df": "Full Turns are skills where the jumper performs a 360 Turn without a jump in the backwards phase. Like how a 180 Turn is a Swing + a 180, a Half Turn is quite simply a Swing + a 360.",
-        "pr": "Forwards 180s, 360 Turns"
+        "pr": "Forwards 180s, 360 Turns",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "D",
@@ -619,7 +686,13 @@
         "df": "Texan Turns are skills where the jumper transitions from jumping backwards to forwards by turning their body 180º whilst the rope swings behind their body. These are commonly stylised by jumpers lifting their arms up and holding their hands on their shoulders. ",
         "bg": "Y",
         "rd": "Y",
-        "pr": "Backwards 180s, 360 Turns"
+        "pr": "Backwards 180s, 360 Turns",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
@@ -630,77 +703,139 @@
         "ca": "W",
         "sc": "Arm Wraps",
         "df": "Arm Wraps are skills where the rope is wrapped around the jumper’s forearm during a side swing. These are great for beginners to learn, to help them understand the structure and flow of all other wraps.",
-        "tt": "↔️ Swing the rope close to your side at all times<br>🔄 Wrap the rope around your wrist or lower forearm<br>🔢 Count the 4 steps - swing, wrap, unwrap, exit<br>⏹ Try without jumping first, then add the bounding later<br>‼️ Avoid rushing through steps 2 & 3 and let each revolution finish before moving on to the next",
         "bg": "Y",
         "rd": "Y",
-        "pr": "Foundational Swings, Body Crosses"
+        "pr": "Foundational Swings, Body Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "Gogo Arm Wraps",
         "df": "Arm Wraps are skills where the rope is wrapped around the jumper’s forearm during a Gogo Swing. ",
         "rd": "Y",
-        "pr": "Arm Wraps"
+        "pr": "Arm Wraps",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "Thigh Wraps",
         "df": "Leg Wraps are skills where the rope is wrapped around the jumper’s upper leg during a Leg Swing.",
-        "tt": "✅ Swing the rope gently under your leg letting your bottom hand touch your thigh<br>✅ Make sure you bring your wrapped thigh to the other side when unwrapping<br>✅ Count the 4 steps - swing, wrap, unwrap, exit<br>‼️ Avoid pulling the rope diagonally across you as you transition left>right or right>left<br>‼️ Avoid rushing through steps 2 & 3. Let each revolution finish before moving on",
         "rd": "Y",
-        "pr": "Leg Swings, Arm Wraps"
+        "pr": "Leg Swings, Arm Wraps",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "Leg Wraps",
         "df": "Leg Wraps are skills where the rope is wrapped around the jumper’s lower leg during a Leg Cross.",
-        "tt": "✅ Keep your restricted hand right against your calf as you wrap <br>✅ Keep your unrestricted hand close to your hip<br>✅ Keep the rope travelling vertically through all steps <br>‼️ Avoid lowering your leg too early or leaning forward excessively<br>‼️ Avoid kicking your leg out wide to balance",
-        "pr": "Leg Crosses, Leg Swings, Arm Wraps, Awesome Annies"
+        "pr": "Leg Crosses, Leg Swings, Arm Wraps, Awesome Annies",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "Step-Through Wraps",
         "df": "Step-Through Wraps are skills where the jumper performs a Leg Wrap, except they <i>step</i> over the loop of the rope instead of jumping it.",
-        "tt": "✅ Place your hand directly behind your knee<br>✅ Keep the rope as vertically as possible<br>✅ Swing to the opposite side to unwrap<br>‼️ Avoid lifting your hand over your head as your wrap/unwrap<br>‼️ Avoid holding your free arm too far from your hips",
         "rd": "Y",
-        "pr": "Step-Throughs, Leg Swings, Arm Wraps, Leg Wraps"
+        "pr": "Step-Throughs, Leg Swings, Arm Wraps, Leg Wraps",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "Double Wraps",
         "df": "Double Wraps are skills where the jumper wraps the rope twice around the same body part. This results in the basic four-count structure of the wrap changing to six or seven, depending on the body part.",
-        "pr": "Arm Wraps, Leg Wraps"
+        "pr": "Arm Wraps, Leg Wraps",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "Dual Wraps",
         "df": "Double Wraps are skills where the jumper wraps the rope twice around the two different body parts. This results in the basic four-count structure of the wrap changing to as many as nine counts.",
-        "pr": "Arm Wraps, Leg Wraps"
+        "pr": "Arm Wraps, Leg Wraps",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "180 Unwraps",
         "df": "180 Unwraps are skills where the jumper turns 180º as they perform the unwrap swing, resulting in the jumper entering the wrap forwards and exiting the wrap backwards, or vice versa. Traditionally, the jumper will turn <i>in the direction of</i> of the unwrap swing.",
-        "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Forwards 180s"
+        "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Forwards 180s",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "Gogo Unwraps",
         "df": "Gogo Unwraps are skills where the jumper unwraps from a Leg Wrap by transitioning into a Gogo Cross instead of performing the tradiational unwrap swing. The four-count structure of the wrap remained unchanged.",
-        "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Gogo Crosses"
+        "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Gogo Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "One-Handed Wraps",
         "df": "One-Handed Wraps are skills where the jumper performs an Arm, Thigh or Leg Wrap whilst performing One-Handed Swings. ",
         "pr": "One-Handed Swings, Thigh Wraps, Leg Wraps",
-        "rd": "Y"
+        "rd": "Y",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "W",
         "sc": "Linked Wraps",
         "df": "Linked Wraps are combos where two wraps are linked by overlapping the first wrap’s exit skill (count 4) with the second wrap’s entry skill (count 1), resulting in a 7-count structure. This is distinctly different performing both wraps fully back-to-back, which would require 8 count in total. A very common variation of this involves performing an Awesome Annie in between two Leg Wraps. ",
-        "pr": "Arm Wraps, Leg Wraps, Awesome Annies"
+        "pr": "Arm Wraps, Leg Wraps, Awesome Annies",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
@@ -711,81 +846,141 @@
         "ca": "R",
         "sc": "Mic Releases",
         "df": "Mic Releases are skills where the jumper releases the handle during a side swing, allowing the rope to complete a full rotation next to their body, before catching it again.",
-        "tt": "✅ Focus on the upwards energy of the rope during pop/throw<br>✅ Feel the feedback or ‘tug’ in the rope as you turn<br>✅ Use a toe catch to help you find your feet immediately after the catch<br>‼️ Try without jumping first, but then don’t forget to add the bounding later<br>‼️ Avoid throwing the rope too far away from you",
         "bg": "Y",
         "rd": "Y",
-        "pr": "Foundational Swings"
+        "pr": "Foundational Swings",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Vertical Releases",
         "df": "Vertical releases are skills where the jumper performs a release without a swing whilst the rope’s arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body.",
-        "tt": "✅ Release the handle gently so the rope’s tension remains clean<br>✅ Keep your wrist scooping and directing the rope’s momentum throughout <br>✅ Scoop DOWN not up as you release the rope, unlike a standard Mic Release <br>‼️ Avoid releasing too late when the rope’s arc passes out in front of you<br>‼️ Avoid the rope touching your body as you jump the rope into body or leg cross",
-        "pr": "Body Crosses, Leg Crosses, Awesome Annies, Mic Releases"
+        "pr": "Body Crosses, Leg Crosses, Awesome Annies, Mic Releases",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Wrap Releases",
         "df": "Wrap Releases are skills where the jumper releases the wrapped handle, allowing the rope to unwrap <i>itself</i> from the jumper's arm or leg, before completion a full rotation (or two) in their air next to their body.",
-        "tt": "✅ Wrap the rope tightly round your leg to avoid the release tangling<br>✅ Keep your unrestricted hand close to your hip<br>✅ Rotate the Mic Release directly next to your body<br>‼️ Avoid sticking your leg out too wide during the Unwrap Swing<br>‼️ Avoid releasing your handle too early",
         "rd": "Y",
-        "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Mic Releases"
+        "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Mic Releases",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Same-Side Releases",
         "df": "Same-Side Releases are skills where the jumper releases the opposite handle to the one which they would normally release (left hand if swinging to the left), and rotates the rope with other hand instead. These are typically used as transitions into Mambas, as catching the rope without doing so is <i>much</i> more difficult.",
-        "pr": "Mic Releases"
+        "pr": "Mic Releases",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Step-Through Releases",
         "df": "Step-Through Releases are skills where the jumper performs a Vertical Release after <i>stepping</i> over the loop of the rope. These can also be performed with Same-Side Releases, depending on the Leg Cross the jumper steps through.",
         "rd": "Y",
-        "pr": "Step-Throughs, Mic Releases"
+        "pr": "Step-Throughs, Mic Releases",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Mambas",
         "df": "Mambas are skills where the jumper transitions between a Mic Release and a Same-Side Release by rotating the rope twice on either side of their body. The jump can enter a Mamba from a Mic Release <i>or</i> a Same-Side Release as well perform other skills at the same as the Mamba, including 360 Turns and Double Unders.",
-        "tt": "✅ Count the rotations: 2 on your left, 2 on your right<br>✅ Keep your arm raised to chest-height<br>✅ Tug on the rope gently as it transitions from side to side<br>‼️ Avoid spinning the rope at different speeds on each side<br>‼️ Avoid advancing too quickly through these drills. Take your time to master each in turn.",
         "rd": "Y",
-        "pr": "Mic Releases, Same-Side Releases"
+        "pr": "Mic Releases, Same-Side Releases",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Floaters",
         "df": "Floaters are skills where the jumper brings the rope to a complete pause above their head and releases one or both handles for a very short time, before catching them again. Floaters are unique because none of the standard rules of 'combo buidling' apply since they enable the jumper to perform <i>any</i> skills before/after any other skill - something which is normally impossible.",
-        "tt": "✅ Be GENTLE! Floaters are a delicate skill<br>✅ Release the rope BEFORE it passes over your head to prevent the rope flying out in front of you.<br>✅ If you do a one-handed floater, mimic the movement of the rope with the handle you’re still holding so the handles move in tandem <br>‼️ Avoid jumping too fast during floater skills<br>‼️ Avoid changing hand placements UNTIL the rope is fully releases to prevent it twisting in the air",
-        "pr": "Foundational Swings, Leg Swings, Body Crosses, Leg Crosses"
+        "pr": "Foundational Swings, Leg Swings, Body Crosses, Leg Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Floater Mic Releases",
         "df": "Floater Mic Release are skills where the jumper brings the rope to a complete pause above their head and releases one handle (for example their left), handle passes the other handle (their right handle to their left hand) then begins rotating the rope with the other hand, before catching the first handle (with their right hand). These are literally a hybrid of Mic Releases and basic Floaters.",
-        "pr": "Floaters, Mic Releases"
+        "pr": "Floaters, Mic Releases",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "One-Handed Releases",
         "df": "One-Handed Releases are skills where the jumper performs any type of Mic Release from a One-Handed Swing. These are typically Wrist Swing Releases, where the handle is released as the swing approaches the top of its revolution (12 o'clock).",
         "rd": "Y",
-        "pr": "Handle Passes, One-Handed Swings, Mic Releases"
+        "pr": "Handle Passes, One-Handed Swings, Mic Releases",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Handle Passes",
         "df": "Handle Passes are skills where the jumper passes one of their handles to the opposite hand for a period of time before passing it back again.",
-        "tt": "✅ Start with a Box Swing<br>✅ Swing the rope close to your body<br>✅ Pass the handles when the rope’s arc reaches the floor<br>‼️ Avoid holding the handles together<br>‼️ Avoid switching the handles",
         "bg": "Y",
         "rd": "Y",
-        "pr": "Foundational Swings, Leg Swings, EB Swings"
+        "pr": "Foundational Swings, Leg Swings, EB Swings",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "R",
         "sc": "Handle Holds",
         "df": "Handle Holds are skills where the jumper places (and holds) one of their handles by their knee with a bent leg. Many types of skills are possible during a Handle Hold including Leg Crosses, Wraps, 180 Turns, Releases and more.",
-        "pr": "Leg Crosses"
+        "pr": "Leg Crosses",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "M",
@@ -796,14 +991,25 @@
         "ca": "M",
         "sc": "Double Unders",
         "df": "Double unders are skills where the rope completes two revolutions in one jump, either passing under the jumper’s feet or in a swing at their side. There are 10 foundational double unders, upon which all other advanced double under variations are built.",
-        "tt": "🆙 Keep your chest up and eyes fixed on the horizon<br>↔️ Keep your hands tight to your body so the rope’s arc is narrow<br>⬇️ Drive down with your hands and elbows as you turn the rope<br>⬆️ Elevate THEN rotate. This is critical advice courtesy of @rxsmartgear and this applies even when there’s a Swing for the first ‘under’.<br>↕️ Jump up straight like a pencil, land softly and spring straight back up<br>‼️ Avoid hinging at your hips, like a ‘dolphin kick’ ⠀",
-        "pr": "Body Crosses, Foundational Swings"
+        "pr": "Body Crosses, Foundational Swings",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]    
     },
     {
         "ca": "M",
         "sc": "Triple Unders",
         "df": "Triple unders are skills where the rope completes three revolutions in one jump, either passing under the jumper’s feet or in a swing at their side. There are 28 foundational triple unders, upon which all other advanced triple under variations are built.\n",
-        "pr": "Double Unders"
+        "pr": "Double Unders",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
     "ca": "P",
@@ -948,37 +1154,79 @@
     {
         "ca": "P",
         "sc": "Dive in",
-        "df": "Dives are skills where the jumper enters into a Half Cross, such as the EB without first performing the side swing that usually proceeds it. They can be used to make sequences more seemless by literally removing the number of steps between different skills."
+        "df": "Dives are skills where the jumper enters into a Half Cross, such as the EB without first performing the side swing that usually proceeds it. They can be used to make sequences more seemless by literally removing the number of steps between different skills.",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "P",
         "sc": "Swing in",
-        "df": "All crossing skills can be entered from an Open, but in some cases, swinging in can be more natural or smoother. Front Crosses such as the basic Cross are proceeded by a Box Swing, whereas skills such as the Leg Over are proceeded by a Wrist Swing."
+        "df": "All crossing skills can be entered from an Open, but in some cases, swinging in can be more natural or smoother. Front Crosses such as the basic Cross are proceeded by a Box Swing, whereas skills such as the Leg Over are proceeded by a Wrist Swing.",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "P",
         "sc": "Swing out",
-        "df": "All crossing skills can be exited directly into an Open, but in some cases, swinging out can be more natural and easier. Half Crosses, such as the EB, and Leg Crosses, such as the Leg Over, are both easier to perform if swung out of. Swinging out also sometimes allows a jumper to transition <i>between</i> one skill and the next more fluidly."
+        "df": "All crossing skills can be exited directly into an Open, but in some cases, swinging out can be more natural and easier. Half Crosses, such as the EB, and Leg Crosses, such as the Leg Over, are both easier to perform if swung out of. Swinging out also sometimes allows a jumper to transition <i>between</i> one skill and the next more fluidly.",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "P",
         "sc": "Wrist Swing Releases",
-        "df": "Wrist Swing Releases are skills where the jumper performs a Wrist Swing, before then releasing the top handle (of the hand which is crossing over the body) as the rope approaches the top of its revolution (12 o'clock). These are typically performed with a double rotation as a stylistic choice."
+        "df": "Wrist Swing Releases are skills where the jumper performs a Wrist Swing, before then releasing the top handle (of the hand which is crossing over the body) as the rope approaches the top of its revolution (12 o'clock). These are typically performed with a double rotation as a stylistic choice.",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "P",
         "sc": "Wrist Pop Releases",
-        "df": "Wrist Pop Releases are skills where the jumper performs a modified Box Swing, where their outer hand (hand <i>not</i> crossing the body) is placed on top of the other hand's wrist, before releasing then it by <i>popping</i> if off the back of the other hand's wrist. This is the most biomechnically-efficient way to perform a Mic Release and so its recommended that beginners learn this first before exploring other types."
+        "df": "Wrist Pop Releases are skills where the jumper performs a modified Box Swing, where their outer hand (hand <i>not</i> crossing the body) is placed on top of the other hand's wrist, before releasing then it by <i>popping</i> if off the back of the other hand's wrist. This is the most biomechnically-efficient way to perform a Mic Release and so its recommended that beginners learn this first before exploring other types.",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "P",
         "sc": "Box Swing Releases",
-        "df": "Box Swing Releases are skills where the jumper performs a modified Box Swing, where the outer handle (the hand <i>not</i> crossing the body) is pointed towards the floor, before then releasing this handle by pulling it gently upwards."
+        "df": "Box Swing Releases are skills where the jumper performs a modified Box Swing, where the outer handle (the hand <i>not</i> crossing the body) is pointed towards the floor, before then releasing this handle by pulling it gently upwards.",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "P",
         "sc": "No Swing Releases",
-        "df": "No Swing Releases are skills where the jumper performs a release without a swing whilst the rope’s arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body."
+        "df": "No Swing Releases are skills where the jumper performs a release without a swing whilst the rope’s arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body.",
+        "tt": [
+{
+"h": "coming soon",
+"p": "top tips for this skill are coming soon..."
+}
+]
     },
     {
         "ca": "P",
