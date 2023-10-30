@@ -619,7 +619,8 @@
         "ca": "W",
         "sc": "One-Handed Wraps",
         "df": "One-Handed Wraps are skills where the jumper performs an Arm, Thigh or Leg Wrap whilst performing One-Handed Swings. ",
-        "pr": "One-Handed Swings, Thigh Wraps, Leg Wraps"
+        "pr": "One-Handed Swings, Thigh Wraps, Leg Wraps",
+        "rd": "Y"
     },
     {
         "ca": "W",
