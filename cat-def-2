@@ -331,9 +331,54 @@
         "ca": "S",
         "sc": "Foundational Swings",
         "df": "Foundational Swings are the first two side swings any beginner will learn: the Wrist Swing and the Box Swing. They’re extremely versatile and the most common swings in sequences. You can learn a lot about how jump rope freestyle works just by mastering your Foundational Swings and their many variations.",
-        "tt": "✅ Always scoop with BOTH wrists<br>✅ Start with just single bounces BEFORE adding other footwork<br>✅ Remember to jump during all your swings<br>‼️ Avoid holding your arms too wide<br>‼️ Avoid swiping across excessively and making the rope slant",
         "bg": "Y",
-        "rd": "Y"
+        "rd": "Y",
+        "tt": [
+{
+"h": "Use both wrists",
+"p": "Use both wrists to swing the rope. If you only use your dominant hand, the rope will diagonally and be imbalanced."
+},
+{
+"h": "hands on hips",
+"p": "Keep your hands on your hips at all times. Avoid lifting your leading hand up past elbow-height."
+},
+{
+"h": "Keep it vertical",
+"p": "Ideally, the rope should swing next your body in a vertical line. As you rotate the rope, imagine painting a small circle on a wall next you."
+},
+{
+"h": "Transition at 3 o'clock",
+"p": "Ideally, the rope should swing next your body in a vertical line."
+},
+{
+"h": "Keep it narrow",
+"p": "Your swings should close to you. Imagine you're in a narrow corridor as you do this skill. Avoid hitting the walls either side of you."
+},
+{
+"h": "Point purposefully",
+"p": "During this skill, both handles should point in the same direction, perpendicular to the direction you're facing."
+},
+{
+"h": "Count your jumps",
+"p": "When first learning to swing, it's okay to stand still as you swing the rope next to your body. Once you feel comfortable with this, try jumping on the spot (known as bounding) as you swing. A basic swing will always take at least two jumps - one jump during the swing, and one jump during the exit skill."
+},
+{
+"h": "Keep your feet together",
+"p": "To help you develop your rhythm with swings, keep your feet together at all times. Once you've comfortable with this, you can then experiement with different types of footwork such as Boxer Step or Speed Step for even more of a challenge."
+},
+{
+"h": "Avoid your hands touching",
+"p": "Your swing should be narrow and efficient, but avoid holdin your hands too close together such that they actually touch. If they do touch, the loop of the rope may tangle and make it harder to jump the rope after the swing."
+},
+{
+"h": "Avoid swiping it",
+"p": "Swing, don't swipe. Avoid pulling the rope sideways too hard, as this cause it move diagonally."
+},
+{
+"h": "Test with a toe catch",
+"p": "To ensure you have good form, it's good practice to drill this skill with a toe catch instead of jumps. This help enable you to check you're able to get the loops of the rope under both feet easily. When you're ready, you can then gradually introduce the jumps."
+}
+]
     },
     {
         "ca": "S",
