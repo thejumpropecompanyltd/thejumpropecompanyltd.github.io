@@ -762,7 +762,7 @@
         "pr": "Forwards 180s, 360 Turns",
         "tt": [
 {
-"h": "Why 'full'?",
+"h": "Full = Swing + 360",
 "p": "A Full Turn is similar to a 360 Turn since you complete a full 360º rotation througout the skill. The difference here though, is there is no jump during the backwards phase. That means you turn 360 in one count. If a basic 180 turn is a Swing + a 180, then a Full is quite simply a Swing + a 360."
 },
 {
@@ -822,6 +822,10 @@
 {
 "h": "Start without a bounce",
 "p": "When first learning this turn, you can get comfortable by not jumping as you perform the swing. Once you're comfortable though, remember to include the jump as you swing."
+},
+{
+"h": "Momentum is key",
+"p": "Don't force it. The key to a clean Texan Turn is the momentum inherited from the previous skill. Let the rope do the work as you focus on timing your turn right."
 }
 ]
     },
