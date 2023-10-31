@@ -661,7 +661,7 @@
 "p": "If you're turning around into a backwards cross (of any type), use a Box Swing. At the moment you begin to turn, lead with the hand that's crossing your hips by tucking it under your other hand as you form the backwards cross."
 },
 {
-"h": "Adding under/over rotating",
+"h": "Avoid under/over rotating",
 "p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
 },
 {
@@ -688,6 +688,10 @@
 {
 "h": "Keep it vertical",
 "p": "Avoid rotating your body too early. If you do, you'll pull the rope diagonally as you turn and make it much harder to control and you'll likely trip. Imagine you're in a narrow corridor. Avoid swinging the rope into the walls beside you."
+},
+{
+"h": "Avoid under/over rotating",
+"p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
 },
 {
 "h": "Lift your arms",
@@ -794,6 +798,30 @@
 {
 "h": "don't let it touch you",
 "p": "As the rope swings behind your body, avoid letting it touch your the back of your legs or feet. Turn out of the way of the rope just in time for it swing <i>past</i> you so you can transition into the forwards part of this skill smoothly."
+},
+{
+"h": "Turn early",
+"p": "To help make the transition from backweards to forwards seemless and prevent the rope touching your back, turn around a fraction earlier than usual. As the rope approaches your feet begin turning so you've turn 90º (half way) at the moment the loop of the rope passes your feet."
+},
+{
+"h": "Hips or shoulders?",
+"p": "Most Texan Turns can be peformed two ways - with your hands on your hips (in pocket position) or up higher on top of your shoudlers. Both positions are 'valid', it comes down to personal preference and style as to which you do. Leanr both and decide which you prefer."
+},
+{
+"h": "3-count turn",
+"p": "Foundational Texan Turns take 3 jumps to complete. The jump of the last backwards skill before you begin turning, the swing that is the Texan itself, then the jump of the forwards skill as you exit."
+},
+{
+"h": "Forward Straddle First",
+"p": "Before starting your 180 turn, land in a Forward Straddle - whichever direction you intend to turn, place the <i>other</i> foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
+},
+{
+"h": "Avoid under/over rotating",
+"p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
+},
+{
+"h": "Start without a bounce",
+"p": "When first learning this turn, you can get comfortable by not jumping as you perform the swing. Once you're comfortable though, remember to include the jump as you swing."
 }
 ]
     },
