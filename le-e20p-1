@@ -82,7 +82,8 @@
     {
         "cid": "1-4-1-c-1",
         "na": "Bounding (No Rope)",
-        "vid": "836593533"
+        "vid": "836593533",
+        "p": "This is example text explaining this carousel."
     },
     {
         "cid": "1-4-1-c-2",
