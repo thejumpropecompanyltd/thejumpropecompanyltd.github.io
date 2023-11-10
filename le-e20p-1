@@ -81,13 +81,13 @@
     },
     {
         "cid": "1-4-1-c-1",
-        "na": "Bounding (No Rope)",
+        "na": "Bounding",
         "vid": "836593533",
         "p": "This is example text explaining this carousel."
     },
     {
         "cid": "1-4-1-c-2",
-        "na": "Bounding + Rope Swings",
+        "na": "Bounding with Rope Swings",
         "vid": "836593564"
     },
     {
@@ -184,30 +184,30 @@
     },
     {
         "cid": "1-7-1-v",
-        "na": "2 Singles 2 Doubles",
+        "na": "Challenge 1",
         "h": "Challenge 1",
         "vid": "836593338",
         "ty": "C",
         "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "p": "2 Singles 2 Doubles"
     },
     {
         "cid": "1-7-2-v",
-        "na": "2 Singles 1 Double",
+        "na": "Challenge 2",
         "h": "Challenge 2",
         "vid": "836593260",
         "ty": "C",
         "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "p": "2 Singles 1 Double"
     },
     {
         "cid": "1-7-3-v",
-        "na": "1 Single 1 Double",
+        "na": "Challenge 3",
         "h": "Challenge 3",
         "vid": "836593072",
         "ty": "C",
         "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "p": "1 Single 1 Double"
     },
     {
         "cid": "1-8-0-h",
