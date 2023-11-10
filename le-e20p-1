@@ -12,7 +12,8 @@
         "na": "Single Bounce",
         "h": "Single Bounce",
         "vid": "836594397",
-        "ty": "S"
+        "ty": "S",
+        "p": "This is example text explaining this carousel."
     },
     {
         "cid": "1-1-2-c-2",
@@ -138,7 +139,8 @@
     {
         "cid": "1-6-1-c-1",
         "na": "Single Bounce at 80bpm",
-        "vid": "836593944"
+        "vid": "836593944",
+        "p": "This is example text explaining this carousel."
     },
     {
         "cid": "1-6-1-c-2",
