@@ -30,6 +30,7 @@
     {
         "cid": "1-2-1-v",
         "na": "Rope Throws",
+        "h": "Rope Throws",
         "vid": "836593810",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
@@ -56,6 +57,7 @@
     {
         "cid": "1-3-1-v",
         "na": "Wrist Shaking",
+        "h": "Wrist Shaking",
         "vid": "836594544",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
@@ -63,6 +65,7 @@
     {
         "cid": "1-3-2-m-1",
         "na": "Rope Swings",
+        "h": "Rope Swings",
         "vid": "836593778",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
@@ -100,6 +103,7 @@
     {
         "cid": "1-5-1-v",
         "na": "Basic Bounce Drill",
+        "h": "Basic Bounce Drill",
         "vid": "836593533",
         "ty": "D",
         "ta": "Y",
@@ -210,7 +214,7 @@
     },
     {
         "cid": "1-8-0-h",
-        "h": "Quiz",
+        "h": "Basic Bounce Quiz",
         "ta": "Y",
         "p": "This quiz will test your knowledge on lesson 1."
     },
