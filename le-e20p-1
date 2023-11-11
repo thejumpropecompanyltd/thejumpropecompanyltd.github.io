@@ -25,20 +25,22 @@
     {
         "cid": "1-2-0-h",
         "h": "The Toe Catch",
-        "ta": "Y",
         "p": "This is example text introducing section 2."
     },
     {
         "cid": "1-2-1-v",
         "na": "Rope Throws",
         "vid": "836593810",
+        "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
     {
         "cid": "1-2-2-m-1",
         "na": "Toe Catch",
+        "h": "Toe Catch",
         "vid": "836594503",
         "ty": "S",
+        "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
     {
@@ -49,19 +51,20 @@
     {
         "cid": "1-3-0-h",
         "h": "The Hands",
-        "ta": "Y",
         "p": "This is example text introducing section 3."
     },
     {
         "cid": "1-3-1-v",
         "na": "Wrist Shaking",
         "vid": "836594544",
+        "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
     {
         "cid": "1-3-2-m-1",
         "na": "Rope Swings",
         "vid": "836593778",
+        "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
     {
@@ -72,31 +75,34 @@
     {
         "cid": "1-4-0-h",
         "h": "The Feet",
-        "ta": "Y",
         "p": "This is example text introducing section 4."
     },
     {
         "cid": "1-4-1-c-1",
         "na": "Bounding",
+        "h": "Bounding (No Rope)",
         "vid": "836593533",
+        "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
         "cid": "1-4-1-c-2",
         "na": "Bounding with Rope Swings",
-        "vid": "836593564"
+        "h": "Bounding (With Rope)",
+        "vid": "836593564",
+        "ta": "Y"
     },
     {
         "cid": "1-5-0-h",
-        "h": "Drill 1",
-        "ta": "Y",
+        "h": "Basic Bounce Drill",
         "p": "This is example text introducing section 5."
     },
     {
         "cid": "1-5-1-v",
-        "na": "Basic Bounce Drill 1",
+        "na": "Basic Bounce Drill",
         "vid": "836593533",
         "ty": "D",
+        "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
     {
@@ -129,14 +135,15 @@
     },
     {
         "cid": "1-6-0-h",
-        "h": "Jumping Pace",
-        "ta": "Y",
+        "h": "Jumping Speed",
         "p": "This is example text introducing section 6."
     },
     {
         "cid": "1-6-1-c-1",
         "na": "Single Bounce at 80bpm",
+        "h": "Jumping Speed",
         "vid": "836593944",
+        "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
@@ -204,7 +211,8 @@
     {
         "cid": "1-8-0-h",
         "h": "Quiz",
-        "ta": "Y"
+        "ta": "Y",
+        "p": "This quiz will test your knowledge on lesson 1."
     },
     {
         "cid": "1-8-1-q",
