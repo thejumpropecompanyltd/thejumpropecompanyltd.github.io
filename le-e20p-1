@@ -221,31 +221,39 @@
         "h": "Question 1",
         "ty": "Q",
         "p": "What is the correct answer?",
-        "ay": "This is the correct answer.",
-        "an": "This is not the correct answer."
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
     },
     {
         "cid": "1-8-2-q",
         "h": "Question 2",
         "ty": "Q",
         "p": "What is the correct answer?",
-        "ay": "This is the correct answer.",
-        "an": "This is not the correct answer."
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
     },
     {
         "cid": "1-8-3-q",
         "h": "Question 3",
         "ty": "Q",
         "p": "What is the correct answer?",
-        "ay": "This is the correct answer.",
-        "an": "This is not the correct answer."
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
     },
     {
         "cid": "1-8-4-q",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
-        "ay": "This is the correct answer.",
-        "an": "This is not the correct answer."
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
     }
 ]
