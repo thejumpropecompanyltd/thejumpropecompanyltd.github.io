@@ -81,7 +81,7 @@
     {
         "cid": "1-4-1-c-1",
         "na": "Bounding",
-        "h": "Bounding (No Rope)",
+        "h": "Bounding",
         "vid": "836593533",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
@@ -89,9 +89,7 @@
     {
         "cid": "1-4-1-c-2",
         "na": "Bounding with Rope Swings",
-        "h": "Bounding (With Rope)",
-        "vid": "836593564",
-        "ta": "Y"
+        "vid": "836593564"
     },
     {
         "cid": "1-5-0-h",
