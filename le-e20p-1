@@ -216,7 +216,7 @@
         "p": "This quiz will test your knowledge on lesson 1."
     },
     {
-        "cid": "1-8-1-q",
+        "cid": "1-8-1-q-1",
         "h": "Question 1",
         "ty": "Q",
         "p": "What is the correct answer?",
@@ -226,7 +226,7 @@
         "a3": "This is not the correct answer."
     },
     {
-        "cid": "1-8-2-q",
+        "cid": "1-8-1-q-2",
         "h": "Question 2",
         "ty": "Q",
         "p": "What is the correct answer?",
@@ -236,7 +236,7 @@
         "a3": "This is not the correct answer."
     },
     {
-        "cid": "1-8-3-q",
+        "cid": "1-8-1-q-3",
         "h": "Question 3",
         "ty": "Q",
         "p": "What is the correct answer?",
@@ -246,7 +246,7 @@
         "a3": "This is not the correct answer."
     },
     {
-        "cid": "1-8-4-q",
+        "cid": "1-8-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
