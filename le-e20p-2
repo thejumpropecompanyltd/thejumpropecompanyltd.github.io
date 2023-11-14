@@ -466,6 +466,7 @@
         "cid": "2-5-1-v",
         "na": "Bilateral Footwork Challenge 1",
         "vid": "836595390",
+        "ty": "C",
         "ta": "Y",
         "p": "This is example text explaining this challenge."
     },
@@ -473,6 +474,7 @@
         "cid": "2-5-2-v",
         "na": "Bilateral Footwork Challenge 2",
         "vid": "836595485",
+        "ty": "C",
         "ta": "Y",
         "p": "This is example text explaining this challenge."
     },
@@ -480,6 +482,7 @@
         "cid": "2-5-3-v",
         "na": "Bilateral Footwork Challenge 3",
         "vid": "836595559",
+        "ty": "C",
         "ta": "Y",
         "p": "This is example text explaining this challenge."
     },
@@ -487,6 +490,7 @@
         "cid": "2-5-4-v",
         "na": "Bilateral Footwork Challenge 4",
         "vid": "836595612",
+        "ty": "C",
         "ta": "Y",
         "p": "This is example text explaining this challenge."
     },
@@ -494,6 +498,7 @@
         "cid": "2-5-5-v",
         "na": "Bilateral Footwork Challenge 5",
         "vid": "836595661",
+        "ty": "C",
         "ta": "Y",
         "p": "This is example text explaining this challenge."
     },
