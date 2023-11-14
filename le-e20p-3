@@ -12,15 +12,13 @@
         "na": "Single Bounce",
         "h": "Skills in this lesson",
         "vid": "836594397",
-        "ty": "S",
         "p": "In this lesson, you will learn your first ever two skills. These are the Single Bounce & Double Bounce. Watch the videos above to see how they're supposed to look."
     },
     {
         "cid": "1-1-2-c-2",
         "na": "Double Bounce",
         "h": "Double Bounce",
-        "vid": "836593669",
-        "ty": "S"
+        "vid": "836593669"
     },
     {
         "cid": "1-2-0-h",
@@ -112,6 +110,7 @@
         "na": "Single Bounce",
         "h": "Single Bounce",
         "vid": "836594397",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
@@ -125,6 +124,7 @@
         "na": "Double Bounce",
         "h": "Double Bounce",
         "vid": "836593669",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
@@ -266,32 +266,27 @@
         "na": "Twister",
         "h": "Skills in this lesson",
         "vid": "836596543",
-        "ty": "S",
         "p": "In this lesson, you will learn your very first footwork skills. There are five in total. Watch the videos above to see how they're supposed to look."
     },
     {
         "cid": "2-1-2-c-2",
         "na": "Skier",
-        "vid": "836596333",
-        "ty": "S"
+        "vid": "836596333"
     },
     {
         "cid": "2-1-2-c-3",
         "na": "Bell",
-        "vid": "884509697",
-        "ty": "S"
+        "vid": "884509697"
     },
     {
         "cid": "2-1-2-c-4",
         "na": "Side Straddle",
-        "vid": "836596178",
-        "ty": "S"
+        "vid": "836596178"
     },
     {
         "cid": "2-1-2-c-5",
         "na": "Forward Straddle",
-        "vid": "836595844",
-        "ty": "S"
+        "vid": "836595844"
     },
     {
         "cid": "2-2-0-h",
@@ -303,6 +298,7 @@
         "na": "Twister (no rope)",
         "h": "Twister",
         "vid": "836593810",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
@@ -316,6 +312,7 @@
         "na": "Skier (no rope)",
         "h": "Skier",
         "vid": "836596270",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
@@ -329,6 +326,7 @@
         "na": "Bell (no rope)",
         "h": "Bell",
         "vid": "836595327",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
@@ -368,6 +366,7 @@
         "na": "Side Straddle (no rope)",
         "h": "Side Straddle",
         "vid": "836596134",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
@@ -381,6 +380,7 @@
         "na": "Forward Straddle (no rope)",
         "h": "Forward Straddle",
         "vid": "836595755",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
@@ -423,28 +423,28 @@
         "na": "X-Motion (no rope)",
         "h": "X-Motion",
         "vid": "836596617",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
         "cid": "2-4-1-c-2",
         "na": "X-Motion",
-        "vid": "836596673",
-        "ty": "S"
+        "vid": "836596673"
     },
     {
         "cid": "2-4-2-c-1",
         "na": "Scissors (no rope)",
         "h": "Scissors",
         "vid": "836595952",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
         "cid": "2-4-2-c-2",
         "na": "Scissors",
-        "vid": "836596018",
-        "ty": "S"
+        "vid": "836596018"
     },
     {
         "cid": "2-4-3-c-1",
@@ -569,50 +569,42 @@
         "na": "Front Tap",
         "h": "In this lesson",
         "vid": "836601685",
-        "ty": "S",
         "p": "In this lesson, you will learn about unilateral footwork. There are eight in total. Watch the videos above to see how they're supposed to look."
     },
     {
         "cid": "3-1-2-c-2",
         "na": "Side Tap",
-        "vid": "836602257",
-        "ty": "S"
+        "vid": "836602257"
     },
     {
         "cid": "3-1-2-c-3",
         "na": "Back Tap",
-        "vid": "836601374",
-        "ty": "S"
+        "vid": "836601374"
     },
     {
         "cid": "3-1-2-c-4",
         "na": "Cross Behind",
-        "vid": "836601506",
-        "ty": "S"
+        "vid": "836601506"
     },
     {
         "cid": "3-1-2-c-5",
         "na": "Cross Over",
-        "vid": "836601590",
-        "ty": "S"
+        "vid": "836601590"
     },
     {
         "cid": "3-1-2-c-6",
         "na": "Knee Raise",
-        "vid": "836601970",
-        "ty": "S"
+        "vid": "836601970"
     },
     {
         "cid": "3-1-2-c-7",
         "na": "Leg Raise",
-        "vid": "836602081",
-        "ty": "S"
+        "vid": "836602081"
     },
     {
         "cid": "3-1-2-c-8",
         "na": "Kick Back",
-        "vid": "836601867",
-        "ty": "S"
+        "vid": "836601867"
     },
     {
         "cid": "3-2-0-h",
@@ -657,6 +649,7 @@
         "na": "Front Tap (no rope)",
         "h": "Front Taps",
         "vid": "836601664",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
@@ -685,6 +678,7 @@
         "na": "Side Tap (no rope)",
         "h": "Side Tap",
         "vid": "836602229",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
@@ -718,6 +712,7 @@
         "na": "Back Tap (no rope)",
         "h": "Back Tap",
         "vid": "836601215",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
@@ -779,6 +774,7 @@
         "na": "Cross Behind (no rope)",
         "h": "Cross Behind",
         "vid": "836601459",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
@@ -792,6 +788,7 @@
         "na": "Cross Over (no rope)",
         "h": "Cross Over",
         "vid": "836601547",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
@@ -810,6 +807,7 @@
         "na": "Knee Raise",
         "h": "Knee Raise",
         "vid": "836601970",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
@@ -833,6 +831,7 @@
         "na": "Leg Raise",
         "h": "Leg Raise",
         "vid": "836602081",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
@@ -856,6 +855,7 @@
         "na": "Kick Back",
         "h": "Kick Back",
         "vid": "836601867",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
