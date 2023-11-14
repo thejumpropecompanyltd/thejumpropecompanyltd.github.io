@@ -12,7 +12,7 @@
         "na": "Single Bounce",
         "h": "Skills in this lesson",
         "vid": "836594397",
-        "p": "In this lesson, you will learn your first ever two skills. These are the Single Bounce & Double Bounce. Watch the videos above to see hwo they're supposed to look."
+        "p": "In this lesson, you will learn your first ever two skills. These are the Single Bounce & Double Bounce. Watch the videos above to see how they're supposed to look."
     },
     {
         "cid": "1-1-2-c-2",
@@ -246,6 +246,295 @@
     },
     {
         "cid": "1-8-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "2-0-h",
+        "h": "Bilateral Footwork"
+    },
+    {
+        "cid": "2-1-1-p",
+        "p": "In this lesson you will learn the fundamentals of the basic bounce."
+    },
+    {
+        "cid": "2-1-2-c-1",
+        "na": "Twister",
+        "h": "Skills in this lesson",
+        "vid": "836596543",
+        "p": "In this lesson, you will learn your very first footwork skills. These are five in total. Watch the videos above to see how they're supposed to look."
+    },
+    {
+        "cid": "2-1-2-c-2",
+        "na": "Skier",
+        "h": "Skier",
+        "vid": "836596333"
+    },
+    {
+        "cid": "2-1-2-c-3",
+        "na": "Bell",
+        "vid": "884509697"
+    },
+    {
+        "cid": "2-1-2-c-4",
+        "na": "Side Straddle",
+        "vid": "836596178"
+    },
+    {
+        "cid": "2-1-2-c-5",
+        "na": "Forward Straddle",
+        "vid": "836595844"
+    },
+    {
+        "cid": "2-2-0-h",
+        "h": "Feet Together",
+        "p": "This is example text introducing section 2."
+    },
+    {
+        "cid": "2-2-1-v",
+        "na": "Twister (no rope)",
+        "vid": "836593810",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-2-2-v",
+        "na": "Twister",
+        "h": "Twister",
+        "vid": "836594503",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-2-3-v",
+        "na": "Skier (no rope)",
+        "vid": "836596270",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-2-4-v",
+        "na": "Skier",
+        "h": "Skier",
+        "vid": "836596333",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-2-5-v",
+        "na": "Bell (no rope)",
+        "vid": "836595327",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-2-6-v",
+        "na": "Bell",
+        "vid": "884509697",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-2-3-c-1",
+        "na": "Twister (4-count)",
+        "h": "4-Count Footwork",
+        "vid": "836596382",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "2-2-3-c-2",
+        "na": "Skier (4-count)",
+        "vid": "836596230"
+    },
+    {
+        "cid": "2-2-3-c-3",
+        "na": "Bell (4-count)",
+        "vid": "884508992"
+    },
+    {
+        "cid": "2-3-0-h",
+        "h": "The Straddles",
+        "p": "This is example text introducing section 3."
+    },
+    {
+        "cid": "2-3-1-v",
+        "na": "Side Straddle (no rope)",
+        "vid": "836596134",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-3-2-v",
+        "na": "Side Straddle",
+        "vid": "836596178",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-3-3-v",
+        "na": "Forward Straddle (no rope)",
+        "vid": "836595755",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-3-4-v",
+        "na": "Forward Straddle",
+        "vid": "836595844",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-3-5-v",
+        "na": "Side Straddle (4-count)",
+        "h": "Required",
+        "vid": "836596089",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-3-6-c-1",
+        "na": "Forward Straddle (one side repeated)",
+        "h": "Required",
+        "vid": "836595801",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "2-3-6-c-2",
+        "na": "Forward Straddle (alternating)",
+        "vid": "836595715"
+    },
+    {
+        "cid": "2-4-0-h",
+        "h": "Bilateral Combos",
+        "p": "This is example text introducing section 4."
+    },
+    {
+        "cid": "2-4-1-v",
+        "na": "X-Motion (no rope)",
+        "vid": "836596617",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-4-2-v",
+        "na": "X-Motion",
+        "vid": "836596673",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-4-3-v",
+        "na": "Scissors (no rope)",
+        "vid": "836595952",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-4-4-v",
+        "na": "Scissors",
+        "vid": "836596018",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "2-4-5-c-1",
+        "na": "X-Motion (4-count)",
+        "h": "Required",
+        "vid": "836596574",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "2-4-5-c-2",
+        "na": "Scissors (4-count)",
+        "vid": "836595886"
+    },
+    {
+        "cid": "2-5-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing section 5."
+    },
+    {
+        "cid": "2-5-1-v",
+        "na": "Bilateral Footwork Challenge 1",
+        "vid": "836595390",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "2-5-2-v",
+        "na": "Bilateral Footwork Challenge 2",
+        "vid": "836595485",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "2-5-3-v",
+        "na": "Bilateral Footwork Challenge 3",
+        "vid": "836595559",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "2-5-4-v",
+        "na": "Bilateral Footwork Challenge 4",
+        "vid": "836595612",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "2-5-5-v",
+        "na": "Bilateral Footwork Challenge 5",
+        "vid": "836595661",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "2-6-0-h",
+        "h": "Bilteral Footwork Quiz",
+        "ta": "Y",
+        "p": "This quiz will test your knowledge on lesson 2."
+    },
+    {
+        "cid": "2-6-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "2-6-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "2-6-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "2-6-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
