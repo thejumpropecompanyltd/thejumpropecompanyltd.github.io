@@ -334,6 +334,7 @@
     {
         "cid": "2-2-6-v",
         "na": "Bell",
+        "h": "Bell",
         "vid": "884509697",
         "ty": "S",
         "ta": "Y",
@@ -371,6 +372,7 @@
     {
         "cid": "2-3-2-v",
         "na": "Side Straddle",
+        "h": "Side Straddle",
         "vid": "836596178",
         "ty": "S",
         "ta": "Y",
@@ -385,6 +387,7 @@
     {
         "cid": "2-3-4-v",
         "na": "Forward Straddle",
+        "h": "Forward Straddle",
         "vid": "836595844",
         "ty": "S",
         "ta": "Y",
@@ -393,7 +396,7 @@
     {
         "cid": "2-3-5-v",
         "na": "Side Straddle (4-count)",
-        "h": "Required",
+        "h": "Side Straddle x4",
         "vid": "836596089",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
@@ -401,7 +404,7 @@
     {
         "cid": "2-3-6-c-1",
         "na": "Forward Straddle (one side repeated)",
-        "h": "Required",
+        "h": "Forward Straddles x4",
         "vid": "836595801",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
@@ -425,6 +428,7 @@
     {
         "cid": "2-4-2-v",
         "na": "X-Motion",
+        "h": "X-Motion",
         "vid": "836596673",
         "ty": "S",
         "ta": "Y",
@@ -439,6 +443,7 @@
     {
         "cid": "2-4-4-v",
         "na": "Scissors",
+        "h": "Scissors",
         "vid": "836596018",
         "ty": "S",
         "ta": "Y",
@@ -464,7 +469,8 @@
     },
     {
         "cid": "2-5-1-v",
-        "na": "Bilateral Footwork Challenge 1",
+        "na": "Challenge 1",
+        "h": "Challenge 1",
         "vid": "836595390",
         "ty": "C",
         "ta": "Y",
@@ -472,7 +478,8 @@
     },
     {
         "cid": "2-5-2-v",
-        "na": "Bilateral Footwork Challenge 2",
+        "na": "Challenge 2",
+        "h": "Challenge 2",
         "vid": "836595485",
         "ty": "C",
         "ta": "Y",
@@ -480,7 +487,8 @@
     },
     {
         "cid": "2-5-3-v",
-        "na": "Bilateral Footwork Challenge 3",
+        "na": "Challenge 3",
+        "h": "Challenge 3",
         "vid": "836595559",
         "ty": "C",
         "ta": "Y",
@@ -488,7 +496,8 @@
     },
     {
         "cid": "2-5-4-v",
-        "na": "Bilateral Footwork Challenge 4",
+        "na": "Challenge 4",
+        "h": "Challenge 4",
         "vid": "836595612",
         "ty": "C",
         "ta": "Y",
@@ -496,7 +505,8 @@
     },
     {
         "cid": "2-5-5-v",
-        "na": "Bilateral Footwork Challenge 5",
+        "na": "Challenge 5",
+        "h": "Challenge 5",
         "vid": "836595661",
         "ty": "C",
         "ta": "Y",
