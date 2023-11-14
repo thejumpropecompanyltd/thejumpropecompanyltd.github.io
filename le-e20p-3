@@ -211,7 +211,6 @@
     {
         "cid": "1-8-0-h",
         "h": "Quiz",
-        "ta": "Y",
         "p": "This quiz will test your knowledge on lesson 1."
     },
     {
@@ -380,6 +379,7 @@
     {
         "cid": "2-3-2-c-1",
         "na": "Forward Straddle (no rope)",
+        "h": "Forward Straddle",
         "vid": "836595755",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
@@ -387,7 +387,6 @@
     {
         "cid": "2-3-2-c-2",
         "na": "Forward Straddle",
-        "h": "Forward Straddle",
         "vid": "836595844"
     },
     {
@@ -515,7 +514,6 @@
     {
         "cid": "2-6-0-h",
         "h": "Quiz",
-        "ta": "Y",
         "p": "This quiz will test your knowledge on lesson 2."
     },
     {
@@ -617,8 +615,9 @@
         "ty": "S"
     },
     {
-        "cid": "3-2-0h",
-        "h": "Single Leg Jumping"
+        "cid": "3-2-0-h",
+        "h": "Single Leg Jumping",
+        "p": "This is example text introducing section 2."
     },
     {
         "cid": "3-2-1-c-1",
@@ -651,7 +650,7 @@
     {
         "cid": "3-3-0-h",
         "h": "Horizontal Footwork",
-        "p": "This is example text introducing section 2."
+        "p": "This is example text introducing section 3."
     },
     {
         "cid": "3-3-1-c-1",
@@ -744,8 +743,8 @@
     },
     {
         "cid": "3-4-0-h",
-        "h": "Front & Back Taps",
-        "p": "This is example text introducing section 3."
+        "h": "Front to Backs",
+        "p": "This is example text introducing section 4."
     },
     {
         "cid": "3-4-1-c-1",
@@ -803,8 +802,8 @@
     },
     {
         "cid": "3-6-0-h",
-        "h": "Required",
-        "p": "This is example text introducing section 5."
+        "h": "Vertical Footwork",
+        "p": "This is example text introducing section 6."
     },
     {
         "cid": "3-6-1-v",
@@ -937,7 +936,6 @@
     {
         "cid": "3-8-0-h",
         "h": "Quiz",
-        "ta": "Y",
         "p": "This quiz will test your knowledge on lesson 3."
     },
     {
