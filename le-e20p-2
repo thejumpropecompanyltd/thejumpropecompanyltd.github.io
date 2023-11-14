@@ -296,52 +296,49 @@
         "p": "This is example text introducing section 2."
     },
     {
-        "cid": "2-2-1-v",
+        "cid": "2-2-1-c-1",
         "na": "Twister (no rope)",
-        "vid": "836593810",
-        "p": "This is example text explaining this video/skill/drill."
-    },
-    {
-        "cid": "2-2-2-v",
-        "na": "Twister",
         "h": "Twister",
+        "vid": "836593810",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "2-2-1-c-2",
+        "na": "Twister",
         "vid": "836594503",
-        "ty": "S",
-        "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "ty": "S"
     },
     {
-        "cid": "2-2-3-v",
+        "cid": "2-2-2-c-1",
         "na": "Skier (no rope)",
-        "vid": "836596270",
-        "p": "This is example text explaining this video/skill/drill."
-    },
-    {
-        "cid": "2-2-4-v",
-        "na": "Skier",
         "h": "Skier",
+        "vid": "836596270",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "2-2-2-c-2",
+        "na": "Skier",
         "vid": "836596333",
-        "ty": "S",
-        "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
-    },
-    {
-        "cid": "2-2-5-v",
-        "na": "Bell (no rope)",
-        "vid": "836595327",
-        "p": "This is example text explaining this video/skill/drill."
-    },
-    {
-        "cid": "2-2-6-v",
-        "na": "Bell",
-        "h": "Bell",
-        "vid": "884509697",
-        "ty": "S",
-        "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "ty": "S"
     },
     {
         "cid": "2-2-3-c-1",
+        "na": "Bell (no rope)",
+        "h": "Bell",
+        "vid": "836595327",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "2-2-3-c-2",
+        "na": "Bell",
+        "vid": "884509697",
+        "ty": "S"
+    },
+    {
+        "cid": "2-2-4-c-1",
         "na": "Twister (4-count)",
         "h": "4-Count Footwork",
         "vid": "836596382",
@@ -349,12 +346,12 @@
         "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "2-2-3-c-2",
+        "cid": "2-2-4-c-2",
         "na": "Skier (4-count)",
         "vid": "836596230"
     },
     {
-        "cid": "2-2-3-c-3",
+        "cid": "2-2-4-c-3",
         "na": "Bell (4-count)",
         "vid": "884508992"
     },
@@ -364,37 +361,35 @@
         "p": "This is example text introducing section 3."
     },
     {
-        "cid": "2-3-1-v",
+        "cid": "2-3-1-c-1",
         "na": "Side Straddle (no rope)",
-        "vid": "836596134",
-        "p": "This is example text explaining this video/skill/drill."
-    },
-    {
-        "cid": "2-3-2-v",
-        "na": "Side Straddle",
         "h": "Side Straddle",
-        "vid": "836596178",
-        "ty": "S",
+        "vid": "836596134",
         "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "2-3-3-v",
+        "cid": "2-3-1-c-2",
+        "na": "Side Straddle",
+        "vid": "836596178",
+        "ty": "S"
+    },
+    {
+        "cid": "2-3-2-c-1",
         "na": "Forward Straddle (no rope)",
         "vid": "836595755",
-        "p": "This is example text explaining this video/skill/drill."
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "2-3-4-v",
+        "cid": "2-3-2-c-2",
         "na": "Forward Straddle",
         "h": "Forward Straddle",
         "vid": "836595844",
-        "ty": "S",
-        "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "ty": "S"
     },
     {
-        "cid": "2-3-5-v",
+        "cid": "2-3-3-v",
         "na": "Side Straddle (4-count)",
         "h": "Side Straddle x4",
         "vid": "836596089",
@@ -402,7 +397,7 @@
         "p": "This is example text explaining this video/skill/drill."
     },
     {
-        "cid": "2-3-6-c-1",
+        "cid": "2-3-4-c-1",
         "na": "Forward Straddle (one side repeated)",
         "h": "Forward Straddles x4",
         "vid": "836595801",
@@ -410,7 +405,7 @@
         "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "2-3-6-c-2",
+        "cid": "2-3-4-c-2",
         "na": "Forward Straddle (alternating)",
         "vid": "836595715"
     },
@@ -420,45 +415,43 @@
         "p": "This is example text introducing section 4."
     },
     {
-        "cid": "2-4-1-v",
+        "cid": "2-4-1-c-1",
         "na": "X-Motion (no rope)",
-        "vid": "836596617",
-        "p": "This is example text explaining this video/skill/drill."
-    },
-    {
-        "cid": "2-4-2-v",
-        "na": "X-Motion",
         "h": "X-Motion",
+        "vid": "836596617",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "2-4-1-c-2",
+        "na": "X-Motion",
         "vid": "836596673",
-        "ty": "S",
-        "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "ty": "S"
     },
     {
-        "cid": "2-4-3-v",
+        "cid": "2-4-2-c-1",
         "na": "Scissors (no rope)",
-        "vid": "836595952",
-        "p": "This is example text explaining this video/skill/drill."
-    },
-    {
-        "cid": "2-4-4-v",
-        "na": "Scissors",
         "h": "Scissors",
-        "vid": "836596018",
-        "ty": "S",
+        "vid": "836595952",
         "ta": "Y",
-        "p": "This is example text explaining this video/skill/drill."
+        "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "2-4-5-c-1",
+        "cid": "2-4-2-c-2",
+        "na": "Scissors",
+        "vid": "836596018",
+        "ty": "S"
+    },
+    {
+        "cid": "2-4-3-c-1",
         "na": "X-Motion (4-count)",
-        "h": "Required",
+        "h": "X-Motion x4",
         "vid": "836596574",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "2-4-5-c-2",
+        "cid": "2-4-3-c-2",
         "na": "Scissors (4-count)",
         "vid": "836595886"
     },
@@ -514,7 +507,7 @@
     },
     {
         "cid": "2-6-0-h",
-        "h": "Bilteral Footwork Quiz",
+        "h": "Bilateral Footwork Quiz",
         "ta": "Y",
         "p": "This quiz will test your knowledge on lesson 2."
     },
