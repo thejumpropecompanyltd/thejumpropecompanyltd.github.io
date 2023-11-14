@@ -12,13 +12,15 @@
         "na": "Single Bounce",
         "h": "Skills in this lesson",
         "vid": "836594397",
+        "ty": "S",
         "p": "In this lesson, you will learn your first ever two skills. These are the Single Bounce & Double Bounce. Watch the videos above to see how they're supposed to look."
     },
     {
         "cid": "1-1-2-c-2",
         "na": "Double Bounce",
         "h": "Double Bounce",
-        "vid": "836593669"
+        "vid": "836593669",
+        "ty": "S"
     },
     {
         "cid": "1-2-0-h",
@@ -110,7 +112,6 @@
         "na": "Single Bounce",
         "h": "Single Bounce",
         "vid": "836594397",
-        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
@@ -124,7 +125,6 @@
         "na": "Double Bounce",
         "h": "Double Bounce",
         "vid": "836593669",
-        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
@@ -179,7 +179,7 @@
     {
         "cid": "1-7-0-h",
         "h": "Challenges",
-        "p": "This is example text introducing section 7."
+        "p": "This is example text introducing the challenges."
     },
     {
         "cid": "1-7-1-v",
@@ -210,7 +210,7 @@
     },
     {
         "cid": "1-8-0-h",
-        "h": "Basic Bounce Quiz",
+        "h": "Quiz",
         "ta": "Y",
         "p": "This quiz will test your knowledge on lesson 1."
     },
@@ -260,35 +260,39 @@
     },
     {
         "cid": "2-1-1-p",
-        "p": "In this lesson you will learn the fundamentals of the basic bounce."
+        "p": "In this lesson you will learn the fundamentals of bilateral footwork."
     },
     {
         "cid": "2-1-2-c-1",
         "na": "Twister",
         "h": "Skills in this lesson",
         "vid": "836596543",
-        "p": "In this lesson, you will learn your very first footwork skills. These are five in total. Watch the videos above to see how they're supposed to look."
+        "ty": "S",
+        "p": "In this lesson, you will learn your very first footwork skills. There are five in total. Watch the videos above to see how they're supposed to look."
     },
     {
         "cid": "2-1-2-c-2",
         "na": "Skier",
-        "h": "Skier",
-        "vid": "836596333"
+        "vid": "836596333",
+        "ty": "S"
     },
     {
         "cid": "2-1-2-c-3",
         "na": "Bell",
-        "vid": "884509697"
+        "vid": "884509697",
+        "ty": "S"
     },
     {
         "cid": "2-1-2-c-4",
         "na": "Side Straddle",
-        "vid": "836596178"
+        "vid": "836596178",
+        "ty": "S"
     },
     {
         "cid": "2-1-2-c-5",
         "na": "Forward Straddle",
-        "vid": "836595844"
+        "vid": "836595844",
+        "ty": "S"
     },
     {
         "cid": "2-2-0-h",
@@ -306,8 +310,7 @@
     {
         "cid": "2-2-1-c-2",
         "na": "Twister",
-        "vid": "836594503",
-        "ty": "S"
+        "vid": "836594503"
     },
     {
         "cid": "2-2-2-c-1",
@@ -320,8 +323,7 @@
     {
         "cid": "2-2-2-c-2",
         "na": "Skier",
-        "vid": "836596333",
-        "ty": "S"
+        "vid": "836596333"
     },
     {
         "cid": "2-2-3-c-1",
@@ -334,26 +336,28 @@
     {
         "cid": "2-2-3-c-2",
         "na": "Bell",
-        "vid": "884509697",
-        "ty": "S"
+        "vid": "884509697"
     },
     {
         "cid": "2-2-4-c-1",
         "na": "Twister (4-count)",
-        "h": "4-Count Footwork",
+        "h": "Footwork Drills",
         "vid": "836596382",
+        "ty": "D",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
         "cid": "2-2-4-c-2",
         "na": "Skier (4-count)",
-        "vid": "836596230"
+        "vid": "836596230",
+        "ty": "D"
     },
     {
         "cid": "2-2-4-c-3",
         "na": "Bell (4-count)",
-        "vid": "884508992"
+        "vid": "884508992",
+        "ty": "D"
     },
     {
         "cid": "2-3-0-h",
@@ -371,8 +375,7 @@
     {
         "cid": "2-3-1-c-2",
         "na": "Side Straddle",
-        "vid": "836596178",
-        "ty": "S"
+        "vid": "836596178"
     },
     {
         "cid": "2-3-2-c-1",
@@ -385,29 +388,31 @@
         "cid": "2-3-2-c-2",
         "na": "Forward Straddle",
         "h": "Forward Straddle",
-        "vid": "836595844",
-        "ty": "S"
+        "vid": "836595844"
     },
     {
         "cid": "2-3-3-v",
         "na": "Side Straddle (4-count)",
-        "h": "Side Straddle x4",
+        "h": "Side Straddle Drill",
         "vid": "836596089",
+        "ty": "D",
         "ta": "Y",
         "p": "This is example text explaining this video/skill/drill."
     },
     {
         "cid": "2-3-4-c-1",
         "na": "Forward Straddle (one side repeated)",
-        "h": "Forward Straddles x4",
+        "h": "Forward Straddle Drills",
         "vid": "836595801",
+        "ty": "D",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
         "cid": "2-3-4-c-2",
         "na": "Forward Straddle (alternating)",
-        "vid": "836595715"
+        "vid": "836595715",
+        "ty": "D"
     },
     {
         "cid": "2-4-0-h",
@@ -445,20 +450,22 @@
     {
         "cid": "2-4-3-c-1",
         "na": "X-Motion (4-count)",
-        "h": "X-Motion x4",
+        "h": "Combo Drills",
         "vid": "836596574",
+        "ty": "D",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
         "cid": "2-4-3-c-2",
         "na": "Scissors (4-count)",
-        "vid": "836595886"
+        "vid": "836595886",
+        "ty": "D"
     },
     {
         "cid": "2-5-0-h",
         "h": "Challenges",
-        "p": "This is example text introducing section 5."
+        "p": "This is example text introducing the challenges."
     },
     {
         "cid": "2-5-1-v",
@@ -507,7 +514,7 @@
     },
     {
         "cid": "2-6-0-h",
-        "h": "Bilateral Footwork Quiz",
+        "h": "Quiz",
         "ta": "Y",
         "p": "This quiz will test your knowledge on lesson 2."
     },
@@ -543,6 +550,428 @@
     },
     {
         "cid": "2-6-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "3-0-h",
+        "h": "Unilateral Footwork"
+    },
+    {
+        "cid": "3-1-1-p",
+        "p": "In this lesson you will learn the fundamentals of unilateral footwork."
+    },
+    {
+        "cid": "3-1-2-c-1",
+        "na": "Front Tap",
+        "h": "In this lesson",
+        "vid": "836601685",
+        "ty": "S",
+        "p": "In this lesson, you will learn about unilateral footwork. There are eight in total. Watch the videos above to see how they're supposed to look."
+    },
+    {
+        "cid": "3-1-2-c-2",
+        "na": "Side Tap",
+        "vid": "836602257",
+        "ty": "S"
+    },
+    {
+        "cid": "3-1-2-c-3",
+        "na": "Back Tap",
+        "vid": "836601374",
+        "ty": "S"
+    },
+    {
+        "cid": "3-1-2-c-4",
+        "na": "Cross Behind",
+        "vid": "836601506",
+        "ty": "S"
+    },
+    {
+        "cid": "3-1-2-c-5",
+        "na": "Cross Over",
+        "vid": "836601590",
+        "ty": "S"
+    },
+    {
+        "cid": "3-1-2-c-6",
+        "na": "Knee Raise",
+        "vid": "836601970",
+        "ty": "S"
+    },
+    {
+        "cid": "3-1-2-c-7",
+        "na": "Leg Raise",
+        "vid": "836602081",
+        "ty": "S"
+    },
+    {
+        "cid": "3-1-2-c-8",
+        "na": "Kick Back",
+        "vid": "836601867",
+        "ty": "S"
+    },
+    {
+        "cid": "3-2-0h",
+        "h": "Single Leg Jumping"
+    },
+    {
+        "cid": "3-2-1-c-1",
+        "na": "Drill Part 1",
+        "h": "Single Leg Drill",
+        "vid": "836602562",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-2-1-c-2",
+        "na": "Drill Part 2",
+        "vid": "836602583"
+    },
+    {
+        "cid": "3-2-1-c-3",
+        "na": "Drill Part 3",
+        "vid": "836602617"
+    },
+    {
+        "cid": "3-2-2-v",
+        "na": "Single Leg Jumps",
+        "h": "Single Leg Jumps",
+        "vid": "836605416",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this video/skill/drill."
+    },
+    {
+        "cid": "3-3-0-h",
+        "h": "Horizontal Footwork",
+        "p": "This is example text introducing section 2."
+    },
+    {
+        "cid": "3-3-1-c-1",
+        "na": "Front Tap (no rope)",
+        "h": "Front Taps",
+        "vid": "836601664",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-3-1-c-2",
+        "na": "Front Tap",
+        "vid": "836601685"
+    },
+    {
+        "cid": "3-3-2-c-1",
+        "na": "Front Tap (4-count)",
+        "h": "Front Tap Drills",
+        "vid": "836601614",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-3-2-c-2",
+        "na": "Front Tap (alternating)",
+        "vid": "884577597",
+        "ty": "D"
+    },
+    {
+        "cid": "3-3-3-c-1",
+        "na": "Side Tap (no rope)",
+        "h": "Side Tap",
+        "vid": "836602229",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-3-3-c-2",
+        "na": "Side Tap (no rope, both sides)",
+        "vid": "836602189"
+    },
+    {
+        "cid": "3-3-3-c-3",
+        "na": "Side Tap",
+        "vid": "836602257"
+    },
+    {
+        "cid": "3-3-4-c-1",
+        "na": "Side Tap (4-count)",
+        "h": "Side Tap Drills",
+        "vid": "836602112",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-3-4-c-2",
+        "na": "Side Tap (alternating)",
+        "vid": "836602146",
+        "ty": "D"
+    },
+    {
+        "cid": "3-3-5-c-1",
+        "na": "Back Tap (no rope)",
+        "h": "Back Tap",
+        "vid": "836601215",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-3-5-c-2",
+        "na": "Back Tap",
+        "vid": "836601374"
+    },
+    {
+        "cid": "3-3-6-c-1",
+        "na": "Back Tap (4-count)",
+        "h": "Back Tap Drills",
+        "vid": "836601127",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-3-6-c-2",
+        "na": "Back Tap (alternating)",
+        "vid": "884577762",
+        "ty": "D"
+    },
+    {
+        "cid": "3-4-0-h",
+        "h": "Front & Back Taps",
+        "p": "This is example text introducing section 3."
+    },
+    {
+        "cid": "3-4-1-c-1",
+        "na": "Front to Back Tap (no rope)",
+        "h": "Front to Back",
+        "vid": "836601712",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-4-1-c-2",
+        "na": "Front to Back Tap",
+        "vid": "836601743",
+        "ty": "D"
+    },
+    {
+        "cid": "3-4-2-v",
+        "na": "Back to Front Tap",
+        "h": "Back to Front",
+        "vid": "836601409",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "3-5-0-h",
+        "h": "Crossing Feet",
+        "p": "This is example text introducing section 4."
+    },
+    {
+        "cid": "3-5-1-c-1",
+        "na": "Cross Behind (no rope)",
+        "h": "Cross Behind",
+        "vid": "836601459",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "3-5-1-c-2",
+        "na": "Cross Behind",
+        "vid": "836601506"
+    },
+    {
+        "cid": "3-5-2-c-1",
+        "na": "Cross Over (no rope)",
+        "h": "Cross Over",
+        "vid": "836601547",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "3-5-2-c-2",
+        "na": "Cross Over",
+        "vid": "836601590"
+    },
+    {
+        "cid": "3-6-0-h",
+        "h": "Required",
+        "p": "This is example text introducing section 5."
+    },
+    {
+        "cid": "3-6-1-v",
+        "na": "Knee Raise",
+        "h": "Knee Raise",
+        "vid": "836601970",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "3-6-2-c-1",
+        "na": "Knee Raise (4-count)",
+        "h": "Knee Raise Drills",
+        "vid": "836601904",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-6-2-c-2",
+        "na": "Knee Raise (alternating)",
+        "vid": "836601936",
+        "ty": "D"
+    },
+    {
+        "cid": "3-6-3-v",
+        "na": "Leg Raise",
+        "h": "Leg Raise",
+        "vid": "836602081",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "3-6-4-c-1",
+        "na": "Leg Raise (4-count)",
+        "h": "Leg Raise Drills",
+        "vid": "836602005",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-6-4-c-2",
+        "na": "Leg Raise (alternating)",
+        "vid": "836602034",
+        "ty": "D"
+    },
+    {
+        "cid": "3-6-5-v",
+        "na": "Kick Back",
+        "h": "Kick Back",
+        "vid": "836601867",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "3-6-6-c-1",
+        "na": "Kick Back (4-count)",
+        "h": "Kick Back Drills",
+        "vid": "836601783",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "3-6-6-c-2",
+        "na": "Kick Back (alternating)",
+        "vid": "836601825",
+        "ty": "D"
+    },
+    {
+        "cid": "3-7-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing the challenges."
+    },
+    {
+        "cid": "3-7-1-v",
+        "na": "Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836602290",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "3-7-2-v",
+        "na": "Challenge 2",
+        "h": "Challenge 2",
+        "vid": "836602337",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "3-7-3-v",
+        "na": "Challenge 3",
+        "h": "Challenge 3",
+        "vid": "836602374",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "3-7-4-v",
+        "na": "Challenge 4",
+        "h": "Challenge 4",
+        "vid": "836602417",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "3-7-8-v",
+        "na": "Challenge 5",
+        "h": "Challenge 5",
+        "vid": "836602467",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "3-7-9-v",
+        "na": "Challenge 6",
+        "h": "Challenge 6",
+        "vid": "836602500",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "3-8-0-h",
+        "h": "Quiz",
+        "ta": "Y",
+        "p": "This quiz will test your knowledge on lesson 3."
+    },
+    {
+        "cid": "3-8-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "3-8-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "3-8-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "3-8-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
