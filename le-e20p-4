@@ -141,38 +141,46 @@
     {
         "cid": "1-6-1-c-1",
         "na": "Single Bounce at 80bpm",
-        "h": "Jumping Speed",
+        "h": "Level 1",
         "vid": "836593944",
         "ta": "Y",
         "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "1-6-1-c-2",
+        "cid": "1-6-2-c-1",
         "na": "Single Bounce at 90bpm",
-        "vid": "836594023"
+        "h": "Level 2",
+        "vid": "836594023",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "1-6-1-c-3",
+        "cid": "1-6-2-c-2",
         "na": "Single Bounce at 100bpm",
         "vid": "836594103"
     },
     {
-        "cid": "1-6-1-c-4",
+        "cid": "1-6-3-c-1",
         "na": "Single Bounce at 110bpm",
-        "vid": "836594162"
+        "h": "Level 3",
+        "vid": "836594162",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "1-6-1-c-5",
+        "cid": "1-6-3-c-2",
         "na": "Single Bounce at 120bpm",
         "vid": "836594234"
     },
     {
-        "cid": "1-6-1-c-6",
+        "cid": "1-6-4-c-1",
         "na": "Single Bounce at 130bpm",
-        "vid": "836594290"
+        "h": "Level 4",
+        "vid": "836594290",
+        "p": "This is example text explaining this carousel."
     },
     {
-        "cid": "1-6-1-c-7",
+        "cid": "1-6-4-c-2",
         "na": "Single Bounce at 140bpm",
         "vid": "836594360"
     },
@@ -338,7 +346,7 @@
     {
         "cid": "2-2-4-c-1",
         "na": "Twister (4-count)",
-        "h": "Footwork Drills",
+        "h": "4-Count Drills",
         "vid": "836596382",
         "ty": "D",
         "ta": "Y",
@@ -989,7 +997,7 @@
         "na": "Basic Shuffle",
         "h": "In this lesson",
         "vid": "836603092",
-        "p": "In this lesson, you will learn about compound footwork. We will cover X skills. Watch the videos above to see how they're supposed to look."
+        "p": "In this lesson, you will learn about compound footwork. We will cover six skills. Watch the videos above to see how they're supposed to look."
     },
     {
         "cid": "4-1-2-c-2",
@@ -1024,6 +1032,7 @@
     {
         "cid": "4-2-1-v",
         "na": "Compound Footwork Drill 1",
+        "h": "Required",
         "vid": "836603326",
         "ty": "D",
         "ta": "Y",
@@ -1051,6 +1060,7 @@
     {
         "cid": "4-3-1-v",
         "na": "Compound Footwork Drill 2",
+        "h": "Required",
         "vid": "836603367",
         "ty": "D",
         "ta": "Y",
@@ -1078,6 +1088,7 @@
     {
         "cid": "4-4-1-v",
         "na": "Compound Footwork Drill 3",
+        "h": "Required",
         "vid": "836603428",
         "ty": "D",
         "ta": "Y",
@@ -1105,6 +1116,7 @@
     {
         "cid": "4-5-1-v",
         "na": "Compound Footwork Drill 4",
+        "h": "Required",
         "vid": "836603462",
         "ty": "D",
         "ta": "Y",
@@ -1132,6 +1144,7 @@
     {
         "cid": "4-6-1-v",
         "na": "Compound Footwork Drill 5",
+        "h": "Required",
         "vid": "836603519",
         "ty": "D",
         "ta": "Y",
@@ -1159,6 +1172,7 @@
     {
         "cid": "4-7-1-c-1",
         "na": "Compound Footwork Drill 6",
+        "h": "Required",
         "vid": "836603577",
         "ty": "D",
         "ta": "Y",
@@ -1235,6 +1249,177 @@
     },
     {
         "cid": "4-8-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "5-0-h",
+        "h": "Speed Step"
+    },
+    {
+        "cid": "5-1-1-p",
+        "p": "In this lesson you will learn the fundamentals of speed step."
+    },
+    {
+        "cid": "5-1-2-c-1",
+        "na": "Speed Step at 90bpm",
+        "h": "In this session",
+        "vid": "836605637",
+        "p": "In this lesson, you will learn how to do speed step, also known as alternating step or 'running in place'."
+    },
+    {
+        "cid": "5-2-0-h",
+        "h": "Prerequisite",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "5-2-1-v",
+        "na": "Single Leg Jumps",
+        "h": "Single Leg Jumps",
+        "vid": "836605416",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-3-0-h",
+        "h": "Single Leg Drills",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "5-3-1-c-1",
+        "na": "Speed Step Drill 1",
+        "h": "Drill 1",
+        "vid": "836605871",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "5-3-1-c-2",
+        "na": "Speed Step Drill 2",
+        "h": "Drill 2",
+        "vid": "836605920",
+        "ty": "D",
+        "ta": "Y"
+    },
+    {
+        "cid": "5-4-0-h",
+        "h": "Speed Step Drill",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "5-4-1-v",
+        "na": "Speed Step Drill 3",
+        "vid": "836605978",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-5-0-h",
+        "h": "Speed Step (Level 1)",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "5-5-1-v",
+        "na": "Speed Step at 80bpm",
+        "h": "Speed Step (Level 1)",
+        "vid": "836605520",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-6-0-h",
+        "h": "Speed Step (Level 2)",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "5-6-1-v",
+        "na": "Speed Step at 85bpm",
+        "vid": "836605573",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-6-2-v",
+        "na": "Speed Step at 90bpm",
+        "h": "Speed Step (Level 2)",
+        "vid": "836605637",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-7-0-h",
+        "h": "Speed Step (Level 3)",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "5-7-1-v",
+        "na": "Speed Step at 95bpm",
+        "vid": "836605695",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-7-2-v",
+        "na": "Speed Step at 100bpm",
+        "h": "Speed Step (Level 3)",
+        "vid": "836605730",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-7-3-v",
+        "na": "Speed Step at 105bpm",
+        "vid": "836605780",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-7-4-v",
+        "na": "Speed Step at 110bpm",
+        "vid": "836605822",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "5-8-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 5."
+    },
+    {
+        "cid": "5-8-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "5-8-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "5-8-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "5-8-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
