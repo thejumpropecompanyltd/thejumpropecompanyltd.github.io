@@ -752,8 +752,7 @@
     {
         "cid": "3-4-1-c-2",
         "na": "Front to Back Tap",
-        "vid": "836601743",
-        "ty": "D"
+        "vid": "836601743"
     },
     {
         "cid": "3-4-2-v",
@@ -823,8 +822,7 @@
     {
         "cid": "3-6-2-c-2",
         "na": "Knee Raise (alternating)",
-        "vid": "836601936",
-        "ty": "D"
+        "vid": "836601936"
     },
     {
         "cid": "3-6-3-v",
@@ -970,6 +968,273 @@
     },
     {
         "cid": "3-8-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "4-0-h",
+        "h": "Compound Footwork"
+    },
+    {
+        "cid": "4-1-1-p",
+        "p": "In this lesson you will learn the fundamentals of compound footwork."
+    },
+    {
+        "cid": "4-1-2-c-1",
+        "na": "Basic Shuffle",
+        "h": "In this lesson",
+        "vid": "836603092",
+        "p": "In this lesson, you will learn about compound footwork. We will cover X skills. Watch the videos above to see how they're supposed to look."
+    },
+    {
+        "cid": "4-1-2-c-2",
+        "na": "Reverse Shuffle",
+        "vid": "836603865"
+    },
+    {
+        "cid": "4-1-2-c-3",
+        "na": "Front to Back Shuffle",
+        "vid": "836603724"
+    },
+    {
+        "cid": "4-1-2-c-4",
+        "na": "Heel Tap Shuffle",
+        "vid": "836603802"
+    },
+    {
+        "cid": "4-1-2-c-5",
+        "na": "Side Straddle Shuffle",
+        "vid": "836603926"
+    },
+    {
+        "cid": "4-1-2-c-6",
+        "na": "Boxer Step",
+        "vid": "836603275"
+    },
+    {
+        "cid": "4-2-0-h",
+        "h": "Basic Shuffle",
+        "p": "This is example text introducing section 1."
+    },
+    {
+        "cid": "4-2-1-v",
+        "na": "Compound Footwork Drill 1",
+        "vid": "836603326",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "4-2-2-c-1",
+        "na": "Basic Shuffle (no rope)",
+        "h": "Basic Shuffle",
+        "vid": "836603007",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "4-2-2-c-2",
+        "na": "Basic Shuffle",
+        "vid": "836603092"
+    },
+    {
+        "cid": "4-3-0-h",
+        "h": "Reverse Shuffle",
+        "p": "This is example text introducing section 2."
+    },
+    {
+        "cid": "4-3-1-v",
+        "na": "Compound Footwork Drill 2",
+        "vid": "836603367",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "4-3-2-c-1",
+        "na": "Reverse Shuffle (no rope)",
+        "h": "Reverse Shuffle",
+        "vid": "836603837",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "4-3-2-c-2",
+        "na": "Reverse Shuffle",
+        "vid": "836603865"
+    },
+    {
+        "cid": "4-4-0-h",
+        "h": "Front to Back Shuffle",
+        "p": "This is example text introducing section 3."
+    },
+    {
+        "cid": "4-4-1-v",
+        "na": "Compound Footwork Drill 3",
+        "vid": "836603428",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "4-4-2-c-1",
+        "na": "Front to Back Shuffle (no rope)",
+        "h": "Front to Back Shuffle",
+        "vid": "836603696",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "4-4-2-c-2",
+        "na": "Front to Back Shuffle",
+        "vid": "836603724"
+    },
+    {
+        "cid": "4-5-0-h",
+        "h": "Heel Tap Shuffle",
+        "p": "This is example text introducing section 4."
+    },
+    {
+        "cid": "4-5-1-v",
+        "na": "Compound Footwork Drill 4",
+        "vid": "836603462",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "4-5-2-c-1",
+        "na": "Heel Tap Shuffle (no rope)",
+        "h": "Heel Tap Shuffle",
+        "vid": "836603765",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "4-5-2-c-2",
+        "na": "Heel Tap Shuffle",
+        "vid": "836603802"
+    },
+    {
+        "cid": "4-6-0-h",
+        "h": "Side Straddle Shuffle",
+        "p": "This is example text introducing section 5."
+    },
+    {
+        "cid": "4-6-1-v",
+        "na": "Compound Footwork Drill 5",
+        "vid": "836603519",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "4-6-2-c-1",
+        "na": "Side Straddle Shuffle (no rope)",
+        "h": "Side Straddle Shuffle",
+        "vid": "836603898",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "4-6-2-c-2",
+        "na": "Side Straddle Shuffle",
+        "vid": "836603926"
+    },
+    {
+        "cid": "4-7-0-h",
+        "h": "Boxer Step",
+        "p": "This is example text introducing section 6."
+    },
+    {
+        "cid": "4-7-1-c-1",
+        "na": "Compound Footwork Drill 6",
+        "vid": "836603577",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "4-7-1-c-2",
+        "na": "Compound Footwork Drill 7",
+        "vid": "836603625"
+    },
+    {
+        "cid": "4-7-1-c-3",
+        "na": "Compound Footwork Drill 8",
+        "vid": "836603656"
+    },
+    {
+        "cid": "4-7-2-v",
+        "na": "Boxer Step",
+        "h": "Boxer Step",
+        "vid": "836603275",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "4-7-3-c-1",
+        "na": "Boxer Step (with Side Taps)",
+        "h": "Box Step Variations",
+        "vid": "836603230",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "4-7-3-c-2",
+        "na": "Boxer Step (with Back Taps)",
+        "vid": "836603195",
+        "ty": "S"
+    },
+    {
+        "cid": "4-8-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 4."
+    },
+    {
+        "cid": "4-8-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "4-8-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "4-8-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "4-8-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
