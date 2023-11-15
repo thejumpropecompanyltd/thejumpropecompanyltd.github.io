@@ -1304,8 +1304,7 @@
         "na": "Speed Step Drill 2",
         "h": "Drill 2",
         "vid": "836605920",
-        "ty": "D",
-        "ta": "Y"
+        "ty": "D"
     },
     {
         "cid": "5-4-0-h",
@@ -1315,6 +1314,7 @@
     {
         "cid": "5-4-1-v",
         "na": "Speed Step Drill 3",
+        "h": "Speed Step Drill",
         "vid": "836605978",
         "ty": "D",
         "ta": "Y",
@@ -1322,20 +1322,21 @@
     },
     {
         "cid": "5-5-0-h",
-        "h": "Speed Step (Level 1)",
+        "h": "Level 1",
         "p": "This is example text introducing this section."
     },
     {
         "cid": "5-5-1-v",
         "na": "Speed Step at 80bpm",
-        "h": "Speed Step (Level 1)",
+        "h": "Level 1",
         "vid": "836605520",
+        "ty": "S",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
         "cid": "5-6-0-h",
-        "h": "Speed Step (Level 2)",
+        "h": "Level 2",
         "p": "This is example text introducing this section."
     },
     {
@@ -1347,14 +1348,14 @@
     {
         "cid": "5-6-2-v",
         "na": "Speed Step at 90bpm",
-        "h": "Speed Step (Level 2)",
+        "h": "Level 2",
         "vid": "836605637",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
         "cid": "5-7-0-h",
-        "h": "Speed Step (Level 3)",
+        "h": "Level 3",
         "p": "This is example text introducing this section."
     },
     {
@@ -1366,30 +1367,35 @@
     {
         "cid": "5-7-2-v",
         "na": "Speed Step at 100bpm",
-        "h": "Speed Step (Level 3)",
+        "h": "Level 3",
         "vid": "836605730",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "5-7-3-v",
+        "cid": "5-8-0-h",
+        "h": "Level 3",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "5-8-1-v",
         "na": "Speed Step at 105bpm",
         "vid": "836605780",
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "5-7-4-v",
+        "cid": "5-8-2-v",
         "na": "Speed Step at 110bpm",
         "vid": "836605822",
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "5-8-0-h",
+        "cid": "5-9-0-h",
         "h": "Quiz",
         "p": "This quiz will test your knowledge on lesson 5."
     },
     {
-        "cid": "5-8-1-q-1",
+        "cid": "5-9-1-q-1",
         "h": "Question 1",
         "ty": "Q",
         "p": "What is the correct answer?",
@@ -1399,7 +1405,7 @@
         "a3": "This is not the correct answer."
     },
     {
-        "cid": "5-8-1-q-2",
+        "cid": "5-9-1-q-2",
         "h": "Question 2",
         "ty": "Q",
         "p": "What is the correct answer?",
@@ -1409,7 +1415,7 @@
         "a3": "This is not the correct answer."
     },
     {
-        "cid": "5-8-1-q-3",
+        "cid": "5-9-1-q-3",
         "h": "Question 3",
         "ty": "Q",
         "p": "What is the correct answer?",
@@ -1419,7 +1425,7 @@
         "a3": "This is not the correct answer."
     },
     {
-        "cid": "5-8-1-q-4",
+        "cid": "5-9-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
