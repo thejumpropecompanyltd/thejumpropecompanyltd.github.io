@@ -1374,7 +1374,7 @@
     },
     {
         "cid": "5-8-0-h",
-        "h": "Level 3",
+        "h": "Level 4",
         "p": "This is example text introducing this section."
     },
     {
@@ -1621,7 +1621,7 @@
         "vid": "836606518",
         "ty": "C",
         "ta": "Y",
-        "p": "This is example text explaining this skill/drill."
+        "p": "This is example text explaining this challenge."
     },
     {
         "cid": "6-7-2-v",
@@ -1630,7 +1630,7 @@
         "vid": "836606617",
         "ty": "C",
         "ta": "Y",
-        "p": "This is example text explaining this skill/drill."
+        "p": "This is example text explaining this challenge."
     },
     {
         "cid": "6-7-3-v",
@@ -1639,7 +1639,7 @@
         "vid": "836606651",
         "ty": "C",
         "ta": "Y",
-        "p": "This is example text explaining this skill/drill."
+        "p": "This is example text explaining this challenge."
     },
     {
         "cid": "6-7-4-v",
@@ -1648,7 +1648,7 @@
         "vid": "836606691",
         "ty": "C",
         "ta": "Y",
-        "p": "This is example text explaining this skill/drill."
+        "p": "This is example text explaining this challenge."
     },
     {
         "cid": "6-7-5-v",
@@ -1657,7 +1657,7 @@
         "vid": "836606777",
         "ty": "C",
         "ta": "Y",
-        "p": "This is example text explaining this skill/drill."
+        "p": "This is example text explaining this challenge."
     },
     {
         "cid": "6-8-0-h",
@@ -1696,6 +1696,362 @@
     },
     {
         "cid": "6-8-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "7-0-h",
+        "h": "Side Swings"
+    },
+    {
+        "cid": "7-1-1-p",
+        "p": "In this lesson you will learn about the fundamentals of side swings."
+    },
+    {
+        "cid": "7-1-2-c-1",
+        "na": "Swing to Open",
+        "h": "In this lesson",
+        "vid": "836609403",
+        "p": "In this lesson you will learn about the fundamentals of side swings. There are two types, the Wrist Swing and the Box Swing."
+    },
+    {
+        "cid": "7-1-2-c-2",
+        "na": "Swing, Cross to Open",
+        "vid": "836609497"
+    },
+    {
+        "cid": "7-1-2-c-3",
+        "na": "Swing, Swing to Open",
+        "vid": "836609715"
+    },
+    {
+        "cid": "7-1-2-c-4",
+        "na": "Double Swings",
+        "vid": "836608586"
+    },
+    {
+        "cid": "7-2-0-h",
+        "h": "The Wrist Swing",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "7-2-1-v",
+        "na": "Wrist Swing only",
+        "vid": "836609760",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-2-2-m-1",
+        "na": "Swing to Open (toe catch)",
+        "h": "Wrist Swing Toe Catch",
+        "vid": "836609361",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-2-2-m-2",
+        "na": "Swing to Open (toe catch) (side view)",
+        "vid": "836609321",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-2-3-v",
+        "na": "Swing to Open (standing)",
+        "h": "Without Bounding",
+        "vid": "836609260",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-2-4-v",
+        "na": "Swing to Open",
+        "h": "Wrist Swing",
+        "vid": "836609403",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-2-5-v",
+        "na": "Swing to Open (consecutively)",
+        "h": "Consecutive Wrist Swings",
+        "vid": "836609200",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-2-6-v",
+        "na": "Swing to Open (alternating)",
+        "h": "Alternating Wrist Swings",
+        "vid": "836609159",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-3-0-h",
+        "h": "The Box Swing",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "7-3-1-v",
+        "na": "Box Swing only",
+        "vid": "836608165"
+    },
+    {
+        "cid": "7-3-2-v",
+        "na": "Swing to Cross (toe catch)",
+        "h": "Box Swing Toe Catch",
+        "vid": "836609120",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-3-3-v",
+        "na": "Swing to Cross (standing)",
+        "h": "Without Bounding",
+        "vid": "836609077",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-3-4-v",
+        "na": "Swing, Cross to Open",
+        "h": "Box Swing",
+        "vid": "836609497",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-3-5-v",
+        "na": "Swing, Cross to Open (consecutively)",
+        "h": "Continuous Box Swings",
+        "vid": "836609448",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-3-6-v",
+        "na": "Swing to Cross (consecutively)",
+        "h": "Consecutive Box Swings",
+        "vid": "836609049",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-3-7-v",
+        "na": "Swing to Cross (alternating)",
+        "h": "Alternating Box Swings",
+        "vid": "836608981",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-4-0-h",
+        "h": "Connected Swings",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "7-4-1-v",
+        "na": "Box Swing to Wrist Swing",
+        "vid": "836608327",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-4-2-v",
+        "na": "Swing, Swing to Open (toe catch)",
+        "h": "Swing, Swing to Toe Catch",
+        "vid": "836609672",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-4-3-v",
+        "na": "Swing, Swing to Open (standing)",
+        "h": "Without Bounding",
+        "vid": "836609624",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-4-4-v",
+        "na": "Swing, Swing to Open",
+        "h": "Swing, Swing to Open",
+        "vid": "836609715",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-4-5-v",
+        "na": "Swing, Swing to Open (consecutively)",
+        "h": "Consecutive Swings",
+        "vid": "836609588",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-4-6-v",
+        "na": "Swing, Swing to Open (alternating)",
+        "h": "Alternating Swings",
+        "vid": "836609539",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-5-0-h",
+        "h": "Double Swings",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "7-5-1-v",
+        "na": "Wrist Swing to Box Swing",
+        "vid": "836609828",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-5-2-v",
+        "na": "Double Swings (toe catch)",
+        "h": "Double Swing Toe Catch",
+        "vid": "836608533",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-5-3-v",
+        "na": "Double Swings (standing)",
+        "h": "Without Bounding",
+        "vid": "836608476",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-5-4-v",
+        "na": "Double Swings",
+        "h": "Double Swings",
+        "vid": "836608586",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-5-5-v",
+        "na": "Double Swings (alternating)",
+        "h": "Alternating Double Swings",
+        "vid": "836608411",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "7-6-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "7-6-1-v",
+        "na": "Side Swing Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836608629",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "7-6-2-v",
+        "na": "Side Swing Challenge 2",
+        "h": "Challenge 2",
+        "vid": "836608672",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "7-6-3-v",
+        "na": "Side Swing Challenge 3",
+        "h": "Challenge 3",
+        "vid": "836608732",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "7-6-4-v",
+        "na": "Side Swing Challenge 4",
+        "h": "Challenge 4",
+        "vid": "836608788",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "7-6-5-v",
+        "na": "Side Swing Challenge 5",
+        "h": "Challenge 5",
+        "vid": "836608829",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "7-6-6-v",
+        "na": "Side Swing Challenge 6",
+        "h": "Challenge 6",
+        "vid": "836608873",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "7-6-7-v",
+        "na": "Side Swing Challenge 7",
+        "h": "Challenge 7",
+        "vid": "836608929",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "7-7-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 6."
+    },
+    {
+        "cid": "7-7-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "7-7-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "7-7-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "7-7-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
