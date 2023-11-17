@@ -1461,7 +1461,8 @@
     },
     {
         "cid": "6-2-0-h",
-        "h": "The Basic Cross"
+        "h": "The Basic Cross",
+        "p": "This is example text introducing this section."
     },
     {
         "cid": "6-2-1-v",
@@ -1474,7 +1475,7 @@
     {
         "cid": "6-2-2-v",
         "na": "Cross Drill 1",
-        "h": "Basic Cross Drill",
+        "h": "Drill 1",
         "vid": "836606885",
         "ty": "D",
         "ta": "Y",
@@ -1496,7 +1497,8 @@
     },
     {
         "cid": "6-3-0-h",
-        "h": "Continuous Crosses"
+        "h": "Continuous Crosses",
+        "p": "This is example text introducing this section."
     },
     {
         "cid": "6-3-1-v",
@@ -1516,7 +1518,8 @@
     },
     {
         "cid": "6-4-0-h",
-        "h": "Consecutive Crosses"
+        "h": "Consecutive Crosses",
+        "p": "This is example text introducing this section."
     },
     {
         "cid": "6-4-1-c-1",
@@ -1544,12 +1547,14 @@
     },
     {
         "cid": "6-5-0-h",
-        "h": "Switch Crosses"
+        "h": "Switch Crosses",
+        "p": "This is example text introducing this section."
     },
     {
         "cid": "6-5-1-v",
         "na": "Switch Cross (toe catch)",
         "vid": "836607551",
+        "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
@@ -1557,6 +1562,8 @@
         "na": "Switch Cross",
         "h": "Switch Cross",
         "vid": "836607593",
+        "ty": "S",
+        "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
@@ -1568,17 +1575,20 @@
         "cid": "6-5-3-v",
         "na": "Switch Cross (consecutively)",
         "vid": "836607456",
+        "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
         "cid": "6-6-0-h",
-        "h": "Rope Control Drills"
+        "h": "Rope Control Drills",
+        "p": "This is example text introducing this section."
     },
     {
         "cid": "6-6-1-v",
         "na": "Cross Drill 4",
         "h": "Drill 1",
         "vid": "836606984",
+        "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
@@ -1586,6 +1596,7 @@
         "na": "Cross Drill 5",
         "h": "Drill 2",
         "vid": "836607059",
+        "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
@@ -1593,11 +1604,13 @@
         "na": "Cross Drill 6",
         "h": "Drill 3",
         "vid": "836607142",
+        "ta": "Y",
         "p": "This is example text explaining this skill/drill."
     },
     {
         "cid": "6-7-0-h",
-        "h": "Challenges"
+        "h": "Challenges",
+        "p": "This is example text introducing this section."
     },
     {
         "cid": "6-7-1-v",
