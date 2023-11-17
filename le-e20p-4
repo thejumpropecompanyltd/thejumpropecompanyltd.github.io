@@ -1553,6 +1553,7 @@
     {
         "cid": "6-5-1-v",
         "na": "Switch Cross (toe catch)",
+        "h": "Switch Cross Toe Catch",
         "vid": "836607551",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
@@ -1574,6 +1575,7 @@
     {
         "cid": "6-5-3-v",
         "na": "Switch Cross (consecutively)",
+        "h": "Consecutive Switch Crosses",
         "vid": "836607456",
         "ta": "Y",
         "p": "This is example text explaining this skill/drill."
