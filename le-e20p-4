@@ -1266,7 +1266,7 @@
         "p": "In this lesson you will learn the fundamentals of speed step."
     },
     {
-        "cid": "5-1-2-c-1",
+        "cid": "5-1-2-v",
         "na": "Speed Step at 90bpm",
         "h": "In this session",
         "vid": "836605637",
@@ -1426,6 +1426,261 @@
     },
     {
         "cid": "5-9-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "6-0-h",
+        "h": "Basic Crosses"
+    },
+    {
+        "cid": "6-1-1-p",
+        "p": "In this lesson you will learn about the basic cross."
+    },
+    {
+        "cid": "6-1-2-c-1",
+        "na": "Cross",
+        "h": "In this lesson",
+        "vid": "836607376",
+        "p": "In this lesson you will learn about the basic cross as well as two key variations."
+    },
+    {
+        "cid": "6-1-2-c-2",
+        "na": "Crosses (consecutively)",
+        "vid": "836607413"
+    },
+    {
+        "cid": "6-1-2-c-3",
+        "na": "Switch Cross",
+        "vid": "836607593"
+    },
+    {
+        "cid": "6-2-0-h",
+        "h": "The Basic Cross"
+    },
+    {
+        "cid": "6-2-1-v",
+        "na": "Cross Toe Catch",
+        "h": "Cross Toe Catch",
+        "vid": "836607338",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-2-2-v",
+        "na": "Cross Drill 1",
+        "h": "Basic Cross Drill",
+        "vid": "836606885",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-2-3-m-1",
+        "na": "Cross",
+        "h": "Basic Cross",
+        "vid": "836607376",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-2-3-m-2",
+        "na": "Cross (side view)",
+        "vid": "836606444"
+    },
+    {
+        "cid": "6-3-0-h",
+        "h": "Continuous Crosses"
+    },
+    {
+        "cid": "6-3-1-v",
+        "na": "Cross to Open (consecutively)",
+        "h": "Crosses (Same Side)",
+        "vid": "836607308",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-3-2-v",
+        "na": "Cross to Open (alternating)",
+        "h": "Crosses (Alternating)",
+        "vid": "836607244",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-4-0-h",
+        "h": "Consecutive Crosses"
+    },
+    {
+        "cid": "6-4-1-c-1",
+        "na": "Cross Drill 2",
+        "h": "Consecutive Drills",
+        "vid": "836606827",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "6-4-1-c-2",
+        "na": "Cross Drill 3",
+        "vid": "836606932",
+        "ty": "D"
+    },
+    {
+        "cid": "6-4-2-v",
+        "na": "Crosses (consecutively)",
+        "h": "Consecutive Crosses",
+        "vid": "836607413",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-5-0-h",
+        "h": "Switch Crosses"
+    },
+    {
+        "cid": "6-5-1-v",
+        "na": "Switch Cross (toe catch)",
+        "vid": "836607551",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-5-2-m-1",
+        "na": "Switch Cross",
+        "h": "Switch Cross",
+        "vid": "836607593",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-5-2-m-2",
+        "na": "Switch Cross (side view)",
+        "vid": "836607510"
+    },
+    {
+        "cid": "6-5-3-v",
+        "na": "Switch Cross (consecutively)",
+        "vid": "836607456",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-6-0-h",
+        "h": "Rope Control Drills"
+    },
+    {
+        "cid": "6-6-1-v",
+        "na": "Cross Drill 4",
+        "h": "Drill 1",
+        "vid": "836606984",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-6-2-v",
+        "na": "Cross Drill 5",
+        "h": "Drill 2",
+        "vid": "836607059",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-6-3-v",
+        "na": "Cross Drill 6",
+        "h": "Drill 3",
+        "vid": "836607142",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-7-0-h",
+        "h": "Challenges"
+    },
+    {
+        "cid": "6-7-1-v",
+        "na": "Cross Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836606518",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-7-2-v",
+        "na": "Cross Challenge 2",
+        "h": "Challenge 2",
+        "vid": "836606617",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-7-3-v",
+        "na": "Cross Challenge 3",
+        "h": "Challenge 3",
+        "vid": "836606651",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-7-4-v",
+        "na": "Cross Challenge 4",
+        "h": "Challenge 4",
+        "vid": "836606691",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-7-5-v",
+        "na": "Cross Challenge 5",
+        "h": "Challenge 5",
+        "vid": "836606777",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "6-8-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 6."
+    },
+    {
+        "cid": "6-8-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "6-8-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "6-8-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "6-8-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
