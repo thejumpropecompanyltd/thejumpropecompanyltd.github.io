@@ -2018,7 +2018,7 @@
     {
         "cid": "7-7-0-h",
         "h": "Quiz",
-        "p": "This quiz will test your knowledge on lesson 6."
+        "p": "This quiz will test your knowledge on lesson 7."
     },
     {
         "cid": "7-7-1-q-1",
@@ -2052,6 +2052,243 @@
     },
     {
         "cid": "7-7-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "8-0-h",
+        "h": "Footwork & Swings"
+    },
+    {
+        "cid": "8-1-1-p",
+        "p": "In this lesson you will learn how to 'stack' different skill types to build more challenging combos."
+    },
+    {
+        "cid": "8-1-2-c-1",
+        "na": "Speed Step",
+        "vid": "836605520",
+        "p": "In this lesson you will learn how to 'stack' different skill types to build more challenging combos. We will use skills you have learned in all your previous sessions."
+    },
+    {
+        "cid": "8-1-2-c-3",
+        "na": "Forward Straddle",
+        "vid": "836595715"
+    },
+    {
+        "cid": "8-1-2-c-2",
+        "na": "Knee Raises",
+        "vid": "836601970"
+    },
+    {
+        "cid": "8-1-2-c-4",
+        "na": "Basic Shuffle",
+        "vid": "836603092"
+    },
+    {
+        "cid": "8-1-2-c-5",
+        "na": "Wrist Swings",
+        "vid": "836609159"
+    },
+    {
+        "cid": "8-1-2-c-6",
+        "na": "Box Swings",
+        "vid": "836608981"
+    },
+    {
+        "cid": "8-1-2-c-7",
+        "na": "Crosses",
+        "vid": "836607244"
+    },
+    {
+        "cid": "9-2-0-h",
+        "h": "Speed Step with Swings & Crosses",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "9-2-1-c-1",
+        "na": "Speed Step + Swings",
+        "h": "Speed Step with Wrist Swings",
+        "vid": "836613211",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-2-1-c-2",
+        "na": "Speed Step + Swings (alternating)",
+        "vid": "836613133"
+    },
+    {
+        "cid": "9-2-2-c-1",
+        "na": "Speed Step + Cross/Open",
+        "h": "Speed Step with Crosses",
+        "vid": "836612983",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-2-2-c-2",
+        "na": "Speed Step + Cross/Open (alternating)",
+        "vid": "836612925"
+    },
+    {
+        "cid": "9-2-3-v",
+        "na": "Speed Step + Cross/Cross",
+        "h": "Speed Step with Consecutive Crosses",
+        "vid": "836612887",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-2-4-c-1",
+        "na": "Speed Step + Swing Crosses",
+        "h": "Speed Step with Swing Crosses",
+        "vid": "836613088",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-2-4-c-2",
+        "na": "Speed Step + Swing Crosses (alternating)",
+        "vid": "836613028"
+    },
+    {
+        "cid": "9-3-0-h",
+        "h": "Knee Raises with Swings",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "9-3-1-c-1",
+        "na": "Knee Raises + Swings (same side)",
+        "h": "Knee Raises with Swings",
+        "vid": "836612822",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-3-1-c-2",
+        "na": "Knee Raises + Swings (opposite side)",
+        "vid": "885835606"
+    },
+    {
+        "cid": "9-3-2-v",
+        "na": "Knee Raises + Swings (same side + alternating)",
+        "h": "Alternating Same Sides",
+        "vid": "836612749",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-3-3-v",
+        "na": "Knee Raises + Swings (opposite side + alternating)",
+        "h": "Alternating Opposite Sides",
+        "vid": "836612622",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-4-0-h",
+        "h": "Forward Straddles with Swings",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "9-4-1-c-1",
+        "na": "Forward Straddle + Swings (same side)",
+        "h": "F.S. With Same Side Swings",
+        "vid": "836612481",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-4-1-c-2",
+        "na": "Forward Straddle + Swings (same side + syncopated)",
+        "vid": "836612537"
+    },
+    {
+        "cid": "9-4-2-c-1",
+        "na": "Forward Straddle + Swings (opposite side)",
+        "h": "F.S. With Opposite Side Swings",
+        "vid": "836612339",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-4-2-c-2",
+        "na": "Forward Straddle + Swings (oppsite side + syncopated)",
+        "vid": "836612411"
+    },
+    {
+        "cid": "9-5-0-h",
+        "h": "Shuffle with Swings",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "9-5-1-c-1",
+        "na": "Basic Shuffle + Swings (all same side)",
+        "h": "Shuffle with Swings",
+        "vid": "836612146",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-5-1-c-2",
+        "na": "Basic Shuffle + Swings (all same side + syncopated)",
+        "vid": "836612040"
+    },
+    {
+        "cid": "9-5-2-c-1",
+        "na": "Basic Shuffle + Swings (same side + alternating)",
+        "h": "Shuffle with Alternating Swings",
+        "vid": "836612277",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-5-2-c-2",
+        "na": "Basic Shuffle + Swings (opposite side + alternating)",
+        "vid": "836612205"
+    },
+    {
+        "cid": "9-6-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 9."
+    },
+    {
+        "cid": "9-6-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "9-6-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "9-6-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "9-6-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
