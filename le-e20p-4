@@ -2105,12 +2105,12 @@
         "vid": "836607244"
     },
     {
-        "cid": "9-2-0-h",
+        "cid": "8-2-0-h",
         "h": "Speed Step with Swings & Crosses",
         "p": "This is example text introducing this section."
     },
     {
-        "cid": "9-2-1-c-1",
+        "cid": "8-2-1-c-1",
         "na": "Speed Step + Swings",
         "h": "Speed Step with Wrist Swings",
         "vid": "836613211",
@@ -2118,12 +2118,12 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-2-1-c-2",
+        "cid": "8-2-1-c-2",
         "na": "Speed Step + Swings (alternating)",
         "vid": "836613133"
     },
     {
-        "cid": "9-2-2-c-1",
+        "cid": "8-2-2-c-1",
         "na": "Speed Step + Cross/Open",
         "h": "Speed Step with Crosses",
         "vid": "836612983",
@@ -2131,12 +2131,12 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-2-2-c-2",
+        "cid": "8-2-2-c-2",
         "na": "Speed Step + Cross/Open (alternating)",
         "vid": "836612925"
     },
     {
-        "cid": "9-2-3-v",
+        "cid": "8-2-3-v",
         "na": "Speed Step + Cross/Cross",
         "h": "Speed Step with Consecutive Crosses",
         "vid": "836612887",
@@ -2144,7 +2144,7 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-2-4-c-1",
+        "cid": "8-2-4-c-1",
         "na": "Speed Step + Swing Crosses",
         "h": "Speed Step with Swing Crosses",
         "vid": "836613088",
@@ -2152,17 +2152,17 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-2-4-c-2",
+        "cid": "8-2-4-c-2",
         "na": "Speed Step + Swing Crosses (alternating)",
         "vid": "836613028"
     },
     {
-        "cid": "9-3-0-h",
+        "cid": "8-3-0-h",
         "h": "Knee Raises with Swings",
         "p": "This is example text introducing this section."
     },
     {
-        "cid": "9-3-1-c-1",
+        "cid": "8-3-1-c-1",
         "na": "Knee Raises + Swings (same side)",
         "h": "Knee Raises with Swings",
         "vid": "836612822",
@@ -2170,12 +2170,12 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-3-1-c-2",
+        "cid": "8-3-1-c-2",
         "na": "Knee Raises + Swings (opposite side)",
         "vid": "885835606"
     },
     {
-        "cid": "9-3-2-v",
+        "cid": "8-3-2-v",
         "na": "Knee Raises + Swings (same side + alternating)",
         "h": "Alternating Same Sides",
         "vid": "836612749",
@@ -2183,7 +2183,7 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-3-3-v",
+        "cid": "8-3-3-v",
         "na": "Knee Raises + Swings (opposite side + alternating)",
         "h": "Alternating Opposite Sides",
         "vid": "836612622",
@@ -2191,12 +2191,12 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-4-0-h",
+        "cid": "8-4-0-h",
         "h": "Forward Straddles with Swings",
         "p": "This is example text introducing this section."
     },
     {
-        "cid": "9-4-1-c-1",
+        "cid": "8-4-1-c-1",
         "na": "Forward Straddle + Swings (same side)",
         "h": "F.S. With Same Side Swings",
         "vid": "836612481",
@@ -2204,12 +2204,12 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-4-1-c-2",
+        "cid": "8-4-1-c-2",
         "na": "Forward Straddle + Swings (same side + syncopated)",
         "vid": "836612537"
     },
     {
-        "cid": "9-4-2-c-1",
+        "cid": "8-4-2-c-1",
         "na": "Forward Straddle + Swings (opposite side)",
         "h": "F.S. With Opposite Side Swings",
         "vid": "836612339",
@@ -2217,17 +2217,17 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-4-2-c-2",
+        "cid": "8-4-2-c-2",
         "na": "Forward Straddle + Swings (oppsite side + syncopated)",
         "vid": "836612411"
     },
     {
-        "cid": "9-5-0-h",
+        "cid": "8-5-0-h",
         "h": "Shuffle with Swings",
         "p": "This is example text introducing this section."
     },
     {
-        "cid": "9-5-1-c-1",
+        "cid": "8-5-1-c-1",
         "na": "Basic Shuffle + Swings (all same side)",
         "h": "Shuffle with Swings",
         "vid": "836612146",
@@ -2235,12 +2235,12 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-5-1-c-2",
+        "cid": "8-5-1-c-2",
         "na": "Basic Shuffle + Swings (all same side + syncopated)",
         "vid": "836612040"
     },
     {
-        "cid": "9-5-2-c-1",
+        "cid": "8-5-2-c-1",
         "na": "Basic Shuffle + Swings (same side + alternating)",
         "h": "Shuffle with Alternating Swings",
         "vid": "836612277",
@@ -2248,9 +2248,326 @@
         "p": "This is example text explaining this skill/drill."
     },
     {
-        "cid": "9-5-2-c-2",
+        "cid": "8-5-2-c-2",
         "na": "Basic Shuffle + Swings (opposite side + alternating)",
         "vid": "836612205"
+    },
+    {
+        "cid": "8-6-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 9."
+    },
+    {
+        "cid": "8-6-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "8-6-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "8-6-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "8-6-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "9-0-h",
+        "h": "Footwork & Swings"
+    },
+    {
+        "cid": "9-1-1-p",
+        "p": "In this lesson you will learn how to 'stack' different skill types to build more challenging combos."
+    },
+    {
+        "cid": "9-1-2-c-1",
+        "na": "EB",
+        "h": "In this lesson",
+        "vid": "836617692",
+        "p": "In this lesson you will learn about the EB."
+    },
+    {
+        "cid": "9-1-2-c-3",
+        "na": "EB (EB Swing out)",
+        "vid": "836616348"
+    },
+    {
+        "cid": "9-1-2-c-2",
+        "na": "EB Swing",
+        "vid": "836617628"
+    },
+    {
+        "cid": "9-2-0-h",
+        "h": "The EB",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "9-2-1-m-1",
+        "na": "EB (toe catch)",
+        "vid": "836616527",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-2-1-m-2",
+        "na": "EB (toe catch) (back view)",
+        "vid": "836616493"
+    },
+    {
+        "cid": "9-2-2-c-1",
+        "na": "EB Drill 1",
+        "h": "EB Drills",
+        "vid": "836617067",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-2-2-c-2",
+        "na": "EB Drill 2",
+        "vid": "836617101",
+        "ty": "D"
+    },
+    {
+        "cid": "9-2-2-c-3",
+        "na": "EB Drill 3",
+        "vid": "836617159",
+        "ty": "D"
+    },
+    {
+        "cid": "9-2-3-v",
+        "na": "EB (standing)",
+        "h": "Without Bounding",
+        "vid": "836616454",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-2-4-m-1",
+        "na": "EB",
+        "h": "The EB",
+        "vid": "836617692",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-2-4-m-2",
+        "na": "EB (side view)",
+        "vid": "836616407"
+    },
+    {
+        "cid": "9-2-5-v",
+        "na": "EB Drill 4",
+        "vid": "836617210"
+    },
+    {
+        "cid": "9-2-6-v",
+        "na": "EB (consecutively)",
+        "vid": "836616114",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-3-0-h",
+        "h": "EB Swing Exit",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "9-3-1-c-1",
+        "na": "EB Drill 5",
+        "h": "EB Swing Exit Drills",
+        "vid": "836617260",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-3-1-c-2",
+        "na": "EB Drill 6",
+        "vid": "836617342",
+        "ty": "D"
+    },
+    {
+        "cid": "9-3-2-v",
+        "na": "EB (EB Swing out) (standing)",
+        "h": "Without Bounding",
+        "vid": "836616292",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-3-3-m-1",
+        "na": "EB (EB Swing out)",
+        "h": "EB (EB Swing out)",
+        "vid": "836616348",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-3-3-m-2",
+        "na": "EB (EB Swing out) (side view)",
+        "vid": "836616227"
+    },
+    {
+        "cid": "9-4-0-h",
+        "h": "The EB Swing",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "9-4-1-v",
+        "na": "EB Swing (standing)",
+        "h": "Without Bounding",
+        "vid": "836617566",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-4-2-v",
+        "na": "EB Swing",
+        "h": "The EB Swing",
+        "vid": "836617628",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-4-3-v",
+        "na": "EB Swing (consecutively)",
+        "h": "Consecutive EB Swings",
+        "vid": "836617503",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-4-4-v",
+        "na": "EB Swing (alternating)",
+        "h": "Alternating EB Swings",
+        "vid": "836617432",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "9-5-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "9-5-1-v",
+        "na": "EB Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836616578",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-2-v",
+        "na": "EB Challenge 2",
+        "h": "Challenge 2",
+        "vid": "836616630",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-3-v",
+        "na": "EB Challenge 3",
+        "h": "Challenge 3",
+        "vid": "836616691",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-4-v",
+        "na": "EB Challenge 4",
+        "h": "Challenge 4",
+        "vid": "836616724",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-5-v",
+        "na": "EB Challenge 5",
+        "h": "Challenge 5",
+        "vid": "836616774",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-6-v",
+        "na": "EB Challenge 6",
+        "h": "Challenge 6",
+        "vid": "836616828",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-7-v",
+        "na": "EB Challenge 7",
+        "h": "Challenge 7",
+        "vid": "836616883",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-8-v",
+        "na": "EB Challenge 8",
+        "h": "Challenge 8",
+        "vid": "836616929",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-9-v",
+        "na": "EB Challenge 9",
+        "h": "Challenge 9",
+        "vid": "836616965",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "9-5-10-v",
+        "na": "EB Challenge 10",
+        "h": "Challenge 10",
+        "vid": "836617025",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
     },
     {
         "cid": "9-6-0-h",
@@ -2289,6 +2606,1677 @@
     },
     {
         "cid": "9-6-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "10-0-h",
+        "h": "The Toad"
+    },
+    {
+        "cid": "10-1-1-p",
+        "p": "In this lesson you will learn how to do your first leg cross, the Toad."
+    },
+    {
+        "cid": "10-1-2-c-1",
+        "na": "Toad",
+        "h": "In this lesson",
+        "vid": "836621864",
+        "p": "In this lesson you will learn how to do your first leg cross, the Toad. You will also learn different ways to enter and exit from a leg cross."
+    },
+    {
+        "cid": "10-1-2-c-2",
+        "na": "Toad Swing to Toad",
+        "vid": "836621724"
+    },
+    {
+        "cid": "10-1-2-c-3",
+        "na": "Toad (Swing out)",
+        "vid": "836620714"
+    },
+    {
+        "cid": "10-1-3-c-1",
+        "na": "Single Leg Jumps",
+        "h": "Prerequisites",
+        "vid": "836605416",
+        "p": "Ensure you're comfortable with the following skills before starting this lesson."
+    },
+    {
+        "cid": "10-1-3-c-2",
+        "na": "High Knee",
+        "vid": "836601904"
+    },
+    {
+        "cid": "10-1-3-c-3",
+        "na": "Swing, Cross to Open",
+        "vid": "836609497"
+    },
+    {
+        "cid": "10-1-3-c-4",
+        "na": "Consecutive Crosses",
+        "vid": "836607413"
+    },
+    {
+        "cid": "10-2-0-h",
+        "h": "The Toad",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "10-2-1-m-1",
+        "na": "Toad (toe catch)",
+        "h": "Toad Toe Catch",
+        "vid": "836620804",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-2-1-m-2",
+        "na": "Toad (toe catch) (side view)",
+        "vid": "836620753"
+    },
+    {
+        "cid": "?",
+        "na": "Toad Drill 1",
+        "vid": "836621214",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "?",
+        "na": "Toad Drill 2",
+        "vid": "836621277",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "?",
+        "na": "Toad Drill 3",
+        "vid": "836621324",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "?",
+        "na": "Toad Drill 4",
+        "vid": "836621384",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "?",
+        "na": "Toad Drill 5",
+        "vid": "836621442",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "m-1",
+        "na": "Toad",
+        "h": "Toad",
+        "vid": "836621864",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "m-2",
+        "na": "Toad (right view)",
+        "vid": "836620572"
+    },
+    {
+        "cid": "m-3",
+        "na": "Toad (left view)",
+        "vid": "836620508"
+    },
+    {
+        "cid": "10-3-0-h",
+        "h": "Toadsssss",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "10-3-1-c-1",
+        "na": "2 Toads",
+        "h": "Continuous Toads",
+        "vid": "836621815",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "10-3-1-c-2",
+        "na": "2 Toads (alternating)",
+        "h": "Alternating Toads",
+        "vid": "836621775",
+        "ta": "Y"
+    },
+    {
+        "cid": "10-3-2-v",
+        "na": "Toad Drill 6",
+        "h": "Drill",
+        "vid": "836621515",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-3-3-v",
+        "na": "Toad (consecutively)",
+        "h": "Consecutive Toad",
+        "vid": "836620360",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-4-0-h",
+        "h": "Swinging in",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "10-4-1-v",
+        "na": "Toad Swing (toe catch)",
+        "vid": "836621627",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-4-2-v",
+        "na": "Toad Swing (standing)",
+        "h": "Toad Swing ",
+        "vid": "836621573",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-4-3-v",
+        "na": "Toad Swing to Toad",
+        "h": "Toad Swing to Toad",
+        "vid": "836621724",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-4-4-v",
+        "na": "Toad Swing to Toad (consecutively)",
+        "vid": "836621677",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-5-0-h",
+        "h": "Swinging out",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "10-5-1-v",
+        "na": "Toad (Swing out) (standing)",
+        "h": "Without bounding",
+        "vid": "836620654",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-5-2-v",
+        "na": "Toad (Swing out)",
+        "h": "Toad (Swing out)",
+        "vid": "836620714",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-6-0-h",
+        "h": "Swinging in & out",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "10-6-1-v",
+        "na": "Toad (Swing in & out)",
+        "vid": "836620620",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "10-7-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "10-7-1-v",
+        "na": "Toad Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836620859",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "10-7-2-v",
+        "na": "Toad Challenge 2",
+        "h": "Challenge 1",
+        "vid": "836620923",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "10-7-3-v",
+        "na": "Toad Challenge 3",
+        "h": "Challenge 1",
+        "vid": "836620972",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "10-7-4-v",
+        "na": "Toad Challenge 4",
+        "h": "Challenge 1",
+        "vid": "836621042",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "10-7-5-v",
+        "na": "Toad Challenge 5",
+        "h": "Challenge 1",
+        "vid": "836621105",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "10-7-6-v",
+        "na": "Toad Challenge 6",
+        "h": "Challenge 1",
+        "vid": "836621164",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "10-8-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 10."
+    },
+    {
+        "cid": "10-8-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "10-8-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "10-8-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "10-8-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "11-0-h",
+        "h": "The Leg Over"
+    },
+    {
+        "cid": "11-1-1-p",
+        "p": "In this lesson you will learn how to do your next leg cross, the Leg Over."
+    },
+    {
+        "cid": "11-1-2-c-1",
+        "na": "Leg Over to Cross",
+        "h": "In this lesson",
+        "vid": "836628384",
+        "p": "In this lesson you will learn how to do your next leg cross, the Leg Over. You will also learn different ways to enter and exit from a leg cross."
+    },
+    {
+        "cid": "11-1-2-c-2",
+        "na": "Leg Over (Swing Cross out)",
+        "vid": "836627117"
+    },
+    {
+        "cid": "11-1-2-c-3",
+        "na": "Leg Over (Swing Open out)",
+        "vid": "836627281"
+    },
+    {
+        "cid": "11-1-2-c-4",
+        "na": "Leg Over Swing to Leg Over",
+        "vid": "836628169"
+    },
+    {
+        "cid": "11-1-3-c-1",
+        "na": "Single Leg Jumps",
+        "h": "Prerequisites",
+        "vid": "836605416",
+        "p": "Ensure you're comfortable with the following skills before starting this lesson."
+    },
+    {
+        "cid": "11-1-3-c-2",
+        "na": "High Knee",
+        "vid": "836601904"
+    },
+    {
+        "cid": "11-2-0-h",
+        "h": "The Leg Over",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "11-2-1-v",
+        "na": "Leg Over (toe catch)",
+        "vid": "836627327",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "???",
+        "na": "Leg Over Drill 1",
+        "vid": "836627739"
+    },
+    {
+        "na": "Leg Over Drill 2",
+        "vid": "836627795"
+    },
+    {
+        "na": "Leg Over Drill 3",
+        "vid": "836627831"
+    },
+    {
+        "na": "Leg Over Drill 4",
+        "vid": "836627895"
+    },
+    {
+        "na": "Leg Over Drill 5",
+        "vid": "836627948"
+    },
+    {
+        "cid": "m-1",
+        "na": "Leg Over to Cross",
+        "h": "Leg Over",
+        "vid": "836628384",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "m-2",
+        "na": "Leg Over to Cross (right view)",
+        "vid": "836628350"
+    },
+    {
+        "cid": "m-3",
+        "na": "Leg Over to Cross (left view)",
+        "vid": "836628315"
+    },
+    {
+        "cid": "11-3-0-h",
+        "h": "Leg Oversssss",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "11-3-1-v",
+        "na": "Leg Over to Cross (consecutively)",
+        "h": "Continuous Leg Overs",
+        "vid": "836628261",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-3-2-v",
+        "na": "Leg Over to Cross (alternating)",
+        "h": "Alternating Leg Overs",
+        "vid": "836628218",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-3-3-v",
+        "na": "Leg Over (consecutively)",
+        "h": "Consecutive Leg Overs",
+        "vid": "836626820",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-4-0-h",
+        "h": "Swinging out",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "11-4-1-v",
+        "na": "Leg Over (Swing Cross out)",
+        "h": "Leg Over (Swing Cross out)",
+        "vid": "836627117",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-4-2-c-1",
+        "na": "Leg Over (Swing Cross out) (consecutively)",
+        "h": "Consecutive Swing Cross exits",
+        "vid": "836627059",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "11-4-2-c-2",
+        "na": "Leg Over (Swing Cross out) (alternating)",
+        "vid": "836626993"
+    },
+    {
+        "cid": "11-4-3-v",
+        "na": "Leg Over (Swing Open out)",
+        "h": "Leg Over (Swing Open out)",
+        "vid": "836627281",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-4-4-c-1",
+        "na": "Leg Over (Swing Open out) (consecutively)",
+        "h": "Conecutive Swing Open exits",
+        "vid": "836627229",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "11-4-4-c-2",
+        "na": "Leg Overs (Swing Open out) (alternating)",
+        "vid": "836628443"
+    },
+    {
+        "cid": "11-5-0-h",
+        "h": "Swinging in",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "11-5-1-v",
+        "na": "Leg Over Swing (toe catch)",
+        "h": "Leg Over Swing Toe Catch",
+        "vid": "836628055",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-5-2-v",
+        "na": "Leg Over Swing (standing)",
+        "vid": "836627997",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-5-3-v",
+        "na": "Leg Over Swing to Leg Over",
+        "h": "Leg Over Swing to Leg Over",
+        "vid": "836628169",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-5-4-v",
+        "na": "Leg Over Swing to Leg Over (consecutively)",
+        "h": "Consecuitve Leg Over Swing",
+        "vid": "836628103",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-6-0-h",
+        "h": "Swinging in & out",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "11-6-1-v",
+        "na": "Leg Over (Swing in & out)",
+        "vid": "836627173",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "11-7-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "11-7-1-v",
+        "na": "Leg Over Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836627391",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "11-7-2-v",
+        "na": "Leg Over Challenge 2",
+        "h": "Challenge 2",
+        "vid": "836627462",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "11-7-3-v",
+        "na": "Leg Over Challenge 3",
+        "h": "Challenge 3",
+        "vid": "836627514",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "11-7-4-v",
+        "na": "Leg Over Challenge 4",
+        "h": "Challenge 4",
+        "vid": "836627556",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "11-7-5-v",
+        "na": "Leg Over Challenge 5",
+        "h": "Challenge 5",
+        "vid": "836627619",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "11-7-6-v",
+        "na": "Leg Over Challenge 6",
+        "h": "Challenge 6",
+        "vid": "836627684",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "11-8-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 11."
+    },
+    {
+        "cid": "11-8-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "11-8-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "11-8-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "11-8-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "12-0-h",
+        "h": "The Leg Over"
+    },
+    {
+        "cid": "12-1-1-p",
+        "p": "In this lesson you will learn how to do the Awesome Annie."
+    },
+    {
+        "cid": "12-1-2-c-1",
+        "na": "Toad Awesome Annie",
+        "h": "In this lesson",
+        "vid": "836630598",
+        "p": "In this lesson you will learn how to do the Awesome Annie."
+    },
+    {
+        "cid": "12-1-2-c-2",
+        "na": "Leg Awesome Annie",
+        "vid": "836630396"
+    },
+    {
+        "cid": "12-1-2-c-3",
+        "na": "Continuous Awesome Annies",
+        "vid": "836630289"
+    },
+    {
+        "cid": "12-2-0-h",
+        "h": "Toad Awesome Annie",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "12-2-1-v",
+        "na": "Awesome Annie Drill 1",
+        "h": "Drill 1",
+        "vid": "836629901",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "12-2-2-v",
+        "na": "Awesome Annie Drill 2",
+        "h": "Drill 2",
+        "vid": "836629994",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "12-2-3-v",
+        "na": "Toad Awesome Annie",
+        "h": "Toad Awesome Annie",
+        "vid": "836630598",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "12-3-0-h",
+        "h": "Leg Over Awesome Annie",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "13-3-1-v",
+        "na": "Awesome Annie Drill 3",
+        "h": "Drill 1",
+        "vid": "836630056",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "12-3-2-v",
+        "na": "Awesome Annie Drill 4",
+        "h": "Drill 2",
+        "vid": "836630130",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "12-3-3-v",
+        "na": "Leg Over Awesome Annie",
+        "h": "Leg Over Awesome Annie",
+        "vid": "836630396",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "12-4-0-h",
+        "h": "Consecutive Awesome Annies",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "12-4-1-c-1",
+        "na": "Toad Awesome Annie (twice)",
+        "h": "Consecutive Toad A.A.",
+        "vid": "836630524",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "12-4-1-c-2",
+        "na": "Toad Awesome Annie (thrice)",
+        "vid": "836630456"
+    },
+    {
+        "cid": "12-4-2-c-1",
+        "na": "Leg Over Awesome Annie (twice)",
+        "h": "Consecutive Leg Over A.A.",
+        "vid": "836630341",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "12-4-2-c-2",
+        "na": "Leg Over Awesome Annie (thrice)",
+        "vid": "836630289"
+    },
+    {
+        "cid": "??",
+        "na": "Awesome Annie Drill 5",
+        "vid": "836630197",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "12-5-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "12-5-1-v",
+        "na": "Awesome Annie Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836629298",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "12-5-2-v",
+        "na": "Awesome Annie Challenge 2",
+        "h": "Challenge 2",
+        "vid": "836629413",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "12-5-3-v",
+        "na": "Awesome Annie Challenge 3",
+        "h": "Challenge 3",
+        "vid": "836629502",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "12-5-4-v",
+        "na": "Awesome Annie Challenge 4",
+        "h": "Challenge 4",
+        "vid": "836629571",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "12-5-5-v",
+        "na": "Awesome Annie Challenge 5",
+        "h": "Challenge 5",
+        "vid": "836629636",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "12-5-6-v",
+        "na": "Awesome Annie Challenge 6",
+        "h": "Challenge 6",
+        "vid": "836629717",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "12-5-7-v",
+        "na": "Awesome Annie Challenge 7",
+        "h": "Challenge 7",
+        "vid": "836629775",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "12-5-8-v",
+        "na": "Awesome Annie Challenge 8",
+        "h": "Challenge 8",
+        "vid": "836629843",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "12-6-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 12."
+    },
+    {
+        "cid": "12-6-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "12-6-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "12-6-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "12-6-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "13-0-h",
+        "h": "The Mic Release"
+    },
+    {
+        "cid": "13-1-1-p",
+        "p": "In this lesson you will learn all the fundmentals of the Mic Release."
+    },
+    {
+        "cid": "13-1-2-c-1",
+        "na": "Wrist Pop Release",
+        "h": "In this lesson",
+        "vid": "836632982",
+        "p": "In this lesson you will learn all the fundmentals of the Mic Release."
+    },
+    {
+        "cid": "13-1-2-c-2",
+        "na": "Tissue Box Release",
+        "vid": "836632366"
+    },
+    {
+        "cid": "13-1-2-c-3",
+        "na": "Tissue Box Release (double rotation)",
+        "vid": "836631955"
+    },
+    {
+        "cid": "13-1-2-c-4",
+        "na": "Wrist Pop Release (double rotation)",
+        "vid": "836632507"
+    },
+    {
+        "cid": "13-2-0-h",
+        "h": "The Principles",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "13-2-1-v",
+        "na": "Mic Release Drill 1",
+        "h": "Drill 1",
+        "vid": "836631337",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-2-2-v",
+        "na": "Mic Release Drill 2",
+        "h": "Drill 2",
+        "vid": "836631386",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-2-3-v",
+        "na": "Mic Release Drill 3",
+        "h": "Drill 3",
+        "vid": "836631424",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-2-4-v",
+        "na": "Mic Release Drill 4",
+        "h": "Drill 4",
+        "vid": "836631456",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-2-5-v",
+        "na": "Mic Release Drill 5",
+        "h": "Drill 5",
+        "vid": "836631482",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-3-0-h",
+        "h": "Wrist Pop Method",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "13-3-1-m-1",
+        "na": "Mic Release Drill 6 (wrist pop)",
+        "h": "Drill 1",
+        "vid": "836631631",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-3-1-m-2",
+        "na": "Mic Release Drill 6 (wrist pop) (side view)",
+        "vid": "836631601"
+    },
+    {
+        "cid": "13-3-2-v",
+        "na": "Mic Release Drill 7 (wrist pop)",
+        "h": "Drill 2",
+        "vid": "836631703",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-3-3-c-1",
+        "na": "Wrist Pop Release (toe catch)",
+        "h": "Wrist Pop Toe Catch",
+        "vid": "836632832",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "13-3-3-c-2",
+        "na": "Wrist Pop Release (jump & toe catch)",
+        "vid": "836632587"
+    },
+    {
+        "cid": "13-3-4-v",
+        "na": "Wrist Pop Release (standing)",
+        "vid": "836632737"
+    },
+    {
+        "cid": "13-3-5-m-1",
+        "na": "Wrist Pop Release",
+        "h": "Wrist Pop Release",
+        "vid": "836632982",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-3-5-m-2",
+        "na": "Wrist Pop Release (side view)",
+        "vid": "836632656"
+    },
+    {
+        "cid": "13-4-0-h",
+        "h": "Tissue Box Method",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "13-4-1-m-1",
+        "na": "Mic Release Drill 6 (tissue box)",
+        "h": "Drill 1",
+        "vid": "836631555",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-4-1-m-2",
+        "na": "Mic Release Drill 6 (tissue box) (side view)",
+        "vid": "836631517"
+    },
+    {
+        "cid": "13-4-2-v",
+        "na": "Mic Release Drill 7 (tissue box)",
+        "h": "Drill 2",
+        "vid": "836631666",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-4-3-c-1",
+        "na": "Tissue Box Release (toe catch)",
+        "h": "Tissue Box Toe Catch",
+        "vid": "836632241",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "13-4-3-c-2",
+        "na": "Tissue Box Release (jump & toe catch)",
+        "vid": "836632033"
+    },
+    {
+        "cid": "13-4-4-v",
+        "na": "Tissue Box Release (standing)",
+        "vid": "836632187"
+    },
+    {
+        "cid": "13-4-5-m-1",
+        "na": "Tissue Box Release",
+        "h": "Tissue Box Release",
+        "vid": "836632366",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-4-5-m-2",
+        "na": "Tissue Box Release (side view)",
+        "vid": "836632112"
+    },
+    {
+        "cid": "13-5-0-h",
+        "h": "Releasessss",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "13-5-1-v",
+        "na": "Wrist Pop Release + 1 Open (consecutively)",
+        "h": "Consecutive Wrist Pops (2 Opens)",
+        "vid": "836632902",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-5-2-v",
+        "na": "Wrist Pop Release (consecutively)",
+        "h": "Consecutive Wrist Pops (1 Open)",
+        "vid": "836632434",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-5-3-v",
+        "na": "Tissue Box Release + 1 Open (consecutively)",
+        "h": "Consecutive Tissue Boxes (2 Opens)",
+        "vid": "836632306",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-5-4-v",
+        "na": "Tissue Box Release (consecutively)",
+        "h": "Consecutive Tissue Boxes (1 Open)",
+        "vid": "836631882",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-6-0-h",
+        "h": "Swinging out",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "13-6-1-c-1",
+        "na": "Mic Release Drill 8",
+        "h": "Drill 1",
+        "vid": "836631760",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this carousel."
+    },
+    {
+        "cid": "13-6-1-c-2",
+        "na": "Mic Release Drill 9",
+        "h": "Drill 2",
+        "vid": "836631816"
+    },
+    {
+        "cid": "13-6-2-v",
+        "na": "Mic Release (Swing out same side)",
+        "h": "Same Side",
+        "vid": "836630974",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-6-3-v",
+        "na": "Mic Release (Swing out opposite side)",
+        "h": "Opposite Side",
+        "vid": "836630865",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-7-0-h",
+        "h": "Double Rotations",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "13-7-1-v",
+        "na": "Wrist Pop Release (double rotation)",
+        "h": "Wrist Pop (Double)",
+        "vid": "836632507",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-7-2-v",
+        "na": "Tissue Box Release (double rotation)",
+        "h": "Tissue Box (Double)",
+        "vid": "836631955",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "13-8-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "13-8-1-v",
+        "na": "Mic Release Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836631054",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "13-8-2-v",
+        "na": "Mic Release Challenge 2",
+        "h": "Challenge 2",
+        "vid": "836631096",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "13-8-3-v",
+        "na": "Mic Release Challenge 3",
+        "h": "Challenge 3",
+        "vid": "836631145",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "13-8-4-v",
+        "na": "Mic Release Challenge 4",
+        "h": "Challenge 4",
+        "vid": "836631190",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "13-8-5-v",
+        "na": "Mic Release Challenge 5",
+        "h": "Challenge 5",
+        "vid": "836631233",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "13-8-6-v",
+        "na": "Mic Release Challenge 6",
+        "h": "Challenge 6",
+        "vid": "836631266",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "13-8-7-v",
+        "na": "Mic Release Challenge 7",
+        "h": "Challenge 7",
+        "vid": "836631301",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "13-9-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 13."
+    },
+    {
+        "cid": "13-9-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "13-9-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "13-9-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "13-9-1-q-4",
+        "h": "Question 4",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "14-0-h",
+        "h": "Backwards"
+    },
+    {
+        "cid": "14-1-1-p",
+        "p": "In this lesson you will learn all the fundmentals of jumping backwards."
+    },
+    {
+        "cid": "14-1-2-c-1",
+        "na": "Backwards Single Bounce",
+        "h": "In this lesson",
+        "vid": "836657202",
+        "p": "In this lesson you will learn all the fundmentals of jumping backwards. We will cover several foundational skills including single bounce, double bounce, swings and crosses."
+    },
+    {
+        "cid": "14-1-2-c-2",
+        "na": "Backwards Double Bounce",
+        "vid": "836655831"
+    },
+    {
+        "cid": "14-1-2-c-3",
+        "na": "Backwards Cross to Open",
+        "vid": "836655690"
+    },
+    {
+        "cid": "14-1-2-c-4",
+        "na": "Backwards Swing to Cross",
+        "vid": "836657433"
+    },
+    {
+        "cid": "14-2-0-h",
+        "h": "Backwards Basic Bounce",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "14-2-1-v",
+        "na": "Rope Throws",
+        "h": "Rope Throws",
+        "vid": "836657563",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-2-2-v",
+        "na": "Backwards Drill 2",
+        "vid": "836655915",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-2-3-m-1",
+        "na": "Heel Catch",
+        "vid": "836657527",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-2-3-m-2",
+        "na": "Heel Catch (side view)",
+        "vid": "836657479"
+    },
+    {
+        "cid": "14-2-4-v",
+        "na": "Backwards Drill 3",
+        "vid": "836655988",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-2-5-m-1",
+        "na": "Backwards Single Bounce",
+        "vid": "836657202",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-2-5-m-2",
+        "na": "Backwards Single Bounce (side view)",
+        "vid": "836657139"
+    },
+    {
+        "cid": "14-2-6-m-1",
+        "na": "Backwards Double Bounce",
+        "vid": "836655831",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-2-6-m-2",
+        "na": "Backwards Double Bounce (side view)",
+        "vid": "836655765"
+    },
+    {
+        "cid": "14-3-0-h",
+        "h": "Backwards Crosses",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "14-3-1-v",
+        "na": "Backwards Drill 4",
+        "h": "Backwards Drill 4",
+        "vid": "836656248",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-2-v",
+        "na": "Backwards Drill 5",
+        "h": "Backwards Drill 5",
+        "vid": "836656371",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-3-v",
+        "na": "Backwards Drill 6",
+        "h": "Backwards Drill 6",
+        "vid": "836656526",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-4-v",
+        "na": "Backwards Drill 7",
+        "h": "Backwards Drill 7",
+        "vid": "836656595",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-5-v",
+        "na": "Backwards Drill 8",
+        "h": "Backwards Drill 8",
+        "vid": "836656644",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-6-v",
+        "na": "Backwards Drill 9",
+        "h": "Backwards Drill 9",
+        "vid": "836656706",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-7-m-1",
+        "na": "Backwards Cross to Open",
+        "h": "Backwards Cross",
+        "vid": "836655690",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-7-m-2",
+        "na": "Backwards Cross to Open (side view)",
+        "vid": "836655621"
+    },
+    {
+        "cid": "14-3-8-v",
+        "na": "Backwards Cross to Open (alternating)",
+        "h": "Alternating Crosses",
+        "vid": "836655576",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-9-m-1",
+        "na": "Backwards Cross (consecutively)",
+        "h": "Consecutive Crosses",
+        "vid": "836655506",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-3-9-m-2",
+        "na": "Backwards Cross (consecutively) (side view)",
+        "vid": "836655460"
+    },
+    {
+        "cid": "14-4-0-h",
+        "h": "Backwards Swing Crosses",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "14-4-1-v",
+        "na": "Backwards Drill 10",
+        "h": "Backwards Drill 10",
+        "vid": "836656977",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-4-2-v",
+        "na": "Backwards Drill 11",
+        "h": "Backwards Drill 11",
+        "vid": "836657080",
+        "ty": "D",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-4-3-v",
+        "na": "Backwards Swing to Cross (standing)",
+        "h": "Without Bounding",
+        "vid": "836657380",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-4-4-m-1",
+        "na": "Backwards Swing to Cross",
+        "h": "Backwards Swing Cross",
+        "vid": "836657433",
+        "ty": "S",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-4-5-m-2",
+        "na": "Backwards Swing to Cross (side view)",
+        "vid": "836657336"
+    },
+    {
+        "cid": "14-4-6-c-1",
+        "na": "2x Backwards Swing to Cross",
+        "h": "Swing Crosses",
+        "vid": "836654842",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-4-6-c-2",
+        "na": "2x Backwards Swing to Cross (alternating)",
+        "vid": "836654492"
+    },
+    {
+        "cid": "14-4-7-v",
+        "na": "Backwards Swing to Cross (consecutively)",
+        "h": "Consecutive Swing Crosses",
+        "vid": "836657296",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-4-8-v",
+        "na": "Backwards Swing to Cross (alternating)",
+        "h": "Alternating Swing Crosses",
+        "vid": "836657249",
+        "ta": "Y",
+        "p": "This is example text explaining this skill/drill."
+    },
+    {
+        "cid": "14-5-0-h",
+        "h": "Challenges",
+        "p": "This is example text introducing this section."
+    },
+    {
+        "cid": "14-5-1-v",
+        "na": "Backwards Challenge 1",
+        "h": "Challenge 1",
+        "vid": "836655013",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "14-5-2-v",
+        "na": "Backwards Challenge 2",
+        "h": "Challenge 2",
+        "vid": "836655086",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "14-5-3-v",
+        "na": "Backwards Challenge 3",
+        "h": "Challenge 3",
+        "vid": "836655140",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "14-5-4-v",
+        "na": "Backwards Challenge 4",
+        "h": "Challenge 4",
+        "vid": "836655207",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "14-5-5-v",
+        "na": "Backwards Challenge 5",
+        "h": "Challenge 5",
+        "vid": "836655286",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "14-5-6-v",
+        "na": "Backwards Challenge 6",
+        "h": "Challenge 6",
+        "vid": "836655377",
+        "ty": "C",
+        "ta": "Y",
+        "p": "This is example text explaining this challenge."
+    },
+    {
+        "cid": "13-6-0-h",
+        "h": "Quiz",
+        "p": "This quiz will test your knowledge on lesson 14."
+    },
+    {
+        "cid": "14-6-1-q-1",
+        "h": "Question 1",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "14-6-1-q-2",
+        "h": "Question 2",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "14-6-1-q-3",
+        "h": "Question 3",
+        "ty": "Q",
+        "p": "What is the correct answer?",
+        "a0": "This is the correct answer.",
+        "a1": "This is not the correct answer.",
+        "a2": "This is not the correct answer.",
+        "a3": "This is not the correct answer."
+    },
+    {
+        "cid": "14-6-1-q-4",
         "h": "Question 4",
         "ty": "Q",
         "p": "What is the correct answer?",
