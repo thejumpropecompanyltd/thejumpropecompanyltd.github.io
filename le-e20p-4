@@ -1,7 +1,8 @@
 [
     {
         "cid": "1-0-h",
-        "h": "Basic Bounce"
+        "h": "Basic Bounce",
+        "img": "64e7600051c6b36d1a648522/1692884992705/1+Single+Bounce.png"
     },
     {
         "cid": "1-1-1-p",
@@ -263,7 +264,8 @@
     },
     {
         "cid": "2-0-h",
-        "h": "Bilateral Footwork"
+        "h": "Bilateral Footwork",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "2-1-1-p",
@@ -566,7 +568,8 @@
     },
     {
         "cid": "3-0-h",
-        "h": "Unilateral Footwork"
+        "h": "Unilateral Footwork",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "3-1-1-p",
@@ -986,7 +989,8 @@
     },
     {
         "cid": "4-0-h",
-        "h": "Compound Footwork"
+        "h": "Compound Footwork",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "4-1-1-p",
@@ -1259,7 +1263,8 @@
     },
     {
         "cid": "5-0-h",
-        "h": "Speed Step"
+        "h": "Speed Step",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "5-1-1-p",
@@ -1436,7 +1441,8 @@
     },
     {
         "cid": "6-0-h",
-        "h": "Basic Crosses"
+        "h": "Basic Crosses",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "6-1-1-p",
@@ -1706,7 +1712,8 @@
     },
     {
         "cid": "7-0-h",
-        "h": "Side Swings"
+        "h": "Side Swings",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "7-1-1-p",
@@ -2062,7 +2069,8 @@
     },
     {
         "cid": "8-0-h",
-        "h": "Footwork & Swings"
+        "h": "Footwork & Swings",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "8-1-1-p",
@@ -2299,7 +2307,8 @@
     },
     {
         "cid": "9-0-h",
-        "h": "Footwork & Swings"
+        "h": "Footwork & Swings",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "9-1-1-p",
@@ -2616,7 +2625,8 @@
     },
     {
         "cid": "10-0-h",
-        "h": "The Toad"
+        "h": "The Toad",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "10-1-1-p",
@@ -2940,7 +2950,8 @@
     },
     {
         "cid": "11-0-h",
-        "h": "The Leg Over"
+        "h": "The Leg Over",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "11-1-1-p",
@@ -3263,7 +3274,8 @@
     },
     {
         "cid": "12-0-h",
-        "h": "The Leg Over"
+        "h": "The Leg Over",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "12-1-1-p",
@@ -3511,7 +3523,8 @@
     },
     {
         "cid": "13-0-h",
-        "h": "The Mic Release"
+        "h": "The Mic Release",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "13-1-1-p",
@@ -3919,7 +3932,8 @@
     },
     {
         "cid": "14-0-h",
-        "h": "Backwards"
+        "h": "Backwards",
+        "img": "64e77086ed4f03122d70f712/1692889222647/2+Bilateral+Footwork.png"
     },
     {
         "cid": "14-1-1-p",
