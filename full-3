@@ -13525,6 +13525,8 @@
     },
     {
         "na": "O.H. Toad Thigh Wrap to Layered Arm Wrap",
+        "sk": "> <OH> Toad Swing > <OH> Toad Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Toad Swing > <OH> Swing >",
+        "no": "TBC",
         "ty": "CO",
         "vi": 833935569,
         "c1": "One-Handed Wrap",
@@ -13533,6 +13535,8 @@
     },
     {
         "na": "O.H. Inverse Toad Thigh Wrap to Layered Arm Wrap",
+        "sk": "> <OH> Inverse Toad Swing > <OH> Inverse Toad Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Inverse Toad Swing > <OH> Swing >",
+        "no": "TBC",
         "ty": "CO",
         "vi": 833935366,
         "c1": "One-Handed Wrap",
@@ -13541,6 +13545,8 @@
     },
     {
         "na": "O.H. Leg Over Thigh Wrap to Layered Arm Wrap",
+        "sk": "> <OH> Leg Over Swing > <OH> Leg Over Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Leg Over Swing > <OH> Swing >",
+        "no": "TBC",
         "ty": "CO",
         "vi": 833935485,
         "c1": "One-Handed Wrap",
@@ -13549,6 +13555,8 @@
     },
     {
         "na": "O.H. Inverse Leg Over Thigh Wrap to Layered Arm Wrap",
+        "sk": "> <OH> Inverse Leg Over Swing > <OH> Inverse Leg Over Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Inverse Leg Over Swing > <OH> Swing >",
+        "no": "TBC",
         "ty": "CO",
         "vi": 833935193,
         "c1": "One-Handed Wrap",
