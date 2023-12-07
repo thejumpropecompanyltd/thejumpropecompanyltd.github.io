@@ -3997,7 +3997,8 @@
     },
     {
         "na": "O.H. Toad Swing",
-        "sk": "> Swing <B> > Swing <W> > Toad Swing > Swing <W> > Swing <B> >",
+        "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Toad Swing > <OH> Swing <W> > <OH> Swing <B> <OH> >",
+        "no": "{S}, {S}, {Ts}, {S}, {S},",
         "ty": "V",
         "as": "S5",
         "vi": 833243616,
@@ -4006,7 +4007,8 @@
     },
     {
         "na": "O.H. Inverse Toad Swing",
-        "sk": "> Swing <B> > Swing <W> > Inverse Toad Swing > Swing <W> > Swing <B> >",
+        "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Inverse Toad Swing > <OH> Swing <W> > <OH> Swing <B> <OH> >",
+        "no": "{S}, {S}, {Is}, {S}, {S},",
         "ty": "V",
         "as": "S6",
         "vi": 833243509,
@@ -4015,7 +4017,8 @@
     },
     {
         "na": "O.H. Leg Over Swing",
-        "sk": "> Swing <W> > Swing <B> > Leg Over Swing > Swing <B> > Swing <W> >",
+        "sk": "> <OH> Swing <W> > <OH> Swing <B> > <OH> Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> <OH> >",
+        "no": "{S}, {S}, {Ls}, {S}, {S},",
         "ty": "V",
         "as": "S7",
         "vi": 833243554,
@@ -4024,7 +4027,8 @@
     },
     {
         "na": "O.H. Inverse Leg Over Swing",
-        "sk": "> Swing <W> > Swing <B> > Inverse Leg Over Swing > Swing <B> > Swing <W> >",
+        "sk": "> <OH> Swing <W> > <OH> Swing <B> > <OH> Inverse Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> <OH> >",
+        "no": "{S}, {S}, {Js}, {S}, {S},",
         "ty": "V",
         "as": "S8",
         "vi": 833243451,
@@ -4033,7 +4037,8 @@
     },
     {
         "na": "O.H. Toad Gogo Swing",
-        "sk": "> Swing <B> > Swing <W> > Toad Swing > Toad Gogo Swing > Toad Swing > Swing <W> > Swing <B>  >",
+        "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Toad Swing > <OH> Toad Gogo Swing > <OH> Toad Swing > <OH> Swing <W> > <OH> Swing <B> <OH>  >",
+        "no": "{S}, {S}, {Ts}, {(To)s}, {Ts}, {S}, {S},",
         "ty": "V",
         "as": "S27",
         "vi": 833243582,
@@ -4043,7 +4048,8 @@
     },
     {
         "na": "O.H. Inverse Toad Gogo Swing",
-        "sk": "> Swing <B> > Swing <W> > Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Swing > Swing <W> > Swing <B>  >",
+        "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Inverse Toad Swing > <OH> Inverse Toad Gogo Swing > <OH> Inverse Toad Swing > <OH> Swing <W> > <OH> Swing <B> <OH>  >",
+        "no": "{S}, {S}, {Is}, {(Io)s}, {Ts}, {S}, {S},",
         "ty": "V",
         "as": "S28",
         "vi": 833243478,
@@ -4053,7 +4059,8 @@
     },
     {
         "na": "O.H. Leg Over Gogo Swing",
-        "sk": "> Swing <W> > Swing <B> > Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <B> > Swing <W> >",
+        "sk": "> <OH> Swing <W> > <OH> Swing <B> > <OH> Leg Over Swing > <OH> Leg Over Gogo Swing > <OH> Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> <OH> >",
+        "no": "{S}, {S}, {Ls}, {(Lc)s}, {Ls}, {S}, {S},",
         "ty": "V",
         "as": "S29",
         "vi": 833243530,
@@ -4063,7 +4070,8 @@
     },
     {
         "na": "O.H. Inverse Leg Over Gogo Swing",
-        "sk": "> Swing <W> > Swing <B> > Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <B> > Swing <W> >",
+        "sk": "> <OH> Swing <W> > <OH> Swing <B> > <OH> Inverse Leg Over Swing > <OH> Inverse Leg Over Gogo Swing > <OH> Inverse Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> <OH> >",
+        "no": "{S}, {S}, {Js}, {(Jc)s}, {Js}, {S}, {S},",
         "ty": "V",
         "as": "S8",
         "vi": 833243374,
@@ -4109,6 +4117,8 @@
     },
     {
         "na": "Body Stall",
+        "sk": "> Open > Body Stall > <BW> Open >",
+        "no": "O, ;O; O,",
         "ty": "S",
         "as": "D1",
         "vi": 833939714,
@@ -4116,7 +4126,8 @@
     },
     {
         "na": "Open Stall",
-        "sk": "> Open > No-Contact Stall > Rope Reversal > <BW> Open >",
+        "sk": "> Open > Open Stall > <BW> Open >",
+        "no": "O, O; O,",
         "ty": "S",
         "as": "D2",
         "vi": 833939907,
@@ -4124,6 +4135,8 @@
     },
     {
         "na": "Between the Legs Stall",
+        "sk": "> Open > Between-the-Leg Stall > <BW> Open >",
+        "no": "O, ;Ø; O,",
         "ty": "S",
         "as": "D3",
         "vi": 833939618,
@@ -4131,6 +4144,8 @@
     },
     {
         "na": "Side Swing Stall",
+        "sk": "> Open > Swing Stall <B> > <BW> Open >",
+        "no": "O, ;S; O,",
         "ty": "S",
         "as": "D4",
         "vi": "CS",
@@ -4138,7 +4153,8 @@
     },
     {
         "na": "Kick Back Stall",
-        "sk": "> Open > Contact Stall (Foot) > Rope Reversal > <BW> Open >",
+        "sk": "> Open > Kick Back Stall > <BW> Open >",
+        "no": "O, ;O; O,",
         "ty": "S",
         "as": "D5",
         "vi": 833939847,
@@ -4146,6 +4162,8 @@
     },
     {
         "na": "Foot Catch Stall",
+        "sk": "> Open > Foot Catch Stall > <BW> Open >",
+        "no": "O, :O; O,",
         "ty": "S",
         "as": "D6",
         "vi": 833939826,
@@ -4153,6 +4171,8 @@
     },
     {
         "na": "Backwards Body Stall",
+        "sk": "> <BW> Open > <BW> Body Stall > Open >",
+        "no": "O, ;O; O,",
         "ty": "S",
         "as": "D7",
         "vi": 833939768,
@@ -4160,6 +4180,8 @@
     },
     {
         "na": "Backwards Open Stall",
+        "sk": "> <BW> Open > <BW> Open Stall > Open >",
+        "no": "O, O; O,",
         "ty": "S",
         "as": "D8",
         "vi": 833939799,
@@ -4167,6 +4189,8 @@
     },
     {
         "na": "Backwards Between the Legs Stall",
+        "sk": "> <BW> Open > <BW> Between-the-Leg Stall > Open >",
+        "no": "O, ;Ø; O,",
         "ty": "S",
         "as": "D9",
         "vi": 833939746,
@@ -6842,7 +6866,8 @@
     },
     {
         "na": "Toad Wrap with Embedded Arm Wrap",
-        "no": "Tc, [T]c, [To)s, (To)[s], T[s), O,",
+        "sk": "> Toad > Toad Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Open >",
+        "no": "Tc, [T]c, [[T]s], [[To]s), [To)s, O,",
         "ty": "V",
         "as": "W32",
         "vi": 833930652,
@@ -6851,8 +6876,9 @@
         "c3": "Arm Wrap"
     },
     {
-        "na": "Inverse Toad Wrap to Embedded Arm Wrap",
-        "no": "Ic, [I]c, [Io)s, (Io)[s], I[s), O,",
+        "na": "Inverse Toad Wrap with Embedded Arm Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Open >",
+        "no": "Ic, [I]c, [[I]s], [[Io]s), [Io)s, O,",
         "ty": "V",
         "as": "W33",
         "vi": 833930465,
@@ -6862,7 +6888,8 @@
     },
     {
         "na": "Leg Over Wrap with Embedded Arm Wrap",
-        "no": "Lo, [L]o, [Lc)s, (Lc)[s], L[s), C,",
+        "sk": "> Leg Over > Leg Over Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Cross >",
+        "no": "Lo, [L]o, [[L]s], [[Lc]s), [Lc)s, C,",
         "ty": "V",
         "as": "W34",
         "vi": 833930554,
@@ -6872,7 +6899,8 @@
     },
     {
         "na": "Inverse Leg Over Wrap with Embedded Arm Wrap",
-        "no": "Jo, [J]o, [Jc)s, (Jc)[s], J[s), C,",
+        "sk": "> Inverse Leg Over > Inverse Leg Over Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Cross >",
+        "no": "Jo, [J]o, [[Jc]s], [[Jc]s), [Jc)s, C,",
         "ty": "V",
         "as": "W35",
         "vi": "CS",
@@ -6882,7 +6910,8 @@
     },
     {
         "na": "EB Toad Wrap with Embedded Arm Wrap",
-        "no": "S, Et, E[t], [To)s, (To)[s], T[s), O,",
+        "sk": "> Swing > EB Toad > EB Toad Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Open >",
+        "no": "S, Et, E[t], [[T]s], [[To]s), [To)s, O,",
         "ty": "V",
         "as": "W36",
         "vi": 833930300,
@@ -6892,7 +6921,8 @@
     },
     {
         "na": "Inverse EB Toad Wrap with Embedded Arm Wrap",
-        "no": "S, Ei, E[i], [Io)s, (Io)[s], I[s), O,",
+        "sk": "> Swing > Inverse EB Toad > Inverse EB Toad Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Open >",
+        "no": "S, Et, E[i], [[I]s], [[Io]s), [Io)s, O,",
         "ty": "V",
         "as": "W37",
         "vi": "CS",
@@ -6902,7 +6932,8 @@
     },
     {
         "na": "EB Leg Over Wrap with Embedded Arm Wrap",
-        "no": "S, Le, [L]o, [Lc)s, (Lc)[s], L[s), C,",
+        "sk": "> Swing > EB Leg Over Swing > Leg Over Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Cross >",
+        "no": "S, Le, [L]o, [[L]s], [[Lc]s), [Lc)s, C,",
         "ty": "V",
         "as": "W34",
         "vi": "CS",
@@ -6930,7 +6961,8 @@
     },
     {
         "na": "TS Wrap with Embedded Arm Wrap",
-        "no": "O, [E], [Eo)s, (Eo)[s], E[s), Es, O,",
+        "sk": "> Open > TS Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > EB Swing > Open >",
+        "no": "O, [E], [[E]s], [Eo]s), [Eo)s, Es, O,",
         "ty": "V",
         "as": "W41",
         "vi": 833930684,
@@ -6940,7 +6972,7 @@
     },
     {
         "na": "AS Wrap with Embedded Arm Wrap",
-        "no": "O, [N], [No)s, (No)[s], N[s), Ns, O,",
+        "no": "O, [N], [[N]s], [No]s), [No)s, Es, O,",
         "ty": "V",
         "as": "W40",
         "vi": "CS",
@@ -6950,7 +6982,7 @@
     },
     {
         "na": "CL Wrap with Embedded Arm Wrap",
-        "no": "O, [N]e, [No)s, (No)[s], N[s), Ns, O,",
+        "no": "O, [N]e, [[N]s], [No]s), [No)s, Es, O,",
         "ty": "V",
         "as": "W42",
         "vi": "CS",
@@ -6960,6 +6992,8 @@
     },
     {
         "na": "O.H. Arm Wrap",
+        "sk": "> <OH> Swing <B> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Swing <W> > <OH> Swing <B> > ",
+        "no": "{S}, {[S]}, {[S)}, {S}, {S},",
         "ty": "S",
         "as": "W60",
         "vi": 833935003,
@@ -6968,6 +7002,8 @@
     },
     {
         "na": "O.H. Wrist Wrap",
+        "sk": "> <OH> Swing <W> > <OH> Wrist Wrap > <OH> Unwrap Swing <OS> > <OH> Swing <B> > <OH> Swing <W> > ",
+        "no": "{S}, {[S]}, {[S)}, {S}, {S},",
         "ty": "S",
         "as": "W61",
         "vi": 833935596,
@@ -6976,6 +7012,8 @@
     },
     {
         "na": "O.H. Toad Arm Wrap",
+        "sk": "> <OH> Toad Swing > <OH> Toad Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Swing <W> > <OH> Swing <B> > ",
+        "no": "{Ts}, {T[s]}, {(To)[s)}, {Ts}, {S}, {S},",
         "ty": "S",
         "as": "W62",
         "vi": 833935514,
@@ -6984,6 +7022,8 @@
     },
     {
         "na": "O.H. Inverse Toad Arm Wrap",
+        "sk": "> <OH> Inverse Toad Swing > <OH> Inverse Toad Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Swing <W> > <OH> Swing <B> > ",
+        "no": "{Is}, {I[s]}, {(Io)[s)}, {Is}, {S}, {S},",
         "ty": "S",
         "as": "W63",
         "vi": 833935293,
@@ -6992,6 +7032,8 @@
     },
     {
         "na": "O.H. Leg Over Arm Wrap",
+        "sk": "> <OH> Leg Over Swing > <OH> Leg Over Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Swing <B> > <OH> Swing <W> > ",
+        "no": "{Ls}, {L[s]}, {(Lc)[s)}, {Ls}, {S}, {S},",
         "ty": "S",
         "as": "W64",
         "vi": 833935409,
@@ -7000,6 +7042,8 @@
     },
     {
         "na": "O.H. Inverse Leg Over Arm Wrap",
+        "sk": "> <OH> Inverse Leg Over Swing > <OH> Inverse Leg Over Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Swing <B> > <OH> Swing <W> > ",
+        "no": "{Js}, {J[s]}, {(Jo)[s)}, {Js}, {S}, {S},",
         "ty": "S",
         "as": "W65",
         "vi": 833935108,
@@ -7008,6 +7052,8 @@
     },
     {
         "na": "O.H. Toad Thigh Wrap",
+        "sk": "> <OH> Toad Swing > <OH> Toad Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Toad Swing > <OH> Swing <W> > <OH> Swing <B> >",
+        "no": "{Ts}, {[T]s}, {{To)s}, {Ts}, {S}, {S},",
         "ty": "S",
         "as": "W66",
         "vi": 833935539,
@@ -7016,6 +7062,8 @@
     },
     {
         "na": "O.H. Inverse Toad Thigh Wrap",
+        "sk": "> <OH> Inverse Toad Swing > <OH> Inverse Toad Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Inverse Toad Swing > <OH> Swing <W> > <OH> Swing <B> >",
+        "no": "{Is}, {[I]s}, {{Io)s}, {Is}, {S}, {S},",
         "ty": "S",
         "as": "W67",
         "vi": 833935325,
@@ -7024,6 +7072,8 @@
     },
     {
         "na": "O.H. Leg Over Thigh Wrap",
+        "sk": "> <OH> Leg Over Swing > <OH> Leg Over Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> >",
+        "no": "{Ls}, {[L]s}, {{Lc)s}, {Ls}, {S}, {S},",
         "ty": "S",
         "as": "W68",
         "vi": 833935444,
@@ -7032,6 +7082,8 @@
     },
     {
         "na": "O.H. Inverse Leg Over Thigh Wrap",
+        "sk": "> <OH> Leg Over Swing > <OH> Leg Over Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> >",
+        "no": "{Js}, {[J]s}, {{Jc)s}, {Js}, {S}, {S},",
         "ty": "S",
         "as": "W69",
         "vi": 833935146,
