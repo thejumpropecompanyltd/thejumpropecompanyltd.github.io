@@ -288,20 +288,20 @@
         "sc": "Knot Crosses",
         "df": "Knot Crosses are skills where the jumper performs a normal Body, Leg or Ground cross except that the most restricted hand crosses above the least restricted hand from within the original restriction. For example, in an EB Knot the hand which is behind the jumper’s back reaches forward (from behind their back) and crosses over and in front of their other arm.",
         "pr": "Body Crosses, Leg Crosses",
-        "tt": "[
+        "tt": [
 {
-""h"": ""Try long handles"",
-""p"": ""Knot Crosses can be really hard to reach into. If you need some extra help, then grab a pair of long handles to assist. Even the most flexible jumper will struggle to reach with short handles in more advanced Knot Crosses!""
+"h": "Try long handles",
+"p": "Knot Crosses can be really hard to reach into. If you need some extra help, then grab a pair of long handles to assist. Even the most flexible jumper will struggle to reach with short handles in more advanced Knot Crosses!"
 },
 {
-""h"": ""Reach all the way"",
-""p"": ""Ensure you reach as far as you can around each body part to allow the rope to pass aroudn your body without interruption.""
+"h": "Reach all the way",
+"p": "Ensure you reach as far as you can around each body part to allow the rope to pass aroudn your body without interruption."
 },
 {
-""h"": ""Entering right"",
-""p"": ""The basic entreance for any Knot is from its parent skill, the Gogo. However, this in itself can be really tricky. An alternative method is to use a modified side swing to enter.""
+"h": "Entering right",
+"p": "The basic entreance for any Knot is from its parent skill, the Gogo. However, this in itself can be really tricky. An alternative method is to use a modified side swing to enter."
 }
-]"
+]
     },
     {
         "ca": "C",
