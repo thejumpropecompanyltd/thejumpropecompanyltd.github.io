@@ -1028,6 +1028,10 @@
 {
 "h": "No swings",
 "p": "This release happens during the <i>jumped</i> part of the skill instead of during a swing next to the body. Release the handle just after you've jumped over the loop of the rope, as the rope travels upwards and begins to pass overhead."
+},
+{
+"h": "Scoop down, not up",
+"p": "Unlike normal Mic Releases, Vertical Releases require a slightly different technique. As you release the rope, scoop <i>down</i> with your turning hand rather than up to keep control of the airborne rope."
 }
 ]
     },
