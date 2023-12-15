@@ -711,7 +711,7 @@
 },
 {
 "h": "Forward Straddle First",
-"p": "Before starting your bacwarks turn, land in a Forward Straddle - whichever direction you intend to turn, place the <i>other</i> foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
+"p": "Before starting your backwarks turn, land in a Forward Straddle - whichever direction you intend to turn, place the <i>other</i> foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
 }
 ]
     },
@@ -732,6 +732,10 @@
 {
 "h": "Avoid double bouncing",
 "p": "As you turn back from backwards to forwards, avoid double bouncing and thereby changing the rhythm of the skill. To achieve this, right before you begin turning back around, rotate your shoulders and look over your shoulder to get a 'headstart'."
+},
+{
+"h": "Forward Straddle First",
+"p": "Before starting your 360 Turn, land in a Forward Straddle - whichever direction you intend to turn, place the <i>other</i> foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
 }
 ]
     },
@@ -766,8 +770,20 @@
         "pr": "Forwards 180s, Backwards 180s",
         "tt": [
 {
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
+"h": "It's a 360, kind of",
+"p": "A Half Turn is quite literally a 360 Turn, except instead of turning the same direction continously throughout the skill, you turn back on yourself for the second half of the 360, effectively <i>undoing</i> the 360."
+},
+{
+"h": "Turn in three",
+"p": "At their core, Half Turns take 3 jump to complete - a swing to a backwards jumps to a forwards jump. More complex 360 turns can be created by simply altering these three skills for difficult 'parts'."
+},
+{
+"h": "Avoid double bouncing",
+"p": "As you turn back from backwards to forwards, avoid double bouncing and thereby changing the rhythm of the skill. To achieve this, right before you begin turning back around, rotate your shoulders and look over your shoulder to get a 'headstart'."
+},
+{
+"h": "Forward Straddle twice",
+"p": "Since we are turning in two different direction during this skill, we need to perform a Forward Straddle twice - once before the first 180 turn and once before the second. For the first turn, whichever direction you intend to turn, place the <i>other</i> foot at the front (if turning left, put your right foot in front). Then, as you land the backwards jumps perform another Forward Straddle with <i>the other</i> foot at the front."
 }
 ]
     },
