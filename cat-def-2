@@ -876,7 +876,7 @@
 },
 {
 "h": "Know your exit",
-"p": "The entry skill and exit skills are closely linked. By default the exit of an arm wrap is the 'cross' that pairs up with the type of swing you start the arm wrap with. For example, as the entry skill of a Toad Arm Wrap is a Toad Swing, the exit skill is a Toad."
+"p": "The entry skill and exit skills are closely linked. By default the exit skill of an arm wrap is the 'cross' that pairs up with the type of swing you start the arm wrap with. For example, as the entry skill of a Toad Arm Wrap is a Toad Swing, the exit skill is a Toad."
 },
 {
 "h": "Change sides to unwrap",
