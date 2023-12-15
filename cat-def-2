@@ -884,7 +884,7 @@
 },
 {
 "h": "The entry skill",
-"p": "Arm wraps traditionally start with a side swing. The arm wrap itself is quite literally a 'second' side swing where our arm is in the way of the path of the rope, thus creating the wrap as a consequence."
+"p": "Arm Wraps traditionally start with a side swing. The arm wrap itself is quite literally a 'second' side swing where our arm is in the way of the path of the rope, thus creating the wrap as a consequence."
 }
 ]
     },
@@ -921,7 +921,7 @@
 },
 {
 "h": "The entry skill",
-"p": "Gogo arm wraps traditionally start with a Gogo Swing. The arm wrap itself is quite literally a 'second' side swing where our arm is in the way of the path of the rope, thus creating the wrap as a consequence."
+"p": "Gogo Arm Wraps traditionally start with a Gogo Swing. The arm wrap itself is quite literally a 'second' side swing where our arm is in the way of the path of the rope, thus creating the wrap as a consequence."
 }
 ]
     },
@@ -933,8 +933,36 @@
         "pr": "Leg Swings, Arm Wraps",
         "tt": [
 {
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
+"h": "Count to four",
+"p": "Foundationally, thigh wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
+},
+{
+"h": "Swing close",
+"p": "Swing close to your hips throughout the whole skill."
+},
+{
+"h": "Wrap above the knee",
+"p": "Wrap the rope around your thigh (above your knee), ideally as close to the middle of upper leg as possible. Doing so will give you more control of the rope as it rotates."
+},
+{
+"h": "Wrap tightly",
+"p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your thigh. This can be achieved by placing both handles directly onto your thigh as you wrap the rope. If the rope wraps loosely, it will not only be slack but it will also make the even shorter than already becomes which also makes it difficult to control."
+},
+{
+"h": "Control the speed",
+"p": "The usable length of the rope significantly reduces as you wrap around your thigh. This in turn causes the speed of the rope's revolutions to drastically increase during this skill. To maintain good control and a smooth consistent flow, adjust the speed of the rope by being more gentle as the rope wraps."
+},
+{
+"h": "Know your exit",
+"p": "The entry skill and exit skills are closely linked. By default the exit skill of a Thigh Wrap is the exit skill of the relative Leg Cross. For example, as the entry skill of a Leg Over is an Cross, the exit skil of the Leg Over Thigh Wrap is also an Cross."
+},
+{
+"h": "Change sides to unwrap",
+"p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
+},
+{
+"h": "The entry skill",
+"p": "Thigh Wraps traditionally start with a Leg Swing. The thigh wrap itself is quite literally a 'second' side swing where our leg is in the way of the path of the rope, thus creating the wrap as a consequence."
 }
 ]
     },
