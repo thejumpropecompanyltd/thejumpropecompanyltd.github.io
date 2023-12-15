@@ -1655,7 +1655,7 @@
         "df": "All crossing skills can be entered from an Open, but in some cases, swinging in can be more natural or smoother. Front Crosses such as the basic Cross are proceeded by a Box Swing, whereas skills such as the Leg Over are proceeded by a Wrist Swing.",
         "tt": [
 {
-"h": "Choosing your swing", 
+"h": "", 
 "p": "The type of swing you need depends on the skill you're entering into. If it's a cross (such as a Toad) then you'll need a Box Swing, whereas if it's an ucrossed skill (such as a Leg Over) you'll need a Wrist Swing."
 },
 {
@@ -1680,10 +1680,6 @@
 {
 "h": "Keep it narrow",
 "p": "Imagine you're in a narrow corridor and swing close to your body. Reaching out too wide in the swing is inefficient."
-},
-{
-"h": "Choosing your swing", 
-"p": "The type of swing you need depends on the skill you're exiting from. If it's a cross (such as a Toad) then you'll need a Wrist Swing, whereas if it's an ucrossed skill (such as a Leg Over) you'll need a Box Swing."
 },
 {
 "h": "The easy way out", 
