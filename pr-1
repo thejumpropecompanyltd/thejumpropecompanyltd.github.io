@@ -40,6 +40,62 @@
 ]
 },
 { 
+"na": "Can Can",
+"as": "F24",
+"s1": [
+{
+"id": "836601970",
+"tt": "Knee raise"
+}
+],
+"s2": [
+{
+"id": "836602081",
+"tt": "Leg raise"
+}
+],
+"s3": [
+{
+"id": "CS",
+"tt": "Put it all together, without the rope"
+}
+],
+"s4": [
+{
+"id": "833089924",
+"tt": "Put it all together"
+}
+]
+},
+{ 
+"na": "High Knee Cross Over",
+"as": "F25",
+"s1": [
+{
+"id": "836601970",
+"tt": "Knee raise"
+}
+],
+"s2": [
+{
+"id": "836601590",
+"tt": "Cross over"
+}
+],
+"s3": [
+{
+"id": "CS",
+"tt": "Put it all together, without the rope"
+}
+],
+"s4": [
+{
+"id": "833095439",
+"tt": "Put it all together"
+}
+]
+},
+{ 
 "na": "Toad",
 "as": "C7",
 "s1": [
