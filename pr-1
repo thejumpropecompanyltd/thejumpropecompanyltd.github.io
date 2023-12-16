@@ -1,5 +1,45 @@
 [
 { 
+"na": "Single Bounce",
+"as": "F1",
+"s1": [
+{
+"id": "836593810",
+"tt": "Start by swinging the rope over your head, back and forth. Be gentle."
+}
+],
+"s2": [
+{
+"id": "836594503",
+"tt": "Bring the rope over your head and let it stop under your feet by lifting your toes. This is called a Toe Catch."
+}
+],
+"s3": [
+{
+"id": "836594544",
+"tt": "To swing efficiently, use your elbows to shake your wrists. Practice without the rope first."
+}
+],
+"s4": [
+{
+"id": "836593778",
+"tt": "Hold both handles in one hand and swing the rope beside you. Shake down as you swing."
+}
+],
+"s5": [
+{
+"id": "836593533",
+"tt": "Jump on the balls over your feet with your heels off the ground. Practice without the rope first."
+}
+],
+"s6": [
+{
+"id": "836593419",
+"tt": "Start with one jump followed by a Toe Catch. Then two jumps and a Toe Catch. Then three, then four and so on."
+}
+]
+},
+{ 
 "na": "Toad",
 "as": "C7",
 "s1": [
@@ -84,5 +124,17 @@
 "tt": "You can exit a Leg Over many ways. Try swinging out into the Cross instead."
 }
 ]
+},
+
+{ 
+"na": "TEMPLATE",
+"as": "X1",
+"s1": [],
+"s2": [],
+"s3": [],
+"s4": [],
+"s5": [],
+"s6": []
 }
+
 ]
