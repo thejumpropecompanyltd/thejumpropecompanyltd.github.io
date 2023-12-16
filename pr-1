@@ -96,6 +96,160 @@
 ]
 },
 { 
+"na": "High Knee Side Straddle",
+"as": "F26",
+"s1": [
+{
+"id": "836601970",
+"tt": "Knee raise"
+}
+],
+"s2": [
+{
+"id": "836596178",
+"tt": "Side straddle"
+}
+],
+"s3": [
+{
+"id": "833095549",
+"tt": "Knee raise, alternating"
+}
+],
+"s4": [
+{
+"id": "CS",
+"tt": "Put it all together, without the rope"
+}
+],
+"s5": [
+{
+"id": "833076954",
+"tt": "Put it all together"
+}
+]
+},
+{ 
+"na": "Running Man Shuffle",
+"as": "F28",
+"s1": [
+{
+"id": "836601970",
+"tt": "Knee raise"
+}
+],
+"s2": [
+{
+"id": "833065486",
+"tt": "Forward straddle"
+}
+],
+"s3": [
+{
+"id": "833095549",
+"tt": "Knee raise, alternating"
+}
+],
+"s4": [
+{
+"id": "833065465",
+"tt": "Forward straddle, alternating"
+}
+],
+"s5": [
+{
+"id": "836603326",
+"tt": "Put it all together, without the rope first"
+}
+],
+"s6": [
+{
+"id": "833068718",
+"tt": "Put it all together"
+}
+]
+},
+{ 
+"na": "Reverse Running Man Shuffle",
+"as": "F29",
+"s1": [
+{
+"id": "836601970",
+"tt": "Knee raise"
+}
+],
+"s2": [
+{
+"id": "833065486",
+"tt": "Forward straddle"
+}
+],
+"s3": [
+{
+"id": "833095549",
+"tt": "Knee raise, alternating"
+}
+],
+"s4": [
+{
+"id": "833065465",
+"tt": "Forward straddle, alternating"
+}
+],
+"s5": [
+{
+"id": "836603367",
+"tt": "Put it all together, without the rope first"
+}
+],
+"s6": [
+{
+"id": "833068904",
+"tt": "Put it all together"
+}
+]
+},
+{ 
+"na": "Front to Back Shuffle",
+"as": "F30",
+"s1": [
+{
+"id": "836601970",
+"tt": "Knee raise"
+}
+],
+"s2": [
+{
+"id": "833065486",
+"tt": "Forward straddle"
+}
+],
+"s3": [
+{
+"id": "833073458",
+"tt": "Knee raise consecutively"
+}
+],
+"s4": [
+{
+"id": "833065465",
+"tt": "Forward straddle, alternating"
+}
+],
+"s5": [
+{
+"id": "836603428",
+"tt": "Put it all together, without the rope first"
+}
+],
+"s6": [
+{
+"id": "833068859",
+"tt": "Put it all together"
+}
+]
+},
+{ 
 "na": "Toad",
 "as": "C7",
 "s1": [
