@@ -6,7 +6,8 @@
         "ca": "F",
         "vi": 833099743,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Double Bounce",
@@ -15,7 +16,8 @@
         "ca": "F",
         "vi": 833065423,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Twister",
@@ -24,7 +26,8 @@
         "ca": "F",
         "vi": 833066999,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Skier",
@@ -33,7 +36,8 @@
         "ca": "F",
         "vi": 833066969,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Bell",
@@ -42,7 +46,8 @@
         "ca": "F",
         "vi": 833065400,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Side Straddle",
@@ -51,7 +56,8 @@
         "ca": "F",
         "vi": 833066928,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Forward Straddle",
@@ -60,7 +66,8 @@
         "ca": "F",
         "vi": 833065486,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Scissors",
@@ -69,7 +76,8 @@
         "ca": "F",
         "vi": 833065515,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "X-Motion",
@@ -78,7 +86,8 @@
         "ca": "F",
         "vi": 833068409,
         "c1": "Bilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Single Leg Jumps",
@@ -87,7 +96,8 @@
         "ca": "F",
         "vi": 833073570,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Front Tap",
@@ -96,7 +106,8 @@
         "ca": "F",
         "vi": 833071640,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Side Tap",
@@ -105,7 +116,8 @@
         "ca": "F",
         "vi": 833071678,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Back Tap",
@@ -114,7 +126,8 @@
         "ca": "F",
         "vi": 833071552,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Cross Over",
@@ -123,7 +136,8 @@
         "ca": "F",
         "vi": 833071608,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Cross Behind",
@@ -132,7 +146,8 @@
         "ca": "F",
         "vi": 833071579,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Knee Raise",
@@ -141,7 +156,8 @@
         "ca": "F",
         "vi": 833073485,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Leg Raise",
@@ -150,7 +166,8 @@
         "ca": "F",
         "vi": 833073530,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Side Raise",
@@ -159,7 +176,8 @@
         "ca": "F",
         "vi": 833073549,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Kick Back",
@@ -168,7 +186,8 @@
         "ca": "F",
         "vi": 833073438,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Alternating Step",
@@ -177,7 +196,8 @@
         "ca": "F",
         "vi": 833087711,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Front to Back",
@@ -186,7 +206,8 @@
         "ca": "F",
         "vi": 833090074,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Back to Front",
@@ -195,14 +216,16 @@
         "ca": "F",
         "vi": 833089479,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Boxer Step",
         "sk": "> Boxer Step >",
         "ca": "F",
         "vi": 833068827,
-        "c1": "Compound Footwork"
+        "c1": "Compound Footwork",
+        "hs": 0
     },
     {
         "na": "Can Can",
@@ -211,7 +234,8 @@
         "ca": "F",
         "vi": 833089924,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "High Knee Cross Over",
@@ -220,7 +244,8 @@
         "ca": "F",
         "vi": 833095439,
         "c1": "Unilateral Footwork",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "High Knee Side Straddle",
@@ -228,42 +253,48 @@
         "no": "A, B, O, O,",
         "ca": "F",
         "vi": 833076954,
-        "c1": "Compound Footwork"
+        "c1": "Compound Footwork",
+        "hs": 0
     },
     {
         "na": "Swing Kick",
         "sk": "> Kick Back > Leg Raise >",
         "ca": "F",
         "vi": "COMING SOON",
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "hs": 0
     },
     {
         "na": "Running Man Shuffle",
         "sk": "> Knee Raise > Forward Straddle > Knee Raise <OS> > Forward Straddle >",
         "ca": "F",
         "vi": 833068718,
-        "c1": "Compound Footwork"
+        "c1": "Compound Footwork",
+        "hs": 0
     },
     {
         "na": "Reverse Running Man Shuffle",
         "sk": "> Knee Raise > Forward Straddle <OS> > Knee Raise > <OS> Forward Straddle >",
         "ca": "F",
         "vi": 833068904,
-        "c1": "Compound Footwork"
+        "c1": "Compound Footwork",
+        "hs": 0
     },
     {
         "na": "Front to Back Shuffle",
         "sk": "> Knee Raise > Forward Straddle > Knee Raise <SS> > Forward Straddle <OS> >",
         "ca": "F",
         "vi": 833068859,
-        "c1": "Compound Footwork"
+        "c1": "Compound Footwork",
+        "hs": 0
     },
     {
         "na": "Heel Tap Shuffle",
         "sk": "> Front Tap > Knee Raise > Front Tap <OS> > Knee Raise >",
         "ca": "F",
         "vi": 833068883,
-        "c1": "Compound Footwork"
+        "c1": "Compound Footwork",
+        "hs": 0
     },
     {
         "na": "Cross",
@@ -273,6 +304,7 @@
         "vi": 832778321,
         "c1": "Body Cross",
         "bg": "Y",
+        "hs": 0,
         "p1": "Front Cross"
     },
     {
@@ -283,6 +315,7 @@
         "vi": 832786139,
         "c1": "Body Cross",
         "bg": "Y",
+        "hs": 1,
         "p1": "Half Cross"
     },
     {
@@ -293,6 +326,7 @@
         "vi": 832787931,
         "c1": "Body Cross",
         "bg": "Y",
+        "hs": 2,
         "p1": "Back Cross"
     },
     {
@@ -302,6 +336,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Body Cross",
+        "hs": 3,
         "p1": "Front Cross"
     },
     {
@@ -311,6 +346,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Body Cross",
+        "hs": 3,
         "p1": "Half Cross"
     },
     {
@@ -319,6 +355,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Body Cross",
+        "hs": 3,
         "p1": "Front Cross"
     },
     {
@@ -328,6 +365,7 @@
         "ca": "C",
         "vi": 832944926,
         "c1": "Leg Cross",
+        "hs": 1,
         "p1": "Front Cross"
     },
     {
@@ -337,6 +375,7 @@
         "ca": "C",
         "vi": 832947404,
         "c1": "Leg Cross",
+        "hs": 1,
         "p1": "Front Cross"
     },
     {
@@ -346,6 +385,7 @@
         "ca": "C",
         "vi": 832949253,
         "c1": "Leg Cross",
+        "hs": 2,
         "p1": "Front Cross"
     },
     {
@@ -355,6 +395,7 @@
         "ca": "C",
         "vi": 832945940,
         "c1": "Leg Cross",
+        "hs": 1,
         "p1": "Front Cross"
     },
     {
@@ -364,6 +405,7 @@
         "ca": "C",
         "vi": 832947864,
         "c1": "Leg Cross",
+        "hs": 1,
         "p1": "Front Cross"
     },
     {
@@ -373,6 +415,7 @@
         "ca": "C",
         "vi": 832951399,
         "c1": "Leg Cross",
+        "hs": 2,
         "p1": "Half Cross"
     },
     {
@@ -382,6 +425,7 @@
         "ca": "C",
         "vi": 832948430,
         "c1": "Leg Cross",
+        "hs": 2,
         "p1": "Half Cross"
     },
     {
@@ -391,6 +435,7 @@
         "ca": "C",
         "vi": 832944908,
         "c1": "Leg Cross",
+        "hs": 3,
         "p1": "Front Cross"
     },
     {
@@ -400,6 +445,7 @@
         "ca": "C",
         "vi": 832946842,
         "c1": "Leg Cross",
+        "hs": 3,
         "p1": "Front Cross"
     },
     {
@@ -409,6 +455,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
+        "hs": 0,
         "p1": "Front Cross"
     },
     {
@@ -418,6 +465,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
+        "hs": 2,
         "p1": "Front Cross"
     },
     {
@@ -427,6 +475,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
+        "hs": 2,
         "p1": "Front Cross"
     },
     {
@@ -436,6 +485,7 @@
         "ca": "C",
         "vi": 832938823,
         "c1": "Ground Cross",
+        "hs": 2,
         "p1": "Back Cross"
     },
     {
@@ -445,6 +495,7 @@
         "ca": "C",
         "vi": 832941441,
         "c1": "Ground Cross",
+        "hs": 2,
         "p1": "Back Cross"
     },
     {
@@ -454,6 +505,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
+        "hs": 3,
         "p1": "Half Cross"
     },
     {
@@ -463,6 +515,7 @@
         "ca": "C",
         "vi": 832938973,
         "c1": "Ground Cross",
+        "hs": 2,
         "p1": "Half Cross"
     },
     {
@@ -472,6 +525,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Ground Cross",
+        "hs": 2,
         "p1": "Half Cross"
     },
     {
@@ -481,6 +535,7 @@
         "ca": "C",
         "vi": 833062543,
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross",
         "p2": "Swing in",
@@ -493,6 +548,7 @@
         "ca": "C",
         "vi": 833059836,
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross",
         "p2": "Swing in",
@@ -505,6 +561,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Body Cross",
         "p1": "Half Cross"
     },
@@ -515,6 +572,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Ground Cross",
         "p1": "Half Cross"
     },
@@ -525,6 +583,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 3,
         "c2": "Ground Cross",
         "p1": "Half Cross"
     },
@@ -535,6 +594,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 3,
         "c2": "Ground Cross",
         "p1": "Half Cross"
     },
@@ -543,6 +603,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -551,6 +612,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -559,6 +621,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "Front Cross"
@@ -568,6 +631,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "Front Cross"
@@ -577,6 +641,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "Front Cross"
@@ -586,6 +651,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Tucked Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "Front Cross"
@@ -595,6 +661,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 3,
         "c2": "Body Cross",
         "p1": "Front Cross"
     },
@@ -605,6 +672,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 2,
         "c2": "Body Cross",
         "p1": "Half Cross"
     },
@@ -615,6 +683,7 @@
         "ca": "C",
         "vi": 832938230,
         "c1": "Gogo Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -625,6 +694,7 @@
         "ca": "C",
         "vi": 832935188,
         "c1": "Gogo Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -633,6 +703,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -641,6 +712,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 2,
         "c2": "Ground Cross",
         "p1": "Back Cross"
     },
@@ -649,6 +721,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 3,
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -657,6 +730,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 3,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -665,6 +739,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 3,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -673,6 +748,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 3,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -681,6 +757,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Gogo Cross",
+        "hs": 3,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -689,6 +766,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Knot Cross",
+        "hs": 3,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -699,6 +777,7 @@
         "ca": "C",
         "vi": 832943635,
         "c1": "Knot Cross",
+        "hs": 3,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -707,6 +786,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Knot Cross",
+        "hs": 3,
         "c2": "Body Cross",
         "p1": "Half Cross"
     },
@@ -715,6 +795,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Knot Cross",
+        "hs": 4,
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -723,6 +804,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Knot Cross",
+        "hs": 4,
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -731,6 +813,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Knot Cross",
+        "hs": 4,
         "c2": "Ground Cross",
         "p1": "Half Cross"
     },
@@ -739,6 +822,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Knot Cross",
+        "hs": 4,
         "c2": "Ground Cross",
         "p1": "Half Cross"
     },
@@ -747,6 +831,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 1,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -755,6 +840,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 1,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -763,6 +849,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -771,6 +858,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -779,6 +867,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 1,
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -787,6 +876,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -795,6 +885,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
         "p1": "Front Cross"
@@ -804,6 +895,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
         "p1": "Front Cross"
@@ -813,6 +905,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Inverse Bounding",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "p1": "Front Cross"
@@ -824,6 +917,7 @@
         "ca": "C",
         "vi": 833058341,
         "c1": "Switch Cross",
+        "hs": 1,
         "c2": "Body Cross",
         "p1": "Front Cross"
     },
@@ -834,6 +928,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Switch Cross",
+        "hs": 2,
         "c2": "Body Cross",
         "p1": "Half Cross"
     },
@@ -844,6 +939,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Switch Cross",
+        "hs": 3,
         "c2": "Body Cross",
         "p1": "Back Cross"
     },
@@ -854,6 +950,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Switch Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -864,6 +961,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Switch Cross",
+        "hs": 3,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -874,6 +972,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Switch Cross",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -884,6 +983,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Switch Cross",
+        "hs": 3,
         "c2": "Ground Cross",
         "p1": "Front Cross"
     },
@@ -894,6 +994,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Switch Cross",
+        "hs": 3,
         "c2": "Ground Cross",
         "p1": "Back Cross"
     },
@@ -904,6 +1005,7 @@
         "ca": "C",
         "vi": "COMING SOON",
         "c1": "Switch Cross",
+        "hs": 3,
         "c2": "Ground Cross",
         "p1": "Back Cross"
     },
@@ -916,6 +1018,7 @@
         "c1": "Foundational Swing",
         "bg": "Y",
         "rd": "Y",
+        "hs": 0,
         "p1": "Front Swing",
         "nn": "Swing to Open / Southpaw / Side Swing / Sideswing Sideswing Open / Side Open / Crossed Swing / Cross Swing"
     },
@@ -928,6 +1031,7 @@
         "c1": "Foundational Swing",
         "bg": "Y",
         "rd": "Y",
+        "hs": 0,
         "p1": "Front Swing"
     },
     {
@@ -939,6 +1043,7 @@
         "c1": "Foundational Swing",
         "bg": "Y",
         "rd": "Y",
+        "hs": 0,
         "p1": "Front Swing"
     },
     {
@@ -950,6 +1055,7 @@
         "c1": "EB Swing",
         "bg": "Y",
         "rd": "Y",
+        "hs": 1,
         "p1": "Back Swing"
     },
     {
@@ -961,6 +1067,7 @@
         "c1": "Leg Swing",
         "bg": "Y",
         "rd": "Y",
+        "hs": 1,
         "p1": "Front Swing"
     },
     {
@@ -971,6 +1078,7 @@
         "vi": 833240841,
         "c1": "Leg Swing",
         "rd": "Y",
+        "hs": 1,
         "p1": "Front Swing"
     },
     {
@@ -982,6 +1090,7 @@
         "c1": "Leg Swing",
         "bg": "Y",
         "rd": "Y",
+        "hs": 1,
         "p1": "Front Swing"
     },
     {
@@ -992,6 +1101,7 @@
         "vi": 833240815,
         "c1": "Leg Swing",
         "rd": "Y",
+        "hs": 1,
         "p1": "Front Swing"
     },
     {
@@ -1002,6 +1112,7 @@
         "vi": 832950520,
         "c1": "EB Swing",
         "rd": "Y",
+        "hs": 2,
         "c2": "Leg Swing",
         "p1": "Back Swing"
     },
@@ -1013,6 +1124,7 @@
         "vi": "COMING SOON",
         "c1": "EB Swing",
         "rd": "Y",
+        "hs": 2,
         "c2": "Leg Swing",
         "p1": "Back Swing"
     },
@@ -1024,6 +1136,7 @@
         "vi": 832938854,
         "c1": "Leg Swing",
         "rd": "Y",
+        "hs": 2,
         "p1": "Back Swing"
     },
     {
@@ -1033,6 +1146,7 @@
         "vi": "COMING SOON",
         "c1": "Leg Swing",
         "rd": "Y",
+        "hs": 2,
         "p1": "Back Swing"
     },
     {
@@ -1043,6 +1157,7 @@
         "vi": 833241041,
         "c1": "Leg Swing",
         "rd": "Y",
+        "hs": 2,
         "p1": "Front Swing"
     },
     {
@@ -1052,6 +1167,7 @@
         "ca": "S",
         "vi": 833255269,
         "c1": "Awesome Annie",
+        "hs": 1,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -1062,6 +1178,7 @@
         "ca": "S",
         "vi": 833267942,
         "c1": "Awesome Annie",
+        "hs": 1,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -1072,6 +1189,7 @@
         "ca": "S",
         "vi": 833254947,
         "c1": "Awesome Annie",
+        "hs": 1,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -1082,6 +1200,7 @@
         "ca": "S",
         "vi": 833254868,
         "c1": "Awesome Annie",
+        "hs": 1,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -1092,6 +1211,7 @@
         "ca": "S",
         "vi": 833254811,
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -1102,6 +1222,7 @@
         "ca": "S",
         "vi": 833254761,
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -1112,6 +1233,7 @@
         "ca": "S",
         "vi": "COMING SOON",
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Half Cross"
     },
@@ -1122,6 +1244,7 @@
         "ca": "S",
         "vi": 833254684,
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "EB Swing",
         "p1": "Half Cross"
@@ -1133,6 +1256,7 @@
         "ca": "S",
         "vi": "COMING SOON",
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "p1": "Front Cross"
@@ -1144,6 +1268,7 @@
         "ca": "S",
         "vi": 832936278,
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "p1": "Front Cross"
@@ -1155,6 +1280,7 @@
         "ca": "S",
         "vi": 833255120,
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -1165,6 +1291,7 @@
         "ca": "S",
         "vi": "COMING SOON",
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -1175,6 +1302,7 @@
         "ca": "S",
         "vi": 833255079,
         "c1": "Awesome Annie",
+        "hs": 2,
         "c2": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -1186,6 +1314,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "rd": "Y",
+        "hs": 2,
         "c2": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1197,6 +1326,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "rd": "Y",
+        "hs": 2,
         "c2": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1208,6 +1338,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "rd": "Y",
+        "hs": 2,
         "c2": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1219,6 +1350,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "rd": "Y",
+        "hs": 2,
         "c2": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1230,6 +1362,7 @@
         "vi": "COMING SOON",
         "c1": "Gogo Swing",
         "rd": "Y",
+        "hs": 2,
         "c2": "EB Swing",
         "p1": "Back Swing"
     },
@@ -1240,7 +1373,8 @@
         "ca": "D",
         "vi": 833939714,
         "c1": "Contact Stall",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Open Stall",
@@ -1249,7 +1383,8 @@
         "ca": "D",
         "vi": 833939907,
         "c1": "No Contact Stall",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Between the Legs Stall",
@@ -1258,7 +1393,8 @@
         "ca": "D",
         "vi": 833939618,
         "c1": "No Contact Stall",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Side Swing Stall",
@@ -1266,7 +1402,8 @@
         "no": "O, ;S; O,",
         "ca": "D",
         "vi": "COMING SOON",
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "hs": 0
     },
     {
         "na": "Kick Back Stall",
@@ -1275,7 +1412,8 @@
         "ca": "D",
         "vi": 833939847,
         "c1": "Contact Stall",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Foot Catch Stall",
@@ -1284,7 +1422,8 @@
         "ca": "D",
         "vi": 833939826,
         "c1": "Contact Stall",
-        "bg": "Y"
+        "bg": "Y",
+        "hs": 0
     },
     {
         "na": "Backwards Body Stall",
@@ -1292,7 +1431,8 @@
         "no": "O, ;O; O,",
         "ca": "D",
         "vi": 833939768,
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "hs": 0
     },
     {
         "na": "Backwards Open Stall",
@@ -1300,7 +1440,8 @@
         "no": "O, O; O,",
         "ca": "D",
         "vi": 833939799,
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "hs": 0
     },
     {
         "na": "Backwards Between the Legs Stall",
@@ -1308,25 +1449,29 @@
         "no": "O, ;Ø; O,",
         "ca": "D",
         "vi": 833939746,
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "hs": 0
     },
     {
         "na": "Backwards Side Swing Stall",
         "ca": "D",
         "vi": "COMING SOON",
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "hs": 0
     },
     {
         "na": "Backwards Kick Back",
         "ca": "D",
         "vi": "COMING SOON",
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "hs": 0
     },
     {
         "na": "Backwards Foot Catch Stall",
         "ca": "D",
         "vi": "COMING SOON",
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "hs": 0
     },
     {
         "na": "180 Turn",
@@ -1336,6 +1481,7 @@
         "vi": 833938194,
         "c1": "Forwards 180",
         "bg": "Y",
+        "hs": 0,
         "c2": "Swing 180",
         "c3": "Body Cross",
         "p1": "Front Swing"
@@ -1348,6 +1494,7 @@
         "vi": 833937991,
         "c1": "Forwards 180",
         "bg": "Y",
+        "hs": 1,
         "c2": "Swing 180",
         "c3": "Body Cross",
         "p1": "Front Swing"
@@ -1359,6 +1506,7 @@
         "ca": "D",
         "vi": 833938107,
         "c1": "Forwards 180",
+        "hs": 1,
         "c2": "Swing 180",
         "c3": "Body Cross",
         "p1": "Front Swing"
@@ -1370,6 +1518,7 @@
         "ca": "D",
         "vi": 833938167,
         "c1": "Forwards 180",
+        "hs": 1,
         "c2": "Swing 180",
         "c3": "Leg Cross",
         "p1": "Front Swing"
@@ -1381,6 +1530,7 @@
         "ca": "D",
         "vi": 833938125,
         "c1": "Forwards 180",
+        "hs": 1,
         "c2": "Swing 180",
         "c3": "Leg Cross",
         "p1": "Front Swing"
@@ -1392,6 +1542,7 @@
         "ca": "D",
         "vi": 833938143,
         "c1": "Forwards 180",
+        "hs": 1,
         "c2": "Swing 180",
         "c3": "Leg Cross",
         "p1": "Front Swing"
@@ -1403,6 +1554,7 @@
         "ca": "D",
         "vi": 833938568,
         "c1": "Forwards 180",
+        "hs": 0,
         "c2": "Dive 180",
         "c3": "Body Cross"
     },
@@ -1413,6 +1565,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Forwards 180",
+        "hs": 0,
         "c2": "Dive 180",
         "c3": "Body Cross",
         "nn": "Cross Dive 180"
@@ -1424,6 +1577,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Forwards 180",
+        "hs": 1,
         "c2": "Dive 180",
         "c3": "Body Cross",
         "nn": "EB Dive 180"
@@ -1435,6 +1589,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Forwards 180",
+        "hs": 2,
         "c2": "Dive 180",
         "c3": "Body Cross",
         "nn": "TS Dive 180"
@@ -1447,6 +1602,7 @@
         "vi": 833936808,
         "c1": "Backwards 180",
         "bg": "Y",
+        "hs": 0,
         "nn": "BW 180"
     },
     {
@@ -1454,6 +1610,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Backwards 180",
+        "hs": 1,
         "c2": "Body Cross",
         "nn": "BW Cross 180"
     },
@@ -1462,6 +1619,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Backwards 180",
+        "hs": 1,
         "c2": "Body Cross",
         "nn": "BW EB 180"
     },
@@ -1470,6 +1628,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Backwards 180",
+        "hs": 1,
         "c2": "Leg Cross",
         "nn": "BW Toad 180"
     },
@@ -1478,6 +1637,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Backwards 180",
+        "hs": 1,
         "c2": "Leg Cross",
         "nn": "BW Inverse Toad 180"
     },
@@ -1486,6 +1646,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Backwards 180",
+        "hs": 1,
         "c2": "Leg Cross",
         "nn": "BW Leg Over 180"
     },
@@ -1494,6 +1655,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Backwards 180",
+        "hs": 2,
         "c2": "Leg Cross",
         "nn": "BW Elephant 180"
     },
@@ -1504,6 +1666,7 @@
         "ca": "D",
         "vi": 833937119,
         "c1": "Backwards 180",
+        "hs": 0,
         "c2": "Texan 180",
         "p1": "Back Swing",
         "nn": "BW Texan 180"
@@ -1515,6 +1678,7 @@
         "ca": "D",
         "vi": 833937040,
         "c1": "Backwards 180",
+        "hs": 1,
         "c2": "Texan 180",
         "p1": "Back Swing",
         "nn": "BW Crossed Texan 180"
@@ -1525,7 +1689,8 @@
         "no": "S>, O>,",
         "ca": "D",
         "vi": 833937443,
-        "c1": "360 Turn"
+        "c1": "360 Turn",
+        "hs": 0
     },
     {
         "na": "Cross 360",
@@ -1534,6 +1699,7 @@
         "ca": "D",
         "vi": 833937464,
         "c1": "360 Turn",
+        "hs": 1,
         "c2": "Body Cross"
     },
     {
@@ -1543,6 +1709,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 1,
         "c2": "Body Cross"
     },
     {
@@ -1552,6 +1719,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Body Cross"
     },
     {
@@ -1561,6 +1729,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -1570,6 +1739,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -1577,6 +1747,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -1584,6 +1755,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -1591,6 +1763,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -1598,6 +1771,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -1605,6 +1779,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -1612,6 +1787,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -1619,6 +1795,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -1626,6 +1803,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Ground Cross"
     },
     {
@@ -1633,6 +1811,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Ground Cross"
     },
     {
@@ -1640,6 +1819,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "360 Turn",
+        "hs": 2,
         "c2": "Ground Cross"
     },
     {
@@ -1649,6 +1829,7 @@
         "ca": "D",
         "vi": 833937763,
         "c1": "Dive Turn",
+        "hs": 0,
         "c2": "360 Turn",
         "c3": "Body Cross"
     },
@@ -1659,6 +1840,7 @@
         "ca": "D",
         "vi": 833937784,
         "c1": "Dive Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Body Cross"
     },
@@ -1667,6 +1849,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Body Cross"
     },
@@ -1675,6 +1858,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Body Cross"
     },
@@ -1683,6 +1867,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1691,6 +1876,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1699,6 +1885,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1707,6 +1894,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1715,6 +1903,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1723,6 +1912,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1731,6 +1921,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1739,6 +1930,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1747,6 +1939,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Leg Cross"
     },
@@ -1755,6 +1948,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Ground Cross"
     },
@@ -1763,6 +1957,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Ground Cross"
     },
@@ -1771,6 +1966,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Dive Turn",
+        "hs": 2,
         "c2": "360 Turn",
         "c3": "Ground Cross"
     },
@@ -1780,6 +1976,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Leg Hook Turn",
+        "hs": 1,
         "c2": "360 Turn"
     },
     {
@@ -1788,6 +1985,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Leg Hook Turn",
+        "hs": 1,
         "c2": "360 Turn"
     },
     {
@@ -1796,6 +1994,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Leg Hook Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Dive Turn"
     },
@@ -1805,6 +2004,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Leg Hook Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Dive Turn"
     },
@@ -1814,7 +2014,8 @@
         "no": "S>, O<,",
         "ca": "D",
         "vi": 833937845,
-        "c1": "Half Turn"
+        "c1": "Half Turn",
+        "hs": 0
     },
     {
         "na": "Cross Half Turn",
@@ -1822,7 +2023,8 @@
         "no": "S>, C<,",
         "ca": "D",
         "vi": 833937658,
-        "c1": "Half Turn"
+        "c1": "Half Turn",
+        "hs": 1
     },
     {
         "na": "Dive Half Turn",
@@ -1831,6 +2033,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Half Turn",
+        "hs": 0,
         "p1": "Dive in"
     },
     {
@@ -1839,6 +2042,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Half Turn",
+        "hs": 1,
         "c2": "Leg Hook"
     },
     {
@@ -1847,6 +2051,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Half Turn",
+        "hs": 1,
         "c2": "Leg Hook"
     },
     {
@@ -1854,6 +2059,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Half Turn",
+        "hs": 1,
         "c2": "Leg Hook",
         "p1": "Dive in"
     },
@@ -1862,6 +2068,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Half Turn",
+        "hs": 1,
         "c2": "Leg Hook",
         "p1": "Dive in"
     },
@@ -1870,7 +2077,8 @@
         "no": "S>>, O,",
         "ca": "D",
         "vi": "COMING SOON",
-        "c1": "Full Turn"
+        "c1": "Full Turn",
+        "hs": 0
     },
     {
         "na": "Texan Full Turn",
@@ -1880,6 +2088,7 @@
         "vi": 833941005,
         "c1": "Texan Turn",
         "bg": "Y",
+        "hs": 0,
         "c2": "Full Turn"
     },
     {
@@ -1889,6 +2098,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Texan Turn",
+        "hs": 1,
         "c2": "Full Turn",
         "c3": "Body Cross"
     },
@@ -1900,6 +2110,7 @@
         "vi": 833940950,
         "c1": "Texan Turn",
         "bg": "Y",
+        "hs": 0,
         "c2": "360 Turn"
     },
     {
@@ -1908,6 +2119,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Texan Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Body Cross"
     },
@@ -1919,6 +2131,7 @@
         "vi": 833940830,
         "c1": "Texan Turn",
         "bg": "Y",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Body Cross"
     },
@@ -1928,6 +2141,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Texan Turn",
+        "hs": 1,
         "c2": "360 Turn",
         "c3": "Body Cross"
     },
@@ -1938,6 +2152,7 @@
         "ca": "D",
         "vi": 833941111,
         "c1": "Texan Turn",
+        "hs": 0,
         "c2": "Half Turn"
     },
     {
@@ -1947,6 +2162,7 @@
         "ca": "D",
         "vi": 833941078,
         "c1": "Texan Turn",
+        "hs": 0,
         "c2": "Half Turn"
     },
     {
@@ -1956,6 +2172,7 @@
         "ca": "D",
         "vi": 833940877,
         "c1": "Texan Turn",
+        "hs": 1,
         "c2": "Half Turn",
         "c3": "Body Cross"
     },
@@ -1965,6 +2182,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Texan Turn",
+        "hs": 1,
         "c2": "Half Turn",
         "c3": "Body Cross"
     },
@@ -1974,6 +2192,7 @@
         "ca": "D",
         "vi": "COMING SOON",
         "c1": "Texan Turn",
+        "hs": 1,
         "c2": "Half Turn",
         "c3": "Body Cross"
     },
@@ -1985,7 +2204,8 @@
         "vi": 833649389,
         "c1": "Arm Wrap",
         "bg": "Y",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 0
     },
     {
         "na": "Wrist Wrap",
@@ -1995,7 +2215,8 @@
         "vi": 833670753,
         "c1": "Arm Wrap",
         "bg": "Y",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 0
     },
     {
         "na": "EB Arm Wrap",
@@ -2006,6 +2227,7 @@
         "c1": "Arm Wrap",
         "bg": "Y",
         "rd": "Y",
+        "hs": 1,
         "nn": "EB Wrap"
     },
     {
@@ -2015,7 +2237,8 @@
         "ca": "W",
         "vi": 833669512,
         "c1": "Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Inverse Toad Arm Wrap",
@@ -2024,7 +2247,8 @@
         "ca": "W",
         "vi": 833664399,
         "c1": "Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Leg Over Arm Wrap",
@@ -2033,7 +2257,8 @@
         "ca": "W",
         "vi": 833667567,
         "c1": "Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Inverse Leg Over Arm Wrap",
@@ -2041,19 +2266,22 @@
         "no": "Js, J[s], (Jo)[s), Jo, C,",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "hs": 1
     },
     {
         "na": "Neck Arm Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "hs": 1
     },
     {
         "na": "AS Arm Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "hs": 1
     },
     {
         "na": "EB Gogo Inverse Leg Over Arm Wrap",
@@ -2062,7 +2290,8 @@
         "ca": "W",
         "vi": 833660518,
         "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "EB Gogo Leg Over Arm Wrap",
@@ -2071,21 +2300,24 @@
         "ca": "W",
         "vi": 833661631,
         "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "EB D-Gogo Toad Arm Wrap",
         "no": "S, (Eot)s, (Eot)[s], (Eo)[s), (Eo)s, Es,",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "hs": 2
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap",
         "no": "S, (Eoi)s, (Eoi)[s], (Eo)[s), (Eo)s, Es,",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "hs": 2
     },
     {
         "na": "EB Gogo Arm Wrap",
@@ -2094,7 +2326,8 @@
         "ca": "W",
         "vi": 833737344,
         "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "Toad Gogo Arm Wrap",
@@ -2103,7 +2336,8 @@
         "ca": "W",
         "vi": 833759508,
         "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "Inverse Toad Gogo Arm Wrap",
@@ -2112,7 +2346,8 @@
         "ca": "W",
         "vi": 833750907,
         "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "Leg Over Gogo Arm Wrap",
@@ -2121,7 +2356,8 @@
         "ca": "W",
         "vi": 833755614,
         "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap",
@@ -2130,19 +2366,22 @@
         "ca": "W",
         "vi": 833747047,
         "c1": "Gogo Arm Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "Neck Gogo Arm Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "hs": 2
     },
     {
         "na": "AS Gogo Arm Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "hs": 2
     },
     {
         "na": "Toad Thigh Wrap",
@@ -2151,7 +2390,8 @@
         "ca": "W",
         "vi": 833936430,
         "c1": "Thigh Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Inverse Toad Thigh Wrap",
@@ -2160,7 +2400,8 @@
         "ca": "W",
         "vi": 833936156,
         "c1": "Thigh Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Leg Over Thigh Wrap",
@@ -2169,7 +2410,8 @@
         "ca": "W",
         "vi": 833936245,
         "c1": "Thigh Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Inverse Leg Over Thigh Wrap",
@@ -2178,7 +2420,8 @@
         "ca": "W",
         "vi": 833936100,
         "c1": "Thigh Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Tucked Leg Over Thigh Wrap",
@@ -2187,7 +2430,8 @@
         "ca": "W",
         "vi": 833936545,
         "c1": "Thigh Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "Tucked Inverse Leg Over Thigh Wrap",
@@ -2196,37 +2440,43 @@
         "ca": "W",
         "vi": 833936487,
         "c1": "Thigh Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 2
     },
     {
         "na": "EB D-Gogo Toad Thigh Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "hs": 2
     },
     {
         "na": "EB D-Gogo Inverse Toad Thigh Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "hs": 2
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "hs": 2
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Thigh Wrap"
+        "c1": "Thigh Wrap",
+        "hs": 2
     },
     {
         "na": "EB Leg Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 1
     },
     {
         "na": "Toad Wrap",
@@ -2234,7 +2484,8 @@
         "no": "Tc, [T]c, [To)s, O,",
         "ca": "W",
         "vi": 833934288,
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 1
     },
     {
         "na": "Inverse Toad Wrap",
@@ -2242,7 +2493,8 @@
         "no": "Ic, [I]c, [Io)s, O,",
         "ca": "W",
         "vi": 833933901,
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 1
     },
     {
         "na": "Leg Over Wrap",
@@ -2250,7 +2502,8 @@
         "no": "Lo, [L]o, [Lc)s, C,",
         "ca": "W",
         "vi": 833934075,
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 1
     },
     {
         "na": "Inverse Leg Over Wrap",
@@ -2258,7 +2511,8 @@
         "no": "Jo, [J]o, [Jc)s, C,",
         "ca": "W",
         "vi": 833933628,
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 1
     },
     {
         "na": "EB Toad Wrap",
@@ -2266,84 +2520,97 @@
         "no": "S, Et, E[t], [To)s, O,",
         "ca": "W",
         "vi": 833933560,
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 2
     },
     {
         "na": "Inverse EB Toad Wrap",
         "no": "S, Ei, E[i], [Io)s, O,",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 2
     },
     {
         "na": "T-Toad Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 2
     },
     {
         "na": "Inverse T-Toad Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 2
     },
     {
         "na": "AS Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 2
     },
     {
         "na": "TS Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 2
     },
     {
         "na": "CL Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 2
     },
     {
         "na": "Caboose Wrap",
         "ca": "W",
         "vi": "COMING SOON",
-        "c1": "Leg Wrap"
+        "c1": "Leg Wrap",
+        "hs": 2
     },
     {
         "na": "Toad Step Through Wrap",
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Step-Through Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Leg Over Step Through Wrap",
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Step-Through Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Double Toad Step Through Wrap",
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Step-Through Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Double Leg Over Step Through Wrap",
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Step-Through Wrap",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Double Arm Wrap",
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 0,
         "c2": "Arm Wrap"
     },
     {
@@ -2351,6 +2618,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 0,
         "c2": "Arm Wrap"
     },
     {
@@ -2358,6 +2626,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2365,6 +2634,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2372,6 +2642,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2379,6 +2650,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2386,6 +2658,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2393,6 +2666,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 2,
         "c2": "Arm Wrap"
     },
     {
@@ -2400,6 +2674,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 2,
         "c2": "Arm Wrap"
     },
     {
@@ -2407,6 +2682,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 2,
         "c2": "Arm Wrap"
     },
     {
@@ -2414,6 +2690,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 2,
         "c2": "Arm Wrap"
     },
     {
@@ -2421,6 +2698,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "Double Wrap",
+        "hs": 2,
         "c2": "Arm Wrap"
     },
     {
@@ -2431,6 +2709,7 @@
         "vi": 833935003,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 0,
         "c2": "Arm Wrap"
     },
     {
@@ -2441,6 +2720,7 @@
         "vi": 833935596,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 0,
         "c2": "Arm Wrap"
     },
     {
@@ -2451,6 +2731,7 @@
         "vi": 833935514,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2461,6 +2742,7 @@
         "vi": 833935293,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2471,6 +2753,7 @@
         "vi": 833935409,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2481,6 +2764,7 @@
         "vi": 833935108,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2491,6 +2775,7 @@
         "vi": 833935539,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -2501,6 +2786,7 @@
         "vi": 833935325,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -2511,6 +2797,7 @@
         "vi": 833935444,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -2521,6 +2808,7 @@
         "vi": 833935146,
         "c1": "One-Handed Wrap",
         "rd": "Y",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -2528,6 +2816,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "One-Handed Wrap",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -2535,6 +2824,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "One-Handed Wrap",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -2542,6 +2832,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "One-Handed Wrap",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -2549,6 +2840,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "One-Handed Wrap",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -2556,6 +2848,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "One-Handed Wrap",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -2563,6 +2856,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "One-Handed Wrap",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -2570,6 +2864,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "One-Handed Wrap",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -2577,6 +2872,7 @@
         "ca": "W",
         "vi": "COMING SOON",
         "c1": "One-Handed Wrap",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -2585,7 +2881,8 @@
         "no": "O, M, O,",
         "ca": "R",
         "vi": 833599468,
-        "c1": "Vertical Release"
+        "c1": "Vertical Release",
+        "hs": 0
     },
     {
         "na": "Cross Release (double rotation)",
@@ -2594,6 +2891,7 @@
         "ca": "R",
         "vi": 833594651,
         "c1": "Vertical Release",
+        "hs": 0,
         "c2": "Body Cross"
     },
     {
@@ -2603,6 +2901,7 @@
         "ca": "R",
         "vi": 833594983,
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Body Cross"
     },
     {
@@ -2612,6 +2911,7 @@
         "ca": "R",
         "vi": 833600764,
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -2621,6 +2921,7 @@
         "ca": "R",
         "vi": 833598284,
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -2630,6 +2931,7 @@
         "ca": "R",
         "vi": 833598981,
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -2639,6 +2941,7 @@
         "ca": "R",
         "vi": 833595744,
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -2648,6 +2951,7 @@
         "ca": "R",
         "vi": 833599781,
         "c1": "Vertical Release",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
     },
@@ -2658,6 +2962,7 @@
         "ca": "R",
         "vi": 833596113,
         "c1": "Vertical Release",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
     },
@@ -2668,6 +2973,7 @@
         "ca": "R",
         "vi": 833600495,
         "c1": "Vertical Release",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "p1": "No Swing Release"
@@ -2679,6 +2985,7 @@
         "ca": "R",
         "vi": 833597550,
         "c1": "Vertical Release",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "p1": "No Swing Release"
@@ -2690,6 +2997,7 @@
         "ca": "R",
         "vi": 833600207,
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "No Swing Release"
@@ -2701,6 +3009,7 @@
         "ca": "R",
         "vi": 833598581,
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "No Swing Release"
@@ -2712,6 +3021,7 @@
         "ca": "R",
         "vi": 833596524,
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "No Swing Release"
@@ -2723,6 +3033,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Vertical Release",
+        "hs": 1,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "No Swing Release"
@@ -2734,6 +3045,7 @@
         "ca": "R",
         "vi": 833595398,
         "c1": "Vertical Release",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
         "p1": "No Swing Release"
@@ -2745,6 +3057,7 @@
         "ca": "R",
         "vi": 833597113,
         "c1": "Vertical Release",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
         "c4": "Awesome Annie",
@@ -2757,6 +3070,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Vertical Release",
+        "hs": 3,
         "c2": "Leg Cross",
         "c3": "Knot Cross",
         "p1": "No Swing Release"
@@ -2768,6 +3082,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Vertical Release",
+        "hs": 3,
         "c2": "Leg Cross",
         "c3": "Knot Cross",
         "p1": "No Swing Release"
@@ -2781,6 +3096,7 @@
         "c1": "Mic Release",
         "bg": "Y",
         "rd": "Y",
+        "hs": 0,
         "p1": "Wrist Pop Release",
         "nn": "Mic Release"
     },
@@ -2793,6 +3109,7 @@
         "c1": "Mic Release",
         "bg": "Y",
         "rd": "Y",
+        "hs": 0,
         "p1": "Box Swing Release",
         "nn": "Mic Release"
     },
@@ -2804,6 +3121,7 @@
         "vi": 833637660,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 0,
         "p1": "Wrist Swing Release",
         "nn": "Mic Release"
     },
@@ -2815,6 +3133,7 @@
         "vi": 833624443,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 2,
         "c2": "Gogo Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2825,6 +3144,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Mic Release",
+        "hs": 2,
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2837,6 +3157,7 @@
         "vi": 833623941,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 2,
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2849,6 +3170,7 @@
         "vi": 833635752,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 1,
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2860,6 +3182,7 @@
         "vi": 833625001,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 1,
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2871,6 +3194,7 @@
         "vi": 833637144,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 2,
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2882,6 +3206,7 @@
         "vi": 833626399,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 2,
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
     },
@@ -2893,6 +3218,7 @@
         "vi": 833636410,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 2,
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2905,6 +3231,7 @@
         "vi": 833625594,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 2,
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -2917,6 +3244,7 @@
         "vi": 833622249,
         "c1": "Mic Release",
         "rd": "Y",
+        "hs": 2,
         "c2": "Gogo Swing",
         "p1": "Wrist Pop Release"
     },
@@ -2927,6 +3255,7 @@
         "ca": "R",
         "vi": 833584148,
         "c1": "Mic Release",
+        "hs": 1,
         "c2": "Leg Swing",
         "p1": "Box Swing Release"
     },
@@ -2937,6 +3266,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Mic Release",
+        "hs": 1,
         "c2": "EB Swing",
         "p1": "Box Swing Release"
     },
@@ -2946,6 +3276,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Mic Release",
+        "hs": 1,
         "c2": "EB Swing",
         "p1": "Box Swing Release",
         "p2": "Dive in"
@@ -2957,6 +3288,7 @@
         "ca": "R",
         "vi": 833582352,
         "c1": "Mic Release",
+        "hs": 1,
         "c2": "Leg Swing",
         "p1": "Box Swing Release"
     },
@@ -2968,6 +3300,7 @@
         "vi": 833609392,
         "c1": "Wrap Release",
         "rd": "Y",
+        "hs": 0,
         "c2": "Arm Wrap"
     },
     {
@@ -2978,6 +3311,7 @@
         "vi": 833611993,
         "c1": "Wrap Release",
         "rd": "Y",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2988,6 +3322,7 @@
         "vi": 833610785,
         "c1": "Wrap Release",
         "rd": "Y",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -2998,6 +3333,7 @@
         "vi": 833616510,
         "c1": "Wrap Release",
         "rd": "Y",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -3008,6 +3344,7 @@
         "vi": 833613986,
         "c1": "Wrap Release",
         "rd": "Y",
+        "hs": 1,
         "c2": "Arm Wrap"
     },
     {
@@ -3017,6 +3354,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Arm Wrap"
     },
     {
@@ -3026,6 +3364,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Arm Wrap"
     },
     {
@@ -3035,6 +3374,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -3044,6 +3384,7 @@
         "ca": "R",
         "vi": 833611398,
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -3053,6 +3394,7 @@
         "ca": "R",
         "vi": 833617511,
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -3062,6 +3404,7 @@
         "ca": "R",
         "vi": 833614704,
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -3069,6 +3412,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -3076,6 +3420,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -3085,6 +3430,7 @@
         "ca": "R",
         "vi": 833612608,
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Leg Wrap"
     },
     {
@@ -3094,6 +3440,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Leg Wrap"
     },
     {
@@ -3103,6 +3450,7 @@
         "ca": "R",
         "vi": 833615364,
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Leg Wrap"
     },
     {
@@ -3112,6 +3460,7 @@
         "ca": "R",
         "vi": 833613341,
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Leg Wrap"
     },
     {
@@ -3121,6 +3470,7 @@
         "ca": "R",
         "vi": 833618913,
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Leg Wrap"
     },
     {
@@ -3130,6 +3480,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Leg Wrap"
     },
     {
@@ -3139,6 +3490,7 @@
         "ca": "R",
         "vi": 833610134,
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Leg Wrap"
     },
     {
@@ -3148,6 +3500,7 @@
         "ca": "R",
         "vi": 833608478,
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Leg Wrap"
     },
     {
@@ -3157,6 +3510,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -3166,6 +3520,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -3173,6 +3528,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -3180,6 +3536,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 1,
         "c2": "Thigh Wrap"
     },
     {
@@ -3187,6 +3544,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Thigh Wrap"
     },
     {
@@ -3194,6 +3552,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Thigh Wrap"
     },
     {
@@ -3201,6 +3560,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Thigh Wrap"
     },
     {
@@ -3208,6 +3568,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Thigh Wrap"
     },
     {
@@ -3215,6 +3576,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Thigh Wrap"
     },
     {
@@ -3222,6 +3584,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Wrap Release",
+        "hs": 2,
         "c2": "Thigh Wrap"
     },
     {
@@ -3229,7 +3592,8 @@
         "no": "O! *O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 0
     },
     {
         "na": "Leg Over Floater to Open",
@@ -3237,6 +3601,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -3245,6 +3610,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -3253,6 +3619,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -3261,6 +3628,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -3269,6 +3637,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -3277,6 +3646,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Leg Cross"
     },
     {
@@ -3285,6 +3655,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -3293,6 +3664,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -3301,6 +3673,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross"
     },
     {
@@ -3309,6 +3682,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Swing"
     },
     {
@@ -3317,6 +3691,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 0,
         "c2": "Body Cross"
     },
     {
@@ -3325,6 +3700,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Body Cross"
     },
     {
@@ -3333,6 +3709,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Body Cross",
         "c3": "Body Cross"
     },
@@ -3342,6 +3719,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Leg Cross",
         "c3": "Body Cross"
     },
@@ -3351,6 +3729,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Body Cross"
     },
@@ -3360,6 +3739,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Body Cross"
     },
@@ -3369,6 +3749,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Body Cross"
     },
@@ -3378,6 +3759,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Body Cross"
     },
@@ -3387,6 +3769,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Body Cross",
         "c4": "Tucked Cross"
@@ -3397,6 +3780,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Leg Cross",
         "c3": "Body Cross",
         "c4": "Tucked Cross"
@@ -3407,6 +3791,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Leg Cross",
         "c3": "Body Cross"
     },
@@ -3416,6 +3801,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 3,
         "c2": "Leg Cross",
         "c3": "Body Cross"
     },
@@ -3425,6 +3811,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 3,
         "c2": "Leg Cross",
         "c3": "Body Cross"
     },
@@ -3433,6 +3820,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Body Cross"
     },
     {
@@ -3440,6 +3828,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Body Cross",
         "c3": "Leg Cross"
     },
@@ -3448,6 +3837,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Body Cross",
         "c3": "Leg Cross"
     },
@@ -3456,6 +3846,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Body Cross",
         "c3": "Leg Cross",
         "c4": "Tucked Cross"
@@ -3465,6 +3856,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 2,
         "c2": "Body Cross",
         "c3": "Leg Cross",
         "c4": "Tucked Cross"
@@ -3474,6 +3866,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 1,
         "c2": "Body Cross",
         "c3": "Leg Cross"
     },
@@ -3482,6 +3875,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 3,
         "c2": "Body Cross",
         "c3": "Leg Cross"
     },
@@ -3490,6 +3884,7 @@
         "ca": "R",
         "vi": "COMING SOON",
         "c1": "Floater",
+        "hs": 3,
         "c2": "Body Cross",
         "c3": "Leg Cross"
     },
@@ -3497,193 +3892,221 @@
         "na": "Toad Floater to Elephant",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 2
     },
     {
         "na": "Inverse Toad Floater to Elephant",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 2
     },
     {
         "na": "EB Floater to EB Toad",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 2
     },
     {
         "na": "EB Floater to Inverse EB Toad",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 2
     },
     {
         "na": "Cross Floater Switch Cross (under over)",
         "no": "C¡, -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 1
     },
     {
         "na": "EB Floater Switch Cross",
         "no": "S, Ec! -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 1
     },
     {
         "na": "Toad Floater Switch Cross",
         "no": "Tc! -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 1
     },
     {
         "na": "Inverse Toad Floater Switch Cross",
         "no": "Ic! -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 1
     },
     {
         "na": "T-Toad Floater Switch Cross",
         "no": "T(c)! -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 2
     },
     {
         "na": "Inverse T-Toad Floater Switch Cross",
         "no": "I(c)! -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 2
     },
     {
         "na": "Leg Over Awesome Annie Floater Switch Cross",
         "no": "Lo, La! -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 1
     },
     {
         "na": "Toad Knot Floater Switch Cross",
         "no": "Tc, (To)o, (T)c¡ -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 3
     },
     {
         "na": "Inverse Toad Knot Floater Switch Cross",
         "no": "Ic, (Io)o, (I)c¡ -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 3
     },
     {
         "na": "Toad Knot Floater Switch Toad",
         "no": "Tc, (To)o, (T)c¡ -*Tc,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 3
     },
     {
         "na": "Inverse Toad Knot Floater Switch Inverse Toad",
         "no": "Ic, (Io)o, (I)c¡ -*Ic,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 3
     },
     {
         "na": "Cross Floater Switch Cross (over under)",
         "no": "C!, -*C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 0
     },
     {
         "na": "Open Double Floater to Open",
         "no": "O!¡, *O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 0
     },
     {
         "na": "Open Double Floater to Cross",
         "no": "O!¡, *C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 0
     },
     {
         "na": "Cross Double Floater to Open",
         "no": "C!¡, *O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 0
     },
     {
         "na": "Open Floater Pass to Cross",
         "no": "O?, *C,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 0
     },
     {
         "na": "Cross Floater Pass to Open",
         "no": "C?, *O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater"
+        "c1": "Floater",
+        "hs": 0
     },
     {
         "na": "Open Floater Mic Release",
         "no": "O?, M, O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater Release"
+        "c1": "Floater Release",
+        "hs": 0
     },
     {
         "na": "Cross Floater Mic Release",
         "no": "C?, M, O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater Release"
+        "c1": "Floater Release",
+        "hs": 0
     },
     {
         "na": "EB Floater Mic Release",
         "no": "S, Ec?, M, O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater Release"
+        "c1": "Floater Release",
+        "hs": 1
     },
     {
         "na": "Toad Floater Mic Release",
         "no": "Tc?, M, O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater Release"
+        "c1": "Floater Release",
+        "hs": 1
     },
     {
         "na": "Inverse Toad Floater Mic Release",
         "no": "Ic?, M, O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater Release"
+        "c1": "Floater Release",
+        "hs": 1
     },
     {
         "na": "T-Toad Floater Mic Release",
         "no": "S, T(c)?, M, O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater Release"
+        "c1": "Floater Release",
+        "hs": 2
     },
     {
         "na": "Inverse T-Toad Floater Mic Release",
         "no": "S, I(c)?, M, O,",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Floater Release"
+        "c1": "Floater Release",
+        "hs": 2
     },
     {
         "na": "Handle Pass",
@@ -3693,7 +4116,8 @@
         "vi": 833592004,
         "c1": "Handle Pass",
         "bg": "Y",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 0
     },
     {
         "na": "EB Handle Pass",
@@ -3703,7 +4127,8 @@
         "vi": 833590185,
         "c1": "Handle Pass",
         "bg": "Y",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Dive EB Handle Pass",
@@ -3712,7 +4137,8 @@
         "ca": "R",
         "vi": 833589633,
         "c1": "Handle Pass",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Toad Handle Pass",
@@ -3722,7 +4148,8 @@
         "vi": 833593742,
         "c1": "Handle Pass",
         "bg": "Y",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Inverse Toad Handle Pass",
@@ -3732,7 +4159,8 @@
         "vi": 833593448,
         "c1": "Handle Pass",
         "bg": "Y",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 1
     },
     {
         "na": "Handle Pass Release",
@@ -3741,227 +4169,261 @@
         "ca": "R",
         "vi": 833590604,
         "c1": "Handle Pass",
-        "rd": "Y"
+        "rd": "Y",
+        "hs": 0
     },
     {
         "na": "Toad Handle Hold",
         "sk": "> Toad > Toad Handle Hold > Open >",
         "ca": "R",
         "vi": 833586126,
-        "c1": "Handle Hold"
+        "c1": "Handle Hold",
+        "hs": 1
     },
     {
         "na": "Inverse Toad Handle Hold",
         "sk": "> Inverse Toad > Inverse Toad Handle Hold > Open >",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Handle Hold"
+        "c1": "Handle Hold",
+        "hs": 1
     },
     {
         "na": "Leg Over Handle Hold",
         "sk": "> Leg Over > Leg Over Handle Hold > Open >",
         "ca": "R",
         "vi": 833585297,
-        "c1": "Handle Hold"
+        "c1": "Handle Hold",
+        "hs": 1
     },
     {
         "na": "T-Toad Handle Hold",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Handle Hold"
+        "c1": "Handle Hold",
+        "hs": 2
     },
     {
         "na": "Inverse T-Toad Handle Hold",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "Handle Hold"
+        "c1": "Handle Hold",
+        "hs": 2
     },
     {
         "na": "Inverse Leg Hook 360 Release",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "360 Release"
+        "c1": "360 Release",
+        "hs": 1
     },
     {
         "na": "Leg Hook 360 Release",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "360 Release"
+        "c1": "360 Release",
+        "hs": 1
     },
     {
         "na": "Dive Inverse Leg Hook 360 Release",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "360 Release"
+        "c1": "360 Release",
+        "hs": 1
     },
     {
         "na": "Dive Leg Hook 360 Release",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "360 Release"
+        "c1": "360 Release",
+        "hs": 1
     },
     {
         "na": "Inverse Leg Hook Half Turn Release",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "360 Release"
+        "c1": "360 Release",
+        "hs": 1
     },
     {
         "na": "Leg Hook Half Turn Release",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "360 Release"
+        "c1": "360 Release",
+        "hs": 1
     },
     {
         "na": "Dive Inverse Leg Hook Half Turn Release",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "360 Release"
+        "c1": "360 Release",
+        "hs": 1
     },
     {
         "na": "Dive Leg Hook Half Turn Release",
         "ca": "R",
         "vi": "COMING SOON",
-        "c1": "360 Release"
+        "c1": "360 Release",
+        "hs": 1
     },
     {
         "na": "Open Open (DU)",
         "no": "OO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 0
     },
     {
         "na": "Swing Open (DU)",
         "no": "SO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 0
     },
     {
         "na": "Swing Cross (DU)",
         "no": "SC,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 0
     },
     {
         "na": "Open Cross (DU)",
         "no": "OC,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 0
     },
     {
         "na": "Cross Cross (DU)",
         "no": "CC,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 0
     },
     {
         "na": "Cross Open (DU)",
         "no": "CO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 0
     },
     {
         "na": "Swing EB (DU)",
         "no": "SEc,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 1
     },
     {
         "na": "Switch Cross (DU)",
         "no": "C-C,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 1
     },
     {
         "na": "EB EB (DU)",
         "no": "EcEc,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Double Under"
+        "c1": "Double Under",
+        "hs": 2
     },
     {
         "na": "Open Open Open (TU)",
         "no": "OOO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 0
     },
     {
         "na": "Swing Swing Open (TU)",
         "no": "SSO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 0
     },
     {
         "na": "Swing Open Open (TU)",
         "no": "SOO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 0
     },
     {
         "na": "Swing Cross Open (TU)",
         "no": "SCO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 0
     },
     {
         "na": "Swing Swing Cross (TU)",
         "no": "SSC,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 0
     },
     {
         "na": "Swing Open Cross (TU)",
         "no": "SOC,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 0
     },
     {
         "na": "Swing Cross Cross (TU)",
         "no": "SCC,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 0
     },
     {
         "na": "Swing EB Open (TU)",
         "no": "SEcO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 1
     },
     {
         "na": "Swing EB Swing Open (TU)",
         "no": "SEsO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 1
     },
     {
         "na": "Swing Cross Open (TU)",
         "no": "SCO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 0
     },
     {
         "na": "Swing Toad Open (TU)",
         "no": "STcO,",
         "ca": "M",
         "vi": "COMING SOON",
-        "c1": "Triple Under"
+        "c1": "Triple Under",
+        "hs": 1
     }
 ]
