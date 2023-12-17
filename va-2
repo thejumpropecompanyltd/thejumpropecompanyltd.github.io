@@ -4,6 +4,7 @@
         "sk": "> Twister > Twister <OS> > Twister <OS> > Twister <OS> >",
         "no": "A, B, A, B,",
         "vi": 833066987,
+        "ca": "F",
         "c1": "Bilateral Footwork"
     },
     {
@@ -11,6 +12,7 @@
         "sk": "> Skier > Skier <OS> > Skier <OS> > Skier <OS> >",
         "no": "A, B, A, B,",
         "vi": 833066952,
+        "ca": "F",
         "c1": "Bilateral Footwork"
     },
     {
@@ -18,6 +20,7 @@
         "sk": "> Bell <FW> > Bell <BW> > Bell <FW> > Bell <BW> >",
         "no": "A, B, A, B,",
         "vi": 833065373,
+        "ca": "F",
         "c1": "Bilateral Footwork"
     },
     {
@@ -25,6 +28,7 @@
         "sk": "> Side Straddle > Single Bounce > Side Straddle > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": 833066895,
+        "ca": "F",
         "c1": "Bilateral Footwork"
     },
     {
@@ -32,6 +36,7 @@
         "sk": "> Forward Straddle > Single Bounce > Forward Straddle > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": 833065446,
+        "ca": "F",
         "c1": "Bilateral Footwork"
     },
     {
@@ -39,6 +44,7 @@
         "sk": "> Forward Straddle > Single Bounce > Forward Straddle > Single Bounce <OS> >",
         "no": "A, O, B, O,",
         "vi": 833065465,
+        "ca": "F",
         "c1": "Bilateral Footwork"
     },
     {
@@ -46,6 +52,7 @@
         "sk": "> Forward Straddle > Forward Straddle <OS> > Forward Straddle <OS> > Forward Straddle <OS> >",
         "no": "A, B, A, B,",
         "vi": 833065500,
+        "ca": "F",
         "c1": "Bilateral Footwork"
     },
     {
@@ -53,6 +60,7 @@
         "sk": "> Side Straddle > X-Motion > Side Straddle > X-Motion <OS> >",
         "no": "A, B, A, -B,",
         "vi": 833067020,
+        "ca": "F",
         "c1": "Bilateral Footwork"
     },
     {
@@ -60,6 +68,7 @@
         "sk": "> Front Tap > Single Bounce > Front Tap > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": 833071624,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -67,6 +76,7 @@
         "sk": "> Side Tap > Single Bounce > Side Tap > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": 833071654,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -74,6 +84,7 @@
         "sk": "> Back Tap > Single Bounce > Back Tap > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": 833071508,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -81,6 +92,7 @@
         "sk": "> Cross Over > Single Bounce > Cross Over > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": 833071590,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -88,6 +100,7 @@
         "sk": "> Knee Raise > Single Bounce > Knee Raise > Single Bounce",
         "no": "A, O, A, O,",
         "vi": 833073458,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -95,6 +108,7 @@
         "sk": "> Leg Raise > Single Bounce > Leg Raise > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": 833073505,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -102,6 +116,7 @@
         "sk": "> Side Raise > Single Bounce > Side Raise > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": "COMING SOON",
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -109,6 +124,7 @@
         "sk": "> Kick Back > Single Bounce > Kick Back > Single Bounce >",
         "no": "A, O, A, O,",
         "vi": 833073379,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -116,6 +132,7 @@
         "sk": "> Single Leg Jump > Single Leg Jump > Single Leg Jump <OS> > Single Leg Jump > Single Leg Jump <OS> > Single Leg Jump > Single Leg Jump <OS> > Single Leg Jump >",
         "no": "R, R, L, L, R, R, L, L,",
         "vi": 833095732,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -123,6 +140,7 @@
         "sk": "> Single Leg Jump > Single Leg Jump <OS> > Single Leg Jump > Single Leg Jump <OS> > Single Leg Jump <OS> > Single Leg Jump <OS> > Single Leg Jump > Single Leg Jump <OS> >",
         "no": "R, L, L, R, L, R, R, L,",
         "vi": "COMING SOON",
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -130,6 +148,7 @@
         "sk": "> Front Tap > Single Bounce > Front Tap <OS> > Single Bounce >",
         "no": "A, O, -A, O,",
         "vi": 833089991,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -137,6 +156,7 @@
         "sk": "> Front Tap > Front Tap >",
         "no": "A, A,",
         "vi": 833090004,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -144,6 +164,7 @@
         "sk": "> Front Tap > Front Tap > Front Tap <OS> > Front Tap >",
         "no": "A, A, -A, A,",
         "vi": 833089956,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -151,6 +172,7 @@
         "sk": "> Front Tap > Front Tap <OS> > Front Tap <OS> > Front Tap <OS> >",
         "no": "A, -A, -A, -A,",
         "vi": 833089980,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -158,6 +180,7 @@
         "sk": "> Side Tap > Single Bounce > Side Tap <OS> > Single Bounce >",
         "no": "A, O, -A, O,",
         "vi": 833095700,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -165,6 +188,7 @@
         "sk": "> Side Tap > Side Tap >",
         "no": "A, A,",
         "vi": 833095720,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -172,6 +196,7 @@
         "sk": "> Side Tap > Side Tap > Side Tap <OS> > Side Tap >",
         "no": "A, A, -A, A,",
         "vi": 833095626,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -179,6 +204,7 @@
         "sk": "> Side Tap > Side Tap <OS> > Side Tap <OS> > Side Tap <OS> >",
         "no": "A, -A, -A, -A,",
         "vi": 833095669,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -186,6 +212,7 @@
         "sk": "> Back Tap > Single Bounce > Back Tap <OS> > Single Bounce >",
         "no": "A, O, -A, O,",
         "vi": 833087775,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -193,6 +220,7 @@
         "sk": "> Back Tap > Back Tap >",
         "no": "A, A,",
         "vi": 833087790,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -200,6 +228,7 @@
         "sk": "> Back Tap > Back Tap > Back Tap <OS> > Back Tap >",
         "no": "A, A, -A, A,",
         "vi": 833087741,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -207,6 +236,7 @@
         "sk": "> Back Tap > Back Tap <OS> > Back Tap <OS> > Back Tap <OS> >",
         "no": "A, -A, -A, -A,",
         "vi": 833087755,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -214,6 +244,7 @@
         "sk": "> Knee Raise > Single Bounce > Knee Raise <OS> > Single Bounce >",
         "no": "A, O, -A, O,",
         "vi": 833095549,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -221,6 +252,7 @@
         "sk": "> Knee Raise > Knee Raise >",
         "no": "A, A,",
         "vi": 833095575,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -228,6 +260,7 @@
         "sk": "> Knee Raise > Knee Raise > Knee Raise <OS> > Knee Raise >",
         "no": "A, A, -A, A,",
         "vi": 833095483,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -235,6 +268,7 @@
         "sk": "> Knee Raise > Knee Raise <OS> > Knee Raise <OS> > Knee Raise <OS> >",
         "no": "A, -A, -A, -A,",
         "vi": 833095516,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -242,6 +276,7 @@
         "sk": "> Leg Raise > Single Bounce > Leg Raise <OS> > Single Bounce >",
         "no": "A, O, -A, O,",
         "vi": 833095599,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -249,6 +284,7 @@
         "sk": "> Kick Back > Single Bounce > Kick Back > Single Bounce >",
         "no": "A, O, -A, O,",
         "vi": 833089530,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -256,6 +292,7 @@
         "sk": "> Kick Back > Kick Back >",
         "no": "A, A, O, O,",
         "vi": 833089576,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -263,6 +300,7 @@
         "sk": "> Kick Back > Kick Back > Kick Back <OS> > Kick Back >",
         "no": "A, A, -A, A,",
         "vi": 833089497,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -270,6 +308,7 @@
         "sk": "> Kick Back > Kick Back <OS> > Kick Back <OS> > Kick Back <OS> >",
         "no": "A, -A, -A, -A,",
         "vi": 833089511,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -277,6 +316,7 @@
         "sk": "> Front Tap > Back Tap >",
         "no": "A, B, A, B,",
         "vi": 833090027,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -284,6 +324,7 @@
         "sk": "> Front Tap > Back Tap > Front Tap <OS> > Back Tap >",
         "no": "A, B, -A, B,",
         "vi": 833090053,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -291,6 +332,7 @@
         "sk": "> Back Tap > Front Tap > Back Tap > Front Tap >",
         "no": "A, B, A, B,",
         "vi": 833089430,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -298,18 +340,21 @@
         "sk": "> Back Tap > Single Bounce > Back Tap <OS> > Single Bounce >",
         "no": "A, B, -A, B,",
         "vi": 833089467,
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
         "na": "Boxer Step (with Side Taps)",
         "sk": "> Boxer Step >",
         "vi": 833068804,
+        "ca": "F",
         "c1": "Compound Footwork"
     },
     {
         "na": "Boxer Step (with Back Taps)",
         "sk": "> Boxer Step >",
         "vi": 833068774,
+        "ca": "F",
         "c1": "Compound Footwork"
     },
     {
@@ -317,6 +362,7 @@
         "sk": "> Knee Raise > Leg Raise > Knee Raise > Leg Raise >",
         "no": "A, B, A, C,",
         "vi": "COMING SOON",
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -324,6 +370,7 @@
         "sk": "> Knee Raise > Leg Raise > Knee Raise <OS> > Leg Raise >",
         "no": "A, B, A, C,",
         "vi": "COMING SOON",
+        "ca": "F",
         "c1": "Unilateral Footwork"
     },
     {
@@ -331,6 +378,7 @@
         "sk": "> Knee Raise > Cross Over > Knee Raise > Side Straddle >",
         "no": "A, B, A, C,",
         "vi": 833075643,
+        "ca": "F",
         "c1": "Compound Footwork"
     },
     {
@@ -338,6 +386,7 @@
         "sk": "> Knee Raise > Side Straddle > Knee Raise > Side Straddle >",
         "no": "A, B, A, B,",
         "vi": 833076858,
+        "ca": "F",
         "c1": "Compound Footwork"
     },
     {
@@ -345,6 +394,7 @@
         "sk": "> Knee Raise > Side Straddle > Knee Raise <OS> > Side Straddle >",
         "no": "A, B, -A, B,",
         "vi": 833076926,
+        "ca": "F",
         "c1": "Compound Footwork"
     },
     {
@@ -352,6 +402,7 @@
         "sk": "> Swing > EB > EB Swing >",
         "no": "S, Ec, Es,",
         "vi": 832786088,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p3": "Swing out"
@@ -361,6 +412,7 @@
         "sk": "> Open > EB >",
         "no": "O, Ec,",
         "vi": 832785547,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p2": "Dive in"
@@ -370,6 +422,7 @@
         "sk": "> Open > EB > EB Swing >",
         "no": "O, Ec, Es,",
         "vi": 832784265,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p2": "Dive in",
@@ -380,6 +433,7 @@
         "sk": "> Neck Swing > Neck EB > EB Swing >",
         "no": "Rs, Er, Es,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p3": "Swing out"
@@ -389,6 +443,7 @@
         "sk": "> Open > Neck Swing >",
         "no": "O, Er,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p2": "Dive in"
@@ -398,6 +453,7 @@
         "sk": "> Open > Neck Swing > EB Swing >",
         "no": "O, Er, Es,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p2": "Dive in",
@@ -408,6 +464,7 @@
         "sk": "> Cross > Cross > Cross >",
         "no": "C, C, C,",
         "vi": 832782502,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -417,6 +474,7 @@
         "sk": "> Cross > Open > Cross > Open >",
         "no": "C, O, C, O,",
         "vi": 832782526,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -426,6 +484,7 @@
         "sk": "> Swing > EB > EB > EB >",
         "no": "S, Ec, Ec, Ec,",
         "vi": 832786458,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p3": "Consecutive"
@@ -435,6 +494,7 @@
         "sk": "> Swing > EB > Swing > EB >",
         "no": "S, Ec, S, Ec,",
         "vi": 832786516,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p3": "Consecutive"
@@ -444,6 +504,7 @@
         "sk": "> Swing > EB > Open > Swing > EB > Open >",
         "no": "S, Ec, O, S, Ec, O,",
         "vi": 832786488,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Half Cross",
         "p3": "Consecutive"
@@ -453,6 +514,7 @@
         "sk": "> Open > TS > TS >",
         "no": "O, E, E, E,",
         "vi": 832790405,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Back Cross",
         "p3": "Consecutive"
@@ -462,6 +524,7 @@
         "sk": "> Open > TS > Open > TS >",
         "no": "O, E, O, E,",
         "vi": 832790383,
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Back Cross",
         "p3": "Consecutive"
@@ -471,6 +534,7 @@
         "sk": "> Neck Cross > Neck Cross > Neck Cross >",
         "no": "Cr, Cr, Cr,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -480,6 +544,7 @@
         "sk": "> Neck Swing > Neck EB > Neck EB > Neck EB >",
         "no": "Rs, Er, Er, Er,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Body Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -489,6 +554,7 @@
         "sk": "> Leg Over > Swing <B> > Cross >",
         "no": "Lo, S, C,",
         "vi": 832945896,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Swing out"
@@ -498,6 +564,7 @@
         "sk": "> Leg Over > Swing <W> >",
         "no": "Lo, S,",
         "vi": 832945927,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Swing out"
@@ -507,6 +574,7 @@
         "sk": "> Leg Over > Open >",
         "no": "Lo, O,",
         "vi": 832946518,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross"
     },
@@ -515,6 +583,7 @@
         "sk": "> Inverse Leg Over > Swing <B> > Cross >",
         "no": "Jo, S, C,",
         "vi": 832947854,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Swing out"
@@ -524,6 +593,7 @@
         "sk": "> Inverse Leg Over > Swing <W> >",
         "no": "Jo, S,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Swing out"
@@ -533,6 +603,7 @@
         "sk": "> Swing > EB Toad > EB Swing >",
         "no": "S, Et, Es,",
         "vi": 832951361,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p3": "Swing out"
@@ -542,6 +613,7 @@
         "sk": "> Toad Swing > EB Toad >",
         "no": "Ts, Et,",
         "vi": 832951387,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p3": "Swing in"
@@ -551,6 +623,7 @@
         "sk": "> Toad Swing > EB Toad > EB Swing >",
         "no": "Ts, Et, Es,",
         "vi": 832951372,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p2": "Swing in",
@@ -561,6 +634,7 @@
         "sk": "> Open > EB Toad >",
         "no": "O, Et,",
         "vi": 832949774,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p2": "Dive in"
@@ -570,6 +644,7 @@
         "sk": "> Open > EB Toad > EB Swing >",
         "no": "O, Et, Es,",
         "vi": 832949749,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p2": "Dive in",
@@ -580,6 +655,7 @@
         "sk": "> Swing > Inverse EB Toad > EB Swing >",
         "no": "S, Ei, Es,",
         "vi": 832948388,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p3": "Swing out"
@@ -589,6 +665,7 @@
         "sk": "> Inverse Toad Swing > Inverse EB Toad >",
         "no": "Is, Ei,",
         "vi": 832948415,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p3": "Swing in"
@@ -598,6 +675,7 @@
         "sk": "> Inverse Toad Swing > Inverse EB Toad > EB Swing >",
         "no": "Is, Ei, Es,",
         "vi": 832948953,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p2": "Swing in",
@@ -608,6 +686,7 @@
         "sk": "> Open > Inverse EB Toad >",
         "no": "O, Ei,",
         "vi": 832950379,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p2": "Dive in"
@@ -617,6 +696,7 @@
         "sk": "> Open > Inverse EB Toad > EB Swing >",
         "no": "O, Ei, Es,",
         "vi": 832949788,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p2": "Dive in",
@@ -627,6 +707,7 @@
         "sk": "> Toad > Toad > Toad >",
         "no": "Tc, Tc, Tc,",
         "vi": 832944952,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -636,6 +717,7 @@
         "sk": "> Toad > Open > Toad > Open >",
         "no": "Tc, O, Tc, O,",
         "vi": 832944937,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -645,6 +727,7 @@
         "sk": "> Inverse Toad > Inverse Toad > Inverse Toad >",
         "no": "Ic, Ic, Ic,",
         "vi": 832947421,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -654,6 +737,7 @@
         "sk": "> Inverse Toad > Open > Inverse Toad > Open > Inverse Toad > Open >",
         "no": "Ic, O, Ic, O,",
         "vi": 832947434,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -663,6 +747,7 @@
         "sk": "> Elephant > Elephant > Elephant >",
         "no": "It, It, It,",
         "vi": 832949272,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -672,6 +757,7 @@
         "sk": "> Elephant > Open > Elephant > Open >",
         "no": "It, O, It, O,",
         "vi": 832949285,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -681,6 +767,7 @@
         "sk": "> Leg Over > Leg Over > Leg Over > Cross >",
         "no": "Lo, Lo, Lo, C,",
         "vi": 832945969,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -690,6 +777,7 @@
         "sk": "> Leg Over > Cross > Leg Over > Cross >",
         "no": "Lo, C, Lo, C,",
         "vi": 832945956,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -699,6 +787,7 @@
         "sk": "> Swing > EB Toad > EB Toad > EB Toad >",
         "no": "S, Et, Et, Et,",
         "vi": 832950534,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p3": "Consecutive"
@@ -708,6 +797,7 @@
         "sk": "> Swing > Inverse EB Toad > Inverse EB Toad > Inverse EB Toad >",
         "no": "S, Ei, Ei, ei,",
         "vi": 832948443,
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Half Cross",
         "p3": "Consecutive"
@@ -717,6 +807,7 @@
         "sk": "> Neck Toad > Neck Toad > Neck Toad >",
         "no": "Tr, Tr, Tr,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -726,6 +817,7 @@
         "sk": "> Inverse Neck Toad > Inverse Neck Toad > Inverse Neck Toad >",
         "no": "Ir, Ir, Ir,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Leg Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -735,6 +827,7 @@
         "sk": "> Ground Stall > Pull-Through > Caboose >",
         "no": "G; Ø, T,",
         "vi": 832941415,
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Front Cross"
     },
@@ -743,6 +836,7 @@
         "sk": "> Pull-Through > Caboose > LT Swing <B> > Swing <W> >",
         "no": "Ø, T, Lt, S,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "c2": "Swing out",
         "p1": "Front Cross"
@@ -752,6 +846,7 @@
         "sk": "> Ground Stall > Pull-Through > Open Caboose >",
         "no": "G; Ø, L,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Front Cross"
     },
@@ -760,6 +855,7 @@
         "sk": "> Pull-Through > Open Caboose > LT Swing <B> > Swing <W> >",
         "no": "Ø, L, Lt, S,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "c2": "Swing out",
         "p1": "Front Cross"
@@ -769,6 +865,7 @@
         "sk": "> Ground Stall > Open > AS >",
         "no": "G, O, N,",
         "vi": 832938783,
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Back Cross"
     },
@@ -777,6 +874,7 @@
         "sk": "> Ground Stall > Open > CL >",
         "no": "G, O, En,",
         "vi": 832941430,
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Back Cross"
     },
@@ -785,6 +883,7 @@
         "sk": "> Neck Swing > Neck AS > AS Swing >",
         "no": "Rs, Nr, Ns,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Half Cross"
     },
@@ -793,6 +892,7 @@
         "sk": "> Swing > AS Toad > AS Swing >",
         "no": "S, Nt, Ns,",
         "vi": 832938884,
+        "ca": "C",
         "c1": "Ground Cross",
         "c2": "Swing out",
         "p1": "Half Cross"
@@ -802,6 +902,7 @@
         "sk": "> Toad Swing > AS Toad >",
         "no": "Ts, Nt,",
         "vi": 832938937,
+        "ca": "C",
         "c1": "Ground Cross",
         "c4": "Swing in",
         "p1": "Half Cross"
@@ -811,6 +912,7 @@
         "sk": "> Toad Swing > AS Toad > AS Swing >",
         "no": "Ts, Nt, Ns,",
         "vi": 832938913,
+        "ca": "C",
         "c1": "Ground Cross",
         "c2": "Swing in",
         "c4": "Swing out",
@@ -821,6 +923,7 @@
         "sk": "> Open > AS Toad >",
         "no": "O, Nt,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "c2": "Dive in",
         "p1": "Half Cross"
@@ -830,6 +933,7 @@
         "sk": "> Open > AS Toad > AS Swing >",
         "no": "O, Nt, Ns,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "c2": "Dive in",
         "c4": "Swing out",
@@ -840,6 +944,7 @@
         "sk": "> Inverse Toad Swing > Inverse AS Toad > AS Swing >",
         "no": "Is, Ni,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Half Cross"
     },
@@ -848,6 +953,7 @@
         "sk": "> Pull-Through > Caboose > Caboose > Caboose >",
         "no": "Ø, T, T, T,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -857,6 +963,7 @@
         "sk": "> Pull-Through > Open Caboose > Open Caboose > Open Caboose >",
         "no": "Ø, L, L, L,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Front Cross",
         "p3": "Consecutive"
@@ -866,6 +973,7 @@
         "sk": "> Open > AS > AS > AS >",
         "no": "O, N, N, N,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Back Cross",
         "p3": "Consecutive"
@@ -875,6 +983,7 @@
         "sk": "> Open > AS > Open > AS >",
         "no": "O, N, O, N,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Back Cross",
         "p3": "Consecutive"
@@ -884,6 +993,7 @@
         "sk": "> Open > CL > CL > CL >",
         "no": "O, En, En, En,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Back Cross",
         "p3": "Consecutive"
@@ -893,6 +1003,7 @@
         "sk": "> Open > CL > Open > CL >",
         "no": "O, En, O, En,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Back Cross",
         "p3": "Consecutive"
@@ -902,6 +1013,7 @@
         "sk": "> Neck Swing > Neck AS > Neck AS > Neck AS >",
         "no": "Rs, Nr, Nr, Nr,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Half Cross",
         "p3": "Consecutive"
@@ -911,6 +1023,7 @@
         "sk": "> Toad Swing > AS Toad > AS Toad > AS Toad >",
         "no": "Ts, Nt, Nt, Nt,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Half Cross",
         "p3": "Consecutive"
@@ -920,6 +1033,7 @@
         "sk": "> Inverse Toad Swing > Inverse AS Toad > Inverse AS Toad > Inverse AS Toad >",
         "no": "Is, Ni, Ni, Ni,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Ground Cross",
         "p1": "Half Cross",
         "p3": "Consecutive"
@@ -929,6 +1043,7 @@
         "sk": "> T-Toad > Swing <B> > Cross >",
         "no": "T(c), S, C,",
         "vi": 833062470,
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -939,6 +1054,7 @@
         "sk": "> T-Toad > Open >",
         "no": "T(c), O,",
         "vi": 833062575,
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -948,6 +1064,7 @@
         "sk": "> Swing <B> > T-Toad > Open >",
         "no": "S, T(c), O,",
         "vi": 833062522,
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -958,6 +1075,7 @@
         "sk": "> Inverse T-Toad > Swing <B> > Cross >",
         "no": "I(c), S, C,",
         "vi": 833059808,
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -968,6 +1086,7 @@
         "sk": "> Swing <B> > T-Toad > T-Toad > T-Toad > Swing <B> > Cross >",
         "no": "S, T(c), T(c), T(c), S, C, ",
         "vi": 833062590,
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -978,6 +1097,7 @@
         "sk": "> Swing <B> > Inverse T-Toad > Inverse T-Toad > Inverse T-Toad > Swing <B> > Cross >",
         "no": "S, I(c), I(c), I(c), S, C,",
         "vi": 833059859,
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -986,6 +1106,7 @@
     {
         "na": "Tucked EB (consecutively)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Body Cross",
         "p1": "Front Cross",
@@ -994,6 +1115,7 @@
     {
         "na": "Tummy Tuck (consecutively)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
         "p1": "Front Cross",
@@ -1002,6 +1124,7 @@
     {
         "na": "Tucked AS Toad (consecutively)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
         "p1": "Front Cross",
@@ -1010,6 +1133,7 @@
     {
         "na": "Tucked Inverse AS Toad (consecutively)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Tucked Cross",
         "c2": "Ground Cross",
         "p1": "Front Cross",
@@ -1020,6 +1144,7 @@
         "sk": "> Swing > EB Swing > EB Gogo Swing > EB Gogo > EB Swing",
         "no": "S, Es, (Eo)s, (Eo)o, Es,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Body Cross",
         "p1": "Half Cross",
@@ -1030,6 +1155,7 @@
         "sk": "> Open > TS > EB Gogo > EB Swing",
         "no": "O, E, (Eo)o, Es,",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Body Cross",
         "p1": "Half Cross"
@@ -1039,6 +1165,7 @@
         "sk": "> Toad Swing <W> > Toad Gogo >",
         "no": "T(s), (To)o,",
         "vi": 832938211,
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1049,6 +1176,7 @@
         "sk": "> Toad Swing > Toad Gogo Swing > Toad Gogo",
         "no": "Ts, (To)s, (To)o,",
         "vi": 832938182,
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1059,6 +1187,7 @@
         "sk": "> Inverse Toad Swing <W> > Inverse Toad Gogo >",
         "no": "I(s), (Io)o,",
         "vi": 832935168,
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1069,6 +1198,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo >",
         "no": "Is, (Io)s, (Io)o,",
         "vi": 832935142,
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1079,6 +1209,7 @@
         "sk": "> Inverse Toad > Inverse Toad Gogo > Inverse Toad Gogo > Inverse Toad Gogo >",
         "no": "Ic, (Io)o, (Io)o, (Io)o,",
         "vi": 832936377,
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1087,6 +1218,7 @@
     {
         "na": "Leg Over Gogo (Leg Over Gogo Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1095,6 +1227,7 @@
     {
         "na": "Leg Over Gogo (EB Leg Over Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1102,6 +1235,7 @@
     {
         "na": "AS Gogo (AS Gogo Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Ground Cross",
         "p1": "Back Cross",
@@ -1110,6 +1244,7 @@
     {
         "na": "AS Gogo (from CL)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Ground Cross",
         "p1": "Back Cross"
@@ -1117,6 +1252,7 @@
     {
         "na": "EB Leg Over Gogo (Gogo Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Half Cross",
@@ -1125,6 +1261,7 @@
     {
         "na": "EB Leg Over Gogo (EB Leg Over Swing out)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Half Cross",
@@ -1133,6 +1270,7 @@
     {
         "na": "EB Leg Over Gogo (Leg Over in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Half Cross"
@@ -1140,6 +1278,7 @@
     {
         "na": "EB Leg Over Gogo (Leg Over in, EB Leg Over Swing out)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Half Cross",
@@ -1148,6 +1287,7 @@
     {
         "na": "Neck Leg Over Gogo (Gogo Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1156,6 +1296,7 @@
     {
         "na": "Leg Over Neck Gogo (Awesome Annie in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1163,6 +1304,7 @@
     {
         "na": "TL Gogo (LT Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1171,6 +1313,7 @@
     {
         "na": "TL Gogo (TL. Swing out)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1179,6 +1322,7 @@
     {
         "na": "LI Gogo (Gogo Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1187,6 +1331,7 @@
     {
         "na": "LI Gogo (from Inverse Toad Gogo)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1194,6 +1339,7 @@
     {
         "na": "Toad Knot (Toad Gogo in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1201,6 +1347,7 @@
     {
         "na": "Toad Knot (Toad in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1208,6 +1355,7 @@
     {
         "na": "Toad Knot (Gogo Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1216,6 +1364,7 @@
     {
         "na": "Toad Knot (Toad Wrist Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1226,6 +1375,7 @@
         "sk": "> Inverse Toad > Inverse Toad Knot >",
         "no": "Ic, (I)c,",
         "vi": 832942565,
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1235,6 +1385,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Knot >",
         "no": "Is, (Io)s, (I)c,",
         "vi": 832942615,
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1245,6 +1396,7 @@
         "sk": "> Inverse Toad Swing <W> > Inverse Toad Knot >",
         "no": "I(s), (I)c,",
         "vi": 832942634,
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1253,6 +1405,7 @@
     {
         "na": "EB Knot (Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Body Cross",
         "p1": "Half Cross",
@@ -1261,6 +1414,7 @@
     {
         "na": "EB Knot (Gogo Swing in)",
         "vi": "COMING SOON",
+        "ca": "C",
         "c1": "Knot Cross",
         "c2": "Body Cross",
         "p1": "Half Cross",
@@ -1271,6 +1425,7 @@
         "sk": "> Swing <B> > Swing <W> <OS> > Open > Swing <B> > Swing <W> <OS> > Open > Swing <B> > Swing <W> <OS> > Open >",
         "no": "S, S, O, S, S, O, S, S, O,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Foundational Swing",
         "p1": "Front Swing",
         "p3": "Consecutive"
@@ -1280,6 +1435,7 @@
         "sk": "> Swing <W> > Swing <B> <SS> > Cross >",
         "no": "S, -S, C,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Foundational Swing",
         "p1": "Front Swing"
     },
@@ -1288,6 +1444,7 @@
         "sk": "> Swing <W> > Swing <B> <SS> > Swing <W> <OS> > Swing <B> <SS> > Swing <W> <OS> > Swing <B> <SS> > Cross >",
         "no": "S, -S, S, -S, S, -S, C,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Foundational Swing",
         "p1": "Consecutive"
     },
@@ -1296,6 +1453,7 @@
         "sk": "> Open > EB Swing >",
         "no": "O, Es,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "EB Swing",
         "p1": "Back Swing"
     },
@@ -1304,6 +1462,7 @@
         "sk": "> Toad Swing <W> >",
         "no": "T(s),",
         "vi": 833241107,
+        "ca": "S",
         "c1": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1312,6 +1471,7 @@
         "sk": "> Inverse Toad Swing <W> >",
         "no": "I(s),",
         "vi": 833240873,
+        "ca": "S",
         "c1": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1320,6 +1480,7 @@
         "sk": "> Leg Over Swing > Swing <B> > Cross >",
         "no": "Ls, S, C,",
         "vi": 833240902,
+        "ca": "S",
         "c1": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1328,6 +1489,7 @@
         "sk": "> Inverse Leg Over Swing > Swing <B> > Cross >",
         "no": "Js, S, C,",
         "vi": 833240735,
+        "ca": "S",
         "c1": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1336,6 +1498,7 @@
         "sk": "> LT Swing <W> > Swing <B> > Cross >",
         "no": "Lt, S, C,",
         "vi": 833241006,
+        "ca": "S",
         "c1": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1344,6 +1507,7 @@
         "sk": "> LT Swing <B> > Swing <W> >",
         "no": "Lt, S,",
         "vi": 833240960,
+        "ca": "S",
         "c1": "Leg Swing",
         "p1": "Front Swing"
     },
@@ -1352,6 +1516,7 @@
         "sk": "> LT Swing <W> > Leg Over > Cross >",
         "no": "Lt, Lo, C,",
         "vi": 833246432,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1362,6 +1527,7 @@
         "sk": "> LT Swing <B> > Toad >",
         "no": "Lt, Tc,",
         "vi": 833246462,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1372,6 +1538,7 @@
         "sk": "> Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad Awesome Annie > Cross >",
         "no": "Tc, Ta, La, Ta, C,",
         "vi": 833255167,
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1382,6 +1549,7 @@
         "sk": "> Leg Over > Leg Over Awesome Annie > Toad Awesome Annie > Leg Over Awesome Annie >",
         "no": "Lo, La, Ta, La,",
         "vi": 833254978,
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -1392,6 +1560,7 @@
         "sk": "> Toad Swing > EB Toad > Toad Awesome Annie > Cross >",
         "no": "Ts, Et, Ta, C,",
         "vi": 833254718,
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Half Cross"
@@ -1401,6 +1570,7 @@
         "sk": "> Open > EB Toad > Toad Awesome Annie > Cross >",
         "no": "O, Et, Ta, C,",
         "vi": 833254504,
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Half Cross",
@@ -1411,6 +1581,7 @@
         "sk": "> Inverse Toad Swing > Inverse EB Toad > Inverse Toad Awesome Annie > Cross >",
         "no": "Ts, Ei, Ia, C,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Half Cross"
@@ -1420,6 +1591,7 @@
         "sk": "> Open > Inverse EB Toad > Inverse Toad Awesome Annie > Cross >",
         "no": "O, Ei, Ia, C,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Half Cross",
@@ -1430,6 +1602,7 @@
         "sk": "> Toad Swing > Toad Gogo Swing > Toad Awesome Annie > Cross >",
         "no": "Ts, (To)s, Ta C,",
         "vi": 833255220,
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Gogo Swing",
@@ -1440,6 +1613,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Awesome Annie > Cross >",
         "no": "Is, (Io)s, Ia, C,",
         "vi": 833254901,
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1449,6 +1623,7 @@
         "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Awesome Annie >",
         "no": "Ls, (Lc)s, La,",
         "vi": 833255018,
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1458,6 +1633,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Awesome Annie > Swing <B> > Cross >",
         "no": "Js, (Jc)s, Js, S, C,",
         "vi": 833254836,
+        "ca": "S",
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Front Cross"
@@ -1467,6 +1643,7 @@
         "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Swing > Swing <B> > Cross >",
         "no": "Ls, (Lc)s, Ls, S, C,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
         "p1": "Front Swing"
@@ -1476,6 +1653,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <B> > Cross >",
         "no": "Js, (Jo)s, Js, S, C,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
         "p1": "Front Swing"
@@ -1485,6 +1663,7 @@
         "sk": "> Swing > EB Swing > TS >",
         "no": "S, Es, E,",
         "vi": 833246144,
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Body Cross",
         "c3": "EB Swing",
@@ -1496,6 +1675,7 @@
         "sk": "> Open > EB Swing > TS >",
         "no": "O, Es, E,",
         "vi": 833246114,
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Body Cross",
         "c3": "EB Swing",
@@ -1507,6 +1687,7 @@
         "sk": "> Swing <B> > Toad > Open >",
         "no": "S, Tc,",
         "vi": 833245869,
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1517,6 +1698,7 @@
         "sk": "> Toad Swing > Toad >",
         "no": "Ts, Tc,",
         "vi": 833246564,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1527,6 +1709,7 @@
         "sk": "> Swing <B> > Inverse Toad > Open >",
         "no": "S, Ic,",
         "vi": 833245682,
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1537,6 +1720,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad > Open >",
         "no": "Is, Ic,",
         "vi": 833246327,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1547,6 +1731,7 @@
         "sk": "> Swing <W> > Leg Over > Cross >",
         "no": "S, Lo, C,",
         "vi": 833246650,
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1557,6 +1742,7 @@
         "sk": "> Swing <W> > Leg Over <OS> > Cross >",
         "no": "S, -Lo, C,",
         "vi": 833246620,
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1567,6 +1753,7 @@
         "sk": "> Leg Over Swing > Leg Over > Cross >",
         "no": "Ls, Lo, C,",
         "vi": 833246396,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1577,6 +1764,7 @@
         "sk": "> Swing > EB Leg Over Swing > Leg Over > Cross >",
         "no": "S, Le, Lo, C,",
         "vi": 833245991,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Back Swing",
@@ -1587,6 +1775,7 @@
         "sk": "> Swing > EB Leg Over Swing > Toad <OS> >",
         "no": "S, Le, -Tc,",
         "vi": 833246021,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Back Swing",
@@ -1597,6 +1786,7 @@
         "sk": "> Swing > EB Leg Over Swing > T-Toad > Swing <B> > Cross >",
         "no": "S, Le, T(c), S, C,",
         "vi": 833246075,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Back Swing",
@@ -1607,6 +1797,7 @@
         "sk": "> Swing <W> > Elephant >",
         "no": "S, It,",
         "vi": 833246591,
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1617,6 +1808,7 @@
         "sk": "> Toad Swing > Elephant >",
         "no": "Ts, Ti,",
         "vi": 833246500,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1627,6 +1819,7 @@
         "sk": "> Inverse Toad Swing > Elephant >",
         "no": "Is, It,",
         "vi": 833246266,
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Leg Cross",
         "p1": "Front Swing",
@@ -1637,6 +1830,7 @@
         "sk": "> Toad Swing > Toad Gogo EB Swing > Toad >",
         "no": "Ts, (To)e, Tc,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Gogo Swing",
         "c2": "Leg Cross",
         "c3": "EB Swing",
@@ -1648,6 +1842,7 @@
         "sk": "> Toad Swing > Toad Gogo EB Swing > Elephant >",
         "no": "Ts, (To)e, Ti,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Gogo Swing",
         "c2": "Leg Cross",
         "c3": "EB Swing",
@@ -1659,6 +1854,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo EB Swing > Inverse Toad >",
         "no": "Is, (Io)e, Ic,",
         "vi": 833246219,
+        "ca": "S",
         "c1": "Gogo Swing",
         "c2": "Leg Cross",
         "c3": "EB Swing",
@@ -1670,6 +1866,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo EB Swing > Elephant >",
         "no": "Is, (Io)e, It,",
         "vi": 833246183,
+        "ca": "S",
         "c1": "Gogo Swing",
         "c2": "Leg Cross",
         "c3": "EB Swing",
@@ -1681,6 +1878,7 @@
         "sk": "> Swing > AS Swing > AS >",
         "no": "S, Ns, N,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Ground Cross",
         "p1": "Back Swing",
@@ -1691,6 +1889,7 @@
         "sk": "> Open > AS Swing > AS >",
         "no": "O, Ns, N,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Ground Cross",
         "p1": "Back Swing",
@@ -1701,6 +1900,7 @@
         "sk": "> Swing > EB Swing > CL >",
         "no": "S, Es, En,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Ground Cross",
         "c3": "EB Swing",
@@ -1712,6 +1912,7 @@
         "sk": "> Open > EB Swing > CL >",
         "no": "O, Es, En,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Ground Cross",
         "c3": "EB Swing",
@@ -1723,6 +1924,7 @@
         "sk": "> Swing > AS Swing > CL >",
         "no": "S, Ns, En,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Ground Cross",
         "p1": "Back Swing",
@@ -1733,6 +1935,7 @@
         "sk": "> Open > AS Swing > CL >",
         "no": "O, Ns, En,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Ground Cross",
         "p1": "Back Swing",
@@ -1743,6 +1946,7 @@
         "sk": "> Swing <B> > Pull-Through > Caboose >",
         "no": "S, Ø, T,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Foundational Swing",
         "c2": "Ground Cross",
         "p1": "Front Swing",
@@ -1753,6 +1957,7 @@
         "sk": "> Toad Swing <B> > Pull-Through > Caboose >",
         "no": "Ts, Tø, T,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Ground Cross",
         "p1": "Front Swing",
@@ -1763,6 +1968,7 @@
         "sk": "> LT Swing <B> > Pull-Through > Caboose >",
         "no": "Lt, Tø, T,",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "Leg Swing",
         "c2": "Ground Cross",
         "p1": "Front Swing",
@@ -1773,6 +1979,7 @@
         "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Toad Swing > <OH> Swing <W> > <OH> Swing <B> <OH> >",
         "no": "{S}, {S}, {Ts}, {S}, {S},",
         "vi": 833243616,
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing"
     },
@@ -1781,6 +1988,7 @@
         "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Inverse Toad Swing > <OH> Swing <W> > <OH> Swing <B> <OH> >",
         "no": "{S}, {S}, {Is}, {S}, {S},",
         "vi": 833243509,
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing"
     },
@@ -1789,6 +1997,7 @@
         "sk": "> <OH> Swing <W> > <OH> Swing <B> > <OH> Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> <OH> >",
         "no": "{S}, {S}, {Ls}, {S}, {S},",
         "vi": 833243554,
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing"
     },
@@ -1797,6 +2006,7 @@
         "sk": "> <OH> Swing <W> > <OH> Swing <B> > <OH> Inverse Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> <OH> >",
         "no": "{S}, {S}, {Js}, {S}, {S},",
         "vi": 833243451,
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing"
     },
@@ -1805,6 +2015,7 @@
         "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Toad Swing > <OH> Toad Gogo Swing > <OH> Toad Swing > <OH> Swing <W> > <OH> Swing <B> <OH>  >",
         "no": "{S}, {S}, {Ts}, {(To)s}, {Ts}, {S}, {S},",
         "vi": 833243582,
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
         "c3": "Gogo Swing"
@@ -1814,6 +2025,7 @@
         "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Inverse Toad Swing > <OH> Inverse Toad Gogo Swing > <OH> Inverse Toad Swing > <OH> Swing <W> > <OH> Swing <B> <OH>  >",
         "no": "{S}, {S}, {Is}, {(Io)s}, {Ts}, {S}, {S},",
         "vi": 833243478,
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
         "c3": "Gogo Swing"
@@ -1823,6 +2035,7 @@
         "sk": "> <OH> Swing <W> > <OH> Swing <B> > <OH> Leg Over Swing > <OH> Leg Over Gogo Swing > <OH> Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> <OH> >",
         "no": "{S}, {S}, {Ls}, {(Lc)s}, {Ls}, {S}, {S},",
         "vi": 833243530,
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
         "c3": "Gogo Swing"
@@ -1832,6 +2045,7 @@
         "sk": "> <OH> Swing <W> > <OH> Swing <B> > <OH> Inverse Leg Over Swing > <OH> Inverse Leg Over Gogo Swing > <OH> Inverse Leg Over Swing > <OH> Swing <B> > <OH> Swing <W> <OH> >",
         "no": "{S}, {S}, {Js}, {(Jc)s}, {Js}, {S}, {S},",
         "vi": 833243374,
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
         "c3": "Gogo Swing"
@@ -1839,6 +2053,7 @@
     {
         "na": "O.H. Toad D-Gogo Swing",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
         "c3": "Gogo Swing"
@@ -1846,6 +2061,7 @@
     {
         "na": "O.H. Inverse Toad D-Gogo Swing",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
         "c3": "Gogo Swing"
@@ -1853,6 +2069,7 @@
     {
         "na": "O.H. Leg Over D-Gogo Swing",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
         "c3": "Gogo Swing"
@@ -1860,6 +2077,7 @@
     {
         "na": "O.H. Inverse Leg Over D-Gogo Swing",
         "vi": "COMING SOON",
+        "ca": "S",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
         "c3": "Gogo Swing"
@@ -1869,6 +2087,7 @@
         "sk": "> Open 180 > <BW> Swing > <BW> Cross 180 >",
         "no": "O>, S, C>,",
         "vi": 833937810,
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Body Cross",
@@ -1877,6 +2096,7 @@
     {
         "na": "Dive Swing EB 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Body Cross",
@@ -1885,6 +2105,7 @@
     {
         "na": "Dive Swing TS 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Body Cross",
@@ -1893,6 +2114,7 @@
     {
         "na": "Dive Swing Toad 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1901,6 +2123,7 @@
     {
         "na": "Dive Swing Inverse Toad 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1909,6 +2132,7 @@
     {
         "na": "Dive Swing Leg Over 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1917,6 +2141,7 @@
     {
         "na": "Dive Swing Inverse Leg Over 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1925,6 +2150,7 @@
     {
         "na": "Dive Swing Elephant 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1933,6 +2159,7 @@
     {
         "na": "Dive Swing T-Toad 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1941,6 +2168,7 @@
     {
         "na": "Dive Swing Inverse T-Toad 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1949,6 +2177,7 @@
     {
         "na": "Dive Swing EB Toad 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1957,6 +2186,7 @@
     {
         "na": "Dive Swing Inverse EB Toad 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Leg Cross",
@@ -1965,6 +2195,7 @@
     {
         "na": "Dive Swing AS 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Ground Cross",
@@ -1973,6 +2204,7 @@
     {
         "na": "Dive Swing CL 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Ground Cross",
@@ -1981,6 +2213,7 @@
     {
         "na": "Dive Swing Caboose 360",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Ground Cross",
@@ -1989,18 +2222,21 @@
     {
         "na": "Leg Hook 360 (Counter)",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Leg Hook Turn",
         "c2": "360 Turn"
     },
     {
         "na": "Inverse Leg Hook 360 (Counter)",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Leg Hook Turn",
         "c2": "360 Turn"
     },
     {
         "na": "Dive Leg Hook 360 (Counter)",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Leg Hook Turn",
         "c2": "360 Turn",
         "c3": "Dive Turn"
@@ -2008,6 +2244,7 @@
     {
         "na": "Dive Inverse Leg Hook 360 (Counter)",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Leg Hook Turn",
         "c2": "360 Turn",
         "c3": "Dive Turn"
@@ -2015,18 +2252,21 @@
     {
         "na": "Leg Hook Half Turn (Counter)",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Half Turn",
         "c2": "Leg Hook"
     },
     {
         "na": "Inverse Leg Hook Half Turn (Counter)",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Half Turn",
         "c2": "Leg Hook"
     },
     {
         "na": "Dive Leg Hook Half Turn (Counter)",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Half Turn",
         "c2": "Leg Hook",
         "p2": "Dive in"
@@ -2034,6 +2274,7 @@
     {
         "na": "Dive Inverse Leg Hook Half Turn (Counter)",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Half Turn",
         "c2": "Leg Hook",
         "p2": "Dive in"
@@ -2043,6 +2284,7 @@
         "sk": "> Swing 180 > <BW> Texan 180 > Open >",
         "no": "S>, O}, O,",
         "vi": 833940970,
+        "ca": "D",
         "c1": "Texan Turn",
         "c2": "Full Turn"
     },
@@ -2051,6 +2293,7 @@
         "sk": "> Swing 180 > <BW> Open > <BW> Texan 180 > Open >",
         "no": "S>, O, O}, O,",
         "vi": 833940899,
+        "ca": "D",
         "c1": "Texan Turn",
         "c2": "360 Turn"
     },
@@ -2059,6 +2302,7 @@
         "sk": "> Swing 180 > <BW> Texan 180 <OD> > Open >",
         "no": "S>, O}, O,",
         "vi": "COMING SOON",
+        "ca": "D",
         "c1": "Texan Turn",
         "c2": "Half Turn"
     },
@@ -2067,6 +2311,7 @@
         "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Swing <W> > Open >",
         "no": "S, [S], [S), S, O,",
         "vi": 833649045,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2075,6 +2320,7 @@
         "sk": "> Open > Wrist Wrap > Unwrap Swing <OS> > Open >",
         "no": "O, (S], [S, O,",
         "vi": 833670520,
+        "ca": "W",
         "c1": "Arm Wrap"
     },
     {
@@ -2082,6 +2328,7 @@
         "sk": "> Swing > EB Arm Wrap > Unwrap Swing <OS> > EB Swing >",
         "no": "S, E[s], (Eo)[s), Es,",
         "vi": 833654685,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2090,6 +2337,7 @@
         "sk": "> Swing > EB Swing > EB Arm Wrap > Unwrap Swing <OS> > EB >",
         "no": "S, Es, E[s], (Eo)[s), Ec,",
         "vi": 833654286,
+        "ca": "W",
         "c1": "Arm Wrap"
     },
     {
@@ -2097,6 +2345,7 @@
         "sk": "> Swing > EB Swing > EB Arm Wrap > Unwrap Swing <OS> > EB Swing >",
         "no": "S, Es, E[s], (Eo)[s), Es,",
         "vi": 833654026,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2105,6 +2354,7 @@
         "sk": "> Open > EB Arm Wrap > Unwrap Swing <OS> > EB >",
         "no": "O, E[s], (Eo)[s), Ec,",
         "vi": 833651896,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p2": "Dive in"
     },
@@ -2113,6 +2363,7 @@
         "sk": "> Open > EB Arm Wrap > Unwrap Swing <OS> > EB Swing >",
         "no": "O, E[s], (Eo)[s), Es,",
         "vi": 833651646,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p2": "Dive in",
         "p3": "Swing out"
@@ -2122,6 +2373,7 @@
         "sk": "> Open > EB Arm Wrap > Unwrap Swing <OS> > EB Leg Over Swing > Cross >",
         "no": "S, E[s], (Eo)[s), Le, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Arm Wrap",
         "p2": "Dive in"
     },
@@ -2130,6 +2382,7 @@
         "sk": "> Toad Swing > Toad Arm Wrap > Unwrap Swing <OS> > Swing <W> >",
         "no": "Ts, T[s], (To)[s), S,",
         "vi": 833668829,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2138,6 +2391,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Swing <W> >",
         "no": "Is, I[s], (Io)[s), S,",
         "vi": 833663968,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2146,6 +2400,7 @@
         "sk": "> Swing > EB Leg Over Swing > Leg Over Wrap > Unwrap Swing <OS> > Leg Over > Cross >",
         "no": "S, Le, L[s], (Lo)[s), Lo, C,",
         "vi": 833665144,
+        "ca": "W",
         "c1": "Arm Wrap"
     },
     {
@@ -2153,6 +2408,7 @@
         "sk": "> Leg Over Swing > Leg Over Wrap > Unwrap Swing <OS> > Swing <B> > Swing <W> >",
         "no": "Ls, L[s], (Lo)[s), S, S,",
         "vi": 833666822,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2161,6 +2417,7 @@
         "sk": "> Leg Over Swing > Leg Over Wrap > Unwrap Swing <OS> > Swing <B> > Cross >",
         "no": "Ls, L[s], (Lo)[s), S, C,",
         "vi": 833666532,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2169,6 +2426,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Wrap > Unwrap Swing <OS> > Swing <B> > Swing <W> >",
         "no": "Js, J[s], (Jo)[s), S, S,",
         "vi": 833662445,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2177,6 +2435,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Wrap > Unwrap Swing <OS> > Swing <B> > Cross >",
         "no": "Js, J[s], (Jo)[s), Jo, S, C,",
         "vi": 833662020,
+        "ca": "W",
         "c1": "Arm Wrap",
         "p3": "Swing out"
     },
@@ -2185,6 +2444,7 @@
         "sk": "> Swing > EB Gogo Inverse Leg Over Swing > EB Gogo Inverse Leg Over Arm Wrap > Unwrap Swing <OS> > EB Leg Over Swing > Cross >",
         "no": "S, (Ej)s, (Ej)[s], (Ejc)[s), Le, C,",
         "vi": 833660086,
+        "ca": "W",
         "c1": "Gogo Arm Wrap"
     },
     {
@@ -2192,6 +2452,7 @@
         "sk": "> Open > EB Gogo Inverse Leg Over Swing > EB Gogo Inverse Leg Over Arm Wrap > Unwrap Swing <OS> > EB Swing >",
         "no": "O, (Ej)s, (Ej)[s], (Ejc)[s), Es,",
         "vi": 833652340,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p2": "Dive in"
     },
@@ -2200,6 +2461,7 @@
         "sk": "> Swing > EB Gogo Leg Over Swing > EB Leg Over Arm Wrap > Unwrap Swing <OS> > EB Leg Over Swing > Cross >",
         "no": "S, (El)s, (El)[s], (Elc)[s), Je, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Arm Wrap"
     },
     {
@@ -2207,6 +2469,7 @@
         "sk": "> Open > EB Gogo Leg Over Swing > EB Leg Over Arm Wrap > Unwrap Swing <OS> > EB Swing >",
         "no": "O, (El)s, (El)[s], (Elc)[s), Es,",
         "vi": 833652980,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p2": "Dive in"
     },
@@ -2214,12 +2477,14 @@
         "na": "EB D-Gogo Toad Arm Wrap (EB Gogo Swing in)",
         "no": "S, (Eo)s, (Eot)s, (Eot)[s], (Eo)[s), (Eo)s, Es,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Toad Arm Wrap (EB Gogo Inverse Toad Swing out)",
         "no": "S, (Eot)s, (Eot)[s], (Eo)[s), (Eo)i, Es,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p3": "Swing out"
     },
@@ -2227,12 +2492,14 @@
         "na": "EB D-Gogo Inverse Toad Arm Wrap (EB Gogo swing in)",
         "no": "S, (Eo)s, (Eoi)s, (Eoi)[s], (Eo)[s), (Eo)s, Es,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Arm Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap (EB Gogo Toad Swing out)",
         "no": "S, (Eoi)s, (Eoi)[s], (Eo)[s), (Eo)t, Es,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p3": "Swing out"
     },
@@ -2241,6 +2508,7 @@
         "sk": "> Open > EB Gogo Swing > EB Gogo Arm Wrap > Unwrap Swing <OS> > EB Swing >",
         "no": "O, (Eo)s, (Eo)[s], E[s), Es,",
         "vi": 833736776,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p2": "Dive in"
     },
@@ -2249,6 +2517,7 @@
         "sk": "> Toad Swing > Toad Gogo Swing > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Toad Swing > Swing <W> >",
         "no": "Tc, (To)o, (To)[s], T[s, Ts, S,",
         "vi": 833757593,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p3": "Swing out"
     },
@@ -2257,6 +2526,7 @@
         "sk": "> Toad Swing > Toad Gogo Swing > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "Tc, (To)o, (To)[s], T[s, Ta, C,",
         "vi": 833756874,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "c2": "Awesome Annie"
     },
@@ -2265,6 +2535,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Inverse Toad Swing > Swing <W> >",
         "no": "Is, (Io)s, (Io)[s], I[s, Is, S,",
         "vi": 833750359,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p3": "Swing out"
     },
@@ -2273,6 +2544,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "Is, (Io)s, (Io)[s], I[s, Ia, C,",
         "vi": 833747760,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "c2": "Awesome Annie"
     },
@@ -2281,6 +2553,7 @@
         "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Leg Over Swing > Swing <B> > Swing <W> >",
         "no": "Ls, (Lc)s, (Lc)[s], L[s, Ls, S, S,",
         "vi": 833754925,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p3": "Swing out"
     },
@@ -2289,6 +2562,7 @@
         "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Leg Over Swing > Swing <B> > Cross >",
         "no": "Ls, (Lc)s, (Lc)[s], L[s, Ls, S, C,",
         "vi": 833754026,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p3": "Swing out"
     },
@@ -2297,6 +2571,7 @@
         "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Awesome Annie >",
         "no": "Ls, (Lc)s, (Lc)[s], L[s, Ls, La,",
         "vi": 833752869,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "c2": "Awesome Annie"
     },
@@ -2305,6 +2580,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Inverse Leg Over Swing > Swing <B> > Swing <W> >",
         "no": "Js, (Jc)s, (Jc)[s], J[s, Js, S, S,",
         "vi": 833743393,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p3": "Swing out"
     },
@@ -2313,6 +2589,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Inverse Leg Over Swing > Swing <B> > Cross >",
         "no": "Js, (Jc)s, (Jc)[s], J[s, Js, S, C,",
         "vi": 833739406,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "p3": "Swing out"
     },
@@ -2321,6 +2598,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Awesome Annie >",
         "no": "Js, (Jc)s, (Jc)[s], J[s, Js, Ja, S, C,",
         "vi": 833737582,
+        "ca": "W",
         "c1": "Gogo Arm Wrap",
         "c2": "Awesome Annie"
     },
@@ -2329,6 +2607,7 @@
         "sk": "> Toad Swing > Toad Thigh Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "Tc, [T]s, [To)s, Ta, C,",
         "vi": 833936283,
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -2337,6 +2616,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Thigh Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "Ic, [I]s, [Io)s, Ia, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -2345,6 +2625,7 @@
         "sk": "> Leg Over Swing > Leg Over Thigh Wrap > Unwrap Swing <OS> > Awesome Annie >",
         "no": "Ls, [L]s, [Lc)s, La,",
         "vi": 833936192,
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -2353,6 +2634,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Thigh Wrap > Unwrap Swing <OS> > Awesome Annie >",
         "no": "Js, [J]s, [Jc)s, Ja,",
         "vi": 833936033,
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -2361,6 +2643,7 @@
         "sk": "> Swing > Leg Over Swing <T> > Leg Over Thigh Wrap > Unwrap Swing <OS> > Awesome Annie > Swing <B> > Cross >",
         "no": "S, L(s), [L](s), [Lc)(so), La, S, C,",
         "vi": 833936511,
+        "ca": "W",
         "c1": "Thigh Wrap"
     },
     {
@@ -2368,54 +2651,63 @@
         "sk": "> Swing > Inverse Leg Over Swing <T> > Inverse Leg Over Thigh Wrap > Unwrap Swing <OS> > Awesome Annie > Swing <B> > Cross >",
         "no": "S, J(s), [J](s), [Jc)(so), Ja,",
         "vi": 833936454,
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
     {
         "na": "EB D-Gogo Toad Thigh Wrap (Awesome Annie out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
     {
         "na": "EB D-Gogo Inverse Toad Thigh Wrap (Awesome Annie out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap (Awesome Annie out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap (Awesome Annie out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
     {
         "na": "EB Leg Wrap (EB Swing in)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
     {
         "na": "EB Leg Wrap (EB Swing out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p3": "Swing out"
     },
     {
         "na": "Dive EB Leg Wrap",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Dive in"
     },
     {
         "na": "Dive EB Leg Wrap (EB Swing out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Dive in",
         "p3": "Swing out"
@@ -2425,6 +2717,7 @@
         "sk": "> Toad Swing > Toad Wrap > Unwrap Swing <OS> > Open >",
         "no": "Ts, [T]c, [To)s, O,",
         "vi": 833934239,
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2433,6 +2726,7 @@
         "sk": "> Toad Swing <W> > Toad Wrap > Unwrap Swing <OS> > Open >",
         "no": "T(s), [T]s, [To)s, O,",
         "vi": 833934263,
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2441,6 +2735,7 @@
         "sk": "> Toad > Toad Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "Tc, [T]c, [To)s, Ta, C,",
         "vi": 833934136,
+        "ca": "W",
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -2449,6 +2744,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Wrap > Unwrap Swing <OS> > Open >",
         "no": "Is, [I]c, [Io)s, O,",
         "vi": 833933850,
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2457,6 +2753,7 @@
         "sk": "> Inverse Toad Swing <W> > Inverse Toad Wrap > Unwrap Swing <OS> > Open >",
         "no": "I(s), [I]s, [Io)s, O,",
         "vi": 833933872,
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2465,6 +2762,7 @@
         "sk": "> Inverse Toad > Inverse Toad Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "Ic, [I]c, [Io)s, Ia, C,",
         "vi": 833933753,
+        "ca": "W",
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -2473,6 +2771,7 @@
         "sk": "> Leg Over Swing > Leg Over Wrap > Unwrap Swing <OS> > Cross >",
         "no": "Ls, [L]o, [Lc)s, C,",
         "vi": 833934020,
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2481,6 +2780,7 @@
         "sk": "> Swing > EB Leg Over Swing <W> > Leg Over Wrap > Unwrap Swing <OS> > Cross >",
         "no": "S, Le, [L]o, [Lc)s, C,",
         "vi": 833933951,
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2489,6 +2789,7 @@
         "sk": "> Leg Over > Leg Over Wrap > Unwrap Swing <OS> > Awesome Annie >",
         "no": "Lo, [L]o, [Lc)s, La,",
         "vi": 833933926,
+        "ca": "W",
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -2497,6 +2798,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Wrap > Unwrap Swing <OS> > Cross >",
         "no": "Js, [J]o, [Jc)s, C,",
         "vi": 833933602,
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2505,6 +2807,7 @@
         "sk": "> Inverse Leg Over > Inverse Leg Over Wrap > Unwrap Swing <OS> > Awesome Annie > Swing <B> > Cross >",
         "no": "Jo, [J]o, [Jc)s, Ja, S, C,",
         "vi": 833933581,
+        "ca": "W",
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -2513,6 +2816,7 @@
         "sk": "> Toad Swing > EB Toad Wrap > Unwrap Swing <OS> > Open >",
         "no": "Ts, E[t], [To)s, O,",
         "vi": 833933541,
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2521,6 +2825,7 @@
         "sk": "> Swing > EB Toad > EB Toad Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "S, Et, E[t], [To)s, Ta, C,",
         "vi": 833933452,
+        "ca": "W",
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -2529,6 +2834,7 @@
         "sk": "> Open > EB Toad > EB Toad Wrap > Unwrap Swing <OS> > Open >",
         "no": "O, Et, E[t], [To)s, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Dive in"
     },
@@ -2537,6 +2843,7 @@
         "sk": "> Open > EB Toad > EB Toad Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "O, Et, E[t], [To)s, Ta, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "c2": "Awesome Annie",
         "p2": "Dive in"
@@ -2545,6 +2852,7 @@
         "na": "Inverse EB Toad Wrap (Inverse Toad Swing in)",
         "no": "Is, E[i], [Io)s, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
@@ -2552,6 +2860,7 @@
         "na": "Inverse EB Toad Wrap (Awesome Annie out)",
         "no": "S, Ei, E[i], [Io)s, Ia, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -2560,6 +2869,7 @@
         "sk": "> Open > EB Toad > EB Toad Wrap > Unwrap Swing <OS> > Open >",
         "no": "S, Ei, E[i], [Io)s, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Dive in"
     },
@@ -2568,6 +2878,7 @@
         "sk": "> Open > EB Toad > EB Toad Wrap > Unwrap Swing <OS> > Awesome Annie > Cross >",
         "no": "O, Ei, E[i], [Io)s, Ia, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "c2": "Awesome Annie",
         "p2": "Dive in"
@@ -2575,51 +2886,60 @@
     {
         "na": "AS Wrap (Open in)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap"
     },
     {
         "na": "AS Wrap (AS Swing in)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
     {
         "na": "TS Wrap (EB Swing in)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
     {
         "na": "CL Wrap (Open in)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap"
     },
     {
         "na": "CL Wrap (EB Swing in)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap",
         "p2": "Swing in"
     },
     {
         "na": "Caboose Tucked Wrap",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Leg Wrap"
     },
     {
         "na": "Toad Step Through Wrap (Awesome Annie out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Step-Through Wrap",
         "c2": "Awesome Annie"
     },
     {
         "na": "Toad Swing Step Through Wrap",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Step-Through Wrap",
         "p2": "Swing in"
     },
     {
         "na": "Toad Swing Step Through Wrap (Awesome Annie out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Step-Through Wrap",
         "c3": "Awesome Annie",
         "p2": "Swing in"
@@ -2627,18 +2947,21 @@
     {
         "na": "Leg Over Step Through Wrap (Awesome Annie out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Step-Through Wrap",
         "c2": "Awesome Annie"
     },
     {
         "na": "Leg Over Swing Step Through Wrap",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Step-Through Wrap",
         "p2": "Swing in"
     },
     {
         "na": "Leg Over Swing Step Through Wrap (Awesome Annie out)",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Step-Through Wrap",
         "c3": "Awesome Annie",
         "p2": "Swing in"
@@ -2646,11 +2969,13 @@
     {
         "na": "Toad Step Through Wrap Release",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Step-Through Wrap"
     },
     {
         "na": "Toad Swing Step Through Wrap Release",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Step-Through Wrap"
     },
     {
@@ -2658,6 +2983,7 @@
         "sk": "> Swing > Arm Wrap > Unwrap Swing <OS> > > Swing 180 > <BW> Open >",
         "no": "S, [S], [S), S>, O,",
         "vi": 833649616,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2666,6 +2992,7 @@
         "sk": "> Swing > EB Arm Wrap > Unwrap Swing 180 <OS> > <BW> Open >",
         "no": "S, E[s], (Eo)[s)>, O,",
         "vi": 833639543,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2674,6 +3001,7 @@
         "sk": "> Open > EB Arm Wrap > Unwrap Swing 180 <OS> > <BW> Open >",
         "no": "O, E[s], (Eo)[s)>, O,",
         "vi": 833639256,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2682,6 +3010,7 @@
         "sk": "> Toad Swing > Toad Arm Wrap > Unwrap Swing <OS> > Swing 180 > <BW> Open >",
         "no": "Ts, T[s], (To)[s), S>, O,",
         "vi": 833644078,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2690,6 +3019,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Swing 180 > <BW> Open >",
         "no": "Is, I[s], (Io)[s), S>, O,",
         "vi": 833641578,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2698,6 +3028,7 @@
         "sk": "> Leg Over Swing > Leg Over Arm Wrap > Unwrap Swing <OS> > Swing 180 > <BW> Cross >",
         "no": "Ls, L[s], (Lo)[s), S>, C,",
         "vi": 833642571,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2706,6 +3037,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Arm Wrap > Unwrap Swing <OS> > Swing 180 > <BW> Cross >",
         "no": "Js, J[s], (Jo)[s), S>, C,",
         "vi": 833640978,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2714,6 +3046,7 @@
         "sk": "> Swing > EB Gogo Swing > EB Gogo Arm Wrap > Unwrap Swing <OS> > EB Swing 180 > <BW> Swing > <BW> Open >",
         "no": "S, (Eo)s, (Eo)[s], E[s), Es>, S, O,",
         "vi": 833639781,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2722,6 +3055,7 @@
         "sk": "> Swing > EB Gogo Inverse Leg Over Swing > EB Gogo Inverse Leg Over Arm Wrap > Unwrap Swing <OS> > EB Swing 180 > <BW> Swing > <BW> Open >",
         "no": "S, (Ej)s, (Ej)[s], (Ejc)[s), Es>, S, O,",
         "vi": 833640295,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2730,18 +3064,21 @@
         "sk": "> Swing > EB Gogo Leg Over Swing > EB Gogo Leg Over Arm Wrap > Unwrap Swing <OS> > EB Swing 180 > <BW> Swing > <BW> Open >",
         "no": "S, (El)s, (El)[s], (Elc)[s), Es>, S, O,",
         "vi": 833640656,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
     {
         "na": "EB D-Gogo Toad Arm Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Arm Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2750,6 +3087,7 @@
         "sk": "> Toad Swing > Toad Gogo Swing > Toad Gogo Swing Arm Wrap > Unwrap Swing <OS> > Toad Swing 180 > <BW> Toad >",
         "no": "Ts, (To)s, (To)[s], T[s), Ts>, Tc,",
         "vi": 833644309,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2758,6 +3096,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo Swing Arm Wrap > Unwrap Swing <OS> > Inverse Toad Swing 180 > <BW> Inverse Toad >",
         "no": "Is, (Io)s, (Io)[s], I[s), Is>, Ic,",
         "vi": 833641842,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2766,12 +3105,14 @@
         "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Gogo Swing Arm Wrap > Unwrap Swing <OS> > Leg Over Swing 180 > <BW> Leg Over >",
         "no": "Ls, (Lc)s, (Lc)[s], L[s), Ls>, Lo,",
         "vi": 833642943,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
     {
         "na": "Inverse Leg Over Gogo Arm Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Arm Wrap"
     },
@@ -2780,6 +3121,7 @@
         "sk": "> Toad Swing > Toad Thigh Wrap > Unwrap Swing <OS> > Toad Swing 180 > <BW> Toad >",
         "no": "Ts, [T]s, [To)s, Ts>, Tc,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
@@ -2788,6 +3130,7 @@
         "sk": "> Toad Swing > Toad Thigh Wrap > Unwrap Swing <OS> > Toad Swing 180 > <BW> Open >",
         "no": "Ts, [T]s, [To)s, Ts>, O,",
         "vi": 833644616,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
@@ -2796,6 +3139,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Thigh Wrap > Unwrap Swing <OS> > Inverse Toad Swing 180 > <BW> Inverse Toad >",
         "no": "Is, [I]s, [Io)s, Is>, Lo,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
@@ -2804,6 +3148,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Thigh Wrap > Unwrap Swing <OS> > Inverse Toad Swing 180 > <BW> Open >",
         "no": "Is, [I]s, [Io)s, Is>, O,",
         "vi": 833642229,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
@@ -2812,6 +3157,7 @@
         "sk": "> Leg Over Swing > Leg Over Thigh Wrap > Unwrap Swing <OS> > Leg Over Swing 180 > <BW> Leg Over >",
         "no": "Ls, [L]s, [Lc)s, Ls>, Lo,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
@@ -2820,6 +3166,7 @@
         "sk": "> Leg Over Swing > Leg Over Thigh Wrap > Unwrap Swing <OS> > Leg Over Swing 180 > <BW> Cross >",
         "no": "Ls, [L]s, [Lc)s, Ls>, C,",
         "vi": 833643715,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
@@ -2828,6 +3175,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Thigh Wrap > Unwrap Swing <OS> > Inverse Leg Over Swing 180 > <BW> Inverse Leg Over >",
         "no": "Js, [J]s, [Jc)s, Js>, Js,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
@@ -2836,54 +3184,63 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Thigh Wrap > Unwrap Swing <OS> > Inverse Leg Over Swing 180 > <BW> Cross >",
         "no": "Js, [J]s, [Jc)s, Js>, C,",
         "vi": 833641285,
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
     {
         "na": "Tucked Leg Over Thigh Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
     {
         "na": "Tucked Inverse Leg Over Thigh Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
     {
         "na": "EB D-Gogo Toad Thigh Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
     {
         "na": "EB D-Gogo Inverse Toad Thigh Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Thigh Wrap"
     },
     {
         "na": "EB Leg Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "Dive EB Leg Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
@@ -2891,6 +3248,7 @@
         "na": "Toad Wrap 180",
         "no": "Tc, [T]c, [To)s, Ts>, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
@@ -2898,6 +3256,7 @@
         "na": "Inverse Toad Wrap 180",
         "no": "Ic, [I]c, [Io)s, Is>, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
@@ -2905,6 +3264,7 @@
         "na": "Leg Over Wrap 180",
         "no": "Lo, [L]o, [Lc)s, Ls>, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
@@ -2912,60 +3272,70 @@
         "na": "Inverse Leg Over Wrap 180",
         "no": "Jo, [J]o, [Jc)s, Js>, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "EB Toad Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "Inverse EB Toad Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "T-Toad Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "Inverse T-Toad Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "AS Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "TS Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "CL Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "Caboose Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
     {
         "na": "Caboose Tucked Wrap 180",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "180 Unwrap",
         "c2": "Leg Wrap"
     },
@@ -2973,6 +3343,7 @@
         "na": "Toad Wrap (Gogo Unwrap)",
         "no": "Tc, [T]c, [To)o, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Unwrap",
         "c2": "Leg Wrap"
     },
@@ -2980,6 +3351,7 @@
         "na": "Inverse Toad Wrap (Gogo Unwrap)",
         "no": "Ic, [I]c, [Io)o, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Unwrap",
         "c2": "Leg Wrap"
     },
@@ -2987,6 +3359,7 @@
         "na": "Leg Over Wrap (Gogo Unwrap)",
         "no": "Lo, [L]o, [Lc)c, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Unwrap",
         "c2": "Leg Wrap"
     },
@@ -2994,6 +3367,7 @@
         "na": "Inverse Leg Over Wrap (Gogo Unwrap)",
         "no": "Jo, [J]o, [Jc)c, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Gogo Unwrap",
         "c2": "Leg Wrap"
     },
@@ -3002,6 +3376,7 @@
         "sk": "> Toad > Toad Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Open >",
         "no": "Tc, [T]c, [[T]s], [[To]s), [To)s, O,",
         "vi": 833930652,
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3011,6 +3386,7 @@
         "sk": "> Inverse Toad > Inverse Toad Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Open >",
         "no": "Ic, [I]c, [[I]s], [[Io]s), [Io)s, O,",
         "vi": 833930465,
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3020,6 +3396,7 @@
         "sk": "> Leg Over > Leg Over Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Cross >",
         "no": "Lo, [L]o, [[L]s], [[Lc]s), [Lc)s, C,",
         "vi": 833930554,
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3029,6 +3406,7 @@
         "sk": "> Inverse Leg Over > Inverse Leg Over Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Cross >",
         "no": "Jo, [J]o, [[Jc]s], [[Jc]s), [Jc)s, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3038,6 +3416,7 @@
         "sk": "> Swing > EB Toad > EB Toad Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Open >",
         "no": "S, Et, E[t], [[T]s], [[To]s), [To)s, O,",
         "vi": 833930300,
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3047,6 +3426,7 @@
         "sk": "> Swing > Inverse EB Toad > Inverse EB Toad Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Open >",
         "no": "S, Et, E[i], [[I]s], [[Io]s), [Io)s, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3056,6 +3436,7 @@
         "sk": "> Swing > EB Leg Over Swing > Leg Over Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > Cross >",
         "no": "S, Le, [L]o, [[L]s], [[Lc]s), [Lc)s, C,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3063,6 +3444,7 @@
     {
         "na": "T-Toad Wrap with Embedded Arm Wrap",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3070,6 +3452,7 @@
     {
         "na": "Inverse T-Toad Wrap with Embedded Arm Wrap",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3079,6 +3462,7 @@
         "sk": "> Open > TS Wrap > Embedded Arm Wrap > Unwrap Swing <OS> > Unwrap Swing > EB Swing > Open >",
         "no": "O, [E], [[E]s], [Eo]s), [Eo)s, Es, O,",
         "vi": 833930684,
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3087,6 +3471,7 @@
         "na": "AS Wrap with Embedded Arm Wrap",
         "no": "O, [N], [[N]s], [No]s), [No)s, Es, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3095,6 +3480,7 @@
         "na": "CL Wrap with Embedded Arm Wrap",
         "no": "O, [N]e, [[N]s], [No]s), [No)s, Es, O,",
         "vi": "COMING SOON",
+        "ca": "W",
         "c1": "Layered Wrap",
         "c2": "Leg Wrap",
         "c3": "Arm Wrap"
@@ -3104,6 +3490,7 @@
         "sk": "> Open > Vertical Release <DR> > Open >",
         "no": "O, M, M, O,",
         "vi": 833599225,
+        "ca": "R",
         "c1": "Vertical Release"
     },
     {
@@ -3111,6 +3498,7 @@
         "sk": "> Leg Over > Leg Over Awesome Annie > Vertical Release > Open >",
         "no": "Lo, La, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
@@ -3121,6 +3509,7 @@
         "sk": "> Inverse Toad > Inverse Toad Awesome Annie > Vertical Release <DR> > Open >",
         "no": "Ic, Ia, M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Vertical Release",
         "c2": "Leg Cross",
         "c3": "Awesome Annie",
@@ -3131,6 +3520,7 @@
         "sk": "> Swing > Mic Release <WP> <DR> > Open >",
         "no": "S, M, M, O,",
         "vi": 833622524,
+        "ca": "R",
         "c1": "Mic Release",
         "p1": "Wrist Pop Release"
     },
@@ -3139,6 +3529,7 @@
         "sk": "> Swing <B> > Mic Release <DR> > Open >",
         "no": "S, M, M, O,",
         "vi": 833580874,
+        "ca": "R",
         "c1": "Mic Release",
         "p1": "Box Swing Release"
     },
@@ -3147,6 +3538,7 @@
         "sk": "> Swing <W> > Mic Release <DR> > Open >",
         "no": "S, M, M, O,",
         "vi": 833637412,
+        "ca": "R",
         "c1": "Mic Release",
         "p1": "Wrist Swing Release"
     },
@@ -3155,6 +3547,7 @@
         "sk": "> Swing > EB Gogo Swing > Mic Release <DR> > Open >",
         "no": "S, (Eo)s, M, M, O,",
         "vi": 833624169,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "p1": "Wrist Swing Release"
@@ -3164,6 +3557,7 @@
         "sk": "> Swing > EB Gogo Leg Over Swing > Mic Release <DR> > Open >",
         "no": "S, (Ej)s, M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
@@ -3174,6 +3568,7 @@
         "sk": "> Swing > EB Gogo Inverse Leg Over Swing > Mic Release <DR> > Open >",
         "no": "S, (Ej)s, M, M, O,",
         "vi": 833623533,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
@@ -3184,6 +3579,7 @@
         "sk": "> Leg Over Swing > Mic Release <DR> > Open >",
         "no": "Ls, M, M, O,",
         "vi": 833635470,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -3193,6 +3589,7 @@
         "sk": "> Inverse Leg Over Swing > Mic Release <DR> > Open >",
         "no": "Js, M, M, O,",
         "vi": 833624759,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -3202,6 +3599,7 @@
         "sk": "> Swing > Leg Over Swing <T> > Mic Release <DR> > Open >",
         "no": "S, L(s), M, M, O,",
         "vi": 833636776,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -3211,6 +3609,7 @@
         "sk": "> Swing > Inverse Leg Over Swing <T> > Mic Release <DR> > Open >",
         "no": "S, J(s), M, M, O,",
         "vi": 833626005,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "p1": "Wrist Swing Release"
@@ -3220,6 +3619,7 @@
         "sk": "> Toad Swing > Toad Gogo Swing > Mic Release <DR> > Open >",
         "no": "Ts, (To)s, M, M, O,",
         "vi": 833636014,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
@@ -3230,6 +3630,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Mic Release <DR> > Open >",
         "no": "Is, (Io)s, M, M, O,",
         "vi": 833625253,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
@@ -3240,6 +3641,7 @@
         "sk": "> Swing > EB Gogo Swing > Mic Release <WP> <DR> > Open >",
         "no": "S, (Eo)s, (Eo)[s], M, M, O,",
         "vi": 833622004,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "p1": "Wrist Pop Release"
@@ -3249,6 +3651,7 @@
         "sk": "> Toad Swing > Mic Release <DR> > Open >",
         "no": "Ts, M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "p1": "Box Swing Release"
@@ -3258,6 +3661,7 @@
         "sk": "> Toad Swing > Mic Release <WP> > Open >",
         "no": "Ts, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "p1": "Wrist Pop Release"
@@ -3267,6 +3671,7 @@
         "sk": "> Toad Swing > Mic Release > Toad Awesome Annie > Cross >",
         "no": "Ts, M, Ta, C,",
         "vi": 833582902,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Awesome Annie",
@@ -3277,6 +3682,7 @@
         "sk": "> Swing > EB Swing > Mic Release  <DR> > Open >",
         "no": "S, Es, M, M, Es, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "EB Swing",
         "p1": "Box Swing Release"
@@ -3285,6 +3691,7 @@
         "na": "Dive EB Swing Release (double rotation)",
         "no": "O, eM, M, Es, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "EB Swing",
         "p1": "Box Swing Release",
@@ -3295,6 +3702,7 @@
         "sk": "> Inverse Toad Swing > Mic Release <DR> > Open >",
         "no": "Ts, M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "p1": "Box Swing Release"
@@ -3304,6 +3712,7 @@
         "sk": "> Inverse Toad Swing > Mic Release <WP> > Open >",
         "no": "Ts, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "p1": "Wrist Pop Release"
@@ -3313,6 +3722,7 @@
         "sk": "> Inverse Toad Swing > Mic Release > Inverse Toad Awesome Annie > Cross >",
         "no": "Is, M, Ia, C,",
         "vi": 833581319,
+        "ca": "R",
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Awesome Annie",
@@ -3323,6 +3733,7 @@
         "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, [S], [S), M, M, O,",
         "vi": 833608779,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Arm Wrap"
     },
@@ -3331,6 +3742,7 @@
         "sk": "> Swing > EB Arm Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, E[s], (Eo)[s), M, M, O,",
         "vi": 833611733,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Arm Wrap"
     },
@@ -3339,6 +3751,7 @@
         "sk": "> Open > EB Arm Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "O, E[s], (Eo)[s), M, M, O,",
         "vi": 833610476,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Arm Wrap"
     },
@@ -3347,6 +3760,7 @@
         "sk": "> Toad Swing > Toad Arm Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "Ts, T[s], (To)[s), M, M, O,",
         "vi": 833615892,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Arm Wrap"
     },
@@ -3355,6 +3769,7 @@
         "sk": "> Inverse Toad Swing > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "Is, I[s], (Io)[s), M, M, O,",
         "vi": 833613672,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Arm Wrap"
     },
@@ -3363,6 +3778,7 @@
         "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Gogo Swing Arm Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "Ls, (Lc)s, (Lc)[s], L[s), M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Arm Wrap"
     },
@@ -3371,6 +3787,7 @@
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Gogo Swing Arm Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "Js, (Jc)s, (Jc)[s], J[s), M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Arm Wrap"
     },
@@ -3379,6 +3796,7 @@
         "sk": "> Swing > EB Leg Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, [E]c [Eo)s, M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3387,6 +3805,7 @@
         "sk": "> Open > EB Leg Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "O, [E]C, [Eo)s, M, M, O,",
         "vi": 833611075,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3395,6 +3814,7 @@
         "sk": "> Toad > Toad Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "Tc, [T]c, [To)s, M, M, O,",
         "vi": 833617033,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3403,6 +3823,7 @@
         "sk": "> Inverse Toad > Inverse Toad Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "Ic, [I]c, [Io)s, M, M, O,",
         "vi": 833614354,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3411,6 +3832,7 @@
         "sk": "> Swing > EB Toad > EB Toad Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, Et, E[t], [To)s, M, M, O,",
         "vi": 833612270,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3419,6 +3841,7 @@
         "sk": "> Swing > Inverse EB Toad > Inverse EB Toad Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, Ei, E[i], [Io)s, M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3427,6 +3850,7 @@
         "sk": "> Swing > T-Toad > T-Toad Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, T(c), [T](c), [To)(s), M, M, O,",
         "vi": 833615056,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3435,6 +3859,7 @@
         "sk": "> Swing > Inverse T-Toad > Inverse T-Toad Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, I(c), [I](c), [Io)(s), M, M, O,",
         "vi": 833612959,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3443,6 +3868,7 @@
         "sk": "> Open > TS Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "O, [E], [Eo)s, M, M, O,",
         "vi": 833617814,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3451,6 +3877,7 @@
         "sk": "> Swing > EB Swing > TS Wrap > Unwrap Swing <OS> > Mic Release > Open >",
         "no": "S, Es, [E], [Eo)s, M, O,",
         "vi": 833618456,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3459,6 +3886,7 @@
         "sk": "> Swing > EB Swing > TS Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, Es, [E], [Eo)s, M, M, O,",
         "vi": 833618066,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3467,6 +3895,7 @@
         "sk": "> Open > AS Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "O, [N], [No)s, M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3475,6 +3904,7 @@
         "sk": "> Open > AS Cross Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "O, [N]c, [No)s, M, M, O,",
         "vi": 833609759,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3483,6 +3913,7 @@
         "sk": "> Open > CL Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "O, [N]e, [No)s, M, M, O,",
         "vi": 833608186,
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3491,6 +3922,7 @@
         "sk": "> Swing > EB Swing > CL Wrap > Unwrap Swing <OS> > Mic Release > Open >",
         "no": "S, Es, [N]e, [No)s, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
@@ -3499,47 +3931,56 @@
         "sk": "> Swing > EB Swing > CL Wrap > Unwrap Swing <OS> > Mic Release <DR> > Open >",
         "no": "S, Es, [N]e, [No)s, M, M, O,",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "Wrap Release",
         "c2": "Leg Wrap"
     },
     {
         "na": "O.H. Wrist Swing Release",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "One-Handed Release"
     },
     {
         "na": "O.H. Wrist Swing Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "One-Handed Release"
     },
     {
         "na": "O.H. Wrist Pop Release",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "One-Handed Release"
     },
     {
         "na": "O.H. Wrist Pop Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "One-Handed Release"
     },
     {
         "na": "O.H. Wrap Release",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "One-Handed Release"
     },
     {
         "na": "O.H. Wrap Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "One-Handed Release"
     },
     {
         "na": "O.H. Toad Step Through Wrap Release",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "One-Handed Release"
     },
     {
         "na": "O.H. Toad Step Through Wrap Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "One-Handed Release"
     },
     {
@@ -3547,250 +3988,293 @@
         "sk": "> Swing Handle Pass <B> > One-Handed Swing <W> > Mic Release <DR> > Open >",
         "no": "S*, s, M, M, O,",
         "vi": 833590357,
+        "ca": "R",
         "c1": "Handle Pass"
     },
     {
         "na": "Inverse Leg Hook 360 Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "360 Release"
     },
     {
         "na": "Leg Hook 360 Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "360 Release"
     },
     {
         "na": "Dive Inverse Leg Hook 360 Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "360 Release"
     },
     {
         "na": "Dive Leg Hook 360 Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "360 Release"
     },
     {
         "na": "Inverse Leg Hook Half Turn Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "360 Release"
     },
     {
         "na": "Leg Hook Half Turn Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "360 Release"
     },
     {
         "na": "Dive Inverse Leg Hook Half Turn Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "360 Release"
     },
     {
         "na": "Dive Leg Hook Half Turn Release (double rotation)",
         "vi": "COMING SOON",
+        "ca": "R",
         "c1": "360 Release"
     },
     {
         "na": "Swing Open (DU) (OO before)",
         "no": "OO, SO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Open (DU) (OO after)",
         "no": "SO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Open (DU) (OO before & after)",
         "no": "OO, SO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Open (DU) (consecutively)",
         "no": "OO, SO, SO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Open (DU) (consecutively alternating)",
         "no": "OO, SO, -SO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Cross (DU) (OO before)",
         "no": "OO, SC,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Cross (DU) (OO after)",
         "no": "SC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Cross (DU) (OO before & after)",
         "no": "OO, SC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Cross (DU) (consecutively)",
         "no": "OO, SC, SC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing Cross (DU) (consecutively alternating)",
         "no": "OO, SC, -SC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Open Cross (DU) (OO before)",
         "no": "OO, OC,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Open Cross (DU) (OO after)",
         "no": "OC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Open Cross (DU) (OO before & after)",
         "no": "OO, OC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Open Cross (DU) (consecutively)",
         "no": "OO, OC, OC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Open Cross (DU) (consecutively alternating)",
         "no": "OO, OC, -OC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Cross (DU) (OO before)",
         "no": "OO, CC,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Cross (DU) (OO after)",
         "no": "CC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Cross (DU) (OO before & after)",
         "no": "OO, CC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Cross (DU) (consecutively)",
         "no": "OO, CC, CC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Cross (DU) (consecutively alternating)",
         "no": "OO, CC, -CC, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Open (DU) (OO before)",
         "no": "OO, CO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Open (DU) (OO after)",
         "no": "CO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Open (DU) (OO before & after)",
         "no": "OO, CO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Open (DU) (consecutively)",
         "no": "OO, CO, CO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Cross Open (DU) (consecutively alternating)",
         "no": "OO, CO, -CO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing EB (DU) (OO before)",
         "no": "OO, SEc,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing EB (DU) (OO after)",
         "no": "SEc, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing EB (DU) (OO before & after)",
         "no": "OO, SEc, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing EB (DU) (Consecutively)",
         "no": "OO, SEc, SEc, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing EB (DU) (EB Swing out)",
         "no": "SEc, EsO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing EB (DU) (EB Swing out) (OO before)",
         "no": "OO, SEc, EsO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing EB (DU) (EB Swing out) (OO after)",
         "no": "SEc, EsO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "Swing EB (DU) (EB Swing out) (OO before & after)",
         "no": "OO, SEc, EsO, OO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     },
     {
         "na": "EB EB (EB Swing out) (double)",
         "no": "EcEc, EsO,",
         "vi": "COMING SOON",
+        "ca": "M",
         "c1": "Double Under"
     }
 ]
