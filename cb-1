@@ -6,6 +6,9 @@
         "ty": "CO",
         "vi": 833941380,
         "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
         "c1": "Body Cross"
     },
     {
@@ -15,6 +18,9 @@
         "ty": "CO",
         "vi": 833941692,
         "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
         "c1": "Body Cross"
     },
     {
@@ -24,6 +30,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": 0.5,
         "c1": "Body Cross"
     },
     {
@@ -33,6 +42,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -42,6 +54,9 @@
         "ty": "CO",
         "vi": 833941860,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -52,6 +67,9 @@
         "ty": "CO",
         "vi": 833941556,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -62,6 +80,9 @@
         "ty": "CO",
         "vi": 833941582,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -72,6 +93,9 @@
         "ty": "CO",
         "vi": 833941509,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -82,6 +106,9 @@
         "ty": "CO",
         "vi": 833941408,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -92,6 +119,9 @@
         "ty": "CO",
         "vi": 833941826,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -102,6 +132,9 @@
         "ty": "CO",
         "vi": 833941535,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -112,6 +145,9 @@
         "ty": "CO",
         "vi": 833941298,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -122,6 +158,9 @@
         "ty": "CO",
         "vi": 833941298,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -132,6 +171,9 @@
         "ty": "CO",
         "vi": 833941348,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -142,6 +184,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Body Cross",
         "c3": "Switch Cross"
     },
@@ -152,6 +197,9 @@
         "ty": "CO",
         "vi": 833941804,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -163,6 +211,9 @@
         "ty": "CO",
         "vi": 833941739,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -174,6 +225,9 @@
         "ty": "CO",
         "vi": 833941763,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -185,6 +239,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -196,6 +253,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -207,6 +267,9 @@
         "ty": "CO",
         "vi": 833941784,
         "ca": "CC",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
@@ -219,6 +282,9 @@
         "ty": "CO",
         "vi": 833941720,
         "ca": "CC",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
@@ -231,6 +297,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross",
         "c3": "Switch Cross"
@@ -242,6 +311,9 @@
         "ty": "CO",
         "vi": 833941641,
         "ca": "CR",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Mic Release"
     },
@@ -252,6 +324,9 @@
         "ty": "CO",
         "vi": 833941607,
         "ca": "CR",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Mic Release"
     },
@@ -262,6 +337,9 @@
         "ty": "CO",
         "vi": 833941668,
         "ca": "CR",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Mic Release"
     },
@@ -272,6 +350,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Ground Cross",
         "c2": "Leg Cross",
         "c5": "Front Cross"
@@ -283,6 +364,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Ground Cross",
         "c2": "Leg Cross",
         "c5": "Front Cross"
@@ -294,6 +378,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Ground Cross",
         "c5": "Front Cross"
     },
@@ -304,6 +391,9 @@
         "ty": "CO",
         "vi": 833942271,
         "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -313,6 +403,9 @@
         "ty": "CO",
         "vi": 833942122,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Mic Release"
     },
@@ -323,6 +416,9 @@
         "ty": "CO",
         "vi": 833942097,
         "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
         "c1": "Body Cross"
     },
     {
@@ -332,6 +428,9 @@
         "ty": "CO",
         "vi": 833942355,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -342,6 +441,9 @@
         "ty": "CO",
         "vi": 833942670,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Switch Cross"
     },
@@ -352,6 +454,9 @@
         "ty": "CO",
         "vi": 833942641,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Switch Cross"
     },
@@ -362,6 +467,9 @@
         "ty": "CO",
         "vi": 833942317,
         "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
         "c1": "Body Cross"
     },
     {
@@ -371,6 +479,9 @@
         "ty": "CO",
         "vi": 833942296,
         "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -380,6 +491,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -389,6 +503,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -398,6 +515,9 @@
         "ty": "CO",
         "vi": 833942611,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -408,6 +528,9 @@
         "ty": "CO",
         "vi": 833942728,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -419,6 +542,9 @@
         "ty": "CO",
         "vi": 833942929,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -429,6 +555,9 @@
         "ty": "CO",
         "vi": 833942768,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -440,6 +569,9 @@
         "ty": "CO",
         "vi": 833942867,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -450,6 +582,9 @@
         "ty": "CO",
         "vi": 833942900,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -460,6 +595,9 @@
         "ty": "CO",
         "vi": 833942590,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -470,6 +608,9 @@
         "ty": "CO",
         "vi": 833942693,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -481,6 +622,9 @@
         "ty": "CO",
         "vi": 833942559,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -491,6 +635,9 @@
         "ty": "CO",
         "vi": 833942535,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -501,6 +648,9 @@
         "ty": "CO",
         "vi": 833942837,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -512,6 +662,9 @@
         "ty": "CO",
         "vi": 833942805,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -523,6 +676,9 @@
         "ty": "CO",
         "vi": 833942510,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -534,6 +690,9 @@
         "ty": "CO",
         "vi": 833942490,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -545,6 +704,9 @@
         "ty": "CO",
         "vi": 833942410,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -555,6 +717,9 @@
         "ty": "CO",
         "vi": 833942377,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -565,6 +730,9 @@
         "ty": "CO",
         "vi": 833942463,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -575,6 +743,9 @@
         "ty": "CO",
         "vi": 833942429,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -585,6 +756,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -595,6 +769,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -605,6 +782,9 @@
         "ty": "CO",
         "vi": 833941969,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -615,6 +795,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -624,6 +807,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -633,6 +819,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -642,6 +831,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -651,6 +843,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 3,
+        "sd": 1,
+        "md": 0,
         "c1": "Body Cross"
     },
     {
@@ -660,6 +855,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -670,6 +868,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -680,6 +881,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -690,6 +894,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -700,6 +907,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -711,6 +921,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -722,6 +935,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -732,6 +948,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -742,6 +961,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -752,6 +974,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Leg Cross"
     },
@@ -762,6 +987,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -772,6 +1000,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -782,6 +1013,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -792,6 +1026,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -802,6 +1039,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -812,6 +1052,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -822,6 +1065,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Body Cross",
         "c2": "Ground Cross"
     },
@@ -832,6 +1078,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Leg Cross",
         "c2": "Body Cross"
     },
@@ -842,6 +1091,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Switch Cross"
@@ -853,6 +1105,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Body Cross"
     },
@@ -863,6 +1118,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Body Cross"
     },
@@ -873,6 +1131,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Body Cross"
     },
@@ -883,6 +1144,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -893,6 +1157,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -903,6 +1170,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -912,6 +1182,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -921,6 +1194,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -930,6 +1206,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -939,6 +1218,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -948,6 +1230,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -957,6 +1242,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -967,6 +1255,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -977,6 +1268,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Tucked Cross"
     },
@@ -987,6 +1281,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Tucked Cross",
         "c3": "Switch Cross"
@@ -998,6 +1295,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Tucked Cross",
         "c3": "Switch Cross"
@@ -1009,6 +1309,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Tucked Cross"
     },
@@ -1019,6 +1322,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Tucked Cross",
         "c3": "Switch Cross"
@@ -1030,6 +1336,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Tucked Cross",
         "c3": "Switch Cross"
@@ -1041,6 +1350,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1050,6 +1362,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1058,6 +1373,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross"
     },
     {
@@ -1066,6 +1384,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1074,6 +1395,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -1083,6 +1407,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -1092,6 +1419,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross"
     },
     {
@@ -1100,6 +1430,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -1109,6 +1442,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross"
     },
@@ -1118,6 +1454,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross"
     },
@@ -1127,6 +1466,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross"
     },
@@ -1136,6 +1478,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross"
     },
@@ -1145,6 +1490,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross",
         "c3": "Switch Cross"
@@ -1155,6 +1503,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Leg Cross"
     },
     {
@@ -1163,6 +1514,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Switch Cross"
@@ -1173,6 +1527,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Body Cross"
     },
@@ -1182,6 +1539,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Body Cross"
     },
@@ -1191,6 +1551,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Leg Cross",
         "c2": "Body Cross"
     },
@@ -1200,6 +1563,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1208,6 +1574,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1216,6 +1585,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -1225,6 +1597,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -1234,6 +1609,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -1244,6 +1622,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1253,6 +1634,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1261,6 +1645,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1269,6 +1656,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1277,6 +1667,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1285,6 +1678,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -1294,6 +1690,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Tucked Cross"
     },
@@ -1303,6 +1702,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Tucked Cross"
     },
@@ -1312,6 +1714,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross"
     },
     {
@@ -1320,6 +1725,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1328,6 +1736,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross"
     },
     {
@@ -1336,6 +1747,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Switch Cross"
     },
@@ -1345,6 +1759,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1353,6 +1770,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross"
     },
@@ -1362,6 +1782,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross"
     },
@@ -1371,6 +1794,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross"
     },
@@ -1380,122 +1806,12 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Ground Cross",
         "c3": "Switch Cross"
-    },
-    {
-        "na": "Elephant to Toad (via Toad Swing)",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross"
-    },
-    {
-        "na": "Elephant to Toad (via Double Toad Swing)",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross"
-    },
-    {
-        "na": "Elephant to Inverse Toad (via Inverse Toad Swing)",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross"
-    },
-    {
-        "na": "Elephant to Inverse Toad (via Double Inverse Toad Swing)",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross"
-    },
-    {
-        "na": "Elephant to Toad Gogo",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross",
-        "c2": "Gogo Cross"
-    },
-    {
-        "na": "Elephant to Inverse Toad Gogo",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross",
-        "c2": "Gogo Cross"
-    },
-    {
-        "na": "Elephant to EB Toad",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross"
-    },
-    {
-        "na": "Elephant to Inverse EB Toad",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross"
-    },
-    {
-        "na": "Elephant to Leg Over",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross"
-    },
-    {
-        "na": "Elephant to AS",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross",
-        "c2": "Ground Cross"
-    },
-    {
-        "na": "Elephant to CL",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Leg Cross",
-        "c2": "Ground Cross"
-    },
-    {
-        "na": "Elephant to Toad Gogo",
-        "sk": "> Elephant > Toad Gogo >",
-        "no": "It, (To)o,",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Gogo Cross",
-        "c2": "Leg Cross",
-        "c5": "Front Cross"
-    },
-    {
-        "na": "Elephant to Inverse Toad Gogo",
-        "sk": "> Elephant > Inverse Toad Gogo >",
-        "no": "It, (Io)o,",
-        "ty": "CO",
-        "vi": 832935120,
-        "ca": "CC",
-        "c1": "Gogo Cross",
-        "c2": "Leg Cross"
-    },
-    {
-        "na": "EB Toad to Toad Gogo",
-        "sk": "> Swing > EB Toad > Toad Gogo >",
-        "no": "S, Et, (To)o,",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Gogo Cross",
-        "c2": "Leg Cross",
-        "c5": "Front Cross"
     },
     {
         "na": "Leg Over to Dive EB",
@@ -1504,6 +1820,9 @@
         "ty": "CO",
         "vi": 832785536,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Dive in"
@@ -1515,10 +1834,154 @@
         "ty": "CO",
         "vi": 832785320,
         "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Dive in",
         "c4": "Swing out"
+    },
+    {
+        "na": "Elephant to Toad (via Toad Swing)",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Toad (via Double Toad Swing)",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad (via Inverse Toad Swing)",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad (via Double Inverse Toad Swing)",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Toad Gogo",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Gogo Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad Gogo",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Gogo Cross"
+    },
+    {
+        "na": "Elephant to EB Toad",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse EB Toad",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Leg Over",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to AS",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Elephant to CL",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Elephant to Toad Gogo",
+        "sk": "> Elephant > Toad Gogo >",
+        "no": "It, (To)o,",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Cross",
+        "c2": "Leg Cross",
+        "c5": "Front Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad Gogo",
+        "sk": "> Elephant > Inverse Toad Gogo >",
+        "no": "It, (Io)o,",
+        "ty": "CO",
+        "vi": 832935120,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Cross",
+        "c2": "Leg Cross"
     },
     {
         "na": "T-Toad to Cross",
@@ -1527,6 +1990,9 @@
         "ty": "CO",
         "vi": 833062558,
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Tucked Cross",
         "c2": "Leg Cross"
     },
@@ -1537,6 +2003,9 @@
         "ty": "CO",
         "vi": 832936352,
         "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Gogo Cross",
         "c2": "Leg Cross"
     },
@@ -1547,16 +2016,10 @@
         "ty": "CO",
         "vi": 832936311,
         "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Gogo Cross",
-        "c2": "Leg Cross"
-    },
-    {
-        "na": "EB Toad to Inverse Toad Knot",
-        "no": "S, Ei, (Io)e, (I)c,",
-        "ty": "CO",
-        "vi": "CS",
-        "ca": "CC",
-        "c1": "Knot Cross",
         "c2": "Leg Cross"
     },
     {
@@ -1565,6 +2028,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Awesome Annie"
     },
@@ -1574,6 +2040,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Awesome Annie",
         "c3": "Switch Cross"
@@ -1584,6 +2053,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "SC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Awesome Annie",
         "c3": "Tucked Cross"
@@ -1594,6 +2066,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Awesome Annie"
     },
@@ -1603,6 +2078,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Awesome Annie",
         "c3": "Switch Cross"
@@ -1613,8 +2091,37 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "SC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross",
         "c2": "Awesome Annie"
+    },
+    {
+        "na": "EB Toad to Toad Gogo",
+        "sk": "> Swing > EB Toad > Toad Gogo >",
+        "no": "S, Et, (To)o,",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Cross",
+        "c2": "Leg Cross",
+        "c5": "Front Cross"
+    },
+    {
+        "na": "EB Toad to Inverse Toad Knot",
+        "no": "S, Ei, (Io)e, (I)c,",
+        "ty": "CO",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 3,
+        "sd": 4,
+        "md": 0,
+        "c1": "Knot Cross",
+        "c2": "Leg Cross"
     },
     {
         "na": "EB Toad to Toad",
@@ -1623,6 +2130,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1632,6 +2142,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Leg Cross"
     },
     {
@@ -1641,6 +2154,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Awesome Annie",
         "c2": "Leg Cross"
     },
@@ -1651,6 +2167,9 @@
         "ty": "CO",
         "vi": 833938212,
         "ca": "CD",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross"
     },
@@ -1661,6 +2180,9 @@
         "ty": "CO",
         "vi": 833938235,
         "ca": "CD",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross"
     },
@@ -1671,6 +2193,9 @@
         "ty": "CO",
         "vi": 833938520,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross",
         "c3": "Switch Cross"
@@ -1682,6 +2207,9 @@
         "ty": "CO",
         "vi": 833938435,
         "ca": "CD",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross"
     },
@@ -1692,6 +2220,9 @@
         "ty": "CO",
         "vi": 833938537,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross",
         "c3": "Leg Cross"
@@ -1703,6 +2234,9 @@
         "ty": "CO",
         "vi": 833938456,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross",
         "c3": "Leg Cross"
@@ -1714,6 +2248,9 @@
         "ty": "CO",
         "vi": 833938502,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross",
         "c3": "Leg Cross"
@@ -1725,6 +2262,9 @@
         "ty": "CO",
         "vi": 833938750,
         "ca": "CD",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross"
     },
@@ -1735,6 +2275,9 @@
         "ty": "CO",
         "vi": 833938800,
         "ca": "CD",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross"
     },
@@ -1745,6 +2288,9 @@
         "ty": "CO",
         "vi": 833938894,
         "ca": "CD",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross",
         "c3": "Switch Cross"
@@ -1756,6 +2302,9 @@
         "ty": "CO",
         "vi": 833938771,
         "ca": "CD",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross"
     },
@@ -1766,6 +2315,9 @@
         "ty": "CO",
         "vi": 833938923,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross",
         "c3": "Leg Cross"
@@ -1777,6 +2329,9 @@
         "ty": "CO",
         "vi": 833938823,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross",
         "c3": "Leg Cross"
@@ -1788,6 +2343,9 @@
         "ty": "CO",
         "vi": 833938857,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Body Cross",
         "c3": "Leg Cross"
@@ -1799,6 +2357,9 @@
         "ty": "CO",
         "vi": 833939036,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Leg Cross"
     },
@@ -1809,6 +2370,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Leg Cross"
     },
@@ -1819,6 +2383,9 @@
         "ty": "CO",
         "vi": 833938964,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Leg Cross"
     },
@@ -1829,6 +2396,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Leg Cross"
     },
@@ -1839,6 +2409,9 @@
         "ty": "CO",
         "vi": 833939005,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Leg Cross"
     },
@@ -1849,6 +2422,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Leg Cross"
     },
@@ -1859,6 +2435,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Leg Cross",
         "c3": "Body Cross"
@@ -1870,6 +2449,9 @@
         "ty": "CO",
         "vi": 833937066,
         "ca": "CD",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
         "c1": "Backwards 180",
         "c2": "Texan 180",
         "c3": "Body Cross",
@@ -1882,6 +2464,9 @@
         "ty": "CO",
         "vi": 833937092,
         "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Backwards 180",
         "c2": "Texan 180",
         "c3": "Body Cross",
@@ -1895,6 +2480,9 @@
         "ty": "CO",
         "vi": 833937353,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Body Cross"
     },
@@ -1905,6 +2493,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Body Cross"
     },
@@ -1915,6 +2506,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Body Cross"
     },
@@ -1925,6 +2519,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross"
     },
@@ -1935,6 +2532,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross"
     },
@@ -1945,6 +2545,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross"
     },
@@ -1955,6 +2558,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross"
     },
@@ -1965,6 +2571,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross"
     },
@@ -1975,6 +2584,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -1986,6 +2598,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -1997,6 +2612,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross"
     },
@@ -2007,6 +2625,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Cross"
     },
@@ -2017,6 +2638,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Ground Cross"
     },
@@ -2027,6 +2651,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Ground Cross"
     },
@@ -2037,6 +2664,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Ground Cross"
     },
@@ -2047,6 +2677,9 @@
         "ty": "CO",
         "vi": 833937415,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Body Cross"
     },
@@ -2055,6 +2688,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Body Cross",
         "c3": "Swing in"
@@ -2064,6 +2700,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Body Cross",
         "c3": "Swing in"
@@ -2073,6 +2712,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in"
@@ -2082,6 +2724,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in"
@@ -2091,6 +2736,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in"
@@ -2100,6 +2748,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in"
@@ -2109,6 +2760,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in"
@@ -2118,6 +2772,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in",
@@ -2128,6 +2785,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in",
@@ -2138,6 +2798,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in"
@@ -2147,6 +2810,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Cross",
         "c3": "Swing in"
@@ -2156,6 +2822,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Ground Cross",
         "c3": "Swing in"
@@ -2165,6 +2834,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Ground Cross",
         "c3": "Swing in"
@@ -2174,6 +2846,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Ground Cross",
         "c3": "Swing in"
@@ -2185,6 +2860,9 @@
         "ty": "CO",
         "vi": 833937502,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Body Cross"
     },
@@ -2195,6 +2873,9 @@
         "ty": "CO",
         "vi": 833937523,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Body Cross"
     },
@@ -2204,6 +2885,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Body Cross"
     },
@@ -2213,6 +2897,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Body Cross"
@@ -2222,6 +2909,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Body Cross"
@@ -2231,6 +2921,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Body Cross"
@@ -2240,6 +2933,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2249,6 +2945,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2258,6 +2957,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2267,6 +2969,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2276,6 +2981,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2285,6 +2993,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2295,6 +3006,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2305,6 +3019,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2314,6 +3031,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2323,6 +3043,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Ground Cross"
@@ -2332,6 +3055,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Ground Cross"
@@ -2341,6 +3067,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Ground Cross"
@@ -2352,6 +3081,9 @@
         "ty": "CO",
         "vi": 833937733,
         "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Body Cross",
@@ -2362,6 +3094,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Body Cross",
@@ -2372,6 +3107,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Body Cross",
@@ -2382,6 +3120,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2392,6 +3133,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2402,6 +3146,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2412,6 +3159,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2422,6 +3172,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2432,6 +3185,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2443,6 +3199,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2454,6 +3213,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2464,6 +3226,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Leg Cross",
@@ -2474,6 +3239,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Ground Cross",
@@ -2484,6 +3252,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Ground Cross",
@@ -2494,6 +3265,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Dive Turn",
         "c3": "Ground Cross",
@@ -2506,6 +3280,9 @@
         "ty": "CO",
         "vi": 833938589,
         "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Dive Turn",
         "c3": "Body Cross"
@@ -2517,6 +3294,9 @@
         "ty": "CO",
         "vi": 833938618,
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Dive Turn",
         "c3": "Body Cross"
@@ -2528,6 +3308,9 @@
         "ty": "CO",
         "vi": 833938733,
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2539,6 +3322,9 @@
         "ty": "CO",
         "vi": 833938645,
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "Forwards 180",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2550,6 +3336,9 @@
         "ty": "CO",
         "vi": 833938659,
         "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": -0.5,
         "c1": "Forwards 180",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2561,6 +3350,9 @@
         "ty": "CO",
         "vi": 833938706,
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "Forwards 180",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2572,6 +3364,9 @@
         "ty": "CO",
         "vi": 833938676,
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "Forwards 180",
         "c2": "Dive Turn",
         "c3": "Leg Cross"
@@ -2583,6 +3378,9 @@
         "ty": "CO",
         "vi": 833936861,
         "ca": "DC",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
         "c1": "Backwards 180",
         "c2": "Body Cross",
         "nn": "BW 180 to Cross"
@@ -2594,6 +3392,9 @@
         "ty": "CO",
         "vi": 833936930,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Backwards 180",
         "c2": "Body Cross",
         "c3": "Switch Cross",
@@ -2606,6 +3407,9 @@
         "ty": "CO",
         "vi": 833936881,
         "ca": "DC",
+        "hs": 0,
+        "sd": 1,
+        "md": -0.5,
         "c1": "Backwards 180",
         "c2": "Body Cross",
         "nn": "BW 180 to Swing Cross"
@@ -2617,6 +3421,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Backwards 180",
         "c2": "Body Cross",
         "nn": "BW 180 to EB"
@@ -2628,6 +3435,9 @@
         "ty": "CO",
         "vi": 833936996,
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Backwards 180",
         "c2": "Leg Cross",
         "nn": "BW 180 to Toad"
@@ -2639,6 +3449,9 @@
         "ty": "CO",
         "vi": 833936959,
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Backwards 180",
         "c2": "Leg Cross",
         "c3": "Switch Cross",
@@ -2651,6 +3464,9 @@
         "ty": "CO",
         "vi": 833936903,
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Backwards 180",
         "c2": "Leg Cross",
         "nn": "BW 180 to Swing Toad"
@@ -2662,8 +3478,12 @@
         "ty": "CO",
         "vi": 833937136,
         "ca": "DC",
-        "c1": "Texan 180",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
         "c2": "Body Cross",
+        "c4": "Texan Turn",
         "nn": "BW Texan 180 to Cross"
     },
     {
@@ -2673,9 +3493,13 @@
         "ty": "CO",
         "vi": 833937158,
         "ca": "DC",
-        "c1": "Texan 180",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
         "c2": "Body Cross",
         "c3": "Switch Cross",
+        "c4": "Texan Turn",
         "nn": "BW Texan 180 to Switch Cross"
     },
     {
@@ -2685,8 +3509,12 @@
         "ty": "CO",
         "vi": 833937203,
         "ca": "DC",
-        "c1": "Texan 180",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
         "c2": "Leg Cross",
+        "c4": "Texan Turn",
         "nn": "BW Texan 180 to Toad"
     },
     {
@@ -2696,9 +3524,13 @@
         "ty": "CO",
         "vi": 833937178,
         "ca": "DC",
-        "c1": "Texan 180",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
         "c2": "Leg Cross",
         "c3": "Switch Cross",
+        "c4": "Texan Turn",
         "nn": "BW Texan 180 to Switch Toad"
     },
     {
@@ -2708,8 +3540,12 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
-        "c1": "Texan 180",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
         "c2": "Body Cross",
+        "c4": "Texan Turn",
         "nn": "BW Texan 180 to EB"
     },
     {
@@ -2718,6 +3554,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross"
@@ -2728,6 +3567,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 3,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross"
@@ -2738,6 +3580,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross"
@@ -2748,6 +3593,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross"
@@ -2758,6 +3606,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 3,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross"
@@ -2768,6 +3619,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross"
@@ -2777,6 +3631,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross",
@@ -2787,6 +3644,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross",
@@ -2797,6 +3657,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross",
@@ -2807,6 +3670,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross",
@@ -2817,6 +3683,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross",
@@ -2827,6 +3696,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "360 Turn",
         "c2": "Leg Hook Turn",
         "c3": "Leg Cross",
@@ -2839,6 +3711,9 @@
         "ty": "CO",
         "vi": 833937870,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Half Turn",
         "c2": "Body Cross"
     },
@@ -2849,6 +3724,9 @@
         "ty": "CO",
         "vi": 833937892,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Half Turn",
         "c2": "Body Cross"
     },
@@ -2859,6 +3737,9 @@
         "ty": "CO",
         "vi": 833937681,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Half Turn",
         "c2": "Body Cross"
     },
@@ -2869,6 +3750,9 @@
         "ty": "CO",
         "vi": 833937700,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Half Turn",
         "c2": "Body Cross"
     },
@@ -2878,6 +3762,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": -0.5,
         "c1": "Half Turn",
         "c2": "Body Cross",
         "c3": "Dive Turn"
@@ -2888,6 +3775,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": 0,
         "c1": "Half Turn",
         "c2": "Body Cross",
         "c3": "Dive Turn"
@@ -2898,6 +3788,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Body Cross"
     },
@@ -2907,6 +3800,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Body Cross"
     },
@@ -2916,6 +3812,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Body Cross"
     },
@@ -2925,6 +3824,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Leg Cross"
     },
@@ -2934,6 +3836,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Leg Cross"
     },
@@ -2943,6 +3848,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Leg Cross"
     },
@@ -2952,6 +3860,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Leg Cross"
     },
@@ -2961,6 +3872,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Leg Cross"
     },
@@ -2970,6 +3884,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Ground Cross"
     },
@@ -2979,6 +3896,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Full Turn",
         "c2": "Ground Cross"
     },
@@ -2989,6 +3909,9 @@
         "ty": "CO",
         "vi": 833941054,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "Full Turn",
         "c3": "Body Cross"
@@ -3000,6 +3923,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "Full Turn",
         "c3": "Body Cross"
@@ -3011,6 +3937,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "Full Turn",
         "c3": "Body Cross"
@@ -3022,6 +3951,9 @@
         "ty": "CO",
         "vi": 833941022,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "360 Turn",
         "c3": "Body Cross"
@@ -3032,6 +3964,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "360 Turn",
         "c3": "Body Cross"
@@ -3043,6 +3978,9 @@
         "ty": "CO",
         "vi": 833940752,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "360 Turn",
         "c3": "Body Cross"
@@ -3053,6 +3991,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "360 Turn",
         "c3": "Body Cross"
@@ -3064,6 +4005,9 @@
         "ty": "CO",
         "vi": 833941136,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "Half Turn",
         "c3": "Body Cross"
@@ -3075,6 +4019,9 @@
         "ty": "CO",
         "vi": 833940856,
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "Half Turn",
         "c3": "Body Cross"
@@ -3085,6 +4032,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "Half Turn",
         "c3": "Body Cross"
@@ -3095,6 +4045,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Texan Turn",
         "c2": "Half Turn",
         "c3": "Body Cross"
@@ -3106,6 +4059,9 @@
         "ty": "CO",
         "vi": 833648654,
         "ca": "CW",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Body Cross"
     },
@@ -3116,6 +4072,9 @@
         "ty": "CO",
         "vi": 833651284,
         "ca": "WC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3126,6 +4085,9 @@
         "ty": "CO",
         "vi": 833650738,
         "ca": "WC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3136,6 +4098,9 @@
         "ty": "CO",
         "vi": 833651062,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -3147,6 +4112,9 @@
         "ty": "CO",
         "vi": 833650317,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3157,6 +4125,9 @@
         "ty": "CO",
         "vi": 833649995,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Ground Cross"
     },
@@ -3167,6 +4138,9 @@
         "ty": "CO",
         "vi": 833653586,
         "ca": "CW",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Body Cross"
     },
@@ -3177,6 +4151,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Body Cross"
     },
@@ -3187,6 +4164,9 @@
         "ty": "CO",
         "vi": 833653312,
         "ca": "CW",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
         "c1": "Arm Wrap",
         "c2": "Body Cross",
         "c4": "Swing out"
@@ -3198,6 +4178,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3207,6 +4190,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3216,6 +4202,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3225,6 +4214,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3235,6 +4227,9 @@
         "ty": "CO",
         "vi": 833669220,
         "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3245,6 +4240,9 @@
         "ty": "CO",
         "vi": 833668179,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3255,6 +4253,9 @@
         "ty": "CO",
         "vi": 833667874,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3265,6 +4266,9 @@
         "ty": "CO",
         "vi": 833668476,
         "ca": "SW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross"
@@ -3276,6 +4280,9 @@
         "ty": "CO",
         "vi": 833670211,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3286,6 +4293,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3296,6 +4306,9 @@
         "ty": "CO",
         "vi": 833669849,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Ground Cross"
     },
@@ -3306,6 +4319,9 @@
         "ty": "CO",
         "vi": 833663514,
         "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3315,6 +4331,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3325,6 +4344,9 @@
         "ty": "CO",
         "vi": 833663056,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3335,6 +4357,9 @@
         "ty": "CO",
         "vi": 833664842,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3345,6 +4370,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3355,6 +4383,9 @@
         "ty": "CO",
         "vi": 833666193,
         "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3365,6 +4396,9 @@
         "ty": "CO",
         "vi": 833667204,
         "ca": "SW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross"
@@ -3376,6 +4410,9 @@
         "ty": "CO",
         "vi": 833665890,
         "ca": "SW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross"
@@ -3387,6 +4424,9 @@
         "ty": "CO",
         "vi": 833665581,
         "ca": "SW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross"
@@ -3397,6 +4437,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3407,6 +4450,9 @@
         "ty": "CO",
         "vi": 833659533,
         "ca": "CW",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Body Cross"
     },
@@ -3417,6 +4463,9 @@
         "ty": "CO",
         "vi": 833652108,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3427,6 +4476,9 @@
         "ty": "CO",
         "vi": 833661219,
         "ca": "CW",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Body Cross"
     },
@@ -3437,6 +4489,9 @@
         "ty": "CO",
         "vi": 833652608,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3446,6 +4501,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Body Cross"
     },
@@ -3455,6 +4513,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
         "c1": "Arm Wrap",
         "c2": "Body Cross"
     },
@@ -3465,6 +4526,9 @@
         "ty": "CO",
         "vi": 833737096,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Body Cross"
     },
@@ -3475,6 +4539,9 @@
         "ty": "CO",
         "vi": 833758935,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3485,6 +4552,9 @@
         "ty": "CO",
         "vi": 833758299,
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Gogo Cross"
@@ -3496,6 +4566,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Knot Cross"
@@ -3507,6 +4580,9 @@
         "ty": "CO",
         "vi": 833760550,
         "ca": "WC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Gogo Cross"
@@ -3518,6 +4594,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 3,
+        "sd": 4,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Knot Cross"
@@ -3529,6 +4608,9 @@
         "ty": "CO",
         "vi": 833759965,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3539,6 +4621,9 @@
         "ty": "CO",
         "vi": 833749250,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3549,6 +4634,9 @@
         "ty": "CO",
         "vi": 833748618,
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Gogo Cross"
@@ -3560,6 +4648,9 @@
         "ty": "CO",
         "vi": 833749704,
         "ca": "CW",
+        "hs": 3,
+        "sd": 4,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Knot Cross"
@@ -3571,6 +4662,9 @@
         "ty": "CO",
         "vi": 833751888,
         "ca": "WC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Gogo Cross"
@@ -3582,6 +4676,9 @@
         "ty": "CO",
         "vi": 833752435,
         "ca": "WC",
+        "hs": 3,
+        "sd": 4,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Knot Cross"
@@ -3593,6 +4690,9 @@
         "ty": "CO",
         "vi": 833751308,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3603,6 +4703,9 @@
         "ty": "CO",
         "vi": 833753542,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3612,6 +4715,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3621,6 +4727,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Gogo Cross"
@@ -3632,6 +4741,9 @@
         "ty": "CO",
         "vi": 833756239,
         "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -3643,6 +4755,9 @@
         "ty": "CO",
         "vi": 833738068,
         "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Gogo Arm Wrap",
         "c2": "Leg Cross"
     },
@@ -3653,6 +4768,9 @@
         "ty": "CO",
         "vi": 833936395,
         "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Leg Cross"
     },
@@ -3663,6 +4781,9 @@
         "ty": "CO",
         "vi": 833936129,
         "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Leg Cross"
     },
@@ -3673,6 +4794,9 @@
         "ty": "CO",
         "vi": 833936221,
         "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Leg Cross"
     },
@@ -3683,6 +4807,9 @@
         "ty": "CO",
         "vi": 833936073,
         "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Leg Cross"
     },
@@ -3691,6 +4818,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Body Cross"
     },
@@ -3701,6 +4831,9 @@
         "ty": "CO",
         "vi": 833934104,
         "ca": "SW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross"
@@ -3712,6 +4845,9 @@
         "ty": "CO",
         "vi": 833934162,
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Leg Cross"
     },
@@ -3722,6 +4858,9 @@
         "ty": "CO",
         "vi": 833934181,
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Leg Cross"
     },
@@ -3732,6 +4871,9 @@
         "ty": "CO",
         "vi": 833934204,
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Leg Cross"
     },
@@ -3742,6 +4884,9 @@
         "ty": "CO",
         "vi": 833933787,
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Leg Cross"
     },
@@ -3752,6 +4897,9 @@
         "ty": "CO",
         "vi": 833933812,
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Leg Cross"
     },
@@ -3762,6 +4910,9 @@
         "ty": "CO",
         "vi": 833933831,
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Leg Cross"
     },
@@ -3772,6 +4923,9 @@
         "ty": "CO",
         "vi": 833934048,
         "ca": "SW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross"
@@ -3783,6 +4937,9 @@
         "ty": "CO",
         "vi": 833934000,
         "ca": "SW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross"
@@ -3794,6 +4951,9 @@
         "ty": "CO",
         "vi": 833933981,
         "ca": "SW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie",
         "c3": "Leg Cross"
@@ -3803,6 +4963,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Body Cross"
     },
@@ -3811,6 +4974,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Ground Cross"
     },
@@ -3819,6 +4985,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3827,6 +4996,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3835,6 +5007,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3843,6 +5018,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3851,6 +5029,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3859,6 +5040,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3867,6 +5051,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3875,6 +5062,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3883,6 +5073,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3891,6 +5084,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3899,6 +5095,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3907,6 +5106,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3915,6 +5117,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3923,6 +5128,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3931,6 +5139,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3939,6 +5150,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3947,6 +5161,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3955,6 +5172,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3963,6 +5183,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3971,6 +5194,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3979,6 +5205,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3987,6 +5216,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -3995,6 +5227,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -4003,6 +5238,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -4011,6 +5249,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -4019,6 +5260,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Double Wrap",
         "c2": "Arm Wrap"
     },
@@ -4028,6 +5272,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap",
         "c3": "Leg Cross"
@@ -4038,6 +5285,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap",
         "c3": "Leg Cross"
@@ -4048,6 +5298,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap",
         "c3": "Leg Cross"
@@ -4058,6 +5311,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap",
         "c3": "Leg Cross"
@@ -4068,6 +5324,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap",
         "c3": "Leg Cross"
@@ -4078,6 +5337,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap",
         "c3": "Leg Cross"
@@ -4088,6 +5350,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap",
         "c3": "Leg Cross"
@@ -4098,6 +5363,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap",
         "c3": "Leg Cross"
@@ -4108,6 +5376,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap"
     },
@@ -4117,6 +5388,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap"
     },
@@ -4126,6 +5400,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap"
     },
@@ -4135,6 +5412,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
         "c1": "Leg Wrap",
         "c2": "Gogo Unwrap"
     },
@@ -4145,6 +5425,9 @@
         "ty": "CO",
         "vi": 833930635,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4155,6 +5438,9 @@
         "ty": "CO",
         "vi": 833933111,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4165,6 +5451,9 @@
         "ty": "CO",
         "vi": 833930487,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4175,6 +5464,9 @@
         "ty": "CO",
         "vi": 833933047,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4185,6 +5477,9 @@
         "ty": "CO",
         "vi": 833930583,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4195,6 +5490,9 @@
         "ty": "CO",
         "vi": 833933082,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4204,6 +5502,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4213,6 +5514,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4223,6 +5527,9 @@
         "ty": "CO",
         "vi": 833930343,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4233,6 +5540,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4243,6 +5553,9 @@
         "ty": "CO",
         "vi": 833930274,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4251,6 +5564,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 3,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4259,6 +5575,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 3,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4269,6 +5588,9 @@
         "ty": "CO",
         "vi": 833930707,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4279,6 +5601,9 @@
         "ty": "CO",
         "vi": 833930139,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4289,6 +5614,9 @@
         "ty": "CO",
         "vi": 833930258,
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4299,6 +5627,9 @@
         "ty": "CO",
         "vi": 833930609,
         "ca": "WW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4309,6 +5640,9 @@
         "ty": "CO",
         "vi": 833930437,
         "ca": "WW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4319,6 +5653,9 @@
         "ty": "CO",
         "vi": 833930509,
         "ca": "WW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4329,6 +5666,9 @@
         "ty": "CO",
         "vi": 833930409,
         "ca": "WW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4337,6 +5677,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4345,6 +5688,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4353,6 +5699,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4361,6 +5710,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4369,6 +5721,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4377,6 +5732,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
         "c1": "Thigh Wrap",
         "c2": "Gogo Arm Wrap"
     },
@@ -4385,6 +5743,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0.5,
         "c1": "Leg Wrap"
     },
     {
@@ -4392,6 +5753,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0.5,
         "c1": "Leg Wrap"
     },
     {
@@ -4399,6 +5763,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0.5,
         "c1": "Leg Wrap"
     },
     {
@@ -4406,6 +5773,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0.5,
         "c1": "Leg Wrap"
     },
     {
@@ -4413,6 +5783,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0.5,
         "c1": "Leg Wrap"
     },
     {
@@ -4420,6 +5793,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0.5,
         "c1": "Leg Wrap"
     },
     {
@@ -4429,6 +5805,9 @@
         "ty": "CO",
         "vi": 833935569,
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "One-Handed Wrap",
         "c2": "Thigh Wrap",
         "c3": "Arm Wrap"
@@ -4440,6 +5819,9 @@
         "ty": "CO",
         "vi": 833935366,
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "One-Handed Wrap",
         "c2": "Thigh Wrap",
         "c3": "Arm Wrap"
@@ -4451,6 +5833,9 @@
         "ty": "CO",
         "vi": 833935485,
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "One-Handed Wrap",
         "c2": "Thigh Wrap",
         "c3": "Arm Wrap"
@@ -4462,6 +5847,9 @@
         "ty": "CO",
         "vi": 833935193,
         "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "One-Handed Wrap",
         "c2": "Thigh Wrap",
         "c3": "Arm Wrap"
@@ -4473,6 +5861,9 @@
         "ty": "CO",
         "vi": 848349484,
         "ca": "RC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Body Cross"
     },
@@ -4483,6 +5874,9 @@
         "ty": "CO",
         "vi": 848350128,
         "ca": "RC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Mic Release",
         "c2": "Body Cross"
     },
@@ -4493,6 +5887,9 @@
         "ty": "CO",
         "vi": 848349427,
         "ca": "RC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Mic Release",
         "c2": "Body Cross",
         "c5": "Swing in"
@@ -4504,6 +5901,9 @@
         "ty": "CO",
         "vi": 848349633,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Body Cross"
     },
@@ -4514,6 +5914,9 @@
         "ty": "CO",
         "vi": 848349519,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Mic Release",
         "c2": "Body Cross"
     },
@@ -4524,6 +5927,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Body Cross"
     },
@@ -4534,6 +5940,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Mic Release",
         "c2": "Body Cross"
     },
@@ -4544,6 +5953,9 @@
         "ty": "CO",
         "vi": 848350403,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4554,6 +5966,9 @@
         "ty": "CO",
         "vi": 848350237,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4564,6 +5979,9 @@
         "ty": "CO",
         "vi": 848350326,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c5": "Swing in"
@@ -4575,6 +5993,9 @@
         "ty": "CO",
         "vi": 848350363,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c5": "Swing in"
@@ -4586,6 +6007,9 @@
         "ty": "CO",
         "vi": 848350011,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4596,6 +6020,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4606,6 +6033,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c5": "Swing in"
@@ -4617,6 +6047,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c5": "Swing in"
@@ -4628,6 +6061,9 @@
         "ty": "CO",
         "vi": 848350095,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4638,6 +6074,9 @@
         "ty": "CO",
         "vi": 848350200,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4648,6 +6087,9 @@
         "ty": "CO",
         "vi": 848349969,
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -4659,6 +6101,9 @@
         "ty": "CO",
         "vi": 848350275,
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
@@ -4671,6 +6116,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c3": "Tucked Cross"
@@ -4682,6 +6130,9 @@
         "ty": "CO",
         "vi": 848349929,
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c3": "Tucked Cross",
@@ -4694,6 +6145,9 @@
         "ty": "CO",
         "vi": 848349848,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4704,6 +6158,9 @@
         "ty": "CO",
         "vi": 848349884,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4714,6 +6171,9 @@
         "ty": "CO",
         "vi": 848350053,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4724,6 +6184,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Mic Release",
         "c2": "Leg Cross"
     },
@@ -4734,6 +6197,9 @@
         "ty": "CO",
         "vi": 848349675,
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c5": "Swing in"
@@ -4745,6 +6211,9 @@
         "ty": "CO",
         "vi": 848349814,
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Cross",
         "c5": "Swing in"
@@ -4756,6 +6225,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Ground Cross"
     },
@@ -4766,6 +6238,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Ground Cross"
     },
@@ -4776,6 +6251,9 @@
         "ty": "CO",
         "vi": 848349572,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Arm Wrap",
         "c3": "180 Unwrap"
@@ -4787,6 +6265,9 @@
         "ty": "CO",
         "vi": 833583899,
         "ca": "CR",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Leg Cross"
@@ -4798,6 +6279,9 @@
         "ty": "CO",
         "vi": 833583565,
         "ca": "CR",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Leg Cross"
@@ -4809,6 +6293,9 @@
         "ty": "CO",
         "vi": 833583239,
         "ca": "CR",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Leg Cross"
@@ -4820,6 +6307,9 @@
         "ty": "CO",
         "vi": 833582643,
         "ca": "SR",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Awesome Annie"
@@ -4831,6 +6321,9 @@
         "ty": "CO",
         "vi": 833582075,
         "ca": "CR",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Leg Cross"
@@ -4842,6 +6335,9 @@
         "ty": "CO",
         "vi": 833581737,
         "ca": "CR",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Leg Cross"
@@ -4853,6 +6349,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "CR",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Leg Cross"
@@ -4864,6 +6363,9 @@
         "ty": "CO",
         "vi": 833592822,
         "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Leg Swing"
     },
@@ -4874,6 +6376,9 @@
         "ty": "CO",
         "vi": 833591602,
         "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Leg Swing"
     },
@@ -4884,6 +6389,9 @@
         "ty": "CO",
         "vi": 833590860,
         "ca": "RC",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Body Cross"
     },
@@ -4894,6 +6402,9 @@
         "ty": "CO",
         "vi": 833592299,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Leg Swing",
         "c3": "Leg Cross"
@@ -4905,6 +6416,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Leg Cross"
     },
@@ -4915,6 +6429,9 @@
         "ty": "CO",
         "vi": 833591208,
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Leg Swing",
         "c3": "Leg Cross"
@@ -4926,6 +6443,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Leg Cross"
     },
@@ -4936,6 +6456,9 @@
         "ty": "CO",
         "vi": 833589908,
         "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Handle Pass",
         "c2": "Leg Swing"
     },
@@ -4946,6 +6469,9 @@
         "ty": "CO",
         "vi": 833589382,
         "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
         "c1": "Handle Pass",
         "c2": "Leg Swing"
     },
@@ -4956,6 +6482,9 @@
         "ty": "CO",
         "vi": 833594091,
         "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Leg Swing"
     },
@@ -4966,6 +6495,9 @@
         "ty": "CO",
         "vi": 833593162,
         "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
         "c1": "Handle Pass",
         "c2": "Leg Swing"
     },
@@ -4976,6 +6508,9 @@
         "ty": "CO",
         "vi": 833585812,
         "ca": "RC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "Handle Hold",
         "c2": "Body Cross"
     },
@@ -4986,6 +6521,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Handle Hold",
         "c2": "Leg Cross",
         "c3": "Switch Cross"
@@ -4997,6 +6535,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Handle Hold",
         "c2": "Leg Cross"
     },
@@ -5007,6 +6548,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
         "c1": "Handle Hold",
         "c2": "Leg Cross"
     },
@@ -5017,6 +6561,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Handle Hold",
         "c2": "Leg Cross"
     },
@@ -5027,6 +6574,9 @@
         "ty": "CO",
         "vi": 833584963,
         "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Handle Hold",
         "c2": "Leg Cross",
         "c3": "Body Cross"
@@ -5038,6 +6588,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Handle Hold",
         "c2": "Leg Cross",
         "c3": "Body Cross"
@@ -5049,6 +6602,9 @@
         "ty": "CO",
         "vi": "CS",
         "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
         "c1": "Handle Hold",
         "c2": "Leg Cross",
         "c3": "Body Cross"
