@@ -2642,7 +2642,7 @@
     },
     {
         "na": "O.H. Toad Gogo Swing",
-        "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Toad Swing > <OH> Toad Gogo Swing > <OH> Toad Swing > <OH> Swing <W> > <OH> Swing <B> >",
+        "sk": "> <OH> Swing <B> > <OH> Swing <W> > <OH> Toad Swing > <OH> Toad Gogo Swing > <OH> Toad Swing > <OH> Swing <W> > <OH> Swing <B>  >",
         "no": "{S}, {S}, {Ts}, {(To)s}, {Ts}, {S}, {S},",
         "vi": 833243582,
         "ca": "S",
@@ -3336,7 +3336,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Gogo Arm Wrap",
         "c2": "Awesome Annie"
     },
@@ -3360,7 +3360,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Gogo Arm Wrap",
         "c2": "Awesome Annie"
     },
@@ -3396,7 +3396,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Gogo Arm Wrap",
         "c2": "Awesome Annie"
     },
@@ -3432,7 +3432,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Gogo Arm Wrap",
         "c2": "Awesome Annie"
     },
@@ -3444,7 +3444,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3456,7 +3456,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3468,7 +3468,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3480,7 +3480,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3492,7 +3492,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap"
     },
     {
@@ -3503,7 +3503,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3513,7 +3513,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3523,7 +3523,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3533,7 +3533,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3543,7 +3543,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Thigh Wrap",
         "c2": "Awesome Annie"
     },
@@ -3620,7 +3620,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 3,
-        "md": 0,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -3656,7 +3656,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 3,
-        "md": 0,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -3692,7 +3692,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 3,
-        "md": 0,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -3716,7 +3716,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 3,
-        "md": 0,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -3740,7 +3740,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 3,
-        "md": 0,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -3764,7 +3764,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 3,
-        "md": 0.5,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie",
         "p2": "Dive in"
@@ -3787,7 +3787,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 3,
-        "md": 0,
+        "md": -0.5,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie"
     },
@@ -3799,7 +3799,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 3,
-        "md": 0.5,
+        "md": 0,
         "c1": "Leg Wrap",
         "p2": "Dive in"
     },
@@ -3811,7 +3811,7 @@
         "ca": "W",
         "hs": 2,
         "sd": 3,
-        "md": 0.5,
+        "md": 0,
         "c1": "Leg Wrap",
         "c2": "Awesome Annie",
         "p2": "Dive in"
@@ -3879,7 +3879,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Step-Through Wrap",
         "c2": "Awesome Annie"
     },
@@ -3899,7 +3899,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Step-Through Wrap",
         "c3": "Awesome Annie",
         "p2": "Swing in"
@@ -3910,7 +3910,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Step-Through Wrap",
         "c2": "Awesome Annie"
     },
@@ -3930,7 +3930,7 @@
         "ca": "W",
         "hs": 1,
         "sd": 2,
-        "md": 0,
+        "md": -0.5,
         "c1": "Step-Through Wrap",
         "c3": "Awesome Annie",
         "p2": "Swing in"
@@ -4200,7 +4200,7 @@
         "c2": "Thigh Wrap"
     },
     {
-        "na": "Leg Over Thigh Wrap 180  (Swing out)",
+        "na": "Leg Over Thigh Wrap 180 (Swing out)",
         "sk": "> Leg Over Swing > Leg Over Thigh Wrap > Unwrap Swing <OS> > Leg Over Swing 180 > <BW> Cross >",
         "no": "Ls, [L]s, [Lc)s, Ls>, C,",
         "vi": 833643715,
