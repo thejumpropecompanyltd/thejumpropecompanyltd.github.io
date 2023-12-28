@@ -1,806 +1,6095 @@
-function selectRandomElements(arr, count, previousSelection = null) {
-    let theFinalSelection = [];
-    let theSelectionCounter = count;
-    let theNextSelection;
-    let thePreviousSelection = previousSelection;
-    let defaultCaseCounter = 0;
-    let categoryRequired;
-    let nameFilter;
-    let isSuitable = false;
-    let possibleExits = [];
-    let adjustedExit;
-
-    function pickRandomTrick(trickCategory = null, nameFilter = null) {
-        let filteredArr = arr;
-
-        if (trickCategory) {
-            filteredArr = arr.filter(trick => trick.ca.startsWith(trickCategory) || trick.c1 === trickCategory || trick.p1 === trickCategory);
-            if (nameFilter) {
-                let nameFilteredArr = filteredArr.filter(trick => trick.na.includes(nameFilter));
-
-                if (nameFilteredArr.length === 0) {
-                    console.log("No tricks found with name filter:", nameFilter, "in the requested category:", trickCategory, ". Broadening search.");
-                } else {
-                    filteredArr = nameFilteredArr;
-                }
-            }
-        }
-
-        if (filteredArr.length === 0) {
-            console.log("No tricks found in the requested category:", trickCategory, "with filter type:", filterType);
-            return null;
-        }
-
-        let randomIndex = Math.floor(Math.random() * filteredArr.length);
-        let selectedTrick = {...filteredArr[randomIndex]};
-
-        if (selectedTrick.ca.length === 2) {
-            selectedTrick.cb = selectedTrick.ca; // storing the 2-letter 'ca' separately for future reference
-            console.log('selectedTrick.cb created:',selectedTrick.cb);
-            if (trickCategory) {
-            selectedTrick.ca = trickCategory;
-            console.log('requested trickCategory assigned to selectedTrick.ca:',selectedTrick.ca);
-        } else {
-            selectedTrick.ca = selectedTrick.ca.charAt(0);
-            console.log('trickCategory is null so selectedTrick.ca created explicitly:',selectedTrick.ca);
-          }
-        }
-
-        console.log('Randomly selected trick:', selectedTrick.na, 'category:', selectedTrick.ca);
-        return selectedTrick;
-    }  
-
-    function removeTheLastOpen(skill) {
-        let parts = skill.sk.split(" > ");
-        if (parts.length > 1) {  
-            skill.sk = parts.slice(0, 1).join(" > ") + " >";
-          }
-        }
-
-    function pickRandomOption(theOptions) {
-        let defaultOpen = {
-            "na": "Open",
-            "sk": "> Open >",
-            "no": "O,",
-            "ca": "C",
-            "c1": "Foundational"
-        };
-    if (Array.isArray(theOptions) && theOptions.length > 0) {
-        let randomIndex = Math.floor(Math.random() * theOptions.length);
-        let selectedOption = theOptions[randomIndex];
-        console.log('Randomly selected option:', selectedOption);
-        return selectedOption;
-    } else {
-        console.log('No options available, using the default...');
-        return defaultOpen;
-        }
-    }    
-    
-
-    // SKILL EXIT MODIFIER FUNCTIONS
-    let isValidEntry = false; // used for intra-case functions only
-    let isValidExit = false;
-    let isNeeded = false; // used for doWeNeedBWTurnNext function only
-    let isValidComboExit = false; // used for intra-case functions only
-
-    function checkCrossExit() {
-        isValidExit = false;
-
-        if (theNextSelection.sk.endsWith('> Cross >')) {
-            console.log('C-F1-1: ',theNextSelection.na,' ends with a Cross');
-            isValidExit = true;
-        } else if (theNextSelection.na.includes('Caboose') || theNextSelection.na.includes('to Caboose')) {
-            console.log('C-F1-2-1: ',theNextSelection.na, ' is a ~Caboose~.');
-            if (theFinalSelection.length < theSelectionCounter) {
-            theFinalSelection.push(theNextSelection);
-            let exitBackwards = Math.random() < 0.5;
-            let theCabooseExit;
-            if (exitBackwards) {
-            categoryRequired = 'Backwards 180';
-            theCabooseExit = pickRandomTrick(categoryRequired);
-            } else {
-            categoryRequired = 'Ground Cross';
-            theCabooseExit = pickRandomTrick(categoryRequired);
-            }
-            theNextSelection = theCabooseExit;
-            console.log('C-F1-2-2: ',theCabooseExit.na, ' added after the ~Caboose~ as sequence is not over yet.');
-            isValidExit = true;
-            }
-        } else {
-            console.log('C-F1-3: ',theNextSelection.na,' did not require no adjustment.');
-            isValidExit = true;
-        }
-        return isValidExit;
+[
+    {
+        "na": "Cross to EB (via Wrist Swing)",
+        "sk": "> Cross > Swing <W> > EB >",
+        "no": "C, S, Ec,",
+        "vi": 833941380,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "Cross to EB (via Box Swing)",
+        "sk": "> Cross > Swing <B> > EB >",
+        "no": "C, S, Ec,",
+        "vi": 833941692,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "Cross to Dive EB",
+        "sk": "> Cross > Open > EB >",
+        "no": "C, O, Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": 0.5,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "Cross to TS",
+        "sk": "> Cross > Open > TS >",
+        "no": "C, O, E,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "Cross to Toad",
+        "sk": "> Cross > Toad >",
+        "no": "C, Tc,",
+        "vi": 833941860,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Cross to Inverse Toad",
+        "sk": "> Cross > Inverse Toad >",
+        "no": "C, Ic,",
+        "vi": 833941556,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Cross to Leg Over",
+        "sk": "> Cross > Leg Over > Cross >",
+        "no": "C, Lo, C,",
+        "vi": 833941582,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Cross to Inverse Leg Over",
+        "sk": "> Cross > Inverse Leg Over > Cross >",
+        "no": "C, Jo, C,",
+        "vi": 833941509,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Cross to Elephant",
+        "sk": "> Cross > Elephant >",
+        "no": "C, It,",
+        "vi": 833941408,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Cross to T-Toad",
+        "sk": "> Cross > T-Toad > Swing <B> > Cross >",
+        "no": "C, T(c), S, C,",
+        "vi": 833941826,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Cross to Inverse T-Toad",
+        "sk": "> Cross > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "C, I(c), S, C,",
+        "vi": 833941535,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Cross to Caboose",
+        "sk": "> Cross > Pull-Through > Caboose >",
+        "no": "C, Ø, T,",
+        "vi": 833941298,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Cross to AS",
+        "sk": "> Cross > Open > AS >",
+        "no": "C, O, N,",
+        "vi": 833941298,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Cross to CL",
+        "sk": "> Cross > Open > CL >",
+        "no": "C, O, En,",
+        "vi": 833941348,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Cross to Switch Dive EB",
+        "sk": "> Cross > Open > EB <OS> >",
+        "no": "C, O, -Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Body Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Cross to Switch Toad",
+        "sk": "> Cross > Toad <OS> >",
+        "no": "C, -Tc,",
+        "vi": 833941804,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Cross to Switch Inverse Toad",
+        "sk": "> Cross > Inverse Toad <OS> >",
+        "no": "C, -Ic,",
+        "vi": 833941739,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Cross to Switch Leg Over",
+        "sk": "> Cross > Leg Over <OS> > Cross >",
+        "no": "C, -Lo, C,",
+        "vi": 833941763,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Cross to Switch Inverse Leg Over",
+        "sk": "> Cross > Inverse Leg Over <OS> > Cross >",
+        "no": "C, -Jo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Cross to Switch Elephant",
+        "sk": "> Cross > Elephant <OS> >",
+        "no": "C, -It,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Cross to Switch T-Toad",
+        "sk": "> Cross > T-Toad <OS> > Swing <B> > Cross >",
+        "no": "C, -T(c), S, C,",
+        "vi": 833941784,
+        "ca": "CC",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross",
+        "c4": "Switch Cross"
+    },
+    {
+        "na": "Cross to Switch Inverse T-Toad",
+        "sk": "> Cross > Inverse T-Toad <OS> > Swing <B> > Cross >",
+        "no": "C, -I(c), S, C,",
+        "vi": 833941720,
+        "ca": "CC",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross",
+        "c4": "Switch Cross"
+    },
+    {
+        "na": "Cross to Switch Caboose",
+        "sk": "> Cross > Pull-Through > Caboose <OS> >",
+        "no": "C, Ø, -T,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Cross to Wrist Pop Release",
+        "sk": "> Cross > Swing > Mic Release <WP> > Open >",
+        "no": "C, S, M, O,",
+        "vi": 833941641,
+        "ca": "CR",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Mic Release"
+    },
+    {
+        "na": "Cross to Box Swing Release",
+        "sk": "> Cross > Swing <B> > Mic Release > Open >",
+        "no": "C, S, M, O,",
+        "vi": 833941607,
+        "ca": "CR",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Mic Release"
+    },
+    {
+        "na": "Cross to Wrist Swing Release",
+        "sk": "> Cross > Swing <W> > Mic Release > Open >",
+        "no": "C, S, M, O,",
+        "vi": 833941668,
+        "ca": "CR",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Mic Release"
+    },
+    {
+        "na": "Caboose to Toad (via LT Swing)",
+        "sk": "> Pull-Through > Caboose > L.T. Swing <B> > Toad >",
+        "no": "Ø, T, Lt, Tc,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Ground Cross",
+        "c2": "Leg Cross",
+        "c5": "Front Cross"
+    },
+    {
+        "na": "Caboose to Leg Over (via LT Swing)",
+        "sk": "> Pull-Through > Caboose > L.T. Swing <W> > Leg Over > Cross >",
+        "no": "Ø, T, Lt, Lo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Ground Cross",
+        "c2": "Leg Cross",
+        "c5": "Front Cross"
+    },
+    {
+        "na": "Cross to Open Caboose",
+        "sk": "> Cross > Pull-Through > Open Caboose",
+        "no": "C, Ø, L,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Ground Cross",
+        "c5": "Front Cross"
+    },
+    {
+        "na": "EB to Cross",
+        "sk": "> Swing > EB > Cross >",
+        "no": "S, Ec, C,",
+        "vi": 833942271,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "EB to Cross (via Swing)",
+        "sk": "> Swing > EB > Swing <B> > Cross >",
+        "no": "S, Ec, S, C,",
+        "vi": 833942122,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Mic Release"
+    },
+    {
+        "na": "EB to Cross (via EB Swing)",
+        "sk": "> Swing > EB > EB Swing > Cross >",
+        "no": "S, Ec, Es, C,",
+        "vi": 833942097,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "EB to Cross (via EB Leg Over Swing)",
+        "sk": "> Swing > EB > EB Leg Over Swing > Cross >",
+        "no": "S, Ec, Le, C,",
+        "vi": 833942355,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Switch Cross",
+        "sk": "> Swing > EB > Cross <OS> >",
+        "no": "S, Ec, -C,",
+        "vi": 833942670,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "EB to Switch Cross (via EB Swing)",
+        "sk": "> Swing > EB > EB Swing > Cross <OS> >",
+        "no": "S, Ec, Es, -C,",
+        "vi": 833942641,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "EB to EB (via Swing)",
+        "sk": "> Swing > EB > Swing > EB >",
+        "no": "S, Ec, S, Ec,",
+        "vi": 833942317,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "EB to EB (via EB Swing)",
+        "sk": "> Swing > EB > EB Swing > EB >",
+        "no": "S, Ec, Es, Ec,",
+        "vi": 833942296,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "EB to EB (via EB Leg Over Swing)",
+        "sk": "> Swing > EB > EB Leg Over Swing > EB >",
+        "no": "S, Ec, Es, Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "EB to TS (via EB Swing)",
+        "sk": "> Swing > EB > EB Swing > TS >",
+        "no": "S, Ec, Es, E,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "EB to Leg Over",
+        "sk": "> Swing > EB > Leg Over > Cross >",
+        "no": "S, Ec, Lo, C,",
+        "vi": 833942611,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Switch Leg Over",
+        "sk": "> Swing > EB > Leg Over <OS> > Cross >",
+        "no": "S, Ec, -Lo, C,",
+        "vi": 833942728,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "EB to Toad",
+        "sk": "> Swing > EB > Toad >",
+        "no": "S, Ec, Tc,",
+        "vi": 833942929,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Switch Toad",
+        "sk": "> Swing > EB > Toad <OS> >",
+        "no": "S, Ec, -Tc,",
+        "vi": 833942768,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "EB to Toad (via Swing)",
+        "sk": "> Swing > EB > Swing <B> > Toad >",
+        "no": "S, Ec, S, Tc,",
+        "vi": 833942867,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Toad (via Toad Swing)",
+        "sk": "> Swing > EB > Toad Swing > Toad >",
+        "no": "S, Ec, Ts, Tc,",
+        "vi": 833942900,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Inverse Toad",
+        "sk": "> Swing > EB > Inverse Toad >",
+        "no": "S, Ec, Ic,",
+        "vi": 833942590,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Switch Inverse Toad",
+        "sk": "> Swing > EB > Inverse Toad <OS> >",
+        "no": "S, Ec, -Ic,",
+        "vi": 833942693,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "EB to Inverse Toad (via Swing)",
+        "sk": "> Swing > EB > Swing <B> > Inverse Toad >",
+        "no": "S, Ec, S, Ic,",
+        "vi": 833942559,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Inverse Toad (via Inverse Toad Swing)",
+        "sk": "> Swing > EB > Inverse Toad Swing > Inverse Toad >",
+        "no": "S, Ec, Is, Ic,",
+        "vi": 833942535,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to T-Toad",
+        "sk": "> Swing > EB > T-Toad > Swing <B> > Cross >",
+        "no": "S, Ec, T(c), S, C,",
+        "vi": 833942837,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "EB to T-Toad (via Swing)",
+        "sk": "> Swing > EB > Swing <B> > T-Toad > Swing <B> > Cross >",
+        "no": "S, Ec, S, T(c), S, C,",
+        "vi": 833942805,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "EB to Inverse T-Toad",
+        "sk": "> Swing > EB > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "S, Ec, I(c), S, C,",
+        "vi": 833942510,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "EB to Inverse T-Toad (via Swing)",
+        "sk": "> Swing > EB > Swing <B> > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "S, Ec, S, I(c), S, C,",
+        "vi": 833942490,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "EB to EB Toad",
+        "sk": "> Swing > EB > EB Toad >",
+        "no": "S, Ec, Et,",
+        "vi": 833942410,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to EB Toad (via EB Swing)",
+        "sk": "> Swing > EB > EB Swing > EB Toad >",
+        "no": "S, Ec, Es, Et,",
+        "vi": 833942377,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Inverse EB Toad",
+        "sk": "> Swing > EB > Inverse EB Toad >",
+        "no": "S, Ec, Ei,",
+        "vi": 833942463,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to Inverse EB Toad (via EB Swing)",
+        "sk": "> Swing > EB > EB Swing > Inverse EB Toad >",
+        "no": "S, Ec, Es, Ei,",
+        "vi": 833942429,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to AS (via AS Swing)",
+        "sk": "> Swing > EB > AS Swing > AS >",
+        "no": "S, Ec, Es, N,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "EB to AS Toad",
+        "sk": "> Swing > EB > AS Toad >",
+        "no": "S, Ec, Tn,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "EB to CL (via EB Swing)",
+        "sk": "> Swing > EB > EB Swing > CL >",
+        "no": "S, Ec, Es, En,",
+        "vi": 833941969,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "TS to Cross",
+        "sk": "> Open > TS > Cross >",
+        "no": "O, E, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "TS to EB",
+        "sk": "> Open > TS > EB >",
+        "no": "O, E, Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "TS to EB (via EB Swing)",
+        "sk": "> Open > TS > EB Swing > EB >",
+        "no": "O, E, Es, Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "TS to TS (via EB Swing)",
+        "sk": "> Open > TS > EB Swing > TS >",
+        "no": "O, E, Es, E,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "TS to Switch TS",
+        "sk": "> Open > TS > TS <OS> >",
+        "no": "O, E, -E,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 3,
+        "sd": 1,
+        "md": 0,
+        "c1": "Body Cross"
+    },
+    {
+        "na": "TS to Leg Over",
+        "sk": "> Open > TS > Leg Over > Cross >",
+        "no": "O, E, Lo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "TS to Toad",
+        "sk": "> Open > TS > Toad >",
+        "no": "O, E, Tc,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "TS to Inverse Toad",
+        "sk": "> Open > TS > Inverse Toad >",
+        "no": "O, E, Ic,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "TS to Elephant",
+        "sk": "> Open > TS > Elephant >",
+        "no": "O, E, It,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "TS to T-Toad",
+        "sk": "> Open > TS > T-Toad > Swing <B> > Cross >",
+        "no": "O, E, T(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "TS to Inverse T-Toad",
+        "sk": "> Open > TS > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "O, E, I(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "TS to EB Toad",
+        "sk": "> Open > TS > EB Toad >",
+        "no": "O, E, Et,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "TS to EB Toad (via EB Swing)",
+        "sk": "> Open > TS > EB Swing > EB Toad >",
+        "no": "O, E, Es, Et,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "TS to Inverse EB Toad",
+        "sk": "> Open > TS > Inverse EB Toad >",
+        "no": "O, E, Ei,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "TS to Inverse EB Toad (via EB Swing)",
+        "sk": "> Open > TS > EB Swing > Inverse EB Toad >",
+        "no": "O, E, Es, Ei,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "TS to AS",
+        "sk": "> Open > TS > AS >",
+        "no": "O, E, N,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "TS to AS (via Open)",
+        "sk": "> Open > TS > Open > AS >",
+        "no": "O, E, O, N,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "TS to AS (via AS Swing)",
+        "sk": "> Open > TS > AS Swing > AS >",
+        "no": "O, E, Ns, N,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "TS to AS Toad",
+        "sk": "> Open > TS > AS Toad >",
+        "no": "O, E, Tn,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "TS to CL",
+        "sk": "> Open > TS > CL >",
+        "no": "O, E, En,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "TS to CL (via Open)",
+        "sk": "> Open > TS > Open > CL >",
+        "no": "O, E, O, En,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "TS to CL (via EB Swing)",
+        "sk": "> Open > TS > EB Swing > CL >",
+        "no": "O, E, Es, En,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Body Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Toad to Cross",
+        "sk": "> Toad > Cross >",
+        "no": "Tc, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Leg Cross",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Toad to Switch Cross",
+        "sk": "> Toad > Cross <OS> >",
+        "no": "Tc, -C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Body Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Toad to TS",
+        "sk": "> Toad > Open > TS >",
+        "no": "Tc, O, E,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Toad to EB",
+        "sk": "> Toad > Swing > EB >",
+        "no": "Tc, S, Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Toad to Dive EB",
+        "sk": "> Toad > Open > EB >",
+        "no": "Tc, O, Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Toad to Switch Toad (via Swing)",
+        "sk": "> Toad > Swing <B> > Toad <OS> >",
+        "no": "Tc, -S, Tc,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Toad to Switch Toad",
+        "sk": "> Toad > Toad <OS> >",
+        "no": "Tc, -Tc,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Toad to Toad (via LT Swing)",
+        "sk": "> Toad > LT Swing <B> > Toad >",
+        "no": "Tc, Lt, Tc,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Neck Toad",
+        "sk": "> Toad > Toad Swing > Neck Toad >",
+        "no": "Tc, Ts, Tr,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to EB Toad",
+        "sk": "> Toad > Toad Swing > EB Toad >",
+        "no": "Tc, Ts, Et,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Inverse EB Toad",
+        "sk": "> Toad > Swing > Inverse EB Toad >",
+        "no": "Tc, S, Ei,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Inverse EB Toad (via Inverse Toad Swing)",
+        "sk": "> Toad > Inverse Toad Swing > Inverse EB Toad >",
+        "no": "Tc, -Is, Ei,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Inverse Toad",
+        "sk": "> Toad > Inverse Toad >",
+        "no": "Tc, Ic,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Switch Inverse Toad (via Swing)",
+        "sk": "> Toad > Inverse Toad Swing > Inverse Toad <OS> >",
+        "no": "Tc, -Is, Ic,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Toad to Switch Inverse Toad",
+        "sk": "> Toad > Inverse Toad <OS> >",
+        "no": "Tc, -Ic,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Toad to T-Toad",
+        "sk": "> Toad > T-Toad > Swing <B> > Cross >",
+        "no": "Tc, T(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Tucked Cross"
+    },
+    {
+        "na": "Toad to Switch T-Toad (via Swing)",
+        "sk": "> Toad > Swing <B> > T-Toad <OS> > Swing <B> > Cross >",
+        "no": "Tc, -S, T(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Tucked Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Toad to Switch T-Toad",
+        "sk": "> Toad > T-Toad <OS> > Swing <B> > Cross >",
+        "no": "Tc, -T(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Tucked Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Toad to Inverse T-Toad",
+        "sk": "> Toad > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "Tc, I(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Tucked Cross"
+    },
+    {
+        "na": "Toad to Switch Inverse T-Toad (via Swing)",
+        "sk": "> Toad > Swing <B> > Inverse T-Toad <OS> > Swing <B> > Cross >",
+        "no": "Tc, -S, I(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Tucked Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Toad to Switch Inverse T-Toad",
+        "sk": "> Toad > Inverse T-Toad <OS> > Swing <B> > Cross >",
+        "no": "Tc, -I(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Tucked Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Toad to Elephant",
+        "sk": "> Toad > Elephant >",
+        "no": "Tc, Ti,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Elephant (via Toad Swing)",
+        "sk": "> Toad > Toad Swing > Elephant >",
+        "no": "Tc, Ts, Ti,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Leg Over (via Swing)",
+        "no": "Tc, S, Lo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Leg Over (via LT Swing)",
+        "no": "Tc, Lt, Lo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Switch Leg Over",
+        "no": "Tc, -Lo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Toad to Switch Leg Over (via Swing)",
+        "no": "Tc, S, -Lo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Toad to Inverse Leg Over (via Swing)",
+        "no": "Tc, S, Jo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Toad to Switch Inverse Leg Over (via Swing)",
+        "no": "Tc, S, -Jo, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Toad to Caboose",
+        "no": "Tc, Ø, T,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Toad to AS",
+        "no": "Tc, O, N,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Toad to AS Toad",
+        "no": "Tc, Ts, Tn,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Toad to CL",
+        "no": "Tc, O, En,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Toad to Switch CL",
+        "no": "Tc, O, -En,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Leg Over to Open",
+        "no": "Lo, O,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Switch Cross",
+        "no": "Lo, -C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Body Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Leg Over to TS",
+        "no": "Lo, O, E,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Leg Over to EB",
+        "no": "Lo, S, Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Leg Over to Dive EB",
+        "no": "Lo, O, Ec,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Leg Cross",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Leg Over to Leg Over (via LT Swing)",
+        "no": "Lo, Lt, Lo,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Leg Over (via LN Swing)",
+        "no": "Lo, Ln, Lo,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Switch Leg Over (via Swing)",
+        "no": "Lo, -S, Lo,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Leg Over Switch Leg Over",
+        "no": "Lo, -Lo,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Leg Over Switch Toad",
+        "no": "Lo, -Tc,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Leg Over to EB Toad (via Swing)",
+        "sk": "> Leg Over > Swing > EB Toad >",
+        "no": "Lo, S, Et,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to EB Toad (via Toad Swing)",
+        "sk": "> Leg Over > Toad Swing > EB Toad >",
+        "no": "Lo, Ts, Et,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Inverse EB Toad (via Swing)",
+        "no": "Lo, S, Ei,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Inverse EB Toad (via Inverse Toad Swing)",
+        "no": "Lo, Is, Ei,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Inverse Toad",
+        "no": "Lo, Ic,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Switch Inverse Toad",
+        "no": "Lo, -Ic,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Leg Over to T-Toad",
+        "no": "Lo, T(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Tucked Cross"
+    },
+    {
+        "na": "Leg Over to T-Toad (via Swing)",
+        "no": "Lo, S, T(c), S, C,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Tucked Cross"
+    },
+    {
+        "na": "Leg Over to Inverse T-Toad (via Swing)",
+        "no": "Lo, O, I(c),",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Elephant",
+        "no": "Lo, Ti,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Inverse Leg Over (via Swing)",
+        "no": "Lo, -S, -Jo,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Switch Inverse Leg Over (via Swing)",
+        "no": "Lo, -S, Jo,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Switch Cross"
+    },
+    {
+        "na": "Leg Over to Inverse Leg Over",
+        "no": "Lo, Jo,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Caboose",
+        "no": "Lo, Ø, T,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Leg Over to AS",
+        "no": "Lo, O, N,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Leg Over to CL",
+        "no": "Lo, O, En,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Leg Over to Switch CL",
+        "no": "Lo, O, -En,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Leg Over to Dive EB",
+        "sk": "> Leg Over > EB >",
+        "no": "Lo, Ec,",
+        "vi": 832785536,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Leg Cross",
+        "c2": "Body Cross",
+        "c3": "Dive in"
+    },
+    {
+        "na": "Leg Over to Dive EB (EB Swing out)",
+        "sk": "> Leg Over > EB > EB Swing >",
+        "no": "Lo, Ec, Es,",
+        "vi": 832785320,
+        "ca": "CC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross",
+        "c2": "Body Cross",
+        "c3": "Dive in",
+        "c4": "Swing out"
+    },
+    {
+        "na": "Elephant to Toad (via Toad Swing)",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Toad (via Double Toad Swing)",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad (via Inverse Toad Swing)",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad (via Double Inverse Toad Swing)",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Toad Gogo",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Gogo Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad Gogo",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Gogo Cross"
+    },
+    {
+        "na": "Elephant to EB Toad",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse EB Toad",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Leg Over",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Elephant to AS",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Elephant to CL",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Elephant to Toad Gogo",
+        "sk": "> Elephant > Toad Gogo >",
+        "no": "It, (To)o,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Cross",
+        "c2": "Leg Cross",
+        "c5": "Front Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad Gogo",
+        "sk": "> Elephant > Inverse Toad Gogo >",
+        "no": "It, (Io)o,",
+        "vi": 832935120,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "T-Toad to Cross",
+        "sk": "> T-Toad > Cross >",
+        "no": "T(c), C,",
+        "vi": 833062558,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Tucked Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Gogo to Inverse Toad",
+        "sk": "> Inverse Toad > Inverse Toad Gogo > Inverse Toad >",
+        "no": "Ic, (Io)o, Ic,",
+        "vi": 832936352,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Gogo to Elephant",
+        "sk": "> Inverse Toad > Inverse Toad Gogo > Elephant >",
+        "no": "Ic, (Io)o, It,",
+        "vi": 832936311,
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad Awesome Annie to Leg Over",
+        "no": "Tc, Ta, Lo, C,",
+        "vi": "CS",
+        "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Awesome Annie"
+    },
+    {
+        "na": "Toad Awesome Annie to Switch Toad",
+        "no": "Tc, Ta, -Tc,",
+        "vi": "CS",
+        "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Awesome Annie",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Toad Awesome Annie to T-Toad",
+        "no": "Tc, Ta, T(c),",
+        "vi": "CS",
+        "ca": "SC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Awesome Annie",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "Leg Over Awesome Annie to Toad",
+        "no": "Lo, La, Tc,",
+        "vi": "CS",
+        "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Awesome Annie"
+    },
+    {
+        "na": "Leg Over Awesome Annie to Switch Leg Over",
+        "no": "Lo, La, -Lo,",
+        "vi": "CS",
+        "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Awesome Annie",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Leg Over Awesome Annie to Elephant",
+        "no": "Lo, La, Ti,",
+        "vi": "CS",
+        "ca": "SC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross",
+        "c2": "Awesome Annie"
+    },
+    {
+        "na": "EB Toad to Toad Gogo",
+        "sk": "> Swing > EB Toad > Toad Gogo >",
+        "no": "S, Et, (To)o,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Cross",
+        "c2": "Leg Cross",
+        "c5": "Front Cross"
+    },
+    {
+        "na": "EB Toad to Inverse Toad Knot",
+        "no": "S, Ei, (Io)e, (I)c,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 3,
+        "sd": 4,
+        "md": 0,
+        "c1": "Knot Cross",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB Toad to Toad",
+        "sk": "> Swing > EB Toad > Toad >",
+        "no": "S, Et, Tc,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "EB Toad to Toad (Toad Swing in)",
+        "sk": "> Swing > EB Toad > Toad Swing > Toad >",
+        "no": "Ts, Et, Ts, Tc,",
+        "vi": "CS",
+        "ca": "CC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Awesome Annie to Toad (via Toad Swing)",
+        "sk": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Toad >",
+        "no": "Lo, La, Ts, Tc,",
+        "vi": "CS",
+        "ca": "SC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Awesome Annie",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Cross to 180 Turn",
+        "sk": "> Cross > Swing 180 >",
+        "no": "C, S>,",
+        "vi": 833938212,
+        "ca": "CD",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Cross to 180 Cross",
+        "sk": "> Cross > Swing 180 > <BW> Cross >",
+        "no": "C, S>, C,",
+        "vi": 833938235,
+        "ca": "CD",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Cross to 180 Switch Cross",
+        "sk": "> Cross > Swing 180 > <BW> Cross <OS> >",
+        "no": "C, S>, -C,",
+        "vi": 833938520,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Cross to 180 EB",
+        "sk": "> Cross > Swing 180 > <BW> EB >",
+        "no": "C, S>, Ec,",
+        "vi": 833938435,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Cross to 180 Toad",
+        "sk": "> Cross > Swing 180 > <BW> Toad >",
+        "no": "C, S>, Tc,",
+        "vi": 833938537,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Cross to 180 Inverse Toad",
+        "sk": "> Cross > Swing 180 > <BW> Inverse Toad >",
+        "no": "C, S>, Ic,",
+        "vi": 833938456,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Cross to 180 Leg Over",
+        "sk": "> Cross > Swing 180 > <BW> Leg Over >",
+        "no": "C, S>, Lo,",
+        "vi": 833938502,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "EB to 180 Turn",
+        "sk": "> Swing > EB 180 > <BW> Open >",
+        "no": "S, Ec>, O,",
+        "vi": 833938750,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "EB to 180 EB",
+        "sk": "> Swing > EB > EB Gogo Swing 180 > <BW> EB >",
+        "no": "S, Ec, (Eo)S>, Ec,",
+        "vi": 833938800,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "EB to 180 Switch EB",
+        "sk": "> Swing > EB 180 > <BW> EB <OS> >",
+        "no": "S, Ec>, -Ec,",
+        "vi": 833938894,
+        "ca": "CD",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "EB to 180 Cross",
+        "sk": "> Swing > EB > Swing 180 > <BW> Cross >",
+        "no": "S, Ec, S>, C,",
+        "vi": 833938771,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "EB to 180 Toad",
+        "sk": "> Swing > EB > Swing 180 > <BW> Toad >",
+        "no": "S, Ec, S>, Tc,",
+        "vi": 833938923,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "EB to 180 Inverse Toad",
+        "sk": "> Swing > EB > Swing 180 > <BW> Inverse Toad >",
+        "no": "S, Ec, S>, Ic,",
+        "vi": 833938823,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "EB to 180 Leg Over",
+        "sk": "> Swing > EB > Swing 180 > <BW> Leg Over >",
+        "no": "S, Ec, S>, Lo,",
+        "vi": 833938857,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Toad to 180 Turn",
+        "sk": "> Toad > Swing 180 >",
+        "no": "Tc, S>,",
+        "vi": 833939036,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad to 180 Toad",
+        "sk": "> Toad > Swing 180 > <BW> Toad <OS> >",
+        "no": "Tc, Ts>, Tc,",
+        "vi": "CS",
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad to 180",
+        "sk": "> Inverse Toad > Swing 180 >",
+        "no": "Ic, S>,",
+        "vi": 833938964,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad to 180 Inverse Toad",
+        "sk": "> Inverse Toad > Swing 180 > <BW> Inverse Toad <OS>",
+        "no": "Ic, S>, Ic,",
+        "vi": "CS",
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to 180",
+        "sk": "> Leg Over > Swing 180 >",
+        "no": "Lo, S>,",
+        "vi": 833939005,
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to 180 Leg Over",
+        "sk": "> Leg Over > Leg Over Swing 180 > <BW> Leg Over >",
+        "no": "Lo, Ls>, Lo,",
+        "vi": "CS",
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to 180 Cross",
+        "sk": "> Leg Over > Swing 180 > <BW> Cross >",
+        "no": "Lo, Ls>, C,",
+        "vi": "CS",
+        "ca": "CD",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Leg Cross",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Backwards Crossed Texan 180 to Cross",
+        "sk": "> <BW> Cross Texan 180 > Cross >",
+        "no": ":C}, C,",
+        "vi": 833937066,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Texan 180",
+        "c3": "Body Cross",
+        "nn": "BW Crossed Texan 180 to Cross"
+    },
+    {
+        "na": "Backwards Crossed Texan 180 to Switch Cross",
+        "sk": "> <BW> Cross Texan 180 > Cross <OS> >",
+        "no": ":C}, -C,",
+        "vi": 833937092,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Texan 180",
+        "c3": "Body Cross",
+        "c4": "Switch Cross",
+        "nn": "BW Crossed Texan 180 to Switch Cross"
+    },
+    {
+        "na": "360 to Cross",
+        "sk": "> Swing 180 > <BW> Open 180 > Cross >",
+        "no": "S>, O>, C,",
+        "vi": 833937353,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "360 to EB",
+        "sk": "> Swing 180 > <BW> Open 180 > EB >",
+        "no": "S>, O>, Ec,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "360 to TS",
+        "sk": "> Swing 180 > <BW> Open 180 > Open > TS >",
+        "no": "S>, O>, O, E,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "360 to Toad",
+        "sk": "> Swing 180 > <BW> Open 180 > Toad >",
+        "no": "S>, O>, Tc,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "360 to Inverse Toad",
+        "sk": "> Swing 180 > <BW> Open 180 > Inverse Toad >",
+        "no": "S>, O>, Ic,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "360 to Leg Over",
+        "sk": "> Swing 180 > <BW> Open 180 > Leg Over > Cross >",
+        "no": "S>, O>, Lo, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "360 to Inverse Leg Over",
+        "sk": "> Swing 180 > <BW> Open 180 > Inverse Leg Over > Cross >",
+        "no": "S>, O>, Jo, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "360 to Elephant",
+        "sk": "> Swing 180 > <BW> Open 180 > Elephant >",
+        "no": "S>, O>, It,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "360 to T-Toad",
+        "sk": "> Swing 180 > <BW> Open 180 > T-Toad > Swing <B> > Cross >",
+        "no": "S>, O>, T(c), S, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "360 to Inverse T-Toad",
+        "sk": "> Swing 180 > <BW> Open 180 > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "S>, O>, I(c), S, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "360 to EB Toad",
+        "sk": "> Swing 180 > <BW> Open 180 > EB Toad >",
+        "no": "S>, O>, Et,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "360 to Inverse EB Toad",
+        "sk": "> Swing 180 > <BW> Open 180 > Inverse EB Toad >",
+        "no": "S>, O>, Ei,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "360 to AS",
+        "sk": "> Swing 180 > <BW> Open 180 > Open > AS >",
+        "no": "S>, O>, O, N,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "360 to CL",
+        "sk": "> Swing 180 > <BW> Open 180 > Open > CL >",
+        "no": "S>, O>, O, En,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "360 to Caboose",
+        "sk": "> Swing 180 > <BW> Open 180 > Pull-Through > Caboose >",
+        "no": "S>, O>, Ø, T,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "360 to Swing Cross",
+        "sk": "> Swing 180 > <BW> Open 180 > Swing <B> > Cross >",
+        "no": "S>, O>, S, C,",
+        "vi": 833937415,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "360 to Swing EB",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Body Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing TS",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Body Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing Inverse Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing Leg Over",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing Inverse Leg Over",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing Elephant",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing T-Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in",
+        "c4": "Tucked Cross"
+    },
+    {
+        "na": "360 to Swing Inverse T-Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in",
+        "c4": "Tucked Cross"
+    },
+    {
+        "na": "360 to Swing EB Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing Inverse EB Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing AS",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Ground Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing CL",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Ground Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "360 to Swing Caboose",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Ground Cross",
+        "c3": "Swing in"
+    },
+    {
+        "na": "Cross 360 to Cross",
+        "sk": "> Swing 180 > <BW> Cross 180 > Cross >",
+        "no": "S>, C>, C,",
+        "vi": 833937502,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Cross 360 to Swing Cross",
+        "sk": "> Swing 180 > <BW> Cross 180 > Swing <B> > Cross >",
+        "no": "S>, C>, S, C,",
+        "vi": 833937523,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Cross 360 to Switch Cross",
+        "no": "S>, C>, -C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Dive 360 to Cross",
+        "no": "O>, O>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Dive 360 to EB",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Dive 360 to TS",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Dive 360 to Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 360 to Inverse Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 360 to Leg Over",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 360 to Inverse Leg Over",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 360 to Elephant",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 360 to T-Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Tucked Cross"
+    },
+    {
+        "na": "Dive 360 to Inverse T-Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Tucked Cross"
+    },
+    {
+        "na": "Dive 360 to EB Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 360 to Inverse EB Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 360 to AS",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Ground Cross"
+    },
+    {
+        "na": "Dive 360 to CL",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Ground Cross"
+    },
+    {
+        "na": "Dive 360 to Caboose",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Ground Cross"
+    },
+    {
+        "na": "Dive 360 to Swing Cross",
+        "sk": "> Open 180 > <BW> Open 180 > Swing <B> > Cross >",
+        "no": "O>, O>, S, C,",
+        "vi": 833937733,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Body Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing EB",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Body Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing TS",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Body Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing Inverse Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing Leg Over",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing Inverse Leg Over",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing Elephant",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing T-Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in",
+        "c5": "Tucked Cross"
+    },
+    {
+        "na": "Dive 360 to Swing Inverse T-Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in",
+        "c5": "Tucked Cross"
+    },
+    {
+        "na": "Dive 360 to Swing EB Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing Inverse EB Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing AS",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Ground Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing CL",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Ground Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 360 to Swing Caboose",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Dive Turn",
+        "c3": "Ground Cross",
+        "c4": "Swing in"
+    },
+    {
+        "na": "Dive 180 to Cross",
+        "sk": "> Open 180 > <BW> Open > <BW> Cross >",
+        "no": "O>, O, C,",
+        "vi": 833938589,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Dive Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Dive 180 to EB",
+        "sk": "> Open 180 > <BW> Open > <BW> EB >",
+        "no": "O>, Ec,",
+        "vi": 833938618,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Dive Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Dive 180 to Toad",
+        "sk": "> Open 180 > <BW> Open > <BW> Toad >",
+        "no": "O>, Tc,",
+        "vi": 833938733,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 180 to Inverse Toad",
+        "sk": "> Open 180 > <BW> Open > <BW> Inverse Toad >",
+        "no": "O>, Ic,",
+        "vi": 833938645,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "Forwards 180",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 180 to Swing Cross",
+        "sk": "> Open 180 > <BW> Swing > Cross >",
+        "no": "O>, S, C,",
+        "vi": 833938659,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "Forwards 180",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 180 to Swing Toad",
+        "sk": "> Open 180 > <BW> Swing > Toad >",
+        "no": "O>, S, Tc,",
+        "vi": 833938706,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "Forwards 180",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive 180 to Swing Inverse Toad",
+        "sk": "> Open 180 > <BW> Swing > Inverse Toad >",
+        "no": "O>, S, Ic,",
+        "vi": 833938676,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "Forwards 180",
+        "c2": "Dive Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Backwards 180 to Cross",
+        "sk": "> <BW> Open 180 > Cross >",
+        "no": "O>, C,",
+        "vi": 833936861,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Body Cross",
+        "nn": "BW 180 to Cross"
+    },
+    {
+        "na": "Backwards 180 to Switch Cross",
+        "sk": "> <BW> Open 180 > Cross <OS> >",
+        "no": "O>, -C,",
+        "vi": 833936930,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Body Cross",
+        "c3": "Switch Cross",
+        "nn": "BW 180 to Switch Cross"
+    },
+    {
+        "na": "Backwards 180 to Swing Cross",
+        "sk": "> <BW> Open 180 > Swing <B> > Cross >",
+        "no": "O>, S, C,",
+        "vi": 833936881,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 1,
+        "md": -0.5,
+        "c1": "Backwards 180",
+        "c2": "Body Cross",
+        "nn": "BW 180 to Swing Cross"
+    },
+    {
+        "na": "Backwards 180 to EB",
+        "sk": "> <BW> Open 180 > EB >",
+        "no": "O>, Ec,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Body Cross",
+        "nn": "BW 180 to EB"
+    },
+    {
+        "na": "Backwards 180 to Toad",
+        "sk": "> <BW> Open 180 > Toad >",
+        "no": "O>, Tc,",
+        "vi": 833936996,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Leg Cross",
+        "nn": "BW 180 to Toad"
+    },
+    {
+        "na": "Backwards 180 to Switch Toad",
+        "sk": "> <BW> Open 180 > Toad <OS> >",
+        "no": "O>, -Tc,",
+        "vi": 833936959,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross",
+        "nn": "BW 180 to Switch Toad"
+    },
+    {
+        "na": "Backwards 180 to Swing Toad",
+        "sk": "> <BW> Open 180 > Swing <B> > Toad >",
+        "no": "O>, S, Tc,",
+        "vi": 833936903,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Backwards 180",
+        "c2": "Leg Cross",
+        "nn": "BW 180 to Swing Toad"
+    },
+    {
+        "na": "Backwards Texan 180 to Cross",
+        "sk": "> <BW> Texan 180 > Cross >",
+        "no": "O}, C,",
+        "vi": 833937136,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Body Cross",
+        "c4": "Texan Turn",
+        "nn": "BW Texan 180 to Cross"
+    },
+    {
+        "na": "Backwards Texan 180 to Switch Cross",
+        "sk": "> <BW> Texan 180 > Cross <OS> >",
+        "no": "O}, -C,",
+        "vi": 833937158,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Body Cross",
+        "c3": "Switch Cross",
+        "c4": "Texan Turn",
+        "nn": "BW Texan 180 to Switch Cross"
+    },
+    {
+        "na": "Backwards Texan 180 to Toad",
+        "sk": "> <BW> Texan 180 > Toad >",
+        "no": "O}, Tc,",
+        "vi": 833937203,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Leg Cross",
+        "c4": "Texan Turn",
+        "nn": "BW Texan 180 to Toad"
+    },
+    {
+        "na": "Backwards Texan 180 to Switch Toad",
+        "sk": "> <BW> Texan 180 > Toad <OS> >",
+        "no": "O}, -Tc,",
+        "vi": 833937178,
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross",
+        "c4": "Texan Turn",
+        "nn": "BW Texan 180 to Switch Toad"
+    },
+    {
+        "na": "Backwards Texan 180 to EB",
+        "sk": "> <BW> Texan 180 > EB >",
+        "no": "O}, Ec,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Backwards 180",
+        "c2": "Body Cross",
+        "c4": "Texan Turn",
+        "nn": "BW Texan 180 to EB"
+    },
+    {
+        "na": "Leg Hook 360 to Toad",
+        "no": "S>, Ot>, Tc,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Leg Hook 360 to Swing Toad",
+        "no": "S>, Ot>, Ts, Tc,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 3,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Leg Hook 360 to Elephant",
+        "no": "S>, Ot>, Tt,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Leg Hook 360 to Inverse Toad",
+        "no": "S>, Oi>, Ic,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Leg Hook 360 to Swing Inverse Toad",
+        "no": "S>, Oi>, Is, Ic,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 3,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Leg Hook 360 to Elephant",
+        "no": "S>, Oi>, It,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Dive Leg Hook 360 to Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross",
+        "c4": "Dive Turn"
+    },
+    {
+        "na": "Dive Leg Hook 360 to Swing Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross",
+        "c4": "Dive Turn"
+    },
+    {
+        "na": "Dive Leg Hook 360 to Elephant",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross",
+        "c4": "Dive Turn"
+    },
+    {
+        "na": "Dive Inverse Leg Hook 360 to Inverse Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross",
+        "c4": "Dive Turn"
+    },
+    {
+        "na": "Dive Inverse Leg Hook 360 to Swing Inverse Toad",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross",
+        "c4": "Dive Turn"
+    },
+    {
+        "na": "Dive Inverse Leg Hook 360 to Elephant",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "360 Turn",
+        "c2": "Leg Hook Turn",
+        "c3": "Leg Cross",
+        "c4": "Dive Turn"
+    },
+    {
+        "na": "Half Turn to Cross",
+        "sk": "> Swing 180 > <BW> Open 180 <OD> > Cross >",
+        "no": "S>, O<, C,",
+        "vi": 833937870,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Half Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Half Turn to Swing Cross",
+        "sk": "> Swing 180 > <BW> Open 180 <OD> > Swing <B> > Cross >",
+        "no": "S>, O<, S, C,",
+        "vi": 833937892,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Half Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Cross Half Turn to Cross",
+        "sk": "> Swing 180 > <BW> Cross 180 <OD> > Cross >",
+        "no": "S>, C<, C,",
+        "vi": 833937681,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Half Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Cross Half Turn to Swing Cross",
+        "sk": "> Swing 180 > <BW> Cross 180 <OD> > Swing <B> > Cross >",
+        "no": "S>, C<, S, C,",
+        "vi": 833937700,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Half Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Dive Half Turn to Swing Cross",
+        "no": "O>, O<, S, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": -0.5,
+        "c1": "Half Turn",
+        "c2": "Body Cross",
+        "c3": "Dive Turn"
+    },
+    {
+        "na": "Dive Half Turn to Cross",
+        "no": "O>, O<, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 4,
+        "md": 0,
+        "c1": "Half Turn",
+        "c2": "Body Cross",
+        "c3": "Dive Turn"
+    },
+    {
+        "na": "Full Turn to Cross",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Full Turn to EB",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Full Turn to TS",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Full Turn to Toad",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Full Turn to Inverse Toad",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Full Turn to Leg Over",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Full Turn to Inverse Leg Over",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Full Turn to Elephant",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Full Turn to AS",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Full Turn to CL",
+        "no": "S>>, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Full Turn",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Texan Full Turn to Cross",
+        "sk": "> Swing 180 > <BW> Texan 180 > Cross >",
+        "no": "S>, O}, C,",
+        "vi": 833941054,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "Full Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Crossed Texan Full Turn to Cross",
+        "sk": "> Swing 180 > <BW> Cross Texan 180 > Cross >",
+        "no": "S>, C}, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "Full Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Crossed Texan Full Turn to Switch Cross",
+        "sk": "> Swing 180 > <BW> Cross Texan 180 > Cross <OS> >",
+        "no": "S>, C}, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "Full Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Texan 360 to Cross",
+        "sk": "> Swing 180 > <BW> Open > <BW> Texan 180 > Cross >",
+        "no": "S>, O, O}, C,",
+        "vi": 833941022,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "360 Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Crossed Texan 360 to Cross",
+        "no": "S>, O, C}, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "360 Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Cross Texan 360 to Cross",
+        "sk": "> Swing 180 > <BW> Cross > <BW> Texan 180 > Cross >",
+        "no": "S>, C, O}, C,",
+        "vi": 833940752,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "360 Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Double Cross Texan 360 to Cross",
+        "no": "S>, C, C}, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "360 Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Texan Half Turn to Cross",
+        "sk": "> Swing 180 > <BW> Open > <BW> Texan 180 <OD> > Cross >",
+        "no": "S>, O, O{, C,",
+        "vi": 833941136,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "Half Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Cross Texan Half Turn to Cross",
+        "sk": "> Swing 180 > <BW> Cross > <BW> Texan 180 <OD> > Cross >",
+        "no": "S>, C, O{, C,",
+        "vi": 833940856,
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "Half Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Crossed Texan Half Turn to Cross",
+        "no": "S>, O, C{, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "Half Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Double Cross Texan Half Turn to Cross",
+        "no": "S>, C, C{, C,",
+        "vi": "CS",
+        "ca": "DC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Texan Turn",
+        "c2": "Half Turn",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "Cross to Arm Wrap",
+        "sk": "> Cross > Arm Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "C, [S], [S), C,",
+        "vi": 833648654,
+        "ca": "CW",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Arm Wrap to Toad",
+        "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Toad >",
+        "no": "S, [S], [S), Tc,",
+        "vi": 833651284,
+        "ca": "WC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Arm Wrap to Inverse Toad",
+        "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Inverse Toad >",
+        "no": "S, [S], [S), Ic,",
+        "vi": 833650738,
+        "ca": "WC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Arm Wrap to T-Toad",
+        "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > T-Toad > Swing <B> > Cross >",
+        "no": "S, [S], [S), T(c), S, C,",
+        "vi": 833651062,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "Arm Wrap to Inverse T-Toad",
+        "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "S, [S], [S), I(c), S, C,",
+        "vi": 833650317,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Arm Wrap to Caboose",
+        "sk": "> Swing > Arm Wrap > Unwrap Swing <OS> > Pull-Through > Caboose >",
+        "no": "S, [S], [S), Ø, T,",
+        "vi": 833649995,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "EB to EB Arm Wrap",
+        "sk": "> Swing > EB > EB Arm Wrap > Unwrap Swing <OS> > EB >",
+        "no": "S, Ec, E[s], (Eo)[s), Ec,",
+        "vi": 833653586,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "EB to EB Arm Wrap (via EB Swing)",
+        "sk": "> Swing > EB > EB Swing > EB Arm Wrap > Unwrap Swing <OS> > EB >",
+        "no": "S, Ec, Es, E[s], (Eo)[s), Ec,",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 1,
+        "sd": 1,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "EB to EB Arm Wrap (EB Swing out)",
+        "sk": "> Swing > EB > EB Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "S, Ec, E[s], (Eo)[s), Es, O,",
+        "vi": 833653312,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 1,
+        "md": -0.5,
+        "c1": "Arm Wrap",
+        "c2": "Body Cross",
+        "c4": "Swing out"
+    },
+    {
+        "na": "EB Toad to EB Arm Wrap",
+        "sk": "> Swing > EB Toad > EB Arm Wrap > Unwrap Swing <OS> > EB >",
+        "no": "S, Et, E[s], (Eo)[s), Ec,",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse EB Toad to EB Arm Wrap",
+        "no": "S, Ei, E[s], (Eo)[s), Ec,",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB Arm Wrap to EB Toad",
+        "no": "S, E[s], (Eo)[s), Et,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB Arm Wrap to Inverse EB Toad",
+        "no": "S, E[s], (Eo)[s), Ei,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad to Toad Arm Wrap",
+        "sk": "> Toad > Toad Arm Wrap > Unwrap Swing <OS> > Toad >",
+        "no": "Tc, T[s], (To)[s), Tc,",
+        "vi": 833669220,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Toad Arm Wrap",
+        "sk": "> Elephant > Toad Arm Wrap > Unwrap Swing <OS> > Toad >",
+        "no": "Ti, T[s], (To)[s), Tc,",
+        "vi": 833668179,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB Toad to Toad Arm Wrap",
+        "sk": "> Swing > EB Toad > Toad Arm Wrap > Unwrap Swing <OS> > Toad >",
+        "no": "S, Et, T[s], (To)[s), Tc,",
+        "vi": 833667874,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Awesome Annie to Toad Arm Wrap",
+        "sk": "> Leg Over > Leg Over Awesome Annie > Toad Arm Wrap > Unwrap Swing <OS> > Toad >",
+        "no": "Lo, La, T[s], (To)[s), Tc,",
+        "vi": 833668476,
+        "ca": "SW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Awesome Annie",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Toad Arm Wrap to Elephant",
+        "sk": "> Toad Swing > Toad Arm Wrap > Unwrap Swing <OS> > Elephant >",
+        "no": "Ts, T[s], (To)[s), Ti,",
+        "vi": 833670211,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad Arm Wrap to Inverse Toad",
+        "sk": "> Toad Swing > Toad Arm Wrap > Unwrap Swing <OS> > Inverse Toad Swing <OS> > Inverse Toad >",
+        "no": "Ts, T[s], (To)[s), -Is, Ic,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad Arm Wrap to Caboose",
+        "sk": "> Toad Swing > Toad Arm Wrap > Unwrap Swing <OS> > Pull-Through > Caboose >",
+        "no": "Ts, T[s], (To)[s), Tø, T,",
+        "vi": 833669849,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Inverse Toad to Inverse Toad Arm Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Inverse Toad >",
+        "no": "Ic, I[s], (Io)[s), Ic,",
+        "vi": 833663514,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad Arm Wrap",
+        "sk": "> Elephant > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Inverse Toad >",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse EB Toad to Inverse Toad Arm Wrap",
+        "sk": "> Swing > Inverse EB Toad > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Inverse Toad >",
+        "no": "S, Ei, I[s], (Io)[s), Ic,",
+        "vi": 833663056,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Arm Wrap to Elephant",
+        "sk": "> Inverse Toad Swing > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Elephant",
+        "no": "Is, I[s], (Io)[s), It,",
+        "vi": 833664842,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Arm Wrap to Toad",
+        "sk": "> Inverse Toad Swing > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Toad Swing <OS> > Toad >",
+        "no": "Is, I[s], (Io)[s), -Ts, Tc,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Leg Over Arm Wrap",
+        "sk": "> Leg Over > Leg Over Arm Wrap > Unwrap Swing <OS> > Leg Over > Cross >",
+        "no": "Lo, L[s], (Lo)[s), Lo, C,",
+        "vi": 833666193,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad Awesome Annie to Leg Over Arm Wrap",
+        "sk": "> Toad > Toad Awesome Annie > Leg Over Arm Wrap > Unwrap Swing <OS> > Leg Over > Cross >",
+        "no": "Tc, Ta, L[s], (Lo)[s), Lo, C,",
+        "vi": 833667204,
+        "ca": "SW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Awesome Annie",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Awesome Annie to Leg Over Arm Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Awesome Annie > Leg Over Arm Wrap > Unwrap Swing <OS> > Leg Over > Cross >",
+        "no": "Ic, Ia, L[s], (Lo)[s), Lo, C,",
+        "vi": 833665890,
+        "ca": "SW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Awesome Annie",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Elephant Awesome Annie to Leg Over Arm Wrap",
+        "sk": "> Elephant > Elephant Awesome Annie > Leg Over Arm Wrap > Unwrap Swing <OS> > Leg Over > Cross >",
+        "no": "Ti, Ta, L[s], (Lo)[s), Lo, C,",
+        "vi": 833665581,
+        "ca": "SW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Awesome Annie",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Leg Over to Inverse Leg Over Arm Wrap",
+        "no": "Jo, J[s], (Jo)[s), Jo, C,",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to EB Gogo Inverse Leg Over Arm Wrap",
+        "sk": "> Swing > EB > EB Gogo Inverse Leg Over Swing > EB Gogo Inverse Leg Over Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "S, Ec, (Ej)s, (Ej)[s], (Ejc)[s), Es, O,",
+        "vi": 833659533,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Leg Over to EB Gogo Inverse Leg Arm Wrap",
+        "sk": "> Leg Over > EB Gogo Inverse Leg Over Swing > EB Gogo Inverse Leg Over Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "Lo, (Ej)s, (Ej)[s], (Ejc)[s), Es, O,",
+        "vi": 833652108,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to EB Gogo Leg Over Arm Wrap",
+        "sk": "> Swing > EB > EB Gogo Leg Over Swing > EB Gogo Leg Over Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "S, Ec, (El)s, (El)[s], (Elc)[s), Es, O,",
+        "vi": 833661219,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Inverse Leg Over to EB Gogo Leg Over Arm Wrap",
+        "sk": "> Inverse Leg Over > EB Gogo Leg Over Swing > EB Gogo Leg Over Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "Jo, (El)s, (El)[s], (Elc)[s), Es, O,",
+        "vi": 833652608,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to EB D-Gogo Toad Arm Wrap",
+        "no": "S, Ec, (Eo)s, (Eot)s, (Eot)[s], (Eo)[s), (Eo)s, Es, O,",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "EB to EB D-Gogo Inverse Toad Arm Wrap",
+        "no": "S, Ec, (Eo)s, (Eoi)s, (Eoi)[s], (Eo)[s), (Eo)s, Es, O,",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 1,
+        "md": 0,
+        "c1": "Arm Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "EB to EB Gogo Arm Wrap",
+        "sk": "> Swing > EB > EB Gogo Swing > EB Gogo Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "S, Ec, (Eo)s, (Eo)[s], E[s), Es, O,",
+        "vi": 833737096,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Toad to Toad Gogo Arm Wrap",
+        "sk": "> Toad > Toad Gogo Swing > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Tc, (To)s, (To)[s], T[s, O,",
+        "vi": 833758935,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad Gogo to Toad Gogo Arm Wrap",
+        "sk": "> Toad > Toad Gogo > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Tc, (To)o, (To)[s], T[s, O,",
+        "vi": 833758299,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Gogo Cross"
+    },
+    {
+        "na": "Toad Knot to Toad Gogo Arm Wrap",
+        "sk": "> Toad > Toad Gogo > Toad Knot > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Tc, (To)o, (T)c, (To)[s], T[s, O,",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Knot Cross"
+    },
+    {
+        "na": "Toad Gogo Arm Wrap to Toad Gogo",
+        "sk": "> Toad Swing > Toad Gogo Swing > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Toad Gogo >",
+        "no": "Ts, (To)s, (To)[s], T[s, (To)o,",
+        "vi": 833760550,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Gogo Cross"
+    },
+    {
+        "na": "Toad Gogo Arm Wrap to Toad Knot",
+        "sk": "> Toad Swing > Toad Gogo Swing > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Toad Knot >",
+        "no": "Ts, (To)s, (To)[s], T[s, (T)c,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 3,
+        "sd": 4,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Knot Cross"
+    },
+    {
+        "na": "Toad Gogo Arm Wrap to Elephant",
+        "sk": "> Toad Swing > Toad Gogo Swing > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Elephant >",
+        "no": "Ts, (To)s, (To)[s], T[s, It,",
+        "vi": 833759965,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad to Inverse Toad Gogo Arm Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Gogo Swing > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Ic, (Io)s, (Io)[s], I[s, O,",
+        "vi": 833749250,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Gogo to Inverse Toad Gogo Arm Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Gogo > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Ic, (Io)o, (Io)[s], I[s, O,",
+        "vi": 833748618,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Gogo Cross"
+    },
+    {
+        "na": "Inverse Toad Knot to Inverse Toad Gogo Arm Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Gogo > Inverse Toad Knot > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Ic, (Io)o, (I)c, (Io)[s], I[s, O,",
+        "vi": 833749704,
+        "ca": "CW",
+        "hs": 3,
+        "sd": 4,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Knot Cross"
+    },
+    {
+        "na": "Inverse Toad Gogo Arm Wrap to Inverse Toad Gogo",
+        "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Inverse Toad Gogo >",
+        "no": "Is, (Io)s, (Io)[s], I[s, (Io)o,",
+        "vi": 833751888,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Gogo Cross"
+    },
+    {
+        "na": "Inverse Toad Gogo Arm Wrap to Inverse Toad Knot",
+        "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Inverse Toad Knot >",
+        "no": "Is, (Io)s, (Io)[s], I[s, (I)c,",
+        "vi": 833752435,
+        "ca": "WC",
+        "hs": 3,
+        "sd": 4,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Knot Cross"
+    },
+    {
+        "na": "Inverse Toad Gogo Arm Wrap to Elephant",
+        "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Elephant >",
+        "no": "Is, (Io)s, (Io)[s], I[s, It,",
+        "vi": 833751308,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Leg Over Gogo Arm Wrap",
+        "sk": "> Leg Over > Leg Over Gogo Swing > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Lo, (Lc)s, (Lc)[s], L[s, C,",
+        "vi": 833753542,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Gogo to Leg Over Gogo Arm Wrap",
+        "no": "Lo, (Lc)c, (Lc)s, (Lc)[s], L[s, C,",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Gogo Arm Wrap to Leg Over Gogo",
+        "no": "Ls, (Lc)s, (Lc)[s], L[s, (Lc)c, Lo, C,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Gogo Cross"
+    },
+    {
+        "na": "Leg Over Gogo Arm Wrap to T-Toad",
+        "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > T-Toad > Swing <B> > Cross >",
+        "no": "Ls, (Lc)s, (Lc)[s], L[s, T(c), S, C,",
+        "vi": 833756239,
+        "ca": "WC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "Inverse Leg Over to Inverse Leg Over Gogo Arm Wrap",
+        "sk": "> Inverse Leg Over > Inverse Leg Over Gogo Swing > Inverse Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Jo, (Jc)s, (Jc)[s], J[s, C,",
+        "vi": 833738068,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Gogo Arm Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad to Toad Thigh Wrap",
+        "sk": "> Toad > Toad Thigh Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Tc, [T]s, [To)s, O,",
+        "vi": 833936395,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad to Inverse Toad Thigh Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Thigh Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Ic, [I]s, [Io)s, O,",
+        "vi": 833936129,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over to Leg Over Thigh Wrap",
+        "sk": "> Leg Over > Leg Over Thigh Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Lo, [L]s, [Lc)s, C,",
+        "vi": 833936221,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Leg Over to Inverse Leg Over Thigh Wrap",
+        "sk": "> Inverse Leg Over > Inverse Leg Over Thigh Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Jo, [J]s, [Jc)s, C,",
+        "vi": 833936073,
+        "ca": "CW",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB to EB Leg Wrap",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Leg Over Awesome Annie to Toad Wrap",
+        "sk": "> Leg Over > Leg Over Awesome Annie > Toad Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Lo, La, [T]c, [To)s, O,",
+        "vi": 833934104,
+        "ca": "SW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Awesome Annie",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "EB Toad to Toad Wrap",
+        "sk": "> Swing > EB Toad > Toad Wrap > Unwrap Swing <OS> > Open >",
+        "no": "S, Et, [T]c, [To)s, O,",
+        "vi": 833934162,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Toad Wrap",
+        "sk": "> Elehpant > Toad Wrap <B> > Unwrap Swing <OS> > Open >",
+        "no": "Ti, [T]s, [To)s, O,",
+        "vi": 833934181,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad Gogo to Toad Wrap",
+        "sk": "> Toad > Toad Gogo > Toad Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Tc, (To)o, [T]c, [To)s, O,",
+        "vi": 833934204,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad Wrap",
+        "sk": "> Elephant > Inverse Toad Wrap <B> > Unwrap Swing <OS> > Open >",
+        "no": "It, [I]s, [Io)s, O,",
+        "vi": 833933787,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse EB Toad to Inverse Toad Wrap",
+        "sk": "> Swing > Inverse EB Toad > Inverse Toad Wrap > Unwrap Swing <OS> > Open >",
+        "no": "S, Ei, [I]c, [Io)s, O,",
+        "vi": 833933812,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Gogo to Inverse Toad Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Gogo > Inverse Toad Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Ic, (Io)o, [I]c, [Io)s, O,",
+        "vi": 833933831,
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Toad Awesome Annie to Leg Over Wrap",
+        "sk": "> Toad > Toad Awesome Annie > Leg Over Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Tc, Ta, [L]o, [Lc)s, C,",
+        "vi": 833934048,
+        "ca": "SW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Awesome Annie",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Awesome Annie to Leg Over Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Awesome Annie > Leg Over Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Ic, Ia, [L]o, [Lc)s, C,",
+        "vi": 833934000,
+        "ca": "SW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Awesome Annie",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Elephant Awesome Annie to Leg Over Wrap",
+        "sk": "> Elephant > Elephant Awesome Annie > Leg Over Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Ti, Ta, [L]o, [Lc)s, C,",
+        "vi": 833933981,
+        "ca": "SW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Awesome Annie",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "TS to TS Wrap",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "CL to CL Wrap",
+        "vi": "CS",
+        "ca": "CW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Dual Box to Toad Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Box to Inverse Toad Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Wrist to Leg Over Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Wrist to Inverse Leg Over Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB to Toad Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB to Inverse Toad Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB to Neck Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Dive EB to Toad Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Dive EB to Inverse Toad Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Dive EB to Neck Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB Gogo to Leg Over Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB Gogo to Inverse Leg Over Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Toad to Box Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Toad to Inverse Toad Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Toad to Neck Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Inverse Toad to Box Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Inverse Toad to Toad Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Inverse Toad to Neck Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Leg Over to Wrist Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Leg Over to Inverse Leg Over Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Inverse Leg Over to Wrist Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual Inverse Leg Over to Leg Over Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB Gogo Leg Over to Wrist Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB Gogo Inverse Leg Over to Wrist Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB D-Gogo Toad to Box Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Dual EB D-Gogo Inverse Toad to Box Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Double Wrap",
+        "c2": "Arm Wrap"
+    },
+    {
+        "na": "Toad Wrap (Gogo Unwrap) to Toad",
+        "no": "Tc, [T]c, [To)o, Tc,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Toad Wrap (Gogo Unwrap) to Elephant",
+        "no": "Tc, [T]c, [To)o, Tc,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Wrap (Gogo Unwrap) to Inverse Toad",
+        "no": "Ic, [I]c, [Io)o, Ic,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Wrap (Gogo Unwrap) to Elephant",
+        "no": "Ic, [I]c, [Io)o, Ic,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Wrap (Gogo Unwrap) to Leg Over",
+        "no": "Lo, [L]o, [Lc)c, Lo, C,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Wrap (Gogo Unwrap) to T-Toad",
+        "no": "Lo, [L]o, [Lc)c, Lo, C,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Leg Over Wrap (Gogo Unwrap) to Inverse Leg Over",
+        "no": "Jo, [J]o, [Jc)c, Jo, C,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse Leg Over Wrap (Gogo Unwrap) to Toad",
+        "no": "Jo, [J]o, [Jc)c, Jo, C,",
+        "vi": "CS",
+        "ca": "WC",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Toad Wrap (Gogo Unwrap) to Toad Wrap",
+        "no": "Tc, [T]c, [To)o, [T]c, [To)s, O,",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap"
+    },
+    {
+        "na": "Inverse Toad Wrap (Gogo Unwrap) to Inverse Toad Wrap",
+        "no": "Ic, [I]c, [Io)o, [I]c, [Io)s, O,",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap"
+    },
+    {
+        "na": "Leg Over Wrap (Gogo Unwrap) to Leg Over Wrap",
+        "no": "Lo, [L]o, [Lc)c, [L]o, [Lc)s, C,",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap"
+    },
+    {
+        "na": "Inverse Leg Over Wrap (Gogo Unwrap) to Inverse Leg Over Wrap",
+        "no": "Jo, [J]o, [Jc)c, [J]o, [Jc)s, C,",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 1,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Unwrap"
+    },
+    {
+        "na": "Toad Wrap to Toad Gogo Arm Wrap",
+        "sk": "> Toad > Toad Wrap > Unwrap Swing <OS> > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Tc, [T]c, [T)s, (To)[s], (To)[s), O,",
+        "vi": 833930635,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Toad Wrap to Toad Gogo Arm Wrap (Awesome Annie out)",
+        "sk": "> Toad > Toad Wrap > Unwrap Swing <OS> > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Toad Awesome Annie > Cross >",
+        "no": "Tc, [T]c, [T)]s, (To)[s], (To)[s), Ta, C,",
+        "vi": 833933111,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": -0.5,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Inverse Toad Wrap to Gogo Arm Wrap",
+        "sk": "> Inverse Toad > Inverse Toad Wrap > Unwrap Swing <OS> > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Ic, [I]c, [I)s, (Io)[s], (Io)[s), O,",
+        "vi": 833930487,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Inverse Toad Wrap to Gogo Arm Wrap (Awesome Annie out)",
+        "sk": "> Inverse Toad > Inverse Toad Wrap > Unwrap Swing <OS> > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Inverse Toad Awesome Annie > Cross >",
+        "no": "Ic, [I]c, [I)]s, (Io)[s], (Io)[s), Ia, C,",
+        "vi": 833933047,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": -0.5,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Leg Over Wrap to Leg Over Gogo Arm Wrap",
+        "sk": "> Leg Over > Leg Over Wrap > Unwrap Swing <OS> > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Lo, [L]o, [L)s, (Lc)[s], (Lc)[s), C,",
+        "vi": 833930583,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Leg Over Wrap to Leg Over Gogo Arm Wrap (Awesome Annie out)",
+        "sk": "> Leg Over > Leg Over Wrap > Unwrap Swing <OS> > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Leg Over Awesome Annie > Open >",
+        "no": "Lo, [L]o, [L)s, (Lc)[s], (Lc)[s), La, O,",
+        "vi": 833933082,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": -0.5,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Inverse Leg Over Wrap to Inverse Leg Over Gogo Arm Wrap",
+        "no": "Jo, [J]o, [[J]s], [Jc]s), [Jc)s, C,",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Inverse Leg Over Wrap to Inverse Leg Over Gogo Arm Wrap (Awesome Annie out)",
+        "no": "Jo, [J]o, [[J]s], [Jc]s), [Jc)s, C,",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": -0.5,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "EB Toad Wrap to Toad Gogo Arm Wrap",
+        "sk": "> Swing > EB Toad > EB Toad Wrap > Unwrap Swing <OS> > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "S, Et, E[t], [[T]s], [To]s), [To)s, O,",
+        "vi": 833930343,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Inverse EB Toad Wrap to Inverse Toad Gogo Arm Wrap",
+        "sk": "> Swing > Inverse EB Toad > Inverse EB Toad Wrap > Unwrap Swing <OS> > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "S, Ei, E[i], [[I]s], [Io]s), [Io)s, O,",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "EB Leg Over Wrap to Leg Over Gogo Arm Wrap",
+        "sk": "> Swing > EB Leg Over Swing > Leg Over Wrap > Unwrap Swing <OS> > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "S, Le, [L]o, [[L]s], [Lc]s), [Lc)s, C,",
+        "vi": 833930274,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "T-Toad Wrap to Gogo Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 3,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Inverse T-Toad Wrap to Gogo Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 3,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "TS Wrap to EB Gogo Arm Wrap",
+        "sk": "> Open > TS Wrap > Unwrap Swing <OS> > EB Gogo Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "O, [E], [[Eo]s], [Eo]s), [Eo)s, Es, O,",
+        "vi": 833930707,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "AS Wrap to EB Gogo Arm Wrap",
+        "sk": "> Open > AS Wrap > Unwrap Swing <OS> > AS Gogo Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "O, [N], [[No]s], [No]s), [No)s, Es, O,",
+        "vi": 833930139,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "CL Wrap to EB Gogo Arm Wrap",
+        "sk": "> Open > CL Wrap > Unwrap Swing <OS> > AS Gogo Arm Wrap > Unwrap Swing <OS> > EB Swing > Open >",
+        "no": "O, [N]e, [[No]s], [No]s), [No)s, Es, O,",
+        "vi": 833930258,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0,
+        "c1": "Leg Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Toad Thigh Wrap to Toad Gogo Arm Wrap",
+        "sk": "> Toad Swing > Toad Thigh Wrap > Unwrap Swing <OS> > Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Ts, [T]s, [To)s, (To)[s], T[s), O,",
+        "vi": 833930609,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Inverse Toad Thigh Wrap to Inverse Toad Gogo Arm Wrap",
+        "sk": "> Inverse Toad Swing > Inverse Toad Thigh Wrap > Unwrap Swing <OS> > Inverse Toad Gogo Arm Wrap > Unwrap Swing <OS> > Open >",
+        "no": "Is, [I]s, [Io)s, (Io)[s], I[s), O,",
+        "vi": 833930437,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Leg Over Thigh Wrap to Leg Over Gogo Arm Wrap",
+        "sk": "> Leg Over Swing > Leg Over Thigh Wrap > Unwrap Swing <OS> > Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Ls, [L]s, [Lc)s, (Lc)[s], L[s), C,",
+        "vi": 833930509,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Inverse Leg Over Thigh Wrap to Inverse Leg Over Gogo Arm Wrap",
+        "sk": "> Inverse Leg Over Swing > Inverse Leg Over Thigh Wrap > Unwrap Swing <OS> > Inverse Leg Over Gogo Arm Wrap > Unwrap Swing <OS> > Cross >",
+        "no": "Js, [J]s, [Jc)s, (Jc)[s], J[s), C,",
+        "vi": 833930409,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Tucked Leg Over Thigh Wrap to Gogo Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Tucked Inverse Leg Over Thigh Wrap to Gogo Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "EB Gogo Toad Thigh Wrap to Gogo Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "EB Gogo Inverse Toad Thigh Wrap to Gogo Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "EB Gogo Leg Over Thigh Wrap to Gogo Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "EB Gogo Inverse Leg Over Thigh Wrap to Gogo Arm Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 3,
+        "sd": 2,
+        "md": 0,
+        "c1": "Thigh Wrap",
+        "c2": "Gogo Arm Wrap"
+    },
+    {
+        "na": "Toad Wrap to Leg Over Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0.5,
+        "c1": "Leg Wrap"
+    },
+    {
+        "na": "Inverse Toad Wrap to Leg Over Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0.5,
+        "c1": "Leg Wrap"
+    },
+    {
+        "na": "Leg Over Wrap to Toad Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0.5,
+        "c1": "Leg Wrap"
+    },
+    {
+        "na": "Inverse Leg Over Wrap to Toad Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 1,
+        "sd": 3,
+        "md": 0.5,
+        "c1": "Leg Wrap"
+    },
+    {
+        "na": "EB Toad Wrap to Leg Over Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0.5,
+        "c1": "Leg Wrap"
+    },
+    {
+        "na": "Inverse EB Toad Wrap to Leg Over Wrap",
+        "vi": "CS",
+        "ca": "WW",
+        "hs": 2,
+        "sd": 3,
+        "md": 0.5,
+        "c1": "Leg Wrap"
+    },
+    {
+        "na": "O.H. Toad Thigh Wrap to Layered Arm Wrap",
+        "sk": "> <OH> Toad Swing > <OH> Toad Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Toad Swing > <OH> Swing >",
+        "no": "TBC",
+        "vi": 833935569,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "One-Handed Wrap",
+        "c2": "Thigh Wrap",
+        "c3": "Arm Wrap"
+    },
+    {
+        "na": "O.H. Inverse Toad Thigh Wrap to Layered Arm Wrap",
+        "sk": "> <OH> Inverse Toad Swing > <OH> Inverse Toad Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Inverse Toad Swing > <OH> Swing >",
+        "no": "TBC",
+        "vi": 833935366,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "One-Handed Wrap",
+        "c2": "Thigh Wrap",
+        "c3": "Arm Wrap"
+    },
+    {
+        "na": "O.H. Leg Over Thigh Wrap to Layered Arm Wrap",
+        "sk": "> <OH> Leg Over Swing > <OH> Leg Over Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Leg Over Swing > <OH> Swing >",
+        "no": "TBC",
+        "vi": 833935485,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "One-Handed Wrap",
+        "c2": "Thigh Wrap",
+        "c3": "Arm Wrap"
+    },
+    {
+        "na": "O.H. Inverse Leg Over Thigh Wrap to Layered Arm Wrap",
+        "sk": "> <OH> Inverse Leg Over Swing > <OH> Inverse Leg Over Thigh Wrap > <OH> Unwrap Swing <OS> > <OH> Arm Wrap > <OH> Unwrap Swing <OS> > <OH> Inverse Leg Over Swing > <OH> Swing >",
+        "no": "TBC",
+        "vi": 833935193,
+        "ca": "WW",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "One-Handed Wrap",
+        "c2": "Thigh Wrap",
+        "c3": "Arm Wrap"
+    },
+    {
+        "na": "Mic Release to Cross",
+        "sk": "> Swing > Mic Release > Cross >",
+        "no": "S, M, C,",
+        "vi": 848349484,
+        "ca": "RC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Mic Release to Switch Cross",
+        "sk": "> Swing > Mic Release > Cross <OS> >",
+        "no": "S, M, -C,",
+        "vi": 848350128,
+        "ca": "RC",
+        "hs": 0,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Mic Release",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Mic Release to Cross (Swing in)",
+        "sk": "> Swing > Mic Release > Swing <B> > Cross >",
+        "no": "S, M, S, C,",
+        "vi": 848349427,
+        "ca": "RC",
+        "hs": 0,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Mic Release",
+        "c2": "Body Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to EB",
+        "sk": "> Swing > Mic Release > Swing > EB >",
+        "no": "S, M, S, Ec,",
+        "vi": 848349633,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Mic Release to Dive EB",
+        "sk": "> Swing > Mic Release > Open > EB >",
+        "no": "S, M, O, Ec,",
+        "vi": 848349519,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Mic Release",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Mic Release to TS",
+        "sk": "> Swing > Mic Release > Open > TS >",
+        "no": "S, M, O, E,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Mic Release to TS (EB Swing in)",
+        "sk": "> Swing > Mic Relelase > Swing > EB Swing > TS >",
+        "no": "S, M, S, Es, E,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Mic Release",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Mic Release to Toad",
+        "sk": "> Swing > Mic Release > Toad >",
+        "no": "S, M, Tc,",
+        "vi": 848350403,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to Switch Toad",
+        "sk": "> Swing > Mic Release > Toad <OS> >",
+        "no": "S, M, -Tc,",
+        "vi": 848350237,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to Toad (Swing in)",
+        "sk": "> Swing > Mic Release > Swing <B> > Toad >",
+        "no": "S, M, S, Tc,",
+        "vi": 848350326,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to Toad (Toad Swing in)",
+        "sk": "> Swing > Mic Release > Toad Swing > Toad >",
+        "no": "S, M, Ts, Tc,",
+        "vi": 848350363,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to Inverse Toad",
+        "sk": "> Swing > Mic Release > Inverse Toad >",
+        "no": "S, M, Ic,",
+        "vi": 848350011,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to Switch Inverse Toad",
+        "sk": "> Swing > Mic Release > Inverse Toad <OS> >",
+        "no": "S, M, -Ic,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to Inverse Toad (Swing in)",
+        "sk": "> Swing > Mic Release > Swing <B> > Inverse Toad >",
+        "no": "S, M, S, Ic,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to Inverse Toad (Inverse Toad Swing in)",
+        "sk": "> Swing > Mic Release > Inverse Toad Swing > Inverse Toad >",
+        "no": "S, M, Is, Ic,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to Leg Over",
+        "sk": "> Swing > Mic Release > Leg Over > Cross >",
+        "no": "S, M, Lo, C,",
+        "vi": 848350095,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to Switch Leg Over",
+        "sk": "> Swing > Mic Release > Leg Over <OS> > Cross >",
+        "no": "S, M, -Lo, C,",
+        "vi": 848350200,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to T-Toad",
+        "sk": "> Swing > Mic Release > T-Toad > Swing <B> > Cross >",
+        "no": "S, M, T(c), S, C,",
+        "vi": 848349969,
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "Mic Release to T-Toad (Swing in)",
+        "sk": "> Swing > Mic Release > Swing <B> > T-Toad > Swing <B> > Cross >",
+        "no": "S, M, S, T(c), S, C,",
+        "vi": 848350275,
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to Inverse T-Toad",
+        "sk": "> Swing > Mic Release > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "S, M, I(c), S, C,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross"
+    },
+    {
+        "na": "Mic Release to Inverse T-Toad (Swing in)",
+        "sk": "> Swing > Mic Release > Swing <B> > Inverse T-Toad > Swing <B> > Cross >",
+        "no": "S, M, S, I(c), S, C,",
+        "vi": 848349929,
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": -0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c3": "Tucked Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to Inverse Leg Hook",
+        "sk": "> Swing > Mic Release > Inverse Leg Hook > Open >",
+        "no": "S, M, Io,",
+        "vi": 848349848,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to Inverse Leg Hook Awesome Annie",
+        "sk": "> Swing > Mic Release > Inverse Leg Hook Awesome Annie > Cross >",
+        "no": "S, M, Ia, C,",
+        "vi": 848349884,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to Leg Hook",
+        "sk": "> Swing > Mic Release > Leg Hook > Open >",
+        "no": "S, M, To,",
+        "vi": 848350053,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to Leg Hook Awesome Annie",
+        "sk": "> Swing > Mic Release > Leg Hook Awesome Annie > Cross >",
+        "no": "S, M, Ta, C,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Mic Release",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Mic Release to EB Toad (Swing in)",
+        "sk": "> Swing > Mic Release > Swing > EB Toad >",
+        "no": "S, M, S, Et,",
+        "vi": 848349675,
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to EB Toad (Toad Swing in)",
+        "sk": "> Swing > Mic Release > Toad Swing > EB Toad >",
+        "no": "S, M, Ts, Et,",
+        "vi": 848349814,
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Cross",
+        "c5": "Swing in"
+    },
+    {
+        "na": "Mic Release to AS",
+        "sk": "> Swing > Mic Release > Open > AS >",
+        "no": "S, M, O, N,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Mic Release to CL",
+        "sk": "> Swing > Mic Release > Open > CL >",
+        "no": "S, M, O, En,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Ground Cross"
+    },
+    {
+        "na": "Mic Release to Dive EB Arm Wrap 180",
+        "sk": "> Swing > Mic Release > Open > EB Arm Wrap > Unwrap Swing 180 <OS> > <BW> Open >",
+        "no": "S, M, O, E[s], E[s)>, O,",
+        "vi": 848349572,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Arm Wrap",
+        "c3": "180 Unwrap"
+    },
+    {
+        "na": "Toad to Toad Swing Release",
+        "sk": "> Toad > Toad Swing > Mic Release <B> > Open >",
+        "no": "Tc, Ts, M, O,",
+        "vi": 833583899,
+        "ca": "CR",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Swing",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Toad Swing Release",
+        "sk": "> Elephant > Toad Swing > Mic Release <B> > Open >",
+        "no": "Ti, Ts, M, O,",
+        "vi": 833583565,
+        "ca": "CR",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Swing",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "EB Toad to Toad Swing Release",
+        "sk": "> Toad Swing > EB Toad > Toad Swing > Mic Release <B> > Open >",
+        "no": "Ts, Et, Ts, M, O,",
+        "vi": 833583239,
+        "ca": "CR",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Swing",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Awsome Annie to Toad Swing Release",
+        "sk": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Mic Release <B> > Open >",
+        "no": "Lo, La, Ts, M, O,",
+        "vi": 833582643,
+        "ca": "SR",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Swing",
+        "c3": "Awesome Annie"
+    },
+    {
+        "na": "Inverse Toad to Inverse Toad Swing Release",
+        "sk": "> Inverse Toad > Inverse Toad Swing > Mic Release <B> > Open >",
+        "no": "Ic, Is, M, O,",
+        "vi": 833582075,
+        "ca": "CR",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Swing",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Elephant to Inverse Toad Swing Release",
+        "sk": "> Elephant > Inverse Toad Swing > Mic Release <B> > Open >",
+        "no": "It, Is, M, O,",
+        "vi": 833581737,
+        "ca": "CR",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Swing",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Inverse EB Toad to Inverse Toad Swing Release",
+        "sk": "> Inverse Toad Swing > Inverse EB Toad > Inverse Toad Swing > Mic Release <B> > Open >",
+        "no": "Is, Ei, Is, M, O,",
+        "vi": "CS",
+        "ca": "CR",
+        "hs": 2,
+        "sd": 2,
+        "md": 0,
+        "c1": "Mic Release",
+        "c2": "Leg Swing",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Handle Pass to Toad Swing",
+        "sk": "> Swing Handle Pass <B> > Toad Swing <W> > Open >",
+        "no": "S*, T(s)*, O,",
+        "vi": 833592822,
+        "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Leg Swing"
+    },
+    {
+        "na": "Handle Pass to Inverse Toad Swing",
+        "sk": "> Swing Handle Pass <B> > Inverse Toad Swing <W> > Open >",
+        "no": "S*, I(s)*, O,",
+        "vi": 833591602,
+        "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Leg Swing"
+    },
+    {
+        "na": "Handle Pass to Cross",
+        "sk": "> Swing Handle Pass <B> > One-Handed Swing <W> > Swing <B> > Cross >",
+        "no": "S*, s, *S, C,",
+        "vi": 833590860,
+        "ca": "RC",
+        "hs": 0,
+        "sd": 1,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Handle Pass to Toad (via Toad Swing)",
+        "sk": "> Swing Handle Pass <B> > One-Handed Swing <W> > Toad Swing > Toad >",
+        "no": "S*, s, *Ts, Tc,",
+        "vi": 833592299,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Leg Swing",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Handle Pass to Toad",
+        "sk": "> Swing Handle Pass <B> > One-Handed Swing <W> > Swing <B> > Toad >",
+        "no": "S*, s, *S, Tc,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Handle Pass to Inverse Toad (via Inverse Toad Swing)",
+        "sk": "> Swing Handle Pass <B> > One-Handed Swing <W> > Inverse Toad Swing > Inverse Toad >",
+        "no": "S*, s, *Is, Ic,",
+        "vi": 833591208,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Leg Swing",
+        "c3": "Leg Cross"
+    },
+    {
+        "na": "Handle Pass to Inverse Toad",
+        "sk": "> Swing Handle Pass <B> > One-Handed Swing <W> > Swing <B> > Inverse Toad >",
+        "no": "S*, s, *S, Ic,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Dive EB Handle Pass to Toad Swing",
+        "sk": "> Open EB Handle Pass > Toad Swing <W> > Open >",
+        "no": "Oe*, *T(s), O,",
+        "vi": 833589908,
+        "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Handle Pass",
+        "c2": "Leg Swing"
+    },
+    {
+        "na": "Dive EB Handle Pass to Inverse Toad Swing",
+        "sk": "> Open EB Handle Pass > Inverse Toad Swing <W> > Open >",
+        "no": "Oe*, *I(s), O,",
+        "vi": 833589382,
+        "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0.5,
+        "c1": "Handle Pass",
+        "c2": "Leg Swing"
+    },
+    {
+        "na": "Toad Handle Pass to Toad Swing",
+        "sk": "> Toad Swing Handle Pass <B> > Toad Swing <W> > Open >",
+        "no": "Ts*, *T(s), O,",
+        "vi": 833594091,
+        "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Leg Swing"
+    },
+    {
+        "na": "Inverse Toad Handle Pass to Inverse Toad Swing",
+        "sk": "> Inverse Toad Swing Handle Pass <B> > Inverse Toad Swing <W> > Open >",
+        "no": "Is*, *I(s), O,",
+        "vi": 833593162,
+        "ca": "RS",
+        "hs": 1,
+        "sd": 2,
+        "md": 0,
+        "c1": "Handle Pass",
+        "c2": "Leg Swing"
+    },
+    {
+        "na": "Toad Handle Hold to Cross",
+        "sk": "> Toad > Toad Handle Hold > Cross >",
+        "no": "Tc, Tc~, C,",
+        "vi": 833585812,
+        "ca": "RC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "Handle Hold",
+        "c2": "Body Cross"
+    },
+    {
+        "na": "Toad Handle Hold to Switch Leg Over",
+        "sk": "> Toad > Toad Handle Hold > Leg Over <OS> > Cross >",
+        "no": "Tc, Tc~, -Lo, C,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Handle Hold",
+        "c2": "Leg Cross",
+        "c3": "Switch Cross"
+    },
+    {
+        "na": "Toad Handle Hold to T-Toad",
+        "sk": "> Toad > Toad Handle Hold > T-Toad > Swing <B> > Cross >",
+        "no": "Tc, Tc~, T(c), S, C,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Handle Hold",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Inverse Toad Handle Hold to Cross",
+        "sk": "> Inverse Toad > Inverse Toad Handle Hold > Cross >",
+        "no": "Ic, Ic~, C,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 1,
+        "sd": 4,
+        "md": 0,
+        "c1": "Handle Hold",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "Leg Over Handle Hold to Switch Toad",
+        "sk": "> Leg Over > Leg Over Handle Hold > Toad <OS> >",
+        "no": "Lo, Lo~, -Tc,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Handle Hold",
+        "c2": "Leg Cross"
+    },
+    {
+        "na": "EB Toad Handle Hold to EB",
+        "sk": "> Swing > EB Toad > EB Toad Handle Hold > EB >",
+        "no": "S, Et, Et~, Ec,",
+        "vi": 833584963,
+        "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Handle Hold",
+        "c2": "Leg Cross",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "T-Toad Handle Hold to Cross",
+        "sk": "> Swing > T-Toad > T-Toad Handle Hold > Cross >",
+        "no": "S, T(c), T(c)~, C,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Handle Hold",
+        "c2": "Leg Cross",
+        "c3": "Body Cross"
+    },
+    {
+        "na": "T-Toad Handle Hold to Toad",
+        "sk": "> Swing > T-Toad > T-Toad Handle Hold > Toad >",
+        "no": "S, T(c), T(c)~, Tc,",
+        "vi": "CS",
+        "ca": "RC",
+        "hs": 2,
+        "sd": 4,
+        "md": 0,
+        "c1": "Handle Hold",
+        "c2": "Leg Cross",
+        "c3": "Body Cross"
     }
-
-    function checkReleaseExit() {
-        isValidExit = false;
-
-        possibleExits = [
-            { 'name': '', 'exit': ' >'},
-            { 'name': '', 'exit': ' > Open >'},
-            { 'name': ' (Swing out)', 'exit': ' > Swing <B> <SS> >'},
-            { 'name': ' (Swing out on other side)', 'exit': ' > Swing <B> <OS> >'},
-            { 'name': ' (Swing, Swing out)', 'exit': ' > Swing <B> <OS> > Swing <W> >'}
-        ];
-
-        if (!theNextSelection.na.includes('EB Swing Release') && theNextSelection.sk.endsWith(' > Open >')) {
-            console.log('R-F3-1: ',theNextSelection.na, ' ends with an Open (and is NOT an EB Swing Release)');
-            theNextSelection.sk = theNextSelection.sk.replace(/ > Open >$/, '');
-        
-            let randomExit;
-            if (theNextSelection.na.includes('Handle Pass') && !theNextSelection.na.includes('Release')) {
-                console.log('R-F3-2: ',theNextSelection.na, ' is a ~Pass~ but NOT ~Mic~');
-                randomExit = possibleExits[0];
-            } else {
-                randomExit = pickRandomOption(possibleExits);
-                console.log('R-F3-3: ',theNextSelection.na, ' is a standard ~Mic~, (and is NOT a ~Handle Pass~ or ~EB Swing~)');
-            }
-
-            if (randomExit.exit.includes('<SS>') && theNextSelection.na.includes('Toad Swing')) {
-                console.log('R-F3-4: ',theNextSelection.na, ' is starts with a ~Toad Swing~ and ends (randomly) with a SS Box Swing');
-                let toadSubstring = theNextSelection.na.split(' Swing <B>')[0];
-                randomExit.exit = randomExit.exit.replace('Swing', toadSubstring);
-            }
-
-        theNextSelection.na += randomExit.name;
-        theNextSelection.sk += randomExit.exit;
-        console.log('R-F3-5: ',theNextSelection.na, ' exit adjusted.');
-        isValidExit = true;
-        }
-        return isValidExit;
-    }
- 
-    function checkWrapExit() {
-        isValidExit = false;
-
-        if (theNextSelection.na.includes('180')) {
-            console.log('W-F1-1: ',theNextSelection.na ,' is a ~Wrap 180~');
-            if (theFinalSelection.length < theSelectionCounter) {
-                console.log('W-F1-2: ',theNextSelection.na ,' added to theFinalSelection. BW 180 required. Choosing now...');
-                theFinalSelection.push(theNextSelection);
-                categoryRequired = 'Backwards 180';
-                let theNextBWSelection = pickRandomTrick(categoryRequired);
-                if (theNextBWSelection) {
-                    theNextSelection = theNextBWSelection;
-                    console.log('W-F1-3: theNextBWSelection assigned to ',theNextSelection.na);
-                }
-            }
-            console.log('W-F1-3: Valid exit found!');
-            isValidExit = true;
-        } else {
-            console.log('W-F1-3: No rule(s) applied to this trick, no adjustment made.');
-            isValidExit = true;
-        }
-        return isValidExit;
-    }
-
-    function checkDirectionChangeExit() {
-        isValidExit = false;
-
-        if (theFinalSelection.length < theSelectionCounter) {
-
-            if (!theNextSelection.na.includes('Backwards') && !theNextSelection.na.includes('BW') && !theNextSelection.na.includes('360') && !theNextSelection.na.includes('Turn')) {
-                console.log('D-F-1: ',theNextSelection.na,' is a FW 180 / Stall. Next trick MUST be a BW 180 / Stall...');
-                console.log('D-F-2-1: Sequence has not ended. Choosing BW 180 / Stall...')
-                categoryRequired = 'D';
-                nameFilter = 'Backwards';
-                let theNextBWSelection = pickRandomTrick(categoryRequired, nameFilter);
-                if (theNextBWSelection) {
-                    theNextSelection = theNextBWSelection;
-                    console.log('D-F-2-1: ',theNextBWSelection.na,' is a BW 180 / Stall. Added to theFinalSelection as well.');
-                } else {
-                    let defaultTurn = {
-                        "na": "Backwards 180",
-                        "sk": "> <BW> Open 180 >",
-                        "vi": 833936808,
-                        "ca": "D",
-                        "c1": "Backwards 180"
-                    };
-                    console.log('D-F-2-2: No suitable BW 180 / Stall found. defaultTurn used instead.');
-                    theNextSelection = defaultTurn;
-                }
-                isValidExit = true; 
-            } else {
-                console.log('D-F-3:', theNextSelection.na, ' is BW 180 / Stall. Next trick can be anything.');
-            }
-        } else {
-            console.log('D-F-4: theSelectionCounter does not require another trick. BW 180 / Stall not needed.');
-        }
-        return isValidExit;
-    }
-
-    function checkComboExit() {
-        console.log('CO-F-1: checkComboExit intiated.');
-        isValidExit = false; 
-        let possibleCategories = ['C', 'D', 'R', 'W'];
-        const firstComboCategory = theNextSelection.ca; 
-        const secondComboCategory = theNextSelection.cb.charAt(1);
-    
-        possibleCategories = possibleCategories.filter(category => category !== firstComboCategory);
-    
-        if (firstComboCategory !== secondComboCategory) {
-            console.log('CO-F-2: ',secondComboCategory, ' is not the same as ', firstComboCategory);
-            isValidExit = false;
-    
-            if (secondComboCategory === 'C') {
-                console.log('CO-F-3: Calling checkCrossExit as Combo ends with a Cross');
-                isValidExit = checkCrossExit();
-            } else if (secondComboCategory === 'D') {
-                console.log('CO-F-4: Calling checkDirectionChangeExit as Combo ends with a FW 180 / Stall');
-                isValidExit = checkDirectionChangeExit(); 
-            } else if (secondComboCategory === 'R') {
-                console.log('CO-F-5: Calling checkReleaseExit as Combo ends with a Release');
-                isValidExit = checkReleaseExit(); 
-            } else if (secondComboCategory === 'W') {
-                console.log('CO-F-6: Calling checkWrapExit as Combo ends with a Wrap');
-                isValidExit = checkWrapExit(); 
-            } else {
-                console.log('CO-F-7: Error: Invalid/unrecognised category in the Combo. No adjustment made. EDGE CASE');
-                isValidExit = true;
-            }
-            return isValidExit;
-        } else {
-            console.log('CO-F-8: Both trick categories are the same. No adjustment needed.');
-            return isValidExit; 
-        }
-    }
-    
-
-    while (theFinalSelection.length < theSelectionCounter) {
-        let suitableFound = false;
-
-        while (!suitableFound) {
-            theNextSelection = pickRandomTrick();
-
-            if (!theNextSelection) {
-                console.log("No valid selection found.");
-                break;
-            }
-            if (theFinalSelection.length > 0) {
-                let lastSkill = theFinalSelection[theFinalSelection.length - 1];
-                if (lastSkill.vi === theNextSelection.vi) {
-                    console.log("Duplicate found. Rechoosing...");
-                    theNextSelection = pickRandomTrick();
-                    continue; 
-                } else {
-                 thePreviousSelection = lastSkill;
-                 console.log('thePreviousSelection is now ', thePreviousSelection.na);
-                }
-            }
-            
-            console.log('Appropriate theNextSelection chosen:', theNextSelection.na);
-
-     switch (theNextSelection.ca) {
-            
-    case 'F':
-    
-    // Initialize footworkCounter only if it's not already set
-    if (typeof footworkCounter === 'undefined') {
-        if (theCategoryTypes.length === 1 && theCategoryTypes[0] === 'F') {
-            footworkCounter = theSelectionCounter;
-            if (footworkCounter % 2 !== 0) {
-                footworkCounter += 1; 
-            }
-        } else {
-            let maxFootwork = Math.floor(theSelectionCounter / 2); 
-            footworkCounter = 2 * Math.floor(Math.random() * (maxFootwork / 2)) + 2; 
-        }
-        console.log(`Footwork counter set to ${footworkCounter}`);
-    }
-
-    categoryRequired = 'F';     
-    while (footworkCounter > 0 && theFinalSelection.length < theSelectionCounter) {
-       if (typeof theNextSelection.no !== 'string') {
-            console.log(`Skipping ${theNextSelection.na}: 'no' property is missing or invalid.`);
-            theNextSelection = pickRandomTrick(categoryRequired);
-            continue;
-        }
-
-       let commaCount = (theNextSelection.no.match(/,/g) || []).length;
-       let isOtherSide = Math.random() < 0.5;
-
-       // Randomly choose between Method 1, 2 & 3
-       let theOptions = ['M1', 'M2', 'M3'];
-       let method = pickRandomOption(theOptions);
-       console.log('Next method selected:', method);
-
-      // Method 1: AA Patterns
-      if (method === 'M1') {
-        
-        if (commaCount === 2 && !theNextSelection.na.includes('Side Raise')) {
-            theFinalSelection.push(theNextSelection);
-
-            let secondFootwork = Object.assign({}, theNextSelection);
-            if (isOtherSide && !secondFootwork.na.includes('Side Straddle')) {
-                secondFootwork.sk = secondFootwork.sk.replace(" > ", " <OS> > ");
-                secondFootwork.na += ' (other side)';
-                console.log(`Modified ${secondFootwork.na} to indicate other side.`);
-            }
-            theFinalSelection.push(secondFootwork);
-            console.log(`${theNextSelection.na} with comma count 2 added twice as part of Footwork succession.`);
-            footworkCounter -= 1;
-        } else if (commaCount === 4) {
-            theFinalSelection.push(theNextSelection);
-            console.log(`${theNextSelection.na} with comma count 4 added once as part of Footwork succession.`);
-            footworkCounter -= 2;
-        } else {
-                console.log(`Invalid comma count for ${theNextSelection.na}. Rechoosing...`);
-                theNextSelection = pickRandomTrick(categoryRequired);
-                continue;
-       }
-
-    // Method 2: ABAB Patterns
-    } else if (method === 'M2' && commaCount === 2 && !theNextSelection.na.includes('Side Raise')) {
-    let firstFootwork = Object.assign({}, theNextSelection); 
-    let secondFootwork, secondCommaCount;
-
-    do {
-        secondFootwork = pickRandomTrick(categoryRequired); 
-        secondCommaCount = secondFootwork.no && typeof secondFootwork.no === 'string' ? (secondFootwork.no.match(/,/g) || []).length : 0;
-    } while (secondFootwork === firstFootwork || secondFootwork.ca !== 'F' || secondCommaCount !== 2);
-
-    removeTheLastOpen(firstFootwork);
-    removeTheLastOpen(secondFootwork);
-
-    let isOtherSideForThird = Math.random() < 0.5;  
-    if (isOtherSideForThird && !firstFootwork.na.includes('Side Straddle')) {
-    let thirdFootwork = Object.assign({}, firstFootwork);
-    thirdFootwork.sk = thirdFootwork.sk.replace(" > ", " <OS> > ");
-    thirdFootwork.na += ' (other side)';
-    console.log(`Modified ${thirdFootwork.na} to indicate other side for the third instance.`);
-
-    theFinalSelection.push(firstFootwork, secondFootwork, thirdFootwork, secondFootwork);
-    } else {
-    theFinalSelection.push(firstFootwork, secondFootwork, firstFootwork, secondFootwork);
-    }
-    console.log(`Added ${firstFootwork.na} and ${secondFootwork.na} with variations.`);
-    footworkCounter -= 4;
-
-    // Method 3: ABAC Patterns
-    }  else if (method === 'M3' && theNextSelection.na === 'Knee Raise' && commaCount === 2) {
-    let firstFootwork = Object.assign({}, theNextSelection); 
-    let secondFootwork, secondCommaCount;
-    let thirdFootwork, thirdCommaCount;
-      
-    do {
-        secondFootwork = pickRandomTrick(categoryRequired);
-        secondCommaCount = (secondFootwork.no.match(/,/g) || []).length; 
-    } while (secondFootwork === firstFootwork || secondFootwork.ca !== 'F' || secondCommaCount !== 2);
-
-    do {
-        thirdFootwork = pickRandomTrick(categoryRequired); 
-        thirdCommaCount = (thirdFootwork.no.match(/,/g) || []).length; 
-    } while (thirdFootwork === firstFootwork || thirdFootwork === secondFootwork || thirdFootwork.ca !== 'F' || thirdCommaCount !== 2);
-
-    removeTheLastOpen(firstFootwork);
-    removeTheLastOpen(secondFootwork);
-    removeTheLastOpen(thirdFootwork);
-
-    theFinalSelection.push(firstFootwork, secondFootwork, firstFootwork, thirdFootwork);
-    console.log(`Added ${firstFootwork.na}, ${secondFootwork.na}, and ${thirdFootwork.na} in ABAC succession.`);
-    footworkCounter -= 4;
-    } else {
-    console.log(`Invalid skill for selected method or comma count for ${theNextSelection.na}. Rechoosing...`);
-    theNextSelection = pickRandomTrick(categoryRequired);
-    continue;
-    }
-
-        if (footworkCounter > 0) {
-        let newFootworkSelection;
-        do {
-            newFootworkSelection = pickRandomTrick(categoryRequired);
-        } while (newFootworkSelection.ca !== 'F' || newFootworkSelection === theNextSelection);
-        theNextSelection = newFootworkSelection; 
-     }
-   }
-
-   suitableFound = (footworkCounter <= 0 || theFinalSelection.length >= theSelectionCounter);
-   thePreviousSelection = theNextSelection; 
-   break;
-
-           
-    case 'C':
-
-    console.log('Case C initiated for ', theNextSelection);
-
-    function checkCrossEntry() {
-        isValidEntry = false;
-
-        if ((thePreviousSelection.sk.endsWith('> EB Swing >'))
-           || ((thePreviousSelection.sk.endsWith('> Swing <B> <SS> >') || thePreviousSelection.sk.endsWith('> Swing <B> <OS> >')) && !theNextSelection.na.includes('Leg Over')) 
-           || (thePreviousSelection.sk.endsWith('> Swing <W> >') && ((theNextSelection.na.includes('Leg Over') || theNextSelection.na.includes('Dive') || theNextSelection.p1 === 'Back Cross')))) {
-            console.log('C-F2-1: ', thePreviousSelection.na, ' ends with EB Swing / Box Swing but ', theNextSelection.na ,' is not a ~Leg Over~ / Wrist Swing and theNextSelection is a ~Leg Over~ or ~Dive~ or ~Back Cross~.');
-            isValidEntry = true;
-        } else if ((thePreviousSelection.sk.endsWith('> Release >') || thePreviousSelection.sk.endsWith(' <DR> >')) && !theNextSelection.na.includes('Leg Over')) {
-            console.log('C-F2-2: ',thePreviousSelection.na,' ends with ~Release~ or ~DR~ and ', theNextSelection.na ,' is not a ~Leg Over~.');
-            possibleExits = [
-                {"na": "", "sk": " > Open >"},
-                {"na": "", "sk": " "}
-            ];
-            randomExit = pickRandomOption(possibleExits);
-            thePreviousSelection.na += randomExit.na;
-            thePreviousSelection.sk += randomExit.sk;
-            isValidEntry = true;
-        } else if (thePreviousSelection.sk.endsWith('> Open >') && theNextSelection.sk.startsWith('> Open >')) {
-            console.log('C-F2-3: ',thePreviousSelection.na,' and ', theNextSelection.na,' end/start with an Open');
-            thePreviousSelection.sk = thePreviousSelection.sk.replace(' > Open >',' >');
-            isValidEntry = true;
-        } else if (thePreviousSelection.sk.endsWith(' Toad Gogo >')) {
-            console.log('C-F2-4: ',thePreviousSelection.na,' ends with a ~Gogo~');
-            if ((!theNextSelection.na.includes('Dive')) && (!theNextSelection.p1 === 'Back Cross')) {
-                console.log('C-F2-4-1: ',theNextSelection.na,' is a ~Dive~ or ~Back Cross~');
-                } else {
-                console.log('C-F2-4-1: ',theNextSelection.na,' is NOT a ~Dive~ or ~Back Cross~');
-                adjustedExit = ' Open >';
-                thePreviousSelection.sk += adjustedExit;
-            }
-            isValidEntry = true;
-        } else if ((theNextSelection.sk.startsWith('> Toad Swing <W>')) || (theNextSelection.sk.startsWith('> Inverse Toad Swing <W>'))) {
-            console.log('C-F2-5: ',theNextSelection.na, ' starts with a Leg Wrist Swing.');
-            adjustedExit = ' Open >';
-            thePreviousSelection.sk += adjustedExit;
-            isValidEntry = true;
-        } else if (((theNextSelection.sk.startsWith('> T-Toad >')) || (theNextSelection.sk.startsWith('> Inverse T-Toad >'))) 
-            && ((!thePreviousSelection.sk.endsWith('> Open >')) && (!thePreviousSelection.sk.endsWith('> Cross >')) && (!thePreviousSelection.sk.endsWith('Swing >')))) {
-            console.log('C-F2-6: ',theNextSelection.na,' is a ~Tucked Cross~ and ',thePreviousSelection.na,' does NOT end with an Open or Cross or Swing');
-            possibleExits = [
-                {"na": "", "sk": " Open >"},
-                {"na": " (Swing out)", "sk": " Swing <B> >"}
-               ]; 
-            theTuckPre = pickRandomOption(possibleExits);
-            thePreviousSelection.sk += theTuckPre
-            isValidEntry = true;
-        } else if (theNextSelection.na.includes('AS Toad') && !thePreviousSelection.sk.endsWith('> Open >')) {
-            console.log('C-F2-7: ',theNextSelection.na,' is an ~AS Toad~ and ',thePreviousSelection.na,' does NOT end with an Open');
-            adjustedExit = ' Open >';
-            thePreviousSelection += adjustedExit;
-            isValidEntry = true;
-        } else if (thePreviousSelection.c1 === 'Leg Cross' && theNextSelection.na === 'Cross') {
-            console.log('C-F2-8: ',thePreviousSelection.na,' is a ~Leg Cross~ and ',theNextSelection.na,' is a Basic Cross');
-            possibleExits = [
-            {"na": "", "sk": " Open >"},
-            {"na": " (Swing out)", "sk": " Swing >"}
-            ];
-            randomExit = pickRandomOption(possibleExits);
-            thePreviousSelection.na += randomExit.na;
-            thePreviousSelection.sk += randomExit.sk;
-            isValidEntry = true;
-        } else if ((thePreviousSelection.c1 === 'Leg Cross' && theNextSelection.c1 === 'Leg Cross')) {
-            console.log('C-F2-9-1: ',thePreviousSelection.na,' and ',theNextSelection.na,' are BOTH Leg Crosses');
-            if (thePreviousSelection.no.toLowerCase().includes('t') && theNextSelection.no.toLowerCase().includes('t')) {
-                console.log('C-F2-9-2: ',thePreviousSelection.na,' and ',theNextSelection.na,' BOTH contain a ~Toad~ placement');
-                possibleExits = [
-                    {"na": "", "sk": " Open >"},
-                    {"na": " (Toad Swing to...)", "sk": " Toad Swing >"}
-                    ];
-            } else if (thePreviousSelection.no.toLowerCase().includes('i') && theNextSelection.no.toLowerCase().includes('i')) {
-                console.log('C-F2-9-3: ',thePreviousSelection.na,' and ',theNextSelection.na,' BOTH contain a ~Inv Toad~ placement');
-                possibleExits = [
-                    {"na": "", "sk": " Open >"},
-                    {"na": " (Inverse Toad Swing to...)", "sk": " Inverse Toad Swing >"}
-                    ];
-            } else if (thePreviousSelection.no.toLowerCase().includes('e') && theNextSelection.no.toLowerCase().includes('e')) {
-                console.log('C-F2-9-5: ',thePreviousSelection.na,' and ',theNextSelection.na,' BOTH contain an ~EB~ placement');
-                possibleExits = [
-                    {"na": "", "sk": " Open >"},
-                    {"na": " (EB Swing to...)", "sk": " EB Swing >"}
-                    ];
-            } else if (thePreviousSelection.no.toLowerCase().includes('n') && theNextSelection.no.toLowerCase().includes('n')) {
-                console.log('C-F2-9-5: ',thePreviousSelection.na,' and ',theNextSelection.na,' BOTH contain an ~AS~ placement');
-                possibleExits = [
-                    {"na": "", "sk": " Open >"},
-                    {"na": " (AS Swing to...)", "sk": " AS Swing >"}
-                    ];
-            } else {
-                console.log('C-F2-9-6: ',thePreviousSelection.na,' and ',theNextSelection.na,'  do NOT have matching t/i/e/n placements');
-                possibleExits = [
-                    {"na": "", "sk": " Open >"}
-                    ];
-            }
-        
-        randomExit = pickRandomOption(possibleExits);
-        thePreviousSelection.na += randomExit.na;
-        thePreviousSelection.sk += randomExit.sk;
-        isValidEntry = true;
-        } 
-        return isValidEntry;
-    }
-
-    let attemptCounter = 0;
-    const maxAttempts = 50; 
-    while (!suitableFound && attemptCounter < maxAttempts) {
-        attemptCounter++;
-        console.log(`C-fallback-1: Attempt ${attemptCounter}: Trying to find a suitable trick for category 'C'...`);
-
-        if (theFinalSelection.length === 0) {
-            console.log('C-if-1-1: ',theNextSelection.na,' is the first trick in the sequence. Checking its exit only...');
-
-            if (theNextSelection.cb) {
-                console.log('C-if-1-2:',theNextSelection.na,' is a Combo. Calling checkComboExit() function...');
-                isValidExit = checkComboExit();
-            } else {
-                console.log('C-if-1-3:',theNextSelection.na,' is NOT a Combo. Calling checkCrossExit() function...');
-                isValidExit = checkCrossExit();
-            }
-            
-            if (isValidExit) {
-                theFinalSelection.push(theNextSelection);
-                console.log('C-if-1-4: ',theNextSelection.na,' exit is valid. Added to theFinalSelection.');
-                suitableFound = true;
-                break;
-            }
-        }
-
-        isSuitable = false;
-        
-        if (theFinalSelection.length > 0) {
-            console.log('C-if-2-1: ',theNextSelection.na,' is NOT the first trick in the sequence. Checking its entry AND exit...');
-            console.log('C-if-2-2: ',thePreviousSelection.na,' is thePreviousSelection.');
-
-            isValidExit = false;
-            isValidEntry = false;
-
-            if (theNextSelection.cb) {
-                console.log('C-if-2-3:',theNextSelection.na,' is a Combo. Calling checkComboExit() function...');
-                isValidExit = checkComboExit();
-            } else {
-                console.log('C-if-2-4:',theNextSelection.na,' is NOT a Combo. Calling checkCrossExit() function...');
-                isValidExit = checkCrossExit();
-            }
-
-            console.log('C-if-2-5: checkCrossEntry() function called.');
-            isValidEntry = checkCrossEntry();
-
-            if (isValidExit && isValidEntry) {
-                console.log('C-if-2-6: isValidExit & isValidEntry both returned true.');
-                isSuitable = true;
-            }
-        }
-
-        if (isSuitable) {
-            theFinalSelection.push(theNextSelection);
-            console.log('C-end-1: ',theNextSelection.na,' added to theFinaSelection.');
-            suitableFound = true; 
-        } else {
-            theFinalSelection.push(theNextSelection);
-            console.log('C-end-2-1: ',theNextSelection.na, 'added to theFinalSelection but DID NOT meet any if statement in the loop...');
-            console.log('C-end-2-2: EDGE CASE FOUND FOR ',theNextSelection.na);    
-            suitableFound = true; 
-        }
-    }
-
-    if (attemptCounter >= maxAttempts) {
-        console.log("C-fallback-2: Max attempts reached, breaking out of the loop to prevent an infinite loop.");
-        let backupTrick = {
-            "na": "Basic Bounce",
-            "sk": "> Open > Open >",
-            "ca": "C",
-            "c1": "Foundational",
-            "vi": 833099743,
-            "no": "O, O,"
-            };
-        theFinalSelection.push(backupTrick);
-    }
-    break;
-           
-    case 'D':
-
-    console.log('Case D initiated for ', theNextSelection);
-
-    if (theFinalSelection.length === 0) {
-        theFinalSelection.push(theNextSelection);
-        console.log('D-start-1: ',theNextSelection.na,' is the first trick in the sequence - automatically accepted!');
-        isNeeded = checkDirectionChangeExit(); // isNeeded == isValidExit (renamed for readability)
-        if (isNeeded) {
-        theFinalSelection.push(theNextSelection);
-        console.log('D-start-2: isNeeded returned true. BW 180/Stall was needed. Added to theFinalSelection.');
-        } else {
-        console.log('D-start-3: isNeeded returned false. BW 180/Stall was NOT needed.');
-        }
-        suitableFound = true;
-        break;
-    } 
-    
-    if (theNextSelection.na.includes('Backwards') || theNextSelection.na.includes('BW')) {
-        console.log('D-if-1-1: ', theNextSelection.na, ' IS a BW ~D~. Rechoosing...');
-        let forwardsTurnFound = false;
-        while (!forwardsTurnFound) {
-            categoryRequired = 'D';
-            let theReselection = pickRandomTrick(categoryRequired);
-            if (theReselection && !theReselection.na.includes('Backwards') && !theReselection.na.includes('BW')) {
-                console.log('D-if-1-2: ', theReselection.na, ' IS a FW ~D~.');
-                theNextSelection = theReselection;
-                forwardsTurnFound = true;
-            } else {
-                console.log('D-if-1-3: The reselected trick is still a BW ~D~. Rechoosing...');
-            }
-        }
-        theFinalSelection.push(theNextSelection);
-        console.log('D-if-2: ', theNextSelection.na, ' added to theFinalSelection.');
-    } else {
-        console.log('D-if-3: ', theNextSelection.na, ' is NOT a BW ~D~. Added to theFinalSelection');
-        theFinalSelection.push(theNextSelection);
-        console.log('D-if-4-1: Checking if we need another ~D~ trick to ensure jumper is forwards...');
-        isNeeded = checkDirectionChangeExit(); // isNeeded == isValidExit (renamed for readability)
-        if (isNeeded) {
-            theFinalSelection.push(theNextSelection);
-            console.log('D-if-4-2: isNeeded returned true. BW 180/Stall was needed. Added to theFinalSelection.');
-        } else {
-            console.log('D-if-4-3: isNeeded returned false. BW 180/Stall was NOT needed.');
-        }
-        suitableFound = true;
-    }
-
-    break;
-    
-    case 'R':
-
-    console.log('Case R initiated for ', theNextSelection);
-
-    let releaseValidated = false;
-    let isTheFirst = false;
-
-    function validateRelease(isTheFirst) {
-        releaseValidated = false;
-
-        if (theNextSelection.cb) {
-            console.log('R-F1-1:',theNextSelection.na,' is a Combo. Calling checkComboExit() function...');
-            isValidExit = checkComboExit();
-            if (isValidExit) {
-                console.log('R-F1-2: Exit checked and adjusted (where necessary)');
-                isValidComboExit = true;
-            }
-        }
-
-        if (theNextSelection.na.includes('Floater')) {
-            releaseValidated = true;
-            console.log('R-F1-3: Release is a ~Floater~. Release is valid!');
-        } else {
-
-        if (!isTheFirst) {
-            console.log('R-F1-4: ',theNextSelection.na,' is NOT the first trick in the sequence so can call validateEntry().');
-            checkReleaseEntry();
-            } 
-            
-            if (!isValidComboExit) {
-                console.log('R-F1-5: Calling validateExit() because ',theNextSelection.na,' is NOT a Combo...');
-                isValidExit = checkReleaseExit();
-                if (isValidExit) {
-                    console.log('R-F1-6: ',theNextSelection.na,' exit modified. Release now fully valid!');
-                    releaseValidated = true;
-                } else {
-                    console.log('R-F1-7: ',theNextSelection.na,' exit already modified by checkComboExit(). No adjustment made here. Release now fully valid!');
-                    releaseValidated = true;
-                }
-            }  
-        }
-        return releaseValidated;
-    }
-
-    function checkReleaseEntry() {
-        isValidEntry = false;
-
-        if (theNextSelection.na.includes('Hold') && ((thePreviousSelection.sk.endsWith('> Swing <B> <OS> >')) || thePreviousSelection.sk.endsWith('> Swing <B> <SS> >'))) {
-             console.log('R-F2-1: ',theNextSelection.na,' is a ~Hold~ and ',thePreviousSelection.na,' ends with a Box Swing');
-
-            if (theNextSelection.na.includes('Leg Over') || theNextSelection.na.includes('Dive')) {
-                console.log('R-F2-2: ',theNextSelection.na,' is a ~Leg Over~ or ~Dive~, so', thePreviousSelection.na,' ending adjusted.');
-                adjustedExit = ' Swing <W> >';
-                thePreviousSelection.sk += adjustedExit;
-                isValidEntry = true;
-            } else if (theNextSelection.na.includes('EB') && !theNextSelection.na.includes('Dive')) {
-                console.log('R-F2-3: ',theNextSelection.na,' is an ~EB Over~ but NOT a ~Dive~, so', thePreviousSelection.na,' ending adjusted.');
-                adjustedExit = ' Swing <OS> >';
-                thePreviousSelection.sk += adjustedExit;
-                isValidEntry = true; 
-            } else if (theNextSelection.na.includes('Toad') && !theNextSelection.na.includes('EB')) {
-                console.log('R-F2-4: ',theNextSelection.na,' is a ~Toad~ but NOT an ~EB~, so', thePreviousSelection.na,' ending NOT adjusted.');
-                isValidEntry = true; 
-            }
-            console.log('R-F2-5: ',thePreviousSelection.na, ' adjusted to fit with the entry of ',theNextSelection.na);
-        }
-        return isValidEntry;
-    }
-
-    if (theFinalSelection.length === 0) {
-        console.log('R-start-1: ',theNextSelection.na,' is the first trick in the sequence.');
-        isTheFirst = true;
-        releaseValidated = false;
-        validateRelease(isTheFirst);
-        if (releaseValidated) {
-                theFinalSelection.push(theNextSelection);
-                console.log('R-start-2:', theNextSelection.na,' added to theFinalSelection.');
-                suitableFound = true;
-        }
-        break; 
-    }
-
-    isSuitable = false;
-
-    if (theFinalSelection.length > 0) {
-        console.log('R-if-1: ',theNextSelection.na,' is NOT the first trick in the sequence.');
-        isTheFirst = false; 
-        validateRelease(isTheFirst);
-        if (releaseValidated) {
-            isSuitable = true;
-        }
-    }
-
-    if (isSuitable) {
-        theFinalSelection.push(theNextSelection);
-        console.log('R-end-1: ', theNextSelection.na, ' added to theFinalSelection.');
-        suitableFound = true;
-    }
-    break;
-
-    case 'S':
-        theFinalSelection.push(theNextSelection);
-        console.log(theNextSelection.na, ' automatically added to theFinalSelection.');
-        suitableFound = true;
-    break;
-       
-    case 'W':
-
-    console.log('Case W initiated for ', theNextSelection);
-
-    if (theFinalSelection.length > 0) {
-        console.log('W-if-1-1: ',theNextSelection.na,' is NOT the first trick in the sequence. Checking entry...');
-        if (((theNextSelection.sk.startsWith('> Toad Swing >') 
-            || theNextSelection.sk.startsWith('> Inverse Toad Swing >') 
-            || theNextSelection.sk.startsWith('> Swing <B> >')))
-            && (thePreviousSelection.sk.endsWith('> Swing <B> <SS> >')
-            || thePreviousSelection.sk.endsWith('> Swing <B> <OS> >'))) {
-                console.log('W-if-1-2: ',theNextSelection.na,' & thePreviousSelection both start/end with ~Box Swings~ back-to-back.');
-                adjustedExit = ' Swing <W> >';
-                thePreviousSelection.sk += adjustedExit;
-        } if (((theNextSelection.sk.startsWith('> Leg Over Swing >')
-            || theNextSelection.sk.startsWith('> Inverse Leg Over Swing >')
-            || theNextSelection.sk.startsWith('> Swing <W> >'))) 
-            && thePreviousSelection.sk.endsWith('> Swing <W> >')) {
-                console.log('W-if-1-3: ',theNextSelection.na,' & thePreviousSelection both start/end with ~Wrist Swings~ back-to-back.');
-            adjustedExit = ' Swing <B> >';
-            thePreviousSelection.sk += adjustedExit;
-        }
-    } 
-
-    console.log('W-if-2-1: Checking wrap exit (regardless of if isFirstTrick for ',theNextSelection.na);
-    isValidExit = false;
-
-    if (theNextSelection.cb) {
-            console.log('W-if-2-2:',theNextSelection.na,' is a Combo. Calling checkComboExit() function...');
-            isValidExit = checkComboExit();
-    } else {
-        console.log('W-if-2-3:',theNextSelection.na,' is NOT a Combo. Calling checkWrapExit() function...');
-        isValidExit = checkWrapExit();
-    }
-
-    if (isValidExit) {
-        console.log('W-end-1: ',theNextSelection.na,' fully valid, adding to theFinalSelection.')
-        theFinalSelection.push(theNextSelection);
-        suitableFound = true;  
-    } else {
-        console.log('W-end-2: ',theNextSelection.na,' NOT valid, adding to theFinalSelection anyway. EDGE CASE.')
-        suitableFound = true; 
-    }
-
-    break;
-
-           
-    case 'M':
-    // For now, automatically reject any Multiple skill and rechoose
-    break;
-
-            default:
-                console.log(`Unexpected category: ${theNextSelection.ca}`);
-                defaultCaseCounter++;
-                if (defaultCaseCounter >= 3) {
-                    console.log("Default case reached too many times. Exiting...");
-                    return theFinalSelection; 
-                }
-                break;
-            }
-        }
-    } 
-    return theFinalSelection;
-}FW ~360~ or  class="option-very-disable style="display:none;jsonDCDC
+]
