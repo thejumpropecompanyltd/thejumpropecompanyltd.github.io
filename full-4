@@ -3680,10 +3680,10 @@
         "vi": 833105008,
         "c1": "Foundational Swing",
         "p1": "Front Swing",
-        "nn": "Swing to Open / Southpaw / Side Swing / Sideswing Sideswing Open / Side Open / Crossed Swing / Cross Swing"
+        "nn": "Swing to Open / Southpaw / Side Swing / Sideswing Open / Side Open / Crossed Swing / Cross Swing"
     },
     {
-        "na": "Box Swing",
+        "na": "Box Swing to Cross",
         "ax": "S2",
         "sk": "> Swing <B> > Cross >",
         "no": "S, C,",
@@ -3691,10 +3691,11 @@
         "as": "S2",
         "vi": 833238114,
         "c1": "Foundational Swing",
-        "p1": "Front Swing"
+        "p1": "Front Swing",
+        "nn": "Swing Cross / Side Cross / Open Swing"
     },
     {
-        "na": "Double Swing",
+        "na": "Box Swing to Wrist Swing",
         "ax": "S3",
         "sk": "> Swing <B> > Swing <W> <OS> >",
         "no": "S, S,",
@@ -3702,11 +3703,12 @@
         "as": "S3",
         "vi": 833240537,
         "c1": "Foundational Swing",
-        "p1": "Front Swing"
+        "p1": "Front Swing",
+        "nn": "Double Swing"
     },
     {
-        "na": "Double Swing (consecutively)",
-        "ax": "S3",
+        "na": "Box Swing to Wrist Swing (consecutively)",
+        "ax": "S3a",
         "sk": "> Swing <B> > Swing <W> <OS> > Open > Swing <B> > Swing <W> <OS> > Open > Swing <B> > Swing <W> <OS> > Open >",
         "no": "S, S, O, S, S, O, S, S, O,",
         "ty": "V",
@@ -3714,29 +3716,44 @@
         "vi": "CS",
         "c1": "Foundational Swing",
         "p1": "Front Swing",
-        "p3": "Consecutive"
+        "p3": "Consecutive",
+        "nn": "Double Swing"
     },
     {
-        "na": "Double Swing (same side)",
-        "ax": "S3",
+        "na": "Wrist Swing to Box Swing",
+        "ax": "S32",
+        "sk": "> Swing <W> > Swing <B> > Cross >",
+        "no": "S, S, C,",
+        "ty": "S",
+        "as": "S32",
+        "vi": "CS",
+        "c1": "Foundational Swing",
+        "p1": "Front Swing",
+        "nn": "Double Swing"
+    },
+    {
+        "na": "Wrist Swing to Box Swing (same side)",
+        "ax": "S32a",
         "sk": "> Swing <W> > Swing <B> <SS> > Cross >",
         "no": "S, -S, C,",
         "ty": "V",
-        "as": "S3",
+        "as": "S32",
         "vi": "CS",
         "c1": "Foundational Swing",
-        "p1": "Front Swing"
+        "p1": "Front Swing",
+        "nn": "Double Swing"
     },
     {
-        "na": "Double Swing (same side, consecutively)",
-        "ax": "S3",
+        "na": "Wrist Swing to Box Swing (same side, consecutively)",
+        "ax": "S32b",
         "sk": "> Swing <W> > Swing <B> <SS> > Swing <W> <OS> > Swing <B> <SS> > Swing <W> <OS> > Swing <B> <SS> > Cross >",
         "no": "S, -S, S, -S, S, -S, C,",
         "ty": "V",
-        "as": "S3",
+        "as": "S32",
         "vi": "CS",
         "c1": "Foundational Swing",
-        "p1": "Front Swing"
+        "p1": "Front Swing",
+        "nn": "Double Swing"
     },
     {
         "na": "EB Swing",
@@ -3751,7 +3768,7 @@
     },
     {
         "na": "Dive EB Swing",
-        "ax": "S4",
+        "ax": "S4a",
         "sk": "> Open > EB Swing >",
         "no": "O, Es,",
         "ty": "V",
@@ -3773,7 +3790,7 @@
     },
     {
         "na": "Toad Wrist Swing",
-        "ax": "S5",
+        "ax": "S5a",
         "sk": "> Toad Swing <W> >",
         "no": "T(s),",
         "ty": "V",
@@ -3795,7 +3812,7 @@
     },
     {
         "na": "Inverse Toad Wrist Swing",
-        "ax": "S6",
+        "ax": "S6a",
         "sk": "> Inverse Toad Swing <W> >",
         "no": "I(s),",
         "ty": "V",
@@ -3817,7 +3834,7 @@
     },
     {
         "na": "Leg Over Swing (Swing Cross out)",
-        "ax": "S7",
+        "ax": "S7a",
         "sk": "> Leg Over Swing > Swing <B> > Cross >",
         "no": "Ls, S, C,",
         "ty": "V",
@@ -3839,7 +3856,7 @@
     },
     {
         "na": "Inverse Leg Over Swing (Swing Cross out)",
-        "ax": "S8",
+        "ax": "S8a",
         "sk": "> Inverse Leg Over Swing > Swing <B> > Cross >",
         "no": "Js, S, C,",
         "ty": "V",
@@ -3906,7 +3923,7 @@
     },
     {
         "na": "LT Wrist Swing (Swing Cross out)",
-        "ax": "S13",
+        "ax": "S13a",
         "sk": "> LT Swing <W> > Swing <B> > Cross >",
         "no": "Lt, S, C,",
         "ty": "V",
@@ -3917,7 +3934,7 @@
     },
     {
         "na": "LT Box Swing",
-        "ax": "S13",
+        "ax": "S13b",
         "sk": "> LT Swing <B> > Swing <W> >",
         "no": "Lt, S,",
         "ty": "V",
@@ -3928,7 +3945,7 @@
     },
     {
         "na": "LT Swing to Leg Over",
-        "ax": "S13",
+        "ax": "S13c",
         "sk": "> LT Swing <W> > Leg Over > Cross >",
         "no": "Lt, Lo, C,",
         "ty": "V",
@@ -3942,7 +3959,7 @@
     },
     {
         "na": "LT Swing to Toad",
-        "ax": "S13",
+        "ax": "S13d",
         "sk": "> LT Swing <B> > Toad >",
         "no": "Lt, Tc,",
         "ty": "V",
@@ -3968,6 +3985,34 @@
         "p2": "Front Swing"
     },
     {
+        "na": "Toad Awesome Annie (consecutively)",
+        "ax": "S14a",
+        "sk": "> Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad Awesome Annie > Cross >",
+        "no": "Tc, Ta, La, Ta, C,",
+        "ty": "V",
+        "as": "S14",
+        "vi": 833255167,
+        "c1": "Awesome Annie",
+        "c2": "Leg Cross",
+        "p1": "Front Cross",
+        "p2": "Front Swing",
+        "p3": "Consecutive"
+    },
+    {
+        "na": "Toad Awesome Annie (from Toad Gogo Swing)",
+        "ax": "S14b ",
+        "sk": "> Toad Swing > Toad Gogo Swing > Toad Awesome Annie > Cross >",
+        "no": "Ts, (To)s, Ta C,",
+        "ty": "V",
+        "as": "S14",
+        "vi": 833255220,
+        "c1": "Awesome Annie",
+        "c2": "Leg Cross",
+        "c3": "Gogo Swing",
+        "p1": "Front Cross",
+        "p2": "Front Swing"
+    },
+    {
         "na": "Leg Over Awesome Annie",
         "ax": "S15",
         "sk": "> Leg Over > Leg Over Awesome Annie >",
@@ -3975,6 +4020,33 @@
         "ty": "S",
         "as": "S15",
         "vi": 833267942,
+        "c1": "Awesome Annie",
+        "c2": "Leg Cross",
+        "p1": "Front Cross",
+        "p2": "Front Swing"
+    },
+    {
+        "na": "Leg Over Awesome Annie (consecutively)",
+        "ax": "S15a",
+        "sk": "> Leg Over > Leg Over Awesome Annie > Toad Awesome Annie > Leg Over Awesome Annie >",
+        "no": "Lo, La, Ta, La,",
+        "ty": "V",
+        "as": "S15",
+        "vi": 833254978,
+        "c1": "Awesome Annie",
+        "c2": "Leg Cross",
+        "p1": "Front Cross",
+        "p2": "Front Swing",
+        "p3": "Consecutive"
+    },
+    {
+        "na": "Leg Over Awesome Annie (from Leg Over Gogo Swing)",
+        "ax": "S15b",
+        "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Awesome Annie >",
+        "no": "Ls, (Lc)s, La,",
+        "ty": "V",
+        "as": "S15",
+        "vi": 833255018,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -3994,6 +4066,19 @@
         "p2": "Front Swing"
     },
     {
+        "na": "Inverse Toad Awesome Annie (from Inverse Toad Gogo Swing)",
+        "ax": "S16a",
+        "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Awesome Annie > Cross >",
+        "no": "Is, (Io)s, Ia, C,",
+        "ty": "V",
+        "as": "S16",
+        "vi": 833254901,
+        "c1": "Awesome Annie",
+        "c2": "Leg Cross",
+        "p1": "Front Cross",
+        "p2": "Front Swing"
+    },
+    {
         "na": "Inverse Leg Over Awesome Annie",
         "ax": "S17",
         "sk": "> Inverse Leg Over > Inverse Leg Over Awesome Annie > Swing <B> > Cross >",
@@ -4001,6 +4086,19 @@
         "ty": "S",
         "as": "S17",
         "vi": 833254868,
+        "c1": "Awesome Annie",
+        "c2": "Leg Cross",
+        "p1": "Front Cross",
+        "p2": "Front Swing"
+    },
+    {
+        "na": "Inverse Leg Over Awesome Annie (from Inverse Leg Over Gogo Swing)",
+        "ax": "S17a",
+        "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Awesome Annie > Swing <B> > Cross >",
+        "no": "Js, (Jc)s, Js, S, C,",
+        "ty": "V",
+        "as": "S17",
+        "vi": 833254836,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Front Cross",
@@ -4020,34 +4118,6 @@
         "p2": "Front Swing"
     },
     {
-        "na": "Toad Awesome Annie (consecutively)",
-        "ax": "S14",
-        "sk": "> Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad Awesome Annie > Cross >",
-        "no": "Tc, Ta, La, Ta, C,",
-        "ty": "V",
-        "as": "S14",
-        "vi": 833255167,
-        "c1": "Awesome Annie",
-        "c2": "Leg Cross",
-        "p1": "Front Cross",
-        "p2": "Front Swing",
-        "p3": "Consecutive"
-    },
-    {
-        "na": "Leg Over Awesome Annie (consecutively)",
-        "ax": "S15",
-        "sk": "> Leg Over > Leg Over Awesome Annie > Toad Awesome Annie > Leg Over Awesome Annie >",
-        "no": "Lo, La, Ta, La,",
-        "ty": "V",
-        "as": "S15",
-        "vi": 833254978,
-        "c1": "Awesome Annie",
-        "c2": "Leg Cross",
-        "p1": "Front Cross",
-        "p2": "Front Swing",
-        "p3": "Consecutive"
-    },
-    {
         "na": "EB Toad Awesome Annie",
         "ax": "S19",
         "sk": "> Swing > EB Toad > Toad Awesome Annie > Cross >",
@@ -4062,7 +4132,7 @@
     },
     {
         "na": "EB Toad Awesome Annie (Toad Swing in)",
-        "ax": "S19",
+        "ax": "S19a",
         "sk": "> Toad Swing > EB Toad > Toad Awesome Annie > Cross >",
         "no": "Ts, Et, Ta, C,",
         "ty": "V",
@@ -4075,7 +4145,7 @@
     },
     {
         "na": "Dive EB Toad Awesome Annie",
-        "ax": "S19",
+        "ax": "S19b",
         "sk": "> Open > EB Toad > Toad Awesome Annie > Cross >",
         "no": "O, Et, Ta, C,",
         "ty": "V",
@@ -4103,7 +4173,7 @@
     },
     {
         "na": "Inverse EB Toad Awesome Annie (Toad Swing in)",
-        "ax": "S20",
+        "ax": "S20a",
         "sk": "> Inverse Toad Swing > Inverse EB Toad > Inverse Toad Awesome Annie > Cross >",
         "no": "Ts, Ei, Ia, C,",
         "ty": "V",
@@ -4116,7 +4186,7 @@
     },
     {
         "na": "Dive Inverse EB Toad Awesome Annie",
-        "ax": "S20",
+        "ax": "S20b",
         "sk": "> Open > Inverse EB Toad > Inverse Toad Awesome Annie > Cross >",
         "no": "O, Ei, Ia, C,",
         "ty": "V",
@@ -4167,59 +4237,6 @@
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
-        "p1": "Front Cross",
-        "p2": "Front Swing"
-    },
-    {
-        "na": "Toad Awesome Annie (from Toad Gogo Swing)",
-        "ax": "S14",
-        "sk": "> Toad Swing > Toad Gogo Swing > Toad Awesome Annie > Cross >",
-        "no": "Ts, (To)s, Ta C,",
-        "ty": "V",
-        "as": "S14",
-        "vi": 833255220,
-        "c1": "Awesome Annie",
-        "c2": "Leg Cross",
-        "c3": "Gogo Swing",
-        "p1": "Front Cross",
-        "p2": "Front Swing"
-    },
-    {
-        "na": "Inverse Toad Awesome Annie (from Inverse Toad Gogo Swing)",
-        "ax": "S16",
-        "sk": "> Inverse Toad Swing > Inverse Toad Gogo Swing > Inverse Toad Awesome Annie > Cross >",
-        "no": "Is, (Io)s, Ia, C,",
-        "ty": "V",
-        "as": "S16",
-        "vi": 833254901,
-        "c1": "Awesome Annie",
-        "c2": "Leg Cross",
-        "p1": "Front Cross",
-        "p2": "Front Swing"
-    },
-    {
-        "na": "Leg Over Awesome Annie (from Leg Over Gogo Swing)",
-        "ax": "S15",
-        "sk": "> Leg Over Swing > Leg Over Gogo Swing > Leg Over Awesome Annie >",
-        "no": "Ls, (Lc)s, La,",
-        "ty": "V",
-        "as": "S15",
-        "vi": 833255018,
-        "c1": "Awesome Annie",
-        "c2": "Leg Cross",
-        "p1": "Front Cross",
-        "p2": "Front Swing"
-    },
-    {
-        "na": "Inverse Leg Over Awesome Annie (from Inverse Leg Over Gogo Swing)",
-        "ax": "S17",
-        "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Awesome Annie > Swing <B> > Cross >",
-        "no": "Js, (Jc)s, Js, S, C,",
-        "ty": "V",
-        "as": "S17",
-        "vi": 833254836,
-        "c1": "Awesome Annie",
-        "c2": "Leg Cross",
         "p1": "Front Cross",
         "p2": "Front Swing"
     },
@@ -4324,7 +4341,7 @@
     },
     {
         "na": "Inverse Leg Over Gogo Swing (Swing Cross out)",
-        "ax": "S30",
+        "ax": "S30a",
         "sk": "> Inverse Leg Over Swing > Inverse Leg Over Gogo Swing > Inverse Leg Over Swing > Swing <B> > Cross >",
         "no": "Js, (Jo)s, Js, S, C,",
         "ty": "V",
@@ -15110,6 +15127,7 @@
     },
     {
         "na": "Challenge 1",
+        "sx": "F6-F5-F6",
         "sk": "> Side Straddle > Single Bounce > Bell > Single Bounce > Side Straddle > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15119,7 +15137,8 @@
     },
     {
         "na": "Challenge 2",
-        "sk": "> Forward Straddle > Single Bounce > Forward Straddle <OS> > Forward Straddle <OS> > Side Straddle > Forwards Straddle > Forward Straddle <OS> > Single Bounce >",
+        "sx": "F7-F8-F6-F8",
+        "sk": "> Forward Straddle > Single Bounce > Forward Straddle <OS> > Forward Straddle <OS> > Side Straddle > Forward Straddle > Forward Straddle <OS> > Single Bounce >",
         "no": "NA",
         "ty": "CH",
         "vi": 848301336,
@@ -15128,6 +15147,7 @@
     },
     {
         "na": "Challenge 3",
+        "sx": "F3-F7-F3-F7",
         "sk": "> Twister > Single Bounce > Forward Straddle > Twister <OS> > Forward Straddle <OS> > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15137,6 +15157,7 @@
     },
     {
         "na": "Challenge 4",
+        "sx": "F6-F9-F6-F8-F6-F9",
         "sk": "> Side Straddle > X-Motion > Side Straddle > Forward Straddle > Forward Straddle <OS> > Side Straddle > X-Motion > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15146,6 +15167,7 @@
     },
     {
         "na": "Challenge 5",
+        "sx": "F4-F6-F4",
         "sk": "> Skier > Single Bounce > Skier > Single Bounce > Side Straddle > Single Bounce > Skier <OS> > Skier <OS> > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15155,6 +15177,7 @@
     },
     {
         "na": "Challenge 6",
+        "sx": "F16-F17-F16-F17",
         "sk": "> Knee Raise > Single Bounce > Leg Raise > Single Bounce > Knee Raise <OS> > Single Bounce > Leg Raise > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15164,6 +15187,7 @@
     },
     {
         "na": "Challenge 7",
+        "sx": "F16-F14-F16b-F14-F11-F12",
         "sk": "> Knee Raise > Cross Over > Knee Raise > Single Bounce > Knee Raise <OS> > Cross Over > Front Tap > Side Tap > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15173,6 +15197,7 @@
     },
     {
         "na": "Challenge 8",
+        "sx": "F16-F12b-F16",
         "sk": "> Knee Raise > Single Bounce > Side Tap > Single Bounce > Side Tap <OS> > Single Bounce > Knee Raise > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15182,6 +15207,7 @@
     },
     {
         "na": "Challenge 9",
+        "sx": "F14-F11-F12-F13-F15",
         "sk": "> Cross Over > Single Bounce > Front Tap > Single Bounce > Side Tap > Single Bounce > Back Tap > Single Bounce > Cross Under > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15191,6 +15217,7 @@
     },
     {
         "na": "Challenge 10",
+        "sx": "F15-F16-F19-F18",
         "sk": "> Knee Raise > Single Bounce > Leg Raise > Single Bounce > Butt Kick > Single Raise > Side Raise > Single Bounce >",
         "no": "NA",
         "ty": "CH",
@@ -15200,6 +15227,7 @@
     },
     {
         "na": "Challenge 11",
+        "sx": "F11d-F13c-F11c",
         "sk": "> Front Tap > Front Tap > Front Tap <OS> > Front Tap > Back Tap > Back Tap > Front Tap <OS> > Front Tap >",
         "no": "NA",
         "ty": "CH",
@@ -15209,6 +15237,7 @@
     },
     {
         "na": "Challenge 12",
+        "sx": "C1-C1a",
         "sk": "> Cross > Open > Cross > Cross >",
         "no": "C, O, C, C,",
         "ty": "CH",
@@ -15218,6 +15247,7 @@
     },
     {
         "na": "Challenge 13",
+        "sx": "C1-C1",
         "sk": "> Cross > Open > Cross <OS> > Open >",
         "no": "C, O, -C, C,",
         "ty": "CH",
@@ -15227,7 +15257,8 @@
     },
     {
         "na": "Challenge 14",
-        "sk": "> Cross > Cross > Cross <OS> > Cross >",
+        "sx": "C1a-C63",
+        "sk": "> Cross > Cross > Cross <OS> > Open >",
         "no": "C, C, -C, O,",
         "ty": "CH",
         "vi": 836502282,
@@ -15237,6 +15268,7 @@
     },
     {
         "na": "Challenge 15",
+        "sx": "C1a-C63",
         "sk": "> Cross > Cross > Cross <OS> > Cross >",
         "no": "C, C, -C, C,",
         "ty": "CH",
@@ -15246,6 +15278,7 @@
     },
     {
         "na": "Challenge 16",
+        "sx": "C1-C63",
         "sk": "> Cross > Open > Cross <OS> > Cross <OS> >",
         "no": "C, O, -C, -C,",
         "ty": "CH",
@@ -15256,6 +15289,7 @@
     },
     {
         "na": "Challenge 17",
+        "sx": "S2-S1",
         "sk": "> Swing <B> > Cross > Swing <W> > Open >",
         "no": "S, C, S, O,",
         "ty": "CH",
@@ -15266,6 +15300,7 @@
     },
     {
         "na": "Challenge 18",
+        "sx": "S1-S2",
         "sk": "> Swing <W> > Open > Swing <B> > Cross >",
         "no": "S, O, S, C,",
         "ty": "CH",
@@ -15276,6 +15311,7 @@
     },
     {
         "na": "Challenge 19",
+        "sx": "S2-S32a-C1",
         "sk": "> Swing <B> > Cross > Swing <W> > Swing <B> <SS> > Cross >",
         "no": "S, C, S, -S, C,",
         "ty": "CH",
@@ -15286,6 +15322,7 @@
     },
     {
         "na": "Challenge 20",
+        "sx": "S32a-C1-S2",
         "sk": "> Swing <W> > Swing <B> <SS> > Cross > Swing <B> > Cross >",
         "no": "S, -S, C, S, C,",
         "ty": "CH",
@@ -15296,6 +15333,7 @@
     },
     {
         "na": "Challenge 21",
+        "sx": "S3-C1-S3",
         "sk": "> Swing <B> > Swing <W> > Open > Cross > Swing <B> > Swing <W> > Open >",
         "no": "S, S, O, C, S, S, O,",
         "ty": "CH",
@@ -15306,6 +15344,7 @@
     },
     {
         "na": "Challenge 22",
+        "sx": "C1-S32-S32a-C1-S1",
         "sk": "> Cross > Swing <W> > Swing <B> > Cross > Swing <W> > Swing <B> <SS> > Cross > Swing <W> > Open >",
         "no": "C, S, S, C, S, -S, C, S, O,",
         "ty": "CH",
@@ -15316,6 +15355,7 @@
     },
     {
         "na": "Challenge 23",
+        "sx": "S1-S1-S2-C1-S1",
         "sk": "> Swing <W> > Open > Swing <W> <OS> > Open > Swing <B> > Cross > Open > Cross <OS> > Swing <W> > Open >",
         "no": "S, O, -S, O, S, C, O, -C, S, O,",
         "ty": "CH",
@@ -15326,6 +15366,7 @@
     },
     {
         "na": "Challenge 24",
+        "sx": "S4-C2",
         "sk": "> Swing > EB Swing > Swing > EB >",
         "no": "S, Es, S, Ec,",
         "ty": "CH",
@@ -15336,6 +15377,7 @@
     },
     {
         "na": "Challenge 25",
+        "sx": "C2-C2a-C63",
         "sk": "> Swing > EB > Swing > EB > EB Swing > Cross > Cross <OS> >",
         "no": "S, Ec, S, Ec, Es, O,",
         "ty": "CH",
@@ -15346,6 +15388,7 @@
     },
     {
         "na": "Challenge 26",
+        "sx": "S2a-S2",
         "sk": "> Swing > EB > EB Swing > EB > Open >",
         "no": "S, Ec, Es, Ec, O,",
         "ty": "CH",
@@ -15357,6 +15400,7 @@
     },
     {
         "na": "Challenge 27",
+        "sx": "C1-C7-C1-C7",
         "sk": "> Cross > Open > Toad > Open > Cross > Toad > Open >",
         "no": "C, O, Tc, O, C, Tc, O,",
         "ty": "CH",
@@ -15367,6 +15411,7 @@
     },
     {
         "na": "Challenge 28",
+        "sx": "S2-C7-C1",
         "sk": "> Swing <B> > Cross > Toad > Open > Cross <OS> >",
         "no": "S, C, Tc, O, -C,",
         "ty": "CH",
@@ -15377,6 +15422,7 @@
     },
     {
         "na": "Challenge 29",
+        "sx": "S2-C7a-C7d",
         "sk": "> Swing <B> > Cross > Open > Swing <B> > Toad > Open > Toad Swing > Toad > Open >",
         "no": "S, C, O, S, Tc, O, Ts, Tc, O,",
         "ty": "CH",
@@ -15388,6 +15434,7 @@
     },
     {
         "na": "Challenge 30",
+        "sx": "C7a-S32a-C1",
         "sk": "> Swing <B> > Toad > Swing <W> > Swing <B> <SS> > Cross > Open >",
         "no": "S, Tc, S, -S, C, O,",
         "ty": "CH",
@@ -15398,6 +15445,7 @@
     },
     {
         "na": "Challenge 31",
+        "sx": "C1-S2-C7-C7b",
         "sk": "> Cross > Swing <B> > Cross > Toad > Toad Swing > Toad > Open >",
         "no": "C, S, C, Tc, Ts, Tc, O,",
         "ty": "CH",
@@ -15409,6 +15457,7 @@
     },
     {
         "na": "Challenge 32",
+        "sx": "C1-C7-S1-C1-C7-S1",
         "sk": "> Cross > Toad > Swing <W> > Open > Cross > Switch Toad > Swing <W> > Open >",
         "no": "C, Tc, S, O, C, -Tc, S, O,",
         "ty": "CH",
@@ -15420,6 +15469,7 @@
     },
     {
         "na": "Challenge 33",
+        "sx": "C10a-C10",
         "sk": "> Leg Over > Swing <B> > Cross > Leg Over > Cross >",
         "no": "Lo, S, C, Lo, C,",
         "ty": "CH",
@@ -15430,6 +15480,7 @@
     },
     {
         "na": "Challenge 34",
+        "sx": "C10g-C10h-S1-C1",
         "sk": "> Swing <W> > Leg Over <OS> > Leg Over Swing > Leg Over > Swing <W> <OS> > Open > Cross > Open >",
         "no": "S, -Lo, Ls, Lo, -S, O, C, O,",
         "ty": "CH",
@@ -15441,6 +15492,7 @@
     },
     {
         "na": "Challenge 35",
+        "sx": "C1a-C10d-C1a",
         "sk": "> Cross > Cross > Leg Over > Leg Over > Cross > Cross >",
         "no": "C, C, Lo, Lo, C, C,",
         "ty": "CH",
@@ -15451,6 +15503,7 @@
     },
     {
         "na": "Challenge 36",
+        "sx": "C7a-C10f-S2-S1",
         "sk": "> Swing <B> > Toad > Swing <W> > Leg Over > Swing <B> > Cross > Swing <W> > Open >",
         "no": "S, Tc, S, Lo, S, C, S, O,",
         "ty": "CH",
@@ -15461,6 +15514,7 @@
     },
     {
         "na": "Challenge 37",
+        "sx": "C1-C10-C63-C10a-C63",
         "sk": "> Cross > Leg Over > Cross > Cross <OS> > Leg Over > Swing <B> > Cross > Cross <OS> >",
         "no": "C, Lo, C, -C, Lo, S, C, -C,",
         "ty": "CH",
@@ -15472,6 +15526,7 @@
     },
     {
         "na": "Challenge 38",
+        "sx": "C10-C7-S1-C10a",
         "sk": "> Leg Over > Cross > Toad > Swing <W> > Leg Over <OS> > Swing <B> > Cross >",
         "no": "Lo, C, Tc, S, -Lo, S, C,",
         "ty": "CH",
@@ -15481,6 +15536,7 @@
     },
     {
         "na": "Challenge 39",
+        "sx": "S15-C7b-C14-C1",
         "sk": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Toad > Toad Awesome Annie > Cross >",
         "no": "Lo, La, Ts, Tc, Ta, C,",
         "ty": "CH",
@@ -15492,6 +15548,7 @@
     },
     {
         "na": "Challenge 40",
+        "sx": "S1-S15-C7-S1-C1-S15",
         "sk": "> Swing <W> > Leg Over <OS> > Leg Over Awesome Annie > Toad > Swing <W> > Open > Cross > Leg Over > Leg Over Awesome Annie > Open >",
         "no": "S, -Lo, La, Tc, S, O, C, Lo, La, O,",
         "ty": "CH",
@@ -15503,6 +15560,7 @@
     },
     {
         "na": "Challenge 41",
+        "sx": "C7b-S1-S15-C1",
         "sk": "> Toad Swing > Toad > Swing <W> > Leg Over <OS> > Leg Over Awesome Annie > Open > Cross >",
         "no": "Ts, Tc, S, -Lo, La, O, C,",
         "ty": "CH",
@@ -15515,6 +15573,7 @@
     },
     {
         "na": "Challenge 42",
+        "sx": "C1-C7-C7b-S14-C10-C10h-S15-C7",
         "sk": "> Cross > Toad > Toad Swing > Toad > Toad Awesome Annie > Leg Over > Leg Over Swing > Leg Over > Leg Over Awesome Annie > Toad > Open >",
         "no": "C, Tc, Ts, Tc, Ta, Lo, Ls, Lo, La, Tc, O,",
         "ty": "CH",
@@ -15527,6 +15586,7 @@
     },
     {
         "na": "Challenge 43",
+        "sx": "S15-C1-S15a-C1",
         "sk": "> Leg Over > Leg Over Awesome Annie > Open > Cross > Open > Leg Over > Leg Over Awesome Annie > Toad Awesome Annie > Leg Over Awesome Annie > Open > Cross > Open >",
         "no": "Lo, La, O, C, O, Lo, La, Ta, La, O, C, O,",
         "ty": "CH",
@@ -15539,6 +15599,7 @@
     },
     {
         "na": "Challenge 44",
+        "sx": "S14-C10g-S15a-C1",
         "sk": "> Toad > Toad Awesome Annie > Swing <W> > Leg Over <OS> > Leg Over Awesome Annie > Toad Awesome Annie > Cross > Open >",
         "no": "Tc, Ta, S, -Lo, La, Ta, C, O,",
         "ty": "CH",
@@ -15551,10 +15612,11 @@
     },
     {
         "na": "Challenge 45",
+        "sx": "C7-S14a-C7a-S14a-C7a",
         "sk": "> Toad > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad > Toad >",
         "no": "Tc, Tc, Ta, La, Tc, Tc, Ta, La, Tc, Tc,",
         "ty": "CH",
-        "vi": "CS",
+        "vi": 912882104,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Body Cross",
@@ -15565,10 +15627,11 @@
     },
     {
         "na": "Challenge 46",
+        "sx": "C1-C7--C10-S14-C1",
         "sk": "> Cross > Toad > Open > Leg Over > Cross > Toad > Toad Awesome Annie > Cross >",
         "no": "C, Tc, O, Lo, C, Tc, Ta, C,",
         "ty": "CH",
-        "vi": "CS",
+        "vi": 912884917,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Body Cross",
@@ -15578,6 +15641,7 @@
     },
     {
         "na": "Challenge 47",
+        "sx": "R20-C1-S2-R20",
         "sk": "> Swing > Mic Release <WP> > Open > Cross > Open > Swing <B> > Cross > Swing > Mic Release <WP> > Open >",
         "no": "S, M, O, C, O, S, C, S, M, O,",
         "ty": "CH",
@@ -15588,6 +15652,7 @@
     },
     {
         "na": "Challenge 48",
+        "sx": "R20-R20a",
         "sk": "> Swing > Mic Release <WP> > Open > Open > Swing > Mic Release <WP> <DR> > Open >",
         "no": "S, M, O, O, S, M, M, O,",
         "ty": "CH",
@@ -15597,6 +15662,7 @@
     },
     {
         "na": "Challenge 49",
+        "sx": "R20-S2-R20-C2-S2",
         "sk": "> Swing > Mic Release <WP> > Swing <B> > Cross > Swing > Mic Release <WP> > Swing > EB > Swing <B> > Cross >",
         "no": "S, M, S, C, S, M, S, Ec, S, C,",
         "ty": "CH",
@@ -15607,6 +15673,7 @@
     },
     {
         "na": "Challenge 50",
+        "sx": "R21-S2-S1-R21",
         "sk": "> Swing <B> > Mic Release > Swing <B> <OS> > Cross > Swing <W> > Swing <B> <SS> > Mic Release > Open >",
         "no": "S, M, -S, C, S, -S, M, O,",
         "ty": "CH",
@@ -15617,6 +15684,7 @@
     },
     {
         "na": "Challenge 51",
+        "sx": "R20-C10a-C10-R20",
         "sk": "> Swing > Mic Release <WP> > Leg Over <OS> > Swing <B> > Cross > Open > Leg Over > Swing <B> > Mic Release > Open >",
         "no": "S, M, -Lo, S, C, O, Lo, S, M, O,",
         "ty": "CH",
@@ -15628,6 +15696,7 @@
     },
     {
         "na": "Challenge 52",
+        "sx": "R20-F10a",
         "sk": "> Mic Release > Mic Release + Single Leg Jumps  >",
         "ty": "CH",
         "vi": 836511981,
@@ -15637,6 +15706,7 @@
     },
     {
         "na": "Challenge 53",
+        "sx": "R20-F28",
         "sk": "> Mic Release + Running Man Shuffle >",
         "ty": "CH",
         "vi": 836512061,
@@ -15646,6 +15716,7 @@
     },
     {
         "na": "Challenge 54",
+        "sx": "C1-D1-D7-C1b",
         "sk": "> Cross > Open > Body Stall > <BW> Open > <BW> Cross > <BW> Cross > <BW> Body Stall > Cross > Open > Cross > Open >",
         "no": "C, O, O; O, O, C, ;O C, O, C, O,",
         "ty": "CH",
@@ -15693,12 +15764,13 @@
         "na": "Challenge 59",
         "sk": ">  >",
         "ty": "CH",
-        "vi": "CS",
+        "vi": 912900744,
         "c1": "Body Cross",
         "le": "Short"
     },
     {
         "na": "Challenge 60",
+        "sx": "S2-S1-D13",
         "sk": "> Swing <B> > Cross > Swing <W> > Open > Swing 180 <OS> > <BW> Open > <BW> Swing > <BW> Cross > <BW> Open >",
         "no": "S, C, S, O, -S>, O, S, C, O",
         "ty": "CH",
@@ -15708,6 +15780,7 @@
     },
     {
         "na": "Challenge 61",
+        "sx": "C1a-D14",
         "sk": "> Cross > Cross > Swing 180 > <BW> Cross > <BW> Cross > <BW> Open >",
         "no": "C, C, S>, C, C, O,",
         "ty": "CH",
@@ -15717,6 +15790,7 @@
     },
     {
         "na": "Challenge 62",
+        "sx": "S2-R20-D14",
         "sk": "> Swing <B> > Cross > Wrist Pop Release > Swing 180 > <BW> Cross > <BW> Open  >",
         "no": "S, C, S, M, S>, C, O,",
         "ty": "CH",
@@ -15726,6 +15800,7 @@
     },
     {
         "na": "Challenge 63",
+        "sx": "S2-C7-D14",
         "sk": "> Swing <B> > Cross > Toad > Swing 180 > <BW> Swing > <BW> Cross > <BW> Open >",
         "no": "S, C, Tc, S>, S, C, O,",
         "ty": "CH",
@@ -15735,6 +15810,7 @@
     },
     {
         "na": "Challenge 64",
+        "sx": "S2-C2-D14",
         "sk": "> Swing <B> > Cross > Swing <OS> > EB > Swing 180 > <BW> Cross > <BW> Open >",
         "no": "S, C, S, Ec, S>, C, O,",
         "ty": "CH",
@@ -15744,6 +15820,7 @@
     },
     {
         "na": "Challenge 65",
+        "sx": "S2-C1a-D33-S2-C1a",
         "sk": "> Swing <B> > Cross > Cross > Swing 180 > <BW> Cross <OS> > <BW> Cross 180 > Swing <B> > Cross > Cross >",
         "no": "S, C, C, S>, C, C>, S, C, C,",
         "ty": "CH",
@@ -15753,6 +15830,7 @@
     },
     {
         "na": "Challenge 66",
+        "sx": "S2-D68-S2-S1",
         "sk": "> Swing <B> > Cross > Swing 180 <OS> > <BW> Open > <BW> Open 180 <OD> > Swing <B> > Cross > Swing <W> > Open >",
         "no": "S, C, S>, O, O<, S, C, S, O,",
         "ty": "CH",
@@ -15771,6 +15849,7 @@
     },
     {
         "na": "Challenge 68",
+        "sx": "S13-D30-C1",
         "sk": "> Swing 180 > <BW> Open > <BW> Cross > <BW> Texan 180 > Open > Cross > Open >",
         "no": "S>, O, C, O} O, C, O,",
         "ty": "CH",
@@ -15780,6 +15859,7 @@
     },
     {
         "na": "Challenge 69",
+        "sx": "S13-D23-C1-D83",
         "sk": "> Swing 180 > <BW> Open > <BW> Open 180 > Cross > Swing 180 > <BW> Open > <BW> Texan 180 <OD> > Cross >",
         "no": "S>, O,  >S, C, S>, O, O{ C,",
         "ty": "CH",
@@ -15789,6 +15869,7 @@
     },
     {
         "na": "Challenge 70",
+        "sx": "W1-C1-W1-C63",
         "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Cross > Arm Wrap > Cross > Cross <OS> >",
         "no": "S, [S], [S), C, [S], [S), C, -C,",
         "ty": "CH",
@@ -15800,6 +15881,7 @@
     },
     {
         "na": "Challenge 71",
+        "sx": "W1-C7-W4a-S32a-C1-C7",
         "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Toad > Toad Swing > Toad Arm Wrap > Unwrap Swing <OS> > Toad > Swing <W> > Swing <B> <SS> > Cross > Toad > Open >",
         "no": "S, [S], [S), Tc, Ts, T[s], (To)[s), Tc, S, -S, C, Tc, O,",
         "ty": "CH",
@@ -15811,6 +15893,7 @@
     },
     {
         "na": "Challenge 72",
+        "sx": "C1-W3h-D30-C10-W1-C1",
         "sk": "> Cross > Open > EB Arm Wrap > Unwrap Swing 180 <OS> > <BW> Open > <BW> Texan 180 > Leg Over <OS> > Swing <B> > Arm Wrap > Unwrap Swing <OS> > Cross >",
         "no": "C, O, E[s], (Eo)[s)>, O, O}, Lo, S, [S], [S), C,",
         "ty": "CH",
@@ -15824,6 +15907,7 @@
     },
     {
         "na": "Challenge 73",
+        "sx": "W1a-W4-C7-S13a",
         "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Swing <W> > Toad Swing <SS> > Toad Arm Wrap > Unwrap Swing <OS> > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
         "no": "S, [S], [S), S, -Ts, T[s], (To)[s), Tc, Ta, La, O,",
         "ty": "CH",
@@ -15835,6 +15919,7 @@
     },
     {
         "na": "Challenge 74",
+        "sx": "R21-W1-C1-R21-W4-C7-S1",
         "sk": "> Swing > Mic Release > Swing <B> > Arm Wrap > Unwrap Swing <OS> > Cross > Swing > Mic Release > Toad Swing > Toad Arm Wrap > Unwrap Swing <OS> > Toad > Swing <W> > Open >",
         "no": "S, M, S, [S], [S), C, S, M, Ts, T[s], (To)[s), Tc, S, O,",
         "ty": "CH",
@@ -15846,6 +15931,7 @@
     },
     {
         "na": "Challenge 75",
+        "sx": "R21-W3h-D23-W1-C1-C1a",
         "sk": "> Swing > Mic Release > Open > EB Arm Wrap 180 > <B> Unwrap Swing <OS> > <BW> Open 180 > Swing <B> > Arm Wrap > Unwrap Swing <OS> > Cross > Open > Cross <OS> > Cross >",
         "no": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), C, O, -C, C,",
         "ty": "CH",
@@ -15858,6 +15944,7 @@
     },
     {
         "na": "Challenge 76",
+        "sx": "W1-C2-W3-W1-C7-S13a",
         "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Swing > EB > EB Arm Wrap > Unwrap Swing <OS> > EB > Swing <B> > Arm Wrap > Unwrap Swing <OS> > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
         "no": "S, [S], [S), S, Ec, E[s], (Eo)[s), Ec, S, [S], [S), Tc, Ta, La, O,",
         "ty": "CH",
@@ -15869,6 +15956,7 @@
     },
     {
         "na": "Challenge 77",
+        "sx": "W34c-C7-C7b-C2",
         "sk": "> Leg Over > Leg Over Wrap > Unwrap Swing <OS> > Leg Over Awesome Annie > Toad > Toad Swing > Toad > Swing <W> > EB > Open >",
         "no": "Lo, [L]o, [Lc)s, La, Tc, Ts, Tc, S, Ec, O,",
         "ty": "CH",
@@ -15881,6 +15969,7 @@
     },
     {
         "na": "Challenge 78",
+        "sx": "C1-C10-W32c-S14",
         "sk": "> Cross > Leg Over > Cross > Toad > Toad Wrap > Unwrap Swing <OS> > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
         "no": "C, Lo, C, Tc, [T]c, [To)s, Ta, La, O,",
         "ty": "CH",
@@ -15893,6 +15982,7 @@
     },
     {
         "na": "Challenge 79",
+        "sx": "W1-C2a-W34-S2-C7",
         "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Swing > EB > EB Swing > Leg Over > Leg Over Wrap > Unwrap Swing <OS> > Swing <B> > Cross > Toad > Open >",
         "no": "S, [S], [S), S, Ec, Es, Lo, [L]o, (Lc)[s), S, C, Tc, O,",
         "ty": "CH",
@@ -15906,6 +15996,7 @@
     },
     {
         "na": "Challenge 80",
+        "sx": "W34a-W32a-W1-C1",
         "sk": "> Leg Over > Leg Over Wrap > Unwrap Swing <OS> > Leg Over Awesome Annie > Toad > Toad Wrap > Unwrap Swing <OS> > Toad Awesome Annie > Swing <B> > Arm Wrap > Unwrap Swing <OS> > Cross >",
         "no": "Lo, [L]o, [Lc)s, La, Tc, [T]c, [To)s, Ta, S, [S], [S), C,",
         "ty": "CH",
@@ -15918,7 +16009,8 @@
     },
     {
         "na": "Challenge 81",
-        "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Toad > Toad Wrap > Unwrap Swing <OS> > Toad Awesome Annie > Swing <B> > Arm Wrap > <OS> > Leg Over Swing > Leg Over Wrap > Unwrap Swing <OS> > Leg Over Awesome Annie > Open >",
+        "sx": "W1-W32a-W1-W34a",
+        "sk": "> Swing <B> > Arm Wrap > Unwrap Swing <OS> > Toad > Toad Wrap > Unwrap Swing <OS> > Toad Awesome Annie > Swing <B> > Arm Wrap > Unwrap Swing <OS> > Leg Over Swing > Leg Over Wrap > Unwrap Swing <OS> > Leg Over Awesome Annie > Open >",
         "no": "S, [S], [S), Tc, [T]c, [To)s, Ta, S, [S], [S), Ls, [L]o, (Lc)[s), La, O,",
         "ty": "CH",
         "vi": 848299589,
@@ -15930,6 +16022,7 @@
     },
     {
         "na": "Challenge 82",
+        "sx": "C1-M1-C1-M4-C63",
         "sk": "> Cross > Open Open <DU> > Cross > Open Cross <DU> > Cross > Cross <OS> >",
         "no": "C, OO, C, OC, C, -C,",
         "ty": "CH",
@@ -15940,6 +16033,7 @@
     },
     {
         "na": "Challenge 83",
+        "sx": "S2-M3-S2-M4-M3",
         "sk": "> Swing <B> > Cross > Swing Cross <DU> > Swing <B> <OS> > Cross > Open Cross <DU> > Swing Cross <DU> >",
         "no": "S, C, SC, -S, C, O-C, SC,",
         "ty": "CH",
@@ -15950,6 +16044,7 @@
     },
     {
         "na": "Challenge 84",
+        "sx": "M1-C1-M4-C1-M1-C1-M4-C1",
         "sk": "> Open Open <DU> > Cross > Open Cross <DU> > Cross > Open Open <DU> > Cross > Open Cross <DU> > Cross <OS> >",
         "no": "OO, C, OC, C, OO, C, OC, -C,",
         "ty": "CH",
@@ -15960,6 +16055,7 @@
     },
     {
         "na": "Challenge 85",
+        "sx": "M1-S1-M1-S1-M1-M2-M1-S1-M1-S1-M1",
         "sk": "> Open Open <DU> > Swing <W> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> > Swing Open <DU> <OS> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> >",
         "no": "OO, S, OO, -S, OO, -SO, OO, -SO, OO, -S, OO, -S, OO,",
         "ty": "CH",
@@ -15970,6 +16066,7 @@
     },
     {
         "na": "Challenge 86",
+        "sx": "M1-C1-M1-C7-M1-M4-C7-M1",
         "sk": "> Open Open <DU> > Cross > Open Open <DU> > Toad > Open > Open Open <DU> > Open Cross <DU> > Toad > Open > Open Open <DU> >",
         "no": "OO, C, OO, Tc, O, OO, OC, Tc, O, OO,",
         "ty": "CH",
@@ -15980,6 +16077,7 @@
     },
     {
         "na": "Challenge 87",
+        "sx": "M1-M3-M2-M1-M3-M2-M1",
         "sk": "> Open Open <DU> > Swing Cross <DU> > Swing Open <DU> > Open Open <DU> > Swing Cross <DU> <OS> > Swing Open <DU> > Open Open <DU> >",
         "no": "OO, SC, SO, OO, -SC, SO, OO,",
         "ty": "CH",
@@ -15990,6 +16088,7 @@
     },
     {
         "na": "Challenge 88",
+        "sx": "M1-C63-M1-C63-M1-C63-M1",
         "sk": "> Open Open <DU> > Cross > Cross <OS> > Open Open <DU> > Cross > Cross <OS> > Open Open <DU> > Cross > Cross <OS> > Open Open <DU> >",
         "no": "OO, C, -C, OO, C, -C, OO, C, -C, OO,",
         "ty": "CH",
@@ -16000,6 +16099,7 @@
     },
     {
         "na": "Challenge 89",
+        "sx": "S1-M2-S1-M2-S1-M2-S1-M2",
         "sk": "> Swing <W> > Open > Swing Open <DU> > Swing <W> <OS> > Open > Swing Open <DU> > Swing <W> <OS> > Open > Swing Open <DU> <OS> > Swing <W> > Open > Swing Open <DU> <OS> >",
         "no": "S, O, SO, -S, O, SO, -S, O, -SO, S, O, -SO,",
         "ty": "CH",
@@ -16010,6 +16110,7 @@
     },
     {
         "na": "Challenge 90",
+        "sx": "C1a-S32a-S32a-C1-S1",
         "sk": "> Cross > Cross > Swing <W> > Swing <B> <SS> > Cross > Swing <W> > Swing <B> > Cross > Open > Cross <OS> > Swing <W> > Open >",
         "no": "C, C, S, -S, C, S, S, C, O, -C, S, O,",
         "ty": "CH",
@@ -16020,6 +16121,7 @@
     },
     {
         "na": "Challenge 91",
+        "sx": "C7-C10-C7-C7b-S13a",
         "sk": "> Toad > Leg Over <OS> > Toad <OS> > Toad Swing > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Open >",
         "no": "Tc, -Lo, -Tc, Ts, Tc, Ta, La, O,",
         "ty": "CH",
@@ -16031,6 +16133,7 @@
     },
     {
         "na": "Challenge 92",
+        "sx": "C10-C24-S13c-S14-C9d",
         "sk": "> Swing > EB > Swing <B> > T-Toad > LT Swing <W> > Leg Over > Leg Over Awesome Annie > Toad Swing > Elephant > Open >",
         "no": "S, Ec, S, T(c), Lt, Lo, La, Ts, Ti, O,",
         "ty": "CH",
@@ -16043,6 +16146,7 @@
     },
     {
         "na": "Challenge 93",
+        "sx": "R12-S14-C10",
         "sk": "> Toad > Toad Awesome Annie > Vertical Release > Leg Over <OS> > Leg Over Awesome Annie > Swing > EB > Open >",
         "no": "Tc, Ta, M, -Lo, La, S, Ec, O,",
         "ty": "CH",
@@ -16054,6 +16158,7 @@
     },
     {
         "na": "Challenge 94",
+        "sx": "C1-C10-R12",
         "sk": "> Cross > Leg Over > Toad <OS> > Toad Awesome Annie > Vertical Release > Open >",
         "no": "C, Lo, -Tc, Ta, M, O,",
         "ty": "CH",
@@ -16066,6 +16171,7 @@
     },
     {
         "na": "Challenge 95",
+        "sx": "R20-W3h-D23-W1-C10-W3a-D31-C1",
         "sk": "> Swing > Mic Release <WP> > Open > EB Arm Wrap > Unwrap Swing 180 <OS> > <BW> Open 180 > Swing <B> > Arm Wrap > Unwrap Swing <OS> > Swing > EB > EB Arm Wrap > Unwrap Swing <OS> > EB Swing 180 > <BW> Swing > <BW> Cross Texan 180 > Cross >",
         "no": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), S, Ec, E[s], (Eo)[s), Es<, S, C{, C, O,",
         "ty": "CH",
@@ -16080,6 +16186,7 @@
     },
     {
         "na": "Challenge 96",
+        "sx": "S19-C63-C10-S9",
         "sk": "> Swing > EB Toad > Toad Awesome Annie > Cross > Cross <OS> > Swing > EB > EB Leg Over Swing > Cross >",
         "no": "S, Et, Ta, C, -C, S, Ec, Le, C,",
         "ty": "CH",
@@ -16094,6 +16201,7 @@
     },
     {
         "na": "Challenge 97",
+        "sx": "S14-C7b-S13-C63",
         "sk": "> Leg Over > Leg Over Awesome Annie > Toad Swing > Toad > Toad Awesome Annie > Cross > Cross <OS> >",
         "no": "Lo, La, Ts, Tc, Ta, C, -C,",
         "ty": "CH",
@@ -16143,6 +16251,7 @@
     },
     {
         "na": "Challenge 101",
+        "sx": "S1-C10a-D13-S13-C1",
         "sk": "> Swing <W> > Leg Over <OS> > Swing <B> > Cross > Swing 180 > <BW> Open > <BW> Swing > <BW> Toad 180 > Swing <B> > Toad > Toad Awesome Annie > Cross >",
         "no": "S, -Lo, S, C, S>, O, S, Tc>, S, Tc, Ta, C,",
         "ty": "CH",
@@ -16155,6 +16264,7 @@
     },
     {
         "na": "Challenge 102",
+        "sx": "C10-C12-C7b-S13a-R12-W16-C8-C9",
         "sk": "> Swing > EB > EB Toad > Toad Swing > Toad > Toad Awesome Annie > Leg Over Awesome Annie > Toad Awesome Annie > Vertical Release > Inverse Toad Swing > Inverse Toad Arm Wrap > Unwrap Swing <OS> > Inverse Toad > Elephant >",
         "no": "S, Ec, Et, Ts, Tc, Ta, La, Ta, M, Is, I[s], I[s), Ic, It,",
         "ty": "CH",
@@ -16168,6 +16278,7 @@
     },
     {
         "na": "Challenge 103",
+        "sx": "C1-M1-C1-M4-C1-M6",
         "sk": "> Cross > Open Open <DU> > Cross > Open Cross  <DU> > Cross > Cross Open  <DU> >",
         "no": "C, OO, C, OC, C, CO,",
         "ty": "CH",
