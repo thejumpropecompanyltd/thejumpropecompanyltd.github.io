@@ -736,5 +736,95 @@
         "rating": 5,
         "review": "I love this company literally got me addicted to skipping only reason I’m ordering again is because I myself lost the rope (whoops!)",
         "category": "Ropes"
+    },
+    {
+        "reviewer": "Kate Edwards",
+        "rating": 5,
+        "review": "I started coaching with Chris nearly two years ago and I’ve loved every single session! His passion for jump rope shines through in his coaching and has continued to inspire me from our very first session ‘til now.",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Alicia Kim",
+        "rating": 5,
+        "review": "My skills have gone from beginner to advanced in such a short time! Chris is very patient, easy to understand and he has the drive to see you reach your goals. His love for jump rope is contagious and I caught it!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Eilidh Smith",
+        "rating": 5,
+        "review": "Coach Chris is amazing! His coaching is like no other, and it’s what has helped me to progress so much within the last two years! He is one of the main reasons why I love jump rope so much!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Amie Jones",
+        "rating": 5,
+        "review": "Chris is a great coach! His helpful attitude motivates me to stay on top of my homework every week. He is dedicated in helping me reach my goals.",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Alan Bell",
+        "rating": 5,
+        "review": "I started jumping at 70-years old as another way to stay active, both physically and mentally. Coach Chris has really helped establish my foundational skills enabling me to explore really fun and challenging tricks and combos. I am now doing things I previously would never have done on my own!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Maria Borresen",
+        "rating": 5,
+        "review": "I love my coaching sessions with Chris! He has the sharpest eye - always sees what I need to change. He’s always encouraging, making me attempt things I did not think were possible… My form and skills have improved so much with his coaching!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Janel Funk",
+        "rating": 5,
+        "review": "Chris took me back to basics to improve my form and help me truly understand the physics and logic behind moves. I have unlocked skills I didn’t even know how to attempt previously! Chris is a delight to work with and I always look forward to our sessions!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Alysia Mattson",
+        "rating": 5,
+        "review": "As a coach, mentor and friend, Chris has really broadened my perspective in the world of jump rope… but most importantly, he believes in me.",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Emily Easterly",
+        "rating": 5,
+        "review": "I have been getting coaching from Chris for over a year now and in that time my jumping has improved has improved so much! Whenever I am struggling with a skill, Chris has the ability to pinpoint exactly what I need to do to fix the problem, or he maps out the drills to work towards that skill. I  really appreciate his attention to detail.",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Helena Lindberg",
+        "rating": 5,
+        "review": "Before working with Chris I knew a bit already about jump rope. But through Chris’ coaching I’ve achieved a deeper understanding of the mechanics of building combos. I’ve learned how to use a rope in many ways to build skills and combos. I can’t wait to see what the future brings with Chris support!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Joanna Latkowska",
+        "rating": 5,
+        "review": "If it wasn’t for Coach Chris, I would have given up on jumping many times already. I often don’t have much to time to practice on my own so I needed somebody help me to stay consistent even when I’m feeling overloaded. The online classes keep me sane and alive - they are so much fun!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Maggie Elliott",
+        "rating": 5,
+        "review": "He’s incredibly supportive and can always see the reason why I can’t do something… it’s helped me make even quicker progress!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Fabian Schon",
+        "rating": 5,
+        "review": "Being a coach myself, I knew exactly what I was looking for when I searched for a jump rope coach. I tried many coaches even professional jumpers, but none seemed to really work for me. Then I found Chris, booked a session, and had an unprecendented experience. His deep technical and biomechanical understanding was out of this world. His way of explaining skills is unique, understandable and it sticks.",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Nic McClymont",
+        "rating": 5,
+        "review": "“Chris is everything you want and need in a coach. He is super energetic, infectiously passionate and unbelievably patient. Whether you’re a beginner or been jumping for a while if you’re thinking of getting sessions, then you will not find better than Chris. No question!!",
+        "category": "Coaching"
+    },
+    {
+        "reviewer": "Bryan Sulquiano",
+        "rating": 5,
+        "review": "Before finding Chris, I felt stuck in my sessions, they were getting repetitive doing the same things over and over. I didn’t know how to progress. Fast forward to my time with Chris and in only 6 months I managed to unlock double unders, push-ups, wraps, clean mic releases and so much more. Chris opened my mind to a world of jump rope and skills I never thought I could do.",
+        "category": "Coaching"
     }
 ]
