@@ -15722,6 +15722,7 @@
         "ty": "CH",
         "vi": 836500993,
         "c1": "Body Cross",
+        "c2": "Contact Stall",
         "le": "Short"
     },
     {
@@ -15740,6 +15741,7 @@
         "ty": "CH",
         "vi": 836501072,
         "c1": "Body Cross",
+        "c2": "No Contact Stall",
         "le": "Long"
     },
     {
@@ -15749,6 +15751,7 @@
         "ty": "CH",
         "vi": 836501116,
         "c1": "Body Cross",
+        "c2": "Contact Stall",
         "le": "Very Long"
     },
     {
@@ -15758,13 +15761,14 @@
         "ty": "CH",
         "vi": 836501168,
         "c1": "Body Cross",
+        "c2": "No Contact Stall",
         "le": "Very Long"
     },
     {
         "na": "Challenge 59",
         "sk": ">  >",
         "ty": "CH",
-        "vi": 912900744,
+        "vi": "CS",
         "c1": "Body Cross",
         "le": "Short"
     },
@@ -15775,7 +15779,8 @@
         "sx": "S2-S1-D13",
         "ty": "CH",
         "vi": 836496285,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
         "le": "Short"
     },
     {
@@ -15785,7 +15790,8 @@
         "sx": "C1a-D14",
         "ty": "CH",
         "vi": 836496314,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
         "le": "Short"
     },
     {
@@ -15795,7 +15801,9 @@
         "sx": "S2-R20-D14",
         "ty": "CH",
         "vi": 836496417,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Mic Release",
+        "c3": "Body Cross",
         "le": "Short"
     },
     {
@@ -15805,7 +15813,9 @@
         "sx": "S2-C7-D14",
         "ty": "CH",
         "vi": 836496453,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Leg Cross",
+        "c3": "Body Cross",
         "le": "Short"
     },
     {
@@ -15815,7 +15825,8 @@
         "sx": "S2-C2-D14",
         "ty": "CH",
         "vi": 836496478,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
         "le": "Short"
     },
     {
@@ -15825,7 +15836,8 @@
         "sx": "S2-C1a-D33-S2-C1a",
         "ty": "CH",
         "vi": 836496134,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
         "le": "Short"
     },
     {
@@ -15835,7 +15847,8 @@
         "sx": "S2-D68-S2-S1",
         "ty": "CH",
         "vi": 836496173,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
         "le": "Short"
     },
     {
@@ -15844,7 +15857,8 @@
         "no": ";S, C, >O, S>, O, C, O, ",
         "ty": "CH",
         "vi": 836496211,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Body Cross",
         "le": "Short"
     },
     {
@@ -15854,7 +15868,8 @@
         "sx": "D13-D30-C1",
         "ty": "CH",
         "vi": 836496236,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Texan Turn",
         "le": "Short"
     },
     {
@@ -15864,7 +15879,9 @@
         "sx": "D13-D23-C1-D83",
         "ty": "CH",
         "vi": 836496263,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
+        "c2": "Texan Turn",
+        "c3": "Body Cross",
         "le": "Short"
     },
     {
@@ -15902,7 +15919,7 @@
         "c2": "Dive in",
         "c3": "Leg Cross",
         "c4": "Body Cross",
-        "c5": "180 Turn",
+        "c5": "Forwards 180",
         "le": "Long"
     },
     {
@@ -15939,7 +15956,7 @@
         "c1": "Arm Wrap",
         "c2": "Dive in",
         "c3": "Leg Cross",
-        "c4": "180 Turn",
+        "c4": "Forwards 180",
         "le": "Long"
     },
     {
@@ -16180,7 +16197,7 @@
         "c2": "Arm Wrap",
         "c3": "Dive in",
         "c4": "Body Cross",
-        "c5": "180 Turn",
+        "c5": "Forwards 180",
         "c6": "Texan Turn",
         "le": "Very Long"
     },
@@ -16256,7 +16273,7 @@
         "sx": "S1-C10a-D13-S14-C1",
         "ty": "CH",
         "vi": 836496014,
-        "c1": "180 Turn",
+        "c1": "Forwards 180",
         "c2": "Leg Cross",
         "c3": "Body Cross",
         "c4": "Awesome Annie",
@@ -16315,7 +16332,7 @@
         "vi": "CS",
         "c1": "Body Cross",
         "c2": "Leg Cross",
-        "c3": "180 Turn",
+        "c3": "Forwards 180",
         "le": "Short"
     },
     {
