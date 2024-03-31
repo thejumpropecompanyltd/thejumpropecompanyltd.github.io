@@ -953,7 +953,7 @@
         "review": "Tricktionary+ is like having a little Coach Chris in your pocket! Whether you’ve been jumping for years or you are just starting out, its perfect because it’s possible to completely personalise what you’re looking for. I love using it when I want to jump but don’t have the brain capacity left to decide what to do or how to do it! 🤣 I can just ask the app to create a combo for me and then get to work trying it out. I can see exactly what each skill is, watch it on video and even slow it down if I need to! Honestly, this is the most comprehensive and useful jumprope app you will ever find! If you’ve often wished you can have Chris in your pocket, get this… it’s infinitesimally smaller than him!",
         "category": "Tricktionary"
     },
-{
+    {
         "reviewer": "Amie Jones",
         "rating": 5,
         "review": "I have been using tricktionary+ to learn new skills and improve my technique on old skills. Its easy to use and there are different sections on the app, such as my favourite tool, the challenge generator. It’s made jump rope a lot easier and has maintained my focus and motivation",
@@ -983,13 +983,13 @@
         "review": "Five out of five stars. This is an excellent Beginner, friendly, jump rope, App. This puzzle called freestyle jump rope has hundreds of moves and variations this app provide you with years of content to unlock these puzzle pieces. Not only that it challenges you to put puzzle pieces together one move flowing into the next with the challenges and combos. There is something for everyone, whether you’re a beginner like myself or advanced. Some of these tricks are just outright hard. Fun way to exercise. Sometimes you’ll find yourself spending hours trying to figure out a combo and you don’t even realize a hour or two has gone by. I highly recommend this app to anyone interested in learning jump rope tricks. One more thing it constantly gets updated, which is awesome well worth the money. Thank you Chris for making this app and I hope you continue to keep put more of your time into it.",
         "category": "Tricktionary"
     },
-  {
+    {
         "reviewer": "Andrea Barrett",
         "rating": 5,
         "review": "I’m a huge fan of this app! It’s such an amazing resource to have at your fingertips whether you’re new to jump rope or more advanced. The Tricks of the Day are motivating to try even if I don’t have a lot of time to jump. The Challenge Generator is an awesome function and has helped me be more creative in thinking of different ways to put skills together. There are so many skills available and I love how the videos can be slowed down and you can go forward or backward in the video to really study and understand what’s going on. No more screen-recording! Chris has so much knowledge to share and it’s all here in the app!",
         "category": "Tricktionary"
     },
-{
+    {
         "reviewer": "Alicia Bravo",
         "rating": 5,
         "review": "This app is incredible. I have been jumping for almost 4 years now and I wished I had something like this when I was a beginner. I literally have every skill with video and breakdown in one app. I don’t have to scroll through IG looking for a skill someone did I wanted to replicate it’s all here! Genius!",
@@ -1018,21 +1018,29 @@
         "rating": 5,
         "review": "T+ is a great platform if you want to expand your jump rope skills. It has introduced me to skills that I probably wouldn’t have discovered on my own. To see the videos in slow motion and pausing them makes it easier to understand the details in each skill, and the tips provided for each video has helped me unlock skills that I’ve struggled to learn on my own. Letting T+ pick a skill or a combo is a great option on those days where you don’t know what you want to work on",
         "category": "Tricktionary"
-    }, {
+    }, 
+    {
         "reviewer": "Kim Miles",
         "rating": 5,
         "review": "What an amazing app! Everything you could possibly need in one place and more! Constantly challenges you to learn new skills and combos and great when you simply need some inspiration! Would highly recommend to anyone wanting to get into jumprope and those wanting to up their skills. So much variety and endless possibilities",
         "category": "Tricktionary"
-    },{
+    },
+    {
         "reviewer": "Fabian Schön",
         "rating": 5,
         "review": "I have tested many different jumprope apps before but this is the first time it actually feels like the creator knows what he’s doing. I know how much time, sweat and maybe even blood has Chris invested in making this monster of an app. It’s the most exhaustive online learning resource already and still growing. It couldn’t be organized any better. It shows that the intention of Chris and thejumpropecompany always is to make jumprope as accessible as possible for everyone, its for the community, not about the money in the first place. I think everybody agrees this app would be worth 30$ a month easily. It’s a fraction of it and that only shows us once again what a humble and giving person Chris is! Thank you for this gem!",
         "category": "Tricktionary"
-    },{
+    },
+    {
         "reviewer": "Joanna Berthelot",
         "rating": 5,
         "review": "Tricktionary+ has been great at taking the guess work out of what to work on next. I just go into the app, click on Trick of the Day, Surprise Me, or just search for a particular skills or combo and it’s ready to learn. It’s great that I can slow down the videos. My leg crosses have really improved since using T+ and my skipping overall. I love that it has so many different skills and variations and the combos are so creative. All the hard work is done for you! You can just grab your rope and follow along.",
         "category": "Tricktionary"
+    },
+    {
+        "reviewer": "Malini Majithia",
+        "rating": 5,
+        "review": "If your goal is to unlock new skills, get inspiration for combos and challenges, drill skills you already know, all while having heaps of fun, then Tricktionary+ is for you! And when you don’t know what you want to to do, but you know you want to jump, the “surprise me” function is super useful. Tricktionary+ is so easy to use and will definitely help you level up.",
+        "category": "Tricktionary"
     }
-
 ]
