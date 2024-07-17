@@ -15268,7 +15268,7 @@
     },
     {
         "na": "Challenge 13",
-        "sk": "> Cross > Open > Cross <OS> > Open >",
+        "sk": "> Cross > Open > Cross <OS> > Cross >",
         "no": "C, O, -C, C,",
         "sx": "C1-C1",
         "ty": "CH",
@@ -15416,7 +15416,6 @@
         "vi": 836507528,
         "c1": "Body Cross",
         "c2": "EB Swing",
-        "c3": "EB Swing",
         "le": "S"
     },
     {
@@ -15478,9 +15477,9 @@
     },
     {
         "na": "Challenge 32",
-        "sk": "> Cross > Toad > Swing <W> > Open > Cross > Switch Toad > Swing <W> > Open >",
-        "no": "C, Tc, S, O, C, -Tc, S, O,",
-        "sx": "C1-C7-S1-C1-C7-S1",
+        "sk": "> Cross > Cross <OS> > Toad > Swing <W> > Open > Cross > Switch Toad > Swing <W> > Open >",
+        "no": "C, -C, Tc, S, O, C, -Tc, S, O,",
+        "sx": "C63-C7-S1-C1-C7-S1",
         "ty": "CH",
         "vi": 836508186,
         "c1": "Leg Cross",
@@ -15975,8 +15974,8 @@
         "ty": "CH",
         "vi": 836498750,
         "c1": "Arm Wrap",
-        "c2": "Dive in",
-        "c3": "Leg Cross",
+        "c2": "Mic Release",
+        "c3": "Dive in",
         "c4": "Forwards 180",
         "le": "L"
     },
