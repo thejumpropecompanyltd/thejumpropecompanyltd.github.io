@@ -15969,7 +15969,7 @@
     {
         "na": "Challenge 75",
         "sk": "> Swing > Mic Release > Open > EB Arm Wrap 180 > <B> Unwrap Swing <OS> > <BW> Open 180 > Swing <B> > Arm Wrap > Unwrap Swing <OS> > Cross > Open > Cross <OS> > Cross >",
-        "no": "S, M, O, E[s], (Eo)[s)>, O, S>, [S], [S), C, O, -C, C,",
+        "no": "S, M, O, E[s], (Eo)[s)>, O>, S, [S], [S), C, O, -C, C,",
         "sx": "R21-W3h-D23-W1-C1-C1a",
         "ty": "CH",
         "vi": 836498750,
