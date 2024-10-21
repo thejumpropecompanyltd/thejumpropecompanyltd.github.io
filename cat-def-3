@@ -1805,5 +1805,44 @@
 "p": "Some restrictions can be challenging to create momentum in. To be successful, ensure you jump at a good pace (both before and during these skills) so the rope has plenty of momentum throughout."
 }
 ]
-}
+},
+    {
+        "ca": "X",
+        "sc": "Basic Cross",
+        "df": "Basic crosses includes skills such as the regular Cross, Swing Cross, Switch Crosses and EB all of which are beginner friendly and easy to learn."
+    },
+    {
+        "ca": "X",
+        "sc": "Rest Day Friendly",
+        "df": "Basic crosses includes skills such as the regular Cross, Swing Cross, Switch Crosses and EB all of which are beginner friendly and easy to learn."
+    },
+    {
+        "ca": "X",
+        "sc": "Beginner Friendly",
+        "df": "Beginner friendly means only skills featured in the Beginner Friendly collection. These are very easy to learn so if you're new to jump rope, or want to master your fundamentals, then this is for you! For an added challenge, try unlocking this on both sides!"
+    },
+{
+        "ca": "X",
+        "sc": "Turn",
+        "df": "This creation includes turning skills such as 180s, 360s and Texans. For an added challenge, try unlocking this on both sides!"
+    },
+    {
+        "ca": "X",
+        "sc": "Power",
+        "df": "Power skills include gymnastic movements such as Push-Ups and Handstands (know as Frogs in jump rope). These skills are great for taking your jump rope workouts to the next level but (be careful) they require a founational level of upper-body strength to perform safely."
+    },
+    {
+        "ca": "X",
+        "sc": "Drill",
+        "df": "This creation is a drill by a jump rope coach. Learning it on both sides will help you develop better technique and enable you to master important movement patterns that will elevate your jump rope progress."
+    },
+    {
+        "ca": "X",
+        "sc": "Drill",
+        "df": "This challenge features mostly or entirely backwards skills. Remember to keep your hands close to your hips and your shoulders relaxed. For an added challenge, try unlocking it on both sides!"
+    }
+
+
+
+
 ]
