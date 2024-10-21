@@ -1808,7 +1808,7 @@
 },
     {
         "ca": "X",
-        "sc": "Basic Cross",
+        "sc": "Basic Crosses",
         "df": "Basic crosses includes skills such as the regular Cross, Swing Cross, Switch Crosses and EB all of which are beginner friendly and easy to learn."
     },
     {
@@ -1823,7 +1823,7 @@
     },
 {
         "ca": "X",
-        "sc": "Turn",
+        "sc": "Turns",
         "df": "This creation includes turning skills such as 180s, 360s and Texans. For an added challenge, try unlocking this on both sides!"
     },
     {
@@ -1833,12 +1833,12 @@
     },
     {
         "ca": "X",
-        "sc": "Drill",
+        "sc": "Drills",
         "df": "This creation is a drill by a jump rope coach. Learning it on both sides will help you develop better technique and enable you to master important movement patterns that will elevate your jump rope progress."
     },
     {
         "ca": "X",
-        "sc": "Drill",
+        "sc": "Backwards",
         "df": "This challenge features mostly or entirely backwards skills. Remember to keep your hands close to your hips and your shoulders relaxed. For an added challenge, try unlocking it on both sides!"
     }
 
