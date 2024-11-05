@@ -7,7 +7,8 @@
         "ty": "S",
         "as": "F1",
         "vi": 833099743,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Single Bounce (at 80bpm)",
@@ -137,7 +138,8 @@
         "ty": "S",
         "as": "F2",
         "vi": 833065423,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Twister",
@@ -147,7 +149,8 @@
         "ty": "S",
         "as": "F3",
         "vi": 833066999,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Twister (4 count)",
@@ -157,7 +160,8 @@
         "ty": "V",
         "as": "F3",
         "vi": 833066987,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Skier",
@@ -167,7 +171,8 @@
         "ty": "S",
         "as": "F4",
         "vi": 833066969,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Skier (4 count)",
@@ -177,7 +182,8 @@
         "ty": "V",
         "as": "F4",
         "vi": 833066952,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Bell",
@@ -187,7 +193,8 @@
         "ty": "S",
         "as": "F5",
         "vi": 833065400,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Bell (4 count)",
@@ -197,7 +204,8 @@
         "ty": "V",
         "as": "F5",
         "vi": 833065373,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Straddle",
@@ -207,7 +215,8 @@
         "ty": "S",
         "as": "F6",
         "vi": 833066928,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Straddle (4 count)",
@@ -217,7 +226,8 @@
         "ty": "V",
         "as": "F6",
         "vi": 833066895,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Forward Straddle",
@@ -227,7 +237,8 @@
         "ty": "S",
         "as": "F7",
         "vi": 833065486,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Forward Straddle (4 count)",
@@ -237,7 +248,8 @@
         "ty": "V",
         "as": "F7",
         "vi": 833065446,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Forward Straddle (alternating)",
@@ -247,7 +259,8 @@
         "ty": "V",
         "as": "F7",
         "vi": 833065465,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Scissors",
@@ -257,7 +270,8 @@
         "ty": "S",
         "as": "F8",
         "vi": 833065515,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Scissors (4 count)",
@@ -267,7 +281,8 @@
         "ty": "V",
         "as": "F8",
         "vi": 833065500,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "X-Motion",
@@ -277,7 +292,8 @@
         "ty": "S",
         "as": "F9",
         "vi": 833068409,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "X-Motion (4 count)",
@@ -287,7 +303,8 @@
         "ty": "V",
         "as": "F9",
         "vi": 833067020,
-        "c1": "Bilateral Footwork"
+        "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Single Leg Jumps",
@@ -297,7 +314,8 @@
         "ty": "S",
         "as": "F10",
         "vi": 833073570,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Single Leg Jumps (2-2)",
@@ -307,7 +325,8 @@
         "ty": "V",
         "as": "F10",
         "vi": 833095732,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Single Leg Jumps (1-2-1)",
@@ -317,7 +336,8 @@
         "ty": "V",
         "as": "F10",
         "vi": "CS",
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front Tap",
@@ -327,7 +347,8 @@
         "ty": "S",
         "as": "F11",
         "vi": 833071640,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front Tap (4 count)",
@@ -337,7 +358,8 @@
         "ty": "V",
         "as": "F11",
         "vi": 833071624,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front Taps (both sides)",
@@ -347,7 +369,8 @@
         "ty": "V",
         "as": "F11",
         "vi": 833089991,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front Taps (double)",
@@ -357,7 +380,8 @@
         "ty": "V",
         "as": "F11",
         "vi": 833090004,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front Taps (alternating double)",
@@ -367,7 +391,8 @@
         "ty": "V",
         "as": "F11",
         "vi": 833089956,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front Taps (alternating)",
@@ -377,7 +402,8 @@
         "ty": "V",
         "as": "F11",
         "vi": 833089980,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Tap",
@@ -387,7 +413,8 @@
         "ty": "S",
         "as": "F12",
         "vi": 833071678,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Tap (4 count)",
@@ -397,7 +424,8 @@
         "ty": "V",
         "as": "F12",
         "vi": 833071654,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Taps (both sides)",
@@ -407,7 +435,8 @@
         "ty": "V",
         "as": "F12",
         "vi": 833095700,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Taps (double)",
@@ -417,7 +446,8 @@
         "ty": "V",
         "as": "F12",
         "vi": 833095720,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Taps (alternating double)",
@@ -427,7 +457,8 @@
         "ty": "V",
         "as": "F12",
         "vi": 833095626,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Taps (alternating)",
@@ -437,7 +468,8 @@
         "ty": "V",
         "as": "F12",
         "vi": 833095669,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back Tap",
@@ -447,7 +479,8 @@
         "ty": "S",
         "as": "F13",
         "vi": 833071552,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back Tap (4 count)",
@@ -457,7 +490,8 @@
         "ty": "V",
         "as": "F13",
         "vi": 833071508,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back Taps (both sides)",
@@ -467,7 +501,8 @@
         "ty": "V",
         "as": "F13",
         "vi": 833087775,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back Taps (double)",
@@ -477,7 +512,8 @@
         "ty": "V",
         "as": "F13",
         "vi": 833087790,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back Taps (alternating double)",
@@ -487,7 +523,8 @@
         "ty": "V",
         "as": "F13",
         "vi": 833087741,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back Taps (alternating)",
@@ -497,7 +534,8 @@
         "ty": "V",
         "as": "F13",
         "vi": 833087755,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Cross Over",
@@ -507,7 +545,8 @@
         "ty": "S",
         "as": "F14",
         "vi": 833071608,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Cross Over (4 count)",
@@ -517,7 +556,8 @@
         "ty": "V",
         "as": "F14",
         "vi": 833071590,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Cross Behind",
@@ -527,7 +567,8 @@
         "ty": "S",
         "as": "F15",
         "vi": 833071579,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Knee Raise",
@@ -537,7 +578,8 @@
         "ty": "S",
         "as": "F16",
         "vi": 833073485,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Knee Raise (4 count)",
@@ -547,7 +589,8 @@
         "ty": "V",
         "as": "F16",
         "vi": 833073458,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Knee Raises (both sides)",
@@ -557,7 +600,8 @@
         "ty": "V",
         "as": "F16",
         "vi": 833095549,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Knee Raises (double)",
@@ -567,7 +611,8 @@
         "ty": "V",
         "as": "F16",
         "vi": 833095575,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Knee Raises (alternating double)",
@@ -577,7 +622,8 @@
         "ty": "V",
         "as": "F16",
         "vi": 833095483,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Knee Raises (alternating)",
@@ -587,7 +633,8 @@
         "ty": "V",
         "as": "F16",
         "vi": 833095516,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Leg Raise",
@@ -597,7 +644,8 @@
         "ty": "S",
         "as": "F17",
         "vi": 833073530,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Leg Raise (4 count)",
@@ -607,7 +655,8 @@
         "ty": "V",
         "as": "F17",
         "vi": 833073505,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Leg Raises (both sides)",
@@ -617,7 +666,8 @@
         "ty": "V",
         "as": "F17",
         "vi": 833095599,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Raise",
@@ -627,7 +677,8 @@
         "ty": "S",
         "as": "F18",
         "vi": 833073549,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Raise (4 count)",
@@ -637,7 +688,8 @@
         "ty": "V",
         "as": "F17",
         "vi": "CS",
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Kick Back",
@@ -647,7 +699,8 @@
         "ty": "S",
         "as": "F19",
         "vi": 833073438,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Kick Back (4 count)",
@@ -657,7 +710,8 @@
         "ty": "V",
         "as": "F19",
         "vi": 833073379,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Kick Backs (both sides)",
@@ -667,7 +721,8 @@
         "ty": "V",
         "as": "F19",
         "vi": 833089530,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Kick Backs (double)",
@@ -677,7 +732,8 @@
         "ty": "V",
         "as": "F19",
         "vi": 833089576,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Kick Backs (alternating double)",
@@ -687,7 +743,8 @@
         "ty": "V",
         "as": "F19",
         "vi": 833089497,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Kick Backs (alternating)",
@@ -697,7 +754,8 @@
         "ty": "V",
         "as": "F19",
         "vi": 833089511,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Alternating Step",
@@ -707,7 +765,8 @@
         "ty": "S",
         "as": "F20",
         "vi": 833087711,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front to Back",
@@ -717,7 +776,8 @@
         "ty": "S",
         "as": "F21",
         "vi": 833090074,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front to Back (4 count)",
@@ -727,7 +787,8 @@
         "ty": "V",
         "as": "F21",
         "vi": 833090027,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Front to Back (both sides)",
@@ -737,7 +798,8 @@
         "ty": "V",
         "as": "F21",
         "vi": 833090053,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back to Front",
@@ -747,7 +809,8 @@
         "ty": "S",
         "as": "F22",
         "vi": 833089479,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back to Front (4 count)",
@@ -757,7 +820,8 @@
         "ty": "V",
         "as": "F22",
         "vi": 833089430,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Back to Front (both sides)",
@@ -767,7 +831,8 @@
         "ty": "V",
         "as": "F22",
         "vi": 833089467,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Boxer Step",
@@ -804,7 +869,8 @@
         "ty": "S",
         "as": "F24",
         "vi": 833089924,
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Can Can (4 count)",
@@ -814,7 +880,8 @@
         "ty": "V",
         "as": "F24",
         "vi": "CS",
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Can Can (both sides)",
@@ -824,7 +891,8 @@
         "ty": "V",
         "as": "F24",
         "vi": "CS",
-        "c1": "Unilateral Footwork"
+        "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "High Knee Cross Over",
@@ -1295,6 +1363,7 @@
         "as": "C1",
         "vi": 832778321,
         "c1": "Body Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross"
     },
     {
@@ -1306,6 +1375,7 @@
         "as": "C1",
         "vi": 832782502,
         "c1": "Body Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross",
         "p4": "Consecutive"
     },
@@ -1318,6 +1388,7 @@
         "as": "C1",
         "vi": 832782526,
         "c1": "Body Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross",
         "p4": "Consecutive"
     },
@@ -1330,6 +1401,7 @@
         "as": "C2",
         "vi": 832786139,
         "c1": "Body Cross",
+        "c7": "Beginner Friendly",
         "p1": "Half Cross"
     },
     {
@@ -1341,6 +1413,7 @@
         "as": "C2",
         "vi": 832786088,
         "c1": "Body Cross",
+        "c7": "Beginner Friendly",
         "p1": "Half Cross",
         "p4": "Swing out"
     },
@@ -1572,6 +1645,7 @@
         "as": "C7",
         "vi": 832944926,
         "c1": "Leg Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross"
     },
     {
@@ -1622,6 +1696,7 @@
         "vi": 833246564,
         "c1": "Leg Swing",
         "c2": "Leg Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross",
         "p2": "Front Swing",
         "p3": "Swing in"
@@ -1849,6 +1924,7 @@
         "as": "C10",
         "vi": 832945940,
         "c1": "Leg Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross"
     },
     {
@@ -1860,6 +1936,7 @@
         "as": "C10",
         "vi": 832945896,
         "c1": "Leg Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross",
         "p4": "Swing out"
     },
@@ -1872,6 +1949,7 @@
         "as": "C10",
         "vi": 832945927,
         "c1": "Leg Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross",
         "p4": "Swing out"
     },
@@ -2237,6 +2315,7 @@
         "as": "C17",
         "vi": "CS",
         "c1": "Ground Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross"
     },
     {
@@ -2248,6 +2327,7 @@
         "as": "C17",
         "vi": 832941415,
         "c1": "Ground Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross"
     },
     {
@@ -3600,6 +3680,7 @@
         "vi": 833058341,
         "c1": "Switch Cross",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "p1": "Front Cross"
     },
     {
@@ -3707,6 +3788,8 @@
         "as": "S1",
         "vi": 833105008,
         "c1": "Foundational Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "nn": "Swing to Open / Southpaw / Side Swing / Sideswing Open / Side Open / Crossed Swing / Cross Swing"
     },
@@ -3719,6 +3802,8 @@
         "as": "S2",
         "vi": 833238114,
         "c1": "Foundational Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "nn": "Swing Cross / Side Cross / Open Swing"
     },
@@ -3731,6 +3816,8 @@
         "as": "S3",
         "vi": 833240537,
         "c1": "Foundational Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "nn": "Double Swing"
     },
@@ -3743,6 +3830,8 @@
         "as": "S3",
         "vi": "CS",
         "c1": "Foundational Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "p4": "Consecutive",
         "nn": "Double Swing"
@@ -3756,6 +3845,8 @@
         "as": "S32",
         "vi": "CS",
         "c1": "Foundational Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "nn": "Double Swing"
     },
@@ -3768,6 +3859,8 @@
         "as": "S32",
         "vi": "CS",
         "c1": "Foundational Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "nn": "Double Swing"
     },
@@ -3780,6 +3873,8 @@
         "as": "S32",
         "vi": "CS",
         "c1": "Foundational Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "nn": "Double Swing"
     },
@@ -3792,6 +3887,8 @@
         "as": "S4",
         "vi": 833238091,
         "c1": "EB Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Back Swing"
     },
     {
@@ -3814,6 +3911,8 @@
         "as": "S5",
         "vi": 833241072,
         "c1": "Leg Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3825,6 +3924,7 @@
         "as": "S5",
         "vi": 833241107,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3836,6 +3936,8 @@
         "as": "S6",
         "vi": 833240841,
         "c1": "Leg Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3847,6 +3949,7 @@
         "as": "S6",
         "vi": 833240873,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3858,6 +3961,7 @@
         "as": "S7",
         "vi": 833240927,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3869,6 +3973,7 @@
         "as": "S7",
         "vi": 833240902,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3880,6 +3985,7 @@
         "as": "S8",
         "vi": 833240815,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3891,6 +3997,7 @@
         "as": "S8",
         "vi": 833240735,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3903,6 +4010,7 @@
         "vi": 832950520,
         "c1": "EB Swing",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Back Swing"
     },
     {
@@ -3947,6 +4055,7 @@
         "as": "S13",
         "vi": 833241041,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3958,6 +4067,7 @@
         "as": "S13",
         "vi": 833241006,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -3969,6 +4079,7 @@
         "as": "S13",
         "vi": 833240960,
         "c1": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -4316,6 +4427,7 @@
         "vi": "CS",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -4328,6 +4440,7 @@
         "vi": "CS",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -4340,6 +4453,7 @@
         "vi": "CS",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -4364,6 +4478,7 @@
         "vi": "CS",
         "c1": "Gogo Swing",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -4388,6 +4503,8 @@
         "vi": "CS",
         "c1": "Gogo Swing",
         "c2": "EB Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Back Swing"
     },
     {
@@ -4399,7 +4516,8 @@
         "as": "S5",
         "vi": 833243616,
         "c1": "One-Handed Swing",
-        "c2": "Leg Swing"
+        "c2": "Leg Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Inverse Toad Swing",
@@ -4410,7 +4528,8 @@
         "as": "S6",
         "vi": 833243509,
         "c1": "One-Handed Swing",
-        "c2": "Leg Swing"
+        "c2": "Leg Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Leg Over Swing",
@@ -4421,7 +4540,8 @@
         "as": "S7",
         "vi": 833243554,
         "c1": "One-Handed Swing",
-        "c2": "Leg Swing"
+        "c2": "Leg Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Inverse Leg Over Swing",
@@ -4432,7 +4552,8 @@
         "as": "S8",
         "vi": 833243451,
         "c1": "One-Handed Swing",
-        "c2": "Leg Swing"
+        "c2": "Leg Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Toad Gogo Swing",
@@ -4444,7 +4565,8 @@
         "vi": 833243582,
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
-        "c3": "Gogo Swing"
+        "c3": "Gogo Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Inverse Toad Gogo Swing",
@@ -4456,7 +4578,8 @@
         "vi": 833243478,
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
-        "c3": "Gogo Swing"
+        "c3": "Gogo Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Leg Over Gogo Swing",
@@ -4468,7 +4591,8 @@
         "vi": 833243530,
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
-        "c3": "Gogo Swing"
+        "c3": "Gogo Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Inverse Leg Over Gogo Swing",
@@ -4480,7 +4604,8 @@
         "vi": 833243374,
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
-        "c3": "Gogo Swing"
+        "c3": "Gogo Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Toad D-Gogo Swing",
@@ -4490,7 +4615,8 @@
         "vi": "CS",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
-        "c3": "Gogo Swing"
+        "c3": "Gogo Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Inverse Toad D-Gogo Swing",
@@ -4500,7 +4626,8 @@
         "vi": "CS",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
-        "c3": "Gogo Swing"
+        "c3": "Gogo Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Leg Over D-Gogo Swing",
@@ -4510,7 +4637,8 @@
         "vi": "CS",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
-        "c3": "Gogo Swing"
+        "c3": "Gogo Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "O.H. Inverse Leg Over D-Gogo Swing",
@@ -4520,7 +4648,8 @@
         "vi": "CS",
         "c1": "One-Handed Swing",
         "c2": "Leg Swing",
-        "c3": "Gogo Swing"
+        "c3": "Gogo Swing",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Body Stall",
@@ -4530,7 +4659,9 @@
         "ty": "S",
         "as": "D1",
         "vi": 833939714,
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Open Stall",
@@ -4540,7 +4671,8 @@
         "ty": "S",
         "as": "D2",
         "vi": 833939907,
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Between the Legs Stall",
@@ -4550,7 +4682,8 @@
         "ty": "S",
         "as": "D3",
         "vi": 833939618,
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Side Swing Stall",
@@ -4560,7 +4693,9 @@
         "ty": "S",
         "as": "D4",
         "vi": "CS",
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Kick Back Stall",
@@ -4570,7 +4705,9 @@
         "ty": "S",
         "as": "D5",
         "vi": 833939847,
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Foot Catch Stall",
@@ -4580,7 +4717,9 @@
         "ty": "S",
         "as": "D6",
         "vi": 833939826,
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Backwards Body Stall",
@@ -4590,7 +4729,9 @@
         "ty": "S",
         "as": "D7",
         "vi": 833939768,
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Backwards Open Stall",
@@ -4600,7 +4741,8 @@
         "ty": "S",
         "as": "D8",
         "vi": 833939799,
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Backwards Between the Legs Stall",
@@ -4610,7 +4752,8 @@
         "ty": "S",
         "as": "D9",
         "vi": 833939746,
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Backwards Side Swing Stall",
@@ -4618,7 +4761,9 @@
         "ty": "S",
         "as": "D10",
         "vi": "CS",
-        "c1": "No Contact Stall"
+        "c1": "No Contact Stall",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Backwards Kick Back",
@@ -4626,7 +4771,9 @@
         "ty": "S",
         "as": "D11",
         "vi": "CS",
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Backwards Foot Catch Stall",
@@ -4634,7 +4781,9 @@
         "ty": "S",
         "as": "D12",
         "vi": "CS",
-        "c1": "Contact Stall"
+        "c1": "Contact Stall",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "180 Turn",
@@ -4646,6 +4795,8 @@
         "vi": 833938194,
         "c1": "Forwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p2": "Front Swing"
     },
     {
@@ -4658,6 +4809,7 @@
         "vi": 833937991,
         "c1": "Forwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "p2": "Front Swing"
     },
     {
@@ -4768,6 +4920,8 @@
         "as": "D23",
         "vi": 833936808,
         "c1": "Backwards 180",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "nn": "BW 180"
     },
     {
@@ -4778,6 +4932,7 @@
         "vi": "CS",
         "c1": "Backwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "nn": "BW Cross 180"
     },
     {
@@ -4840,6 +4995,7 @@
         "vi": 833937119,
         "c1": "Backwards 180",
         "c2": "Texan Turn",
+        "c7": "Beginner Friendly",
         "p2": "Back Swing",
         "nn": "BW Texan 180"
     },
@@ -4853,6 +5009,7 @@
         "vi": 833937040,
         "c1": "Backwards 180",
         "c2": "Texan Turn",
+        "c7": "Beginner Friendly",
         "p2": "Back Swing",
         "nn": "BW Crossed Texan 180"
     },
@@ -4864,7 +5021,8 @@
         "ty": "S",
         "as": "D32",
         "vi": 833937443,
-        "c1": "360 Turn"
+        "c1": "360 Turn",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Cross 360",
@@ -4875,7 +5033,8 @@
         "as": "D33",
         "vi": 833937464,
         "c1": "360 Turn",
-        "c2": "Body Cross"
+        "c2": "Body Cross",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "EB 360",
@@ -5186,6 +5345,7 @@
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Body Cross",
+        "c7": "Beginner Friendly",
         "p3": "Swing in"
     },
     {
@@ -5430,7 +5590,8 @@
         "ty": "S",
         "as": "D68",
         "vi": 833937845,
-        "c1": "Half Turn"
+        "c1": "Half Turn",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Cross Half Turn",
@@ -5549,7 +5710,9 @@
         "as": "D76",
         "vi": 833941005,
         "c1": "Texan Turn",
-        "c2": "Full Turn"
+        "c2": "Full Turn",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Texan Full Turn (on shoulders)",
@@ -5560,7 +5723,9 @@
         "as": "D78",
         "vi": 833940970,
         "c1": "Texan Turn",
-        "c2": "Full Turn"
+        "c2": "Full Turn",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Crossed Texan Full Turn",
@@ -5572,7 +5737,9 @@
         "vi": "CS",
         "c1": "Texan Turn",
         "c2": "Full Turn",
-        "c3": "Body Cross"
+        "c3": "Body Cross",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Texan 360",
@@ -5583,7 +5750,8 @@
         "as": "D78",
         "vi": 833940950,
         "c1": "Texan Turn",
-        "c2": "360 Turn"
+        "c2": "360 Turn",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Texan 360 (on shoulders)",
@@ -5594,7 +5762,8 @@
         "as": "D78",
         "vi": 833940899,
         "c1": "Texan Turn",
-        "c2": "360 Turn"
+        "c2": "360 Turn",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Crossed Texan 360",
@@ -5605,7 +5774,8 @@
         "vi": "CS",
         "c1": "Texan Turn",
         "c2": "360 Turn",
-        "c3": "Body Cross"
+        "c3": "Body Cross",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Cross Texan 360",
@@ -5617,7 +5787,8 @@
         "vi": 833940830,
         "c1": "Texan Turn",
         "c2": "360 Turn",
-        "c3": "Body Cross"
+        "c3": "Body Cross",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Double Cross Texan 360",
@@ -5639,7 +5810,9 @@
         "as": "D82",
         "vi": 833941111,
         "c1": "Texan Turn",
-        "c2": "Half Turn"
+        "c2": "Half Turn",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Dragon Roll",
@@ -5705,7 +5878,8 @@
         "ty": "S",
         "as": "W1",
         "vi": 833649389,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Arm Wrap (Swing out)",
@@ -5716,6 +5890,8 @@
         "as": "W1",
         "vi": 833649045,
         "c1": "Arm Wrap",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out"
     },
     {
@@ -5727,7 +5903,9 @@
         "as": "W1",
         "vi": 833649616,
         "c1": "180 Unwrap",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Wrist Wrap",
@@ -5737,17 +5915,21 @@
         "ty": "S",
         "as": "W2",
         "vi": 833670753,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
-        "na": "Wrist Wrap (Swing)",
+        "na": "Wrist Wrap (Swing in)",
         "ax": "W2a",
         "sk": "> Open > Wrist Wrap > Unwrap Swing <OS> > Open >",
         "no": "O, (S], [S, O,",
         "ty": "V",
         "as": "W2",
         "vi": 833670520,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "EB Arm Wrap",
@@ -5769,6 +5951,8 @@
         "as": "W3",
         "vi": 833654685,
         "c1": "Arm Wrap",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out",
         "nn": "EB Wrap"
     },
@@ -5792,6 +5976,8 @@
         "as": "W3",
         "vi": 833654026,
         "c1": "Arm Wrap",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out",
         "nn": "EB Wrap"
     },
@@ -5816,6 +6002,7 @@
         "as": "W3",
         "vi": 833651646,
         "c1": "Arm Wrap",
+        "c7": "Beginner Friendly",
         "p3": "Dive in",
         "p4": "Swing out",
         "nn": "Dive EB Wrap"
@@ -5841,7 +6028,9 @@
         "as": "W3",
         "vi": 833639543,
         "c1": "180 Unwrap",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Dive EB Arm Wrap 180",
@@ -5852,7 +6041,8 @@
         "as": "W3",
         "vi": 833639256,
         "c1": "180 Unwrap",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Toad Arm Wrap",
@@ -5862,7 +6052,8 @@
         "ty": "S",
         "as": "W4",
         "vi": 833669512,
-        "c1": "Arm Wrap"
+        "c1": "Arm Wrap",
+        "c7": "Beginner Friendly"
     },
     {
         "na": "Toad Arm Wrap (Swing out)",
@@ -5873,6 +6064,8 @@
         "as": "W4",
         "vi": 833668829,
         "c1": "Arm Wrap",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out"
     },
     {
@@ -5884,7 +6077,8 @@
         "as": "W4",
         "vi": 833644078,
         "c1": "180 Unwrap",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Inverse Toad Arm Wrap",
@@ -5905,6 +6099,7 @@
         "as": "W5",
         "vi": 833663968,
         "c1": "Arm Wrap",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out"
     },
     {
@@ -5916,7 +6111,8 @@
         "as": "W5",
         "vi": 833641578,
         "c1": "180 Unwrap",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Leg Over Arm Wrap",
@@ -5947,6 +6143,7 @@
         "as": "W6",
         "vi": 833666822,
         "c1": "Arm Wrap",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out"
     },
     {
@@ -6196,7 +6393,8 @@
         "ty": "S",
         "as": "W14",
         "vi": 833737344,
-        "c1": "Gogo Arm Wrap"
+        "c1": "Gogo Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Dive EB Gogo Arm Wrap",
@@ -6207,6 +6405,7 @@
         "as": "W14",
         "vi": 833736776,
         "c1": "Gogo Arm Wrap",
+        "c8": "Rest Day Friendly",
         "p3": "Dive in"
     },
     {
@@ -6218,7 +6417,8 @@
         "as": "W14",
         "vi": 833639781,
         "c1": "180 Unwrap",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Toad Gogo Arm Wrap",
@@ -6239,6 +6439,7 @@
         "as": "W15",
         "vi": 833757593,
         "c1": "Gogo Arm Wrap",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out"
     },
     {
@@ -6282,6 +6483,7 @@
         "as": "W16",
         "vi": 833750359,
         "c1": "Gogo Arm Wrap",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out"
     },
     {
@@ -6325,6 +6527,7 @@
         "as": "W17",
         "vi": 833754925,
         "c1": "Gogo Arm Wrap",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out"
     },
     {
@@ -6379,6 +6582,7 @@
         "as": "W18",
         "vi": 833743393,
         "c1": "Gogo Arm Wrap",
+        "c8": "Rest Day Friendly",
         "p4": "Swing out"
     },
     {
@@ -8162,6 +8366,8 @@
         "as": "R20",
         "vi": 833622893,
         "c1": "Mic Release",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Pop Release",
         "nn": "Mic Release"
     },
@@ -8174,6 +8380,7 @@
         "as": "R20",
         "vi": 833622524,
         "c1": "Mic Release",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Pop Release",
         "nn": "Mic Release"
     },
@@ -8186,6 +8393,7 @@
         "as": "R21",
         "vi": 833581037,
         "c1": "Mic Release",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release",
         "nn": "Mic Release"
     },
@@ -8198,6 +8406,8 @@
         "as": "R21",
         "vi": 833580874,
         "c1": "Mic Release",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release",
         "nn": "Mic Release"
     },
@@ -8210,6 +8420,7 @@
         "as": "R22",
         "vi": 833637660,
         "c1": "Mic Release",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release",
         "nn": "Mic Release"
     },
@@ -8222,6 +8433,7 @@
         "as": "R22",
         "vi": 833637412,
         "c1": "Mic Release",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release",
         "nn": "Mic Release"
     },
@@ -8235,6 +8447,7 @@
         "vi": 833624443,
         "c1": "Mic Release",
         "c2": "Gogo Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8247,6 +8460,7 @@
         "vi": 833624169,
         "c1": "Mic Release",
         "c2": "Gogo Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8260,6 +8474,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8273,6 +8488,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8286,6 +8502,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8299,6 +8516,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8311,6 +8529,7 @@
         "vi": 833635752,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8323,6 +8542,7 @@
         "vi": 833635470,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8335,6 +8555,7 @@
         "vi": 833625001,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8347,6 +8568,7 @@
         "vi": 833624759,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8359,6 +8581,7 @@
         "vi": 833637144,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8371,6 +8594,7 @@
         "vi": 833636776,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8383,6 +8607,7 @@
         "vi": 833626399,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8395,6 +8620,7 @@
         "vi": 833626005,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8408,6 +8634,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8421,6 +8648,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8434,6 +8662,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8447,6 +8676,7 @@
         "c1": "Mic Release",
         "c2": "Gogo Swing",
         "c3": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Swing Release"
     },
     {
@@ -8459,6 +8689,7 @@
         "vi": 833622249,
         "c1": "Mic Release",
         "c2": "Gogo Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Pop Release"
     },
     {
@@ -8471,6 +8702,7 @@
         "vi": 833622004,
         "c1": "Mic Release",
         "c2": "Gogo Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Pop Release"
     },
     {
@@ -8483,6 +8715,7 @@
         "vi": 833584148,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release"
     },
     {
@@ -8495,6 +8728,7 @@
         "vi": "CS",
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release"
     },
     {
@@ -8507,6 +8741,7 @@
         "vi": "CS",
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Pop Release"
     },
     {
@@ -8520,6 +8755,7 @@
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Awesome Annie",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release"
     },
     {
@@ -8532,6 +8768,7 @@
         "vi": "CS",
         "c1": "Mic Release",
         "c2": "EB Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release"
     },
     {
@@ -8544,6 +8781,7 @@
         "vi": "CS",
         "c1": "Mic Release",
         "c2": "EB Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release"
     },
     {
@@ -8580,6 +8818,7 @@
         "vi": 833582352,
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release"
     },
     {
@@ -8592,6 +8831,7 @@
         "vi": "CS",
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release"
     },
     {
@@ -8604,6 +8844,7 @@
         "vi": "CS",
         "c1": "Mic Release",
         "c2": "Leg Swing",
+        "c8": "Rest Day Friendly",
         "p1": "Wrist Pop Release"
     },
     {
@@ -8617,6 +8858,7 @@
         "c1": "Mic Release",
         "c2": "Leg Swing",
         "c3": "Awesome Annie",
+        "c8": "Rest Day Friendly",
         "p1": "Box Swing Release"
     },
     {
@@ -8628,7 +8870,8 @@
         "as": "R37",
         "vi": 833609392,
         "c1": "Wrap Release",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Cross Arm Wrap Release (double rotation)",
@@ -8639,7 +8882,8 @@
         "as": "R37",
         "vi": 833608779,
         "c1": "Wrap Release",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "EB Arm Wrap Release",
@@ -8650,7 +8894,8 @@
         "as": "R38",
         "vi": 833611993,
         "c1": "Wrap Release",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "EB Arm Wrap Release (double rotation)",
@@ -8661,7 +8906,8 @@
         "as": "R38",
         "vi": 833611733,
         "c1": "Wrap Release",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Dive EB Arm Wrap Release",
@@ -8694,7 +8940,8 @@
         "as": "R40",
         "vi": 833616510,
         "c1": "Wrap Release",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Toad Arm Wrap Release (double rotation)",
@@ -8705,7 +8952,8 @@
         "as": "R40",
         "vi": 833615892,
         "c1": "Wrap Release",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Inverse Toad Arm Wrap Release",
@@ -8716,7 +8964,8 @@
         "as": "R41",
         "vi": 833613986,
         "c1": "Wrap Release",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Inverse Toad Arm Wrap Release (double rotation)",
@@ -8727,7 +8976,8 @@
         "as": "R41",
         "vi": 833613672,
         "c1": "Wrap Release",
-        "c2": "Arm Wrap"
+        "c2": "Arm Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Leg Over Gogo Arm Wrap Release",
@@ -8998,7 +9248,8 @@
         "as": "R54",
         "vi": 833618456,
         "c1": "Wrap Release",
-        "c2": "Leg Wrap"
+        "c2": "Leg Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "TS Wrap Release (EB Swing in) (double rotation)",
@@ -9009,7 +9260,8 @@
         "as": "R54",
         "vi": 833618066,
         "c1": "Wrap Release",
-        "c2": "Leg Wrap"
+        "c2": "Leg Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "AS Wrap Release",
@@ -9108,7 +9360,8 @@
         "as": "R58",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Inverse Toad Thigh Wrap Release",
@@ -9119,7 +9372,8 @@
         "as": "R59",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Leg Over Thigh Wrap Release",
@@ -9128,7 +9382,8 @@
         "as": "R60",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Inverse Leg Over Thigh Wrap Release",
@@ -9137,7 +9392,8 @@
         "as": "R61",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Tucked Leg Over Thigh Wrap Release",
@@ -9146,7 +9402,8 @@
         "as": "R62",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Tucked Inverse Leg Over Thigh Wrap Release",
@@ -9155,7 +9412,8 @@
         "as": "R63",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "EB D Gogo Toad Thigh Wrap Release",
@@ -9164,7 +9422,8 @@
         "as": "R64",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "EB D Gogo Inverse Toad Thigh Wrap Release",
@@ -9173,7 +9432,8 @@
         "as": "R65",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "EB Gogo Leg Over Thigh Wrap Release",
@@ -9182,7 +9442,8 @@
         "as": "R66",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "EB Gogo Inverse Leg Over Thigh Wrap Release",
@@ -9191,7 +9452,8 @@
         "as": "R67",
         "vi": "CS",
         "c1": "Wrap Release",
-        "c2": "Thigh Wrap"
+        "c2": "Thigh Wrap",
+        "c8": "Rest Day Friendly"
     },
     {
         "na": "Open Floater to Open",
@@ -15154,6 +15416,7 @@
         "ty": "CH",
         "vi": 848301222,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15164,6 +15427,7 @@
         "ty": "CH",
         "vi": 848301336,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15174,6 +15438,7 @@
         "ty": "CH",
         "vi": 848301381,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15184,6 +15449,7 @@
         "ty": "CH",
         "vi": 848301415,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15194,6 +15460,7 @@
         "ty": "CH",
         "vi": 848301450,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15204,6 +15471,7 @@
         "ty": "CH",
         "vi": 848301483,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15214,6 +15482,7 @@
         "ty": "CH",
         "vi": 848301575,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15224,6 +15493,7 @@
         "ty": "CH",
         "vi": 848301616,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15234,6 +15504,7 @@
         "ty": "CH",
         "vi": 848301666,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15244,6 +15515,7 @@
         "ty": "CH",
         "vi": 848301710,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15254,6 +15526,7 @@
         "ty": "CH",
         "vi": 848301751,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15264,6 +15537,7 @@
         "ty": "CH",
         "vi": 836502187,
         "c1": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15274,6 +15548,7 @@
         "ty": "CH",
         "vi": 836502253,
         "c1": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15285,6 +15560,7 @@
         "vi": 836502282,
         "c1": "Body Cross",
         "c2": "Switch Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15295,6 +15571,7 @@
         "ty": "CH",
         "vi": 836502305,
         "c1": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15306,6 +15583,7 @@
         "vi": 836502330,
         "c1": "Body Cross",
         "c2": "Switch Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15317,6 +15595,7 @@
         "vi": 836512741,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15328,6 +15607,7 @@
         "vi": 836512811,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15339,6 +15619,7 @@
         "vi": 836512856,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15350,6 +15631,7 @@
         "vi": 836512908,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15361,6 +15643,7 @@
         "vi": 836512972,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15372,6 +15655,7 @@
         "vi": 836513042,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15383,6 +15667,7 @@
         "vi": 836513108,
         "c1": "Foundational Swing",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "L"
     },
     {
@@ -15394,6 +15679,7 @@
         "vi": 836507262,
         "c1": "Body Cross",
         "c2": "EB Swing",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15405,6 +15691,7 @@
         "vi": 836507297,
         "c1": "Body Cross",
         "c2": "EB Swing",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15416,6 +15703,7 @@
         "vi": 836507528,
         "c1": "Body Cross",
         "c2": "EB Swing",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15427,6 +15715,7 @@
         "vi": 836507768,
         "c1": "Leg Cross",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15438,6 +15727,7 @@
         "vi": 836507896,
         "c1": "Leg Cross",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15450,6 +15740,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Leg Swing",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15461,6 +15752,7 @@
         "vi": 836508010,
         "c1": "Leg Cross",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15473,6 +15765,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Leg Swing",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15485,6 +15778,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Switch Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15496,6 +15790,7 @@
         "vi": 836508239,
         "c1": "Leg Cross",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15508,6 +15803,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Leg Swing",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15519,6 +15815,7 @@
         "vi": 836510552,
         "c1": "Leg Cross",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15530,6 +15827,7 @@
         "vi": 836510598,
         "c1": "Leg Cross",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15542,6 +15840,7 @@
         "c1": "Leg Cross",
         "c2": "Body Cross",
         "c3": "Switch Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15552,6 +15851,7 @@
         "ty": "CH",
         "vi": 836510793,
         "c1": "Leg Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15801,6 +16101,7 @@
         "vi": 836496285,
         "c1": "Forwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15812,6 +16113,7 @@
         "vi": 836496314,
         "c1": "Forwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15824,6 +16126,7 @@
         "c1": "Forwards 180",
         "c2": "Mic Release",
         "c3": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15836,6 +16139,7 @@
         "c1": "Forwards 180",
         "c2": "Leg Cross",
         "c3": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15847,6 +16151,7 @@
         "vi": 836496478,
         "c1": "Forwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15858,6 +16163,7 @@
         "vi": 836496134,
         "c1": "Forwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15869,6 +16175,7 @@
         "vi": 836496173,
         "c1": "Forwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15879,6 +16186,7 @@
         "vi": 836496211,
         "c1": "Forwards 180",
         "c2": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15890,6 +16198,7 @@
         "vi": 836496236,
         "c1": "Forwards 180",
         "c2": "Texan Turn",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15902,6 +16211,7 @@
         "c1": "Forwards 180",
         "c2": "Texan Turn",
         "c3": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15914,6 +16224,7 @@
         "c1": "Arm Wrap",
         "c2": "Body Cross",
         "c3": "Switch Cross",
+        "c7": "Beginner Friendly",
         "le": "S"
     },
     {
@@ -15926,6 +16237,7 @@
         "c1": "Arm Wrap",
         "c2": "Leg Cross",
         "c3": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "L"
     },
     {
@@ -15940,6 +16252,7 @@
         "c3": "Leg Cross",
         "c4": "Body Cross",
         "c5": "Forwards 180",
+        "c7": "Beginner Friendly",
         "le": "L"
     },
     {
@@ -15964,6 +16277,7 @@
         "c1": "Arm Wrap",
         "c2": "Mic Release",
         "c3": "Body Cross",
+        "c7": "Beginner Friendly",
         "le": "L"
     },
     {
@@ -15977,6 +16291,7 @@
         "c2": "Mic Release",
         "c3": "Dive in",
         "c4": "Forwards 180",
+        "c7": "Beginner Friendly",
         "le": "L"
     },
     {
