@@ -3684,6 +3684,18 @@
         "p1": "Front Cross"
     },
     {
+        "na": "Switch Cross (consutively)",
+        "ax": "C63a",
+        "sk": "> Corss > Cross <OS> > Cross <OS> >",
+        "no": "C, -C, -C,",
+        "ty": "V",
+        "as": "C63",
+        "vi": 836607456,
+        "c1": "Switch Cross",
+        "c2": "Body Cross",
+        "p1": "Front Cross"
+    },
+    {
         "na": "Switch EB",
         "ax": "C64",
         "sk": "> Swing > EB > EB <OS> >",
