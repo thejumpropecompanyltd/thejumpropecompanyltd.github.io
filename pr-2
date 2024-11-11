@@ -410,11 +410,85 @@
         ]
     },
     { 
+        "na": "Cross",
+        "as": "C1",
+        "s1": [
+            {
+                "id": "836607338",
+                "tt": "Start with a toe catch. Cross arms evenly on your hips."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836606827",
+                "tt": "Next, jump the rope after you cross your arms and then toe catch."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836606885",
+                "tt": "Repeat Step 2, but open your arms after the rope passes overhead."
+            }
+        ],
+        "s4": [
+            {
+                "id": "832778321",
+                "tt": "Finally, add the jump at the end to complete your Cross."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836606984",
+                "tt": "Practice changing speed during the skill to master your rope control."
+            }
+        ]
+    },
+    { 
+        "na": "Switch Cross",
+        "as": "C63",
+        "s1": [
+            {
+                "id": "836607244",
+                "tt": "This skill involves Crosses on both sides. Make sure you can do them individually first."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836606932",
+                "tt": "Try two Crosses without a jump in between, ending in a toe catch."
+            }
+        ],
+        "s3": [
+            {
+                "id": "832782502",
+                "tt": "Repeat Step 2, but without the toe catch."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836607059",
+                "tt": "Practice changing speed during the consecutive Crosses to maximise your rope control."
+            }
+        ],
+        "s5": [
+            {
+                "id": "833058341",
+                "tt": "Put it all together and do a Switch Cross."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836607456",
+                "tt": "Avoid imlabances between your arm by drilling both sides back-to-back."
+            }
+        ]
+    },
+    { 
         "na": "TEMPLATE",
         "as": "X1",
         "s1": [
             {
-                "id": "123456789",
+                "id": "836607059",
                 "tt": "You can exit a Leg Over many ways. Try swinging out into a Cross instead."
             }
         ],
