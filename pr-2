@@ -1,0 +1,429 @@
+[
+    { 
+        "na": "Single Bounce",
+        "as": "F1",
+        "s1": [
+            {
+                "id": "836593810",
+                "tt": "Start by swinging the rope over your head, back and forth. Be gentle."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836594503",
+                "tt": "Bring the rope over your head and let it stop under your feet by lifting your toes."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836594544",
+                "tt": "To swing efficiently, use your elbows to shake your wrists. Practice without the rope first."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836593778",
+                "tt": "Swing the rope beside you. Draw a small circle so the rope moves in a vertical line next to you."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836593533",
+                "tt": "Jump on the balls over your feet with your heels off the ground. Keep a slight bend in your knees."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836593419",
+                "tt": "Start with one jump then a toe catch. Then two jumps and a Toe Catch. Then three, then four and so on."
+            }
+        ]
+    },
+    { 
+        "na": "Can Can",
+        "as": "F24",
+        "s1": [
+            {
+                "id": "836601970",
+                "tt": "The first half of this skill is a Knee Raise, so make sure you can do this first."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836602081",
+                "tt": "The second half of this skill is a Leg Raise. Make sure you can also do this."
+            }
+        ],
+        "s3": [
+            {
+                "id": "CS",
+                "tt": "Put it all together with one jump in between each skill. Try it first without the rope."
+            }
+        ],
+        "s4": [
+            {
+                "id": "833089924",
+                "tt": "Finally, add the rope!"
+            }
+        ]
+    },
+    { 
+        "na": "High Knee Cross Over",
+        "as": "F25",
+        "s1": [
+            {
+                "id": "833073458",
+                "tt": "Steps 1 & 3 of this skill are a Knee Raise, so make sure you can do these first."
+            }
+            ],
+        "s2": [
+            {
+                "id": "836601590",
+                "tt": "The second (middle) step of this skill is a Cross Over. Make sure you can also do this."
+            }
+            ],
+        "s3": [
+            {
+                "id": "CS",
+                "tt": "Now, put it all together without any Single Bounces in between the skills. Try it first without the rope."
+            }
+            ],
+        "s4": [
+            {
+                "id": "833095439",
+                "tt": "Finally, add the rope!"
+            }
+        ]
+    },
+    { 
+        "na": "High Knee Side Straddle",
+        "as": "F26",
+        "s1": [
+            {
+                "id": "836601970",
+                "tt": "The first half of this skill is a Knee Raise, so make sure you can do this first."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836596178",
+                "tt": "The second half of this skill is a Side Straddle. Make sure you can also do this."
+            }
+        ],
+        "s3": [
+            {
+                "id": "CS",
+                "tt": "Put it all together without a Single Bounce in between the skills. Try it first without the rope."
+            }
+        ],
+        "s4": [
+            {
+                "id": "833076954",
+                "tt": "Finally, add the rope!"
+            }
+        ]
+    },
+    { 
+        "na": "Running Man Shuffle",
+        "as": "F28",
+        "s1": [
+            {
+                "id": "836601970",
+                "tt": "The first half of this skill is a Knee Raise, so make sure you can do this first."
+            }
+        ],
+        "s2": [
+            {
+                "id": "833065486",
+                "tt": "The second half of this skill is a Foward Straddle. Make sure you can also do this."
+            }
+        ],
+        "s3": [
+            {
+                "id": "833095549",
+                "tt": "Shuffling involves both sides, so next practise the Knee Raise alternating with a jump in between"
+            }
+        ],
+        "s4": [
+            {
+                "id": "833065465",
+                "tt": "Next, practice the Forward Straddle on both sides with a jump in between."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836603326",
+                "tt": "Put it all together. The lifted knee always goes in front of you in the next straddle. Try it first without the rope."
+            }
+        ],
+        "s6": [
+            {
+                "id": "833068718",
+                "tt": "Finally, add the rope!"
+            }
+        ]
+    },
+    { 
+        "na": "Reverse Running Man Shuffle",
+        "as": "F29",
+        "s1": [
+            {
+                "id": "836601970",
+                "tt": "The first half of this skill is a Knee Raise, so make sure you can do this first."
+            }
+        ],
+        "s2": [
+            {
+                "id": "833065486",
+                "tt": "The second half of this skill is a Foward Straddle. Make sure you can also do this."
+            }
+        ],
+        "s3": [
+            {
+                "id": "833095549",
+                "tt": "Shuffling involves both sides, so next practise the Knee Raise alternating with a jump in between"
+            }
+        ],
+        "s4": [
+            {
+                "id": "833065465",
+                "tt": "Next, practice the Forward Straddle on both sides with a jump in between."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836603367",
+                "tt": "Put it all together. The lifted knee always goes behind you in the next straddle. Try it first without the rope."
+            }
+            ],
+        "s6": [
+            {
+                "id": "833068904",
+                "tt": "Finally, add the rope!"
+            }
+        ]
+    },
+    { 
+        "na": "Front to Back Shuffle",
+        "as": "F30",
+        "s1": [
+            {
+                "id": "836601970",
+                "tt": "The first half of this skill is a Knee Raise, so make sure you can do this first."
+            }
+            ],
+        "s2": [
+            {
+                "id": "833065486",
+                "tt": "The second half of this skill is a Foward Straddle. Make sure you can also do this."
+            }
+        ],
+        "s3": [
+            {
+                "id": "833073458",
+                "tt": "For this shuffle variation, practise Knee Raises on the same side with a jump in between."
+            }
+        ],
+        "s4": [
+            {
+                "id": "833065465",
+                "tt": "The Forward Straddles alternate so practice these with a jump in between."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836603428",
+                "tt": "Put it all together. Notice, the same knee is lifted every time. Try it first without the rope."
+            }
+        ],
+        "s6": [
+            {
+                "id": "833068859",
+                "tt": "Finally, add the rope!"
+            }
+        ]
+    },
+    { 
+        "na": "Toad",
+        "as": "C7",
+        "s1": [
+            {
+                "id": "836620804",
+                "tt": "Start with a toe catch. Cross your arms, and put your bottom hand under your opposite leg (left under right)."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836621214",
+                "tt": "Add the first jump into the Toad, then toe catch. Keep your arms crossed and your leg lifted."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836621277",
+                "tt": "Repeat Step 2, but uncross your arms as you toe catch. Don't lower your leg."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836621324",
+                "tt": "Next, try entering and exiting without lowering your leg at any point."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836621384",
+                "tt": "Repeat Step 4, but now try going in & out repeatedly."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836621442",
+                "tt": "Practice changing speed during the skill to master your rope control."
+            }
+        ]
+    },
+    { 
+        "na": "Leg Over",
+        "as": "C10",
+        "s1": [
+            {
+                "id": "836627327",
+                "tt": "Start with a toe catch. Put one hand under the leg of the same side (left under left)."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836627739",
+                "tt": "Add the first jump into the Leg Over, then toe catch. Keep your leg lifted."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836627795",
+                "tt": "Repeat Step 2, but cross your arms as you toe catch. Don't lower your leg."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836627831",
+                "tt": "Next, try entering and exiting, but keep your leg lifted the whole time."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836627895",
+                "tt": "Repeat Step 4, but now try going in & out repeatedly."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836627948",
+                "tt": "Practice changing speed during the skill to master your rope control."
+            }
+        ],
+        "s7": [
+            {
+                "id": "836627117",
+                "tt": "You can exit a Leg Over many ways. Try swinging out into a Cross instead."
+            }
+        ]
+    },
+    { 
+        "na": "Toad Awesome Annie",
+        "as": "S14",
+        "s1": [
+            {
+                "id": "832944926",
+                "tt": "The first half of this skill is a Toad, so make sure you can do this first."
+            }
+        ],
+        "s2": [
+            {
+                "id": "832945940",
+                "tt": "The second half of this skill is a Leg Over, so make sure you can do this too."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836629901",
+                "tt": "Start by entering a Toad and pausing. When the rope reaches the floor, open your top hand then switch legs."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836629994",
+                "tt": "Repeat Step 3, but don't pause. Avoid transition too early."
+            }
+        ],
+        "s5": [
+            {
+                "id": "833255269",
+                "tt": "Finally, exit the Awesome Annie into a Cross."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836630197",
+                "tt": "Try this drill to master the timing of the Toad and Leg Over Awesome Annies."
+            }
+        ]
+    },
+    { 
+        "na": "Leg Over Awesome Annie",
+        "as": "S14",
+        "s1": [
+            {
+                "id": "832945940",
+                "tt": "The first half of this skill is a Leg Over, so make sure you can do this first."
+            }
+        ],
+        "s2": [
+            {
+                "id": "832944926",
+                "tt": "The second half of this skill is a Toad, so make sure you can do this too."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836630056",
+                "tt": "Start by entering a Leg over and pausing. When the rope reaches the floor, cross over your top hand then switch legs."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836630130",
+                "tt": "Repeat Step 3, but don't pause. Avoid transition too early."
+            }
+        ],
+        "s5": [
+            {
+                "id": "833267942",
+                "tt": "Finally, exit the Awesome Annie into an Open."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836630197",
+                "tt": "Try this drill to master the timing of the Leg Over and Toad Awesome Annies."
+            }
+        ]
+    },
+    { 
+        "na": "TEMPLATE",
+        "as": "X1",
+        "s1": [
+            {
+                "id": "123456789",
+                "tt": "You can exit a Leg Over many ways. Try swinging out into a Cross instead."
+            }
+        ],
+        "s2": [
+            {
+                "id": "123456789",
+                "tt": "You can exit a Leg Over many ways. Try swinging out into a Cross instead."
+            }
+        ]
+    }
+    
+    ]
