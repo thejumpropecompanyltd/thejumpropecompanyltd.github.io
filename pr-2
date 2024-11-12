@@ -472,14 +472,20 @@
         ],
         "s5": [
             {
-                "id": "833058341",
-                "tt": "Put it all together and do a Switch Cross."
+                "id": "836607551",
+                "tt": "Repeat Step 2, but try switching your top hand for the second Cross. Go slow, like Step 4."
             }
         ],
         "s6": [
             {
+                "id": "833058341",
+                "tt": "Put it all together and do a Switch Cross."
+            }
+        ],
+        "s7": [
+            {
                 "id": "836607456",
-                "tt": "Avoid imlabances between your arm by drilling both sides back-to-back."
+                "tt": "Avoid imbalances between your arms by drilling both sides back-to-back."
             }
         ]
     },
