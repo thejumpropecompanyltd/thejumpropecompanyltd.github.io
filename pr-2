@@ -490,6 +490,224 @@
         ]
     },
     { 
+        "na": "EB",
+        "as": "C2",
+        "s1": [
+            {
+                "id": "836616527",
+                "tt": "Start with a right Swing. As the rope reaches floor, put your right hand behind your back and end in a toe catch."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836616493",
+                "tt": "Repeat Step 1 until you can consistently toe catch both feet. Keep your hands level on your hips."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836617101",
+                "tt": "Next, repeat Step 1 but jump the rope then stall it behind you. Remove your back hand and bring the rope over your shoulder into a toe catch."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836617159",
+                "tt": "Repeat Step 3, but without pausing the rope."
+            }
+        ],
+        "s5": [
+            {
+                "id": "832786139",
+                "tt": "Put it all together and do an EB to Open."
+            }
+        ],
+        "s6": [
+            {
+                "id": "832786088",
+                "tt": "The EB can also be exited with an EB Swing. It's recommend to unlock EB to Open before learning the EB Swing exit."
+            }
+        ],
+        "s7": [
+            {
+                "id": "836617260",
+                "tt": "Repeat Step 1, but when the rope reaches your feet, uncross your front hand then bring the rope over your head into a toe catch."
+            }
+        ],
+        "s8": [
+            {
+                "id": "836617342",
+                "tt": "Repeat Step 7, but jump the rope once, and then when it reaches your feet, uncross your front hand to swing out into a toe catch."
+            }
+        ],
+        "s9": [
+            {
+                "id": "832786088",
+                "tt": "Put it all together and do an EB with an EB Swing exit."
+            }
+        ]
+    },
+    { 
+        "na": "EB Swing",
+        "as": "S4",
+        "s1": [
+            {
+                "id": "836616527",
+                "tt": "Start with a right Swing. As the rope reaches floor, put your right hand behind your back and end in a toe catch."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836617260",
+                "tt": "Repeat Step 1, but when the rope reaches your feet, uncross your front hand then bring the rope over your head into a toe catch."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836617566",
+                "tt": "Repeat Step 2, but without pausing. Stand still and focus on the timing of your hands. Avoid uncrossing too early."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836617628",
+                "tt": "Put it all together and do an EB Swing. Bound every time the rope passes your feet. Keep your rhythm steady."
+            }
+        ]
+    },
+    { 
+        "na": "Wrist Swing",
+        "as": "S1",
+        "s1": [
+            {
+                "id": "836609760",
+                "tt": "Bring your hands together on your left. Put your right hand on top. Draw a small circle then open your arms."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836609361",
+                "tt": "Repeat Step 1 but without the pause. Avoid lifting up your hand too high as you uncross."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836609260",
+                "tt": "Put it all together and do a Wrist Swing. Stand still and focus on the timing of your hands."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836609403",
+                "tt": "Repeat Step 3, but bound as the rope passes your feet. Keep your rhythm steady."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836609200",
+                "tt": "To master the bounding rhythm, practice consecutive Wrist Swings. Only do one Open in between each Swing."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836609159",
+                "tt": "Avoid imbalances between your arms by drilling both sides back-to-back."
+            }
+        ]
+    },
+    { 
+        "na": "Box Swing to Cross",
+        "as": "S2",
+        "s1": [
+            {
+                "id": "836608165",
+                "tt": "Bring your hands together on your right. Put your left hand between you and your right hand. Draw a small circle then end in a crossed toe catch with your right hand on top."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836609120",
+                "tt": "Repeat Step 1 but without the pause. Scoop with both wrists to keep the rope straight."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836609077",
+                "tt": "Put it all together and do a Box Swing to Cross. Stand still during the swing to focus on the timing of your hands."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836609497",
+                "tt": "Repeat Step 3, but bound as the rope passes your feet. Keep your rhythm steady."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836609448",
+                "tt": "To master the bounding rhythm, practice consecutive Box Swings. Only do one Open in between each reptition."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836609049",
+                "tt": "Repeat Step 5, but remove the Opens. Focus on using the bottom hand to keep the rope straight throughout."
+            }
+        ],
+        "s7": [
+            {
+                "id": "836609049",
+                "tt": "Avoid imbalances between your arms by drilling both sides back-to-back."
+            }
+        ]
+    },
+    { 
+        "na": "Arm Wrap",
+        "as": "W1",
+        "s1": [
+            {
+                "id": "836871389",
+                "tt": "Arm Wraps have 4 counts: Swing, Wrap, Unwrap (the other side) and Cross. Move through each step slowly as demonstrated."
+            }
+        ],
+        "s2": [
+            {
+                "id": "836871479",
+                "tt": "Repeat Step 1, but only pause after the Wrap (count 2). If you wrap on the right, your right hand will be on top in the Cross."
+            }
+        ],
+        "s3": [
+            {
+                "id": "836871541",
+                "tt": "Repeat Step 1, but now remove all the pauses. End with a toe catch."
+            }
+        ],
+        "s4": [
+            {
+                "id": "836871850",
+                "tt": "Put it all together and do an Arm Wrap. Stand still during the swings to focus on the timing of your hands."
+            }
+        ],
+        "s5": [
+            {
+                "id": "836872036",
+                "tt": "Repeat Step 4, but bound as the rope passes your feet. Keep your rhythm steady."
+            }
+        ],
+        "s6": [
+            {
+                "id": "836872014",
+                "tt": "The most common alternative exit is a Wrist Swing to Open. Notice, this changes the total count from 4 to 5."
+            }
+        ],
+        "s7": [
+            {
+                "id": "836871941",
+                "tt": "If you'd like to do the Cross exit with the other hand on top, this requires an extra swing, also changing the total count from 4 to 5."
+            }
+        ]
+    },
+    { 
         "na": "TEMPLATE",
         "as": "X1",
         "s1": [
@@ -504,6 +722,119 @@
                 "tt": "You can exit a Leg Over many ways. Try swinging out into a Cross instead."
             }
         ]
-    }
-    
-    ]
+    },
+    { 
+        "na": "Inverse Toad",
+        "as": "TBC",
+        "s1": [
+            {
+                "id": "TBC",
+                "tt": "Start with a toe catch. Cross your arms, and put your bottom hand under the leg of the same side (left under left)."
+            }
+        ],
+        "s2": [
+            {
+                "id": "TBC",
+                "tt": "Add the first jump into the Inverse Toad, then toe catch. Keep your arms crossed and your leg lifted."
+            }
+        ],
+        "s3": [
+            {
+                "id": "TBC",
+                "tt": "Repeat Step 2, but uncross your arms as you toe catch. Don't lower your leg."
+            }
+        ],
+        "s4": [
+            {
+                "id": "TBC",
+                "tt": "Next, try entering and exiting without lowering your leg at any point."
+            }
+        ],
+        "s5": [
+            {
+                "id": "TBC",
+                "tt": "Repeat Step 4, but now try going in & out repeatedly."
+            }
+        ],
+        "s6": [
+            {
+                "id": "TBC",
+                "tt": "Practice changing speed during the skill to master your rope control."
+            }
+        ]
+    },
+    { 
+        "na": "Elephant",
+        "as": "TBC",
+        "s1": [
+            {
+                "id": "TBC",
+                "tt": "Start with a toe catch. Cross both arms under one leg."
+            }
+        ],
+        "s2": [
+            {
+                "id": "TBC",
+                "tt": "Add the first jump into the Elephant, then toe catch. Keep your arms crossed and your leg lifted."
+            }
+        ],
+        "s3": [
+            {
+                "id": "TBC",
+                "tt": "Repeat Step 2, but uncross your arms as you toe catch. Don't lower your leg."
+            }
+        ],
+        "s4": [
+            {
+                "id": "TBC",
+                "tt": "Next, try entering and exiting without lowering your leg at any point."
+            }
+        ],
+        "s5": [
+            {
+                "id": "TBC",
+                "tt": "Repeat Step 4, but now try going in & out repeatedly."
+            }
+        ],
+        "s6": [
+            {
+                "id": "TBC",
+                "tt": "Practice changing speed during the skill to master your rope control."
+            }
+        ]
+    },
+    { 
+        "na": "Inverse Toad Awesome Annie",
+        "as": "TBC",
+        "s1": [
+            {
+                "id": "TBC",
+                "tt": "The first half of this skill is an Inverse Toad, so make sure you can do this first."
+            }
+        ],
+        "s2": [
+            {
+                "id": "832945940",
+                "tt": "The second half of this skill is a Leg Over, so make sure you can do this too."
+            }
+        ],
+        "s3": [
+            {
+                "id": "TBC",
+                "tt": "Enter an inverse Toad and pause. When the rope reaches the floor, switch legs and which hand is under the leg."
+            }
+        ],
+        "s4": [
+            {
+                "id": "TBC",
+                "tt": "Repeat Step 3, but don't pause. Avoid transition too early."
+            }
+        ],
+        "s5": [
+            {
+                "id": "TBC",
+                "tt": "Finally, exit the Awesome Annie into a Cross."
+            }
+        ]
+    }    
+]
