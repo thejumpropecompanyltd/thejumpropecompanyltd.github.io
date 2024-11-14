@@ -2,7 +2,7 @@
     {
         "ca": "F",
         "sc": "Main",
-        "df": "Footwork is any type of lower body movement which is independent from the jumper’s rope manipulation. Footwork is very good for beginners, as it helps build up your coordination and timing."
+        "df": "Footwork is any type of lower body movement which is independent from the jumper's rope manipulation. Footwork is very good for beginners, as it helps build up your coordination and timing."
     },
     {
         "ca": "F",
@@ -10,39 +10,39 @@
         "df": "Bilateral Footwork are skills where the jumper moves both feet together in unison, either doing the same thing or mirroring each other. This footwork is the easiest to learn and highly recommended for beginners.",
         "bg": "Y",
         "tt": [
-{
-"h": "Ditch the rope",
-"p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
-},
-{
-"h": "Jump low",
-"p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
-},
-{
-"h": "Avoid wandering hands",
-"p": "Keep your hands as close to your hips at all times. When focusing on your feet, it can be easy for your hands to gradually drift out wide. If this happens, the rope's working length will shorten and you'll trip."
-},
-{
-"h": "Find your rhythm",
-"p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
-},
-{
-"h": "Stay in one spot",
-"p": "Try to stay in one spot. Before you do this skill, do several Single Bounces in one spot. Treat this as your 'home position'. Regardless of where your feet move to, try to use this 'home position' ad your central jumping spot."
-},
-{
-"h": "Keep it even",
-"p": "Bilateral footwork are skills where the feet move in pairs, either in the same direction or mirroring each other. As you jump, keep your bodyweight evenly distributed over both feet."
-},
-{
-"h": "Do the hokey cokey",
-"p": "Just like the Hokey Cokey, Bilateral Footwork is usually performed in pairs, in & out. This makes it easy to practice to music, which is usually in groups of four beats (in, out, in, out)."
-},
-{
-"h": "Beginner friendly",
-"p": "Bilateral Footwork skills are the easiest to learn, so they're great for beginners! They also teach you all the fundamental movement patterns such as moving your feet into different positions, moving your whole body and twisting too."
-}
-]
+            {
+                "h": "Ditch the rope",
+                "p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
+            },
+            {
+                "h": "Jump low",
+                "p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
+            },
+            {
+                "h": "Avoid wandering hands",
+                "p": "Keep your hands as close to your hips at all times. When focusing on your feet, it can be easy for your hands to gradually drift out wide. If this happens, the rope's working length will shorten and you'll trip."
+            },
+            {
+                "h": "Find your rhythm",
+                "p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
+            },
+            {
+                "h": "Stay in one spot",
+                "p": "Try to stay in one spot. Before you do this skill, do several Single Bounces in one spot. Treat this as your 'home position'. Regardless of where your feet move to, try to use this 'home position' ad your central jumping spot."
+            },
+            {
+                "h": "Keep it even",
+                "p": "Bilateral footwork are skills where the feet move in pairs, either in the same direction or mirroring each other. As you jump, keep your bodyweight evenly distributed over both feet."
+            },
+            {
+                "h": "Do the hokey cokey",
+                "p": "Just like the Hokey Cokey, Bilateral Footwork is usually performed in pairs, in & out. This makes it easy to practice to music, which is usually in groups of four beats (in, out, in, out)."
+            },
+            {
+                "h": "Beginner friendly",
+                "p": "Bilateral Footwork skills are the easiest to learn, so they're great for beginners! They also teach you all the fundamental movement patterns such as moving your feet into different positions, moving your whole body and twisting too."
+            }
+        ]
     },
     {
         "ca": "F",
@@ -50,39 +50,39 @@
         "df": "Unilateral Footwork are skills where the jumper one foot moves horizontally or vertically, whilst the other stays under the jumper's body. Unilateral Footwoork is harder than Bilateral Footwork because it requires more leg strength and good balance to perform cleanly.",
         "bg": "Y",
         "tt": [
-{
-"h": "Ditch the rope",
-"p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
-},
-{
-"h": "Jump low",
-"p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
-},
-{
-"h": "Avoid wandering hands",
-"p": "Keep your hands as close to your hips at all times. Unilateral Footwork will test your balance, which may encourage your hands to drift away from your hips to help you. To combat this be mindful and keep your bodyweight directly over your non-moving foot."
-},
-{
-"h": "Balance better",
-"p": "Unilateral footwork are skills where you only move one foot, while the other stays under your body as you jump on it. Keep your full bodyweight over this feet."
-},
-{
-"h": "Find your rhythm",
-"p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
-},
-{
-"h": "Stay in one spot",
-"p": "Unilateral footwork are skills where you only move one foot, while the other stays under your body as you jump on it. This foot should stay in one spot at all times."
-},
-{
-"h": "Do the hokey cokey",
-"p": "Just like the Hokey Cokey, Bilateral Footwork is usually performed in pairs, in & out. This makes it easy to practice to music, which is usually in groups of four beats (in, out, in, out)."
-},
-{
-"h": "Protect your shins",
-"p": "Unilateral skills require a lot more leg strength to do confidently. Be careful not to overdo it when first learning them. However, the increased leg strength they'll give you will prove benefiical so many skill types later on inluding Leg Crosses and Double Unders." 
-}
-]
+            {
+                "h": "Ditch the rope",
+                "p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
+            },
+            {
+                "h": "Jump low",
+                "p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
+            },
+            {
+                "h": "Avoid wandering hands",
+                "p": "Keep your hands as close to your hips at all times. Unilateral Footwork will test your balance, which may encourage your hands to drift away from your hips to help you. To combat this be mindful and keep your bodyweight directly over your non-moving foot."
+            },
+            {
+                "h": "Balance better",
+                "p": "Unilateral footwork are skills where you only move one foot, while the other stays under your body as you jump on it. Keep your full bodyweight over this feet."
+            },
+            {
+                "h": "Find your rhythm",
+                "p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
+            },
+            {
+                "h": "Stay in one spot",
+                "p": "Unilateral footwork are skills where you only move one foot, while the other stays under your body as you jump on it. This foot should stay in one spot at all times."
+            },
+            {
+                "h": "Do the hokey cokey",
+                "p": "Just like the Hokey Cokey, Bilateral Footwork is usually performed in pairs, in & out. This makes it easy to practice to music, which is usually in groups of four beats (in, out, in, out)."
+            },
+            {
+                "h": "Protect your shins",
+                "p": "Unilateral skills require a lot more leg strength to do confidently. Be careful not to overdo it when first learning them. However, the increased leg strength they'll give you will prove benefiical so many skill types later on inluding Leg Crosses and Double Unders." 
+            }
+        ]
     },
     {
         "ca": "F",
@@ -90,35 +90,35 @@
         "df": "Compound Footwork are skills where the jumper moves their feet independently from one another in a combination of unilateral and bilateral positions, such as the Running Man Shuffle. These are the hardest footwork skills to learn since they require the most coordination to perform cleanly.",
         "pr": "Bilateral Footwork, Unilateral Footwork",
         "tt": [
-{
-"h": "Ditch the rope",
-"p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
-},
-{
-"h": "Jump low",
-"p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
-},
-{
-"h": "Find your rhythm",
-"p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
-},
-{
-"h": "Stay in one spot",
-"p": "Compound footwork are skills where you alternate between jumping on both feet and only one. Keep your torso in one spot so the different footwork positions are distinct."
-},
-{
-"h": "Break it down",
-"p": "Compound footwork are skills where you alternate between jumping on both feet and only one. Start by breaking the footwork into its individual pieces to make sure you're comfortable before putting them together"
-},
-{
-"h": "Master your basics",
-"p": "Compound footwork is a combination of Bilateral & Unilateral Footwork. If you struggle with this skill, it's recommended that go back and practice those separately first."
-},
-{
-"h": "Shift, don't bounce",
-"p": "Compound Footwork skills involve constantly switching between jumping on one leg and two. This means you'll be required to shift your bodyweight between your feet, rather than bouncing from foot to foot/feet. Stay light on your feet as youn do these skills."
-}
-]
+            {
+                "h": "Ditch the rope",
+                "p": "Don't run before you can walk. Put the rope aside and practice the footwork movements on their own until you're comfortable."
+            },
+            {
+                "h": "Jump low",
+                "p": "Keep your bounding low to the ground. This will not only save your shins from pain, but also make your footwork look much smoother."
+            },
+            {
+                "h": "Find your rhythm",
+                "p": "Use music or a metronome to improve your rhythm so all your footwork transitions are smooth and even. 120bpm is a good starting point, but find one that works for you."
+            },
+            {
+                "h": "Stay in one spot",
+                "p": "Compound footwork are skills where you alternate between jumping on both feet and only one. Keep your torso in one spot so the different footwork positions are distinct."
+            },
+            {
+                "h": "Break it down",
+                "p": "Compound footwork are skills where you alternate between jumping on both feet and only one. Start by breaking the footwork into its individual pieces to make sure you're comfortable before putting them together"
+            },
+            {
+                "h": "Master your basics",
+                "p": "Compound footwork is a combination of Bilateral & Unilateral Footwork. If you struggle with this skill, it's recommended that go back and practice those separately first."
+            },
+            {
+                "h": "Shift, don't bounce",
+                "p": "Compound Footwork skills involve constantly switching between jumping on one leg and two. This means you'll be required to shift your bodyweight between your feet, rather than bouncing from foot to foot/feet. Stay light on your feet as youn do these skills."
+            }
+        ]
     },
     {
         "ca": "C",
@@ -131,133 +131,133 @@
         "df": "Body Crosses are skills where the jumper crosses both hands around their upper body, such as the basic Cross and the EB. These crosses are the easiest to learn and recommended for beginners.",
         "bg": "Y",
         "tt": [
-{ 
-"h": "Hands on hips",
-"p": "Keep both hands at hip-level at all times. You can check your form with a toe catch in this skill. If the loop of the rope can reach both feet, your hands are low enough on your torso."
-},
-{
-"h": "Scoop both wrists",
-"p": "Scoop both wrists evenly during the skill. If you use one wrist more than the other it can cause the rope to move around your diagonally, which will you trip you up."
-},
-{ 
-"h": "Reach past your shoudlers",
-"p": "Ensure you reach fully past your shoulders, so that the loop of the rope can travel around you without touching your body."
-},
-{ 
-"h": "Beginner friendly",
-"p": "There are three foundational Body Crosses - the basic Cross, the EB and the TS. These three are great for beginners because they're easy to learn and they teach you the core movement patterns for all other crossing skills."
-},
-{ 
-"h": "Chest up, head forward",
-"p": "Keep your chest up and head looking forward as you do this skill."
-},
-{ 
-"h": "Relax your shoulders",
-"p": "Keep your shoulders relaxed and low so your hands can stay on your hips as they reach around your hips. If you're too tense, you'll struggle to reach properly."
-},
-{ 
-"h": "Jump on two feet",
-"p": "When first learning this skill, it's important to jump on both feet at all times. If this causes you to trip (and you find jumping on foot helps) then this is a strong indicator that you're not reaching far enough."
-}
-]
+            { 
+                "h": "Hands on hips",
+                "p": "Keep both hands at hip-level at all times. You can check your form with a toe catch in this skill. If the loop of the rope can reach both feet, your hands are low enough on your torso."
+            },
+            {
+                "h": "Scoop both wrists",
+                "p": "Scoop both wrists evenly during the skill. If you use one wrist more than the other it can cause the rope to move around your diagonally, which will you trip you up."
+            },
+            { 
+                "h": "Reach past your shoudlers",
+                "p": "Ensure you reach fully past your shoulders, so that the loop of the rope can travel around you without touching your body."
+            },
+            { 
+                "h": "Beginner friendly",
+                "p": "There are three foundational Body Crosses - the basic Cross, the EB and the TS. These three are great for beginners because they're easy to learn and they teach you the core movement patterns for all other crossing skills."
+            },
+            { 
+                "h": "Chest up, head forward",
+                "p": "Keep your chest up and head looking forward as you do this skill."
+            },
+            { 
+                "h": "Relax your shoulders",
+                "p": "Keep your shoulders relaxed and low so your hands can stay on your hips as they reach around your hips. If you're too tense, you'll struggle to reach properly."
+            },
+            { 
+                "h": "Jump on two feet",
+                "p": "When first learning this skill, it's important to jump on both feet at all times. If this causes you to trip (and you find jumping on foot helps) then this is a strong indicator that you're not reaching far enough."
+            }
+        ]
     },
     {
         "ca": "C",
         "sc": "Leg Crosses",
         "df": "Leg Crosses are skills where the jumper crosses one or both hands under one of their legs, such as the Toad and Leg Over. They require good balance and leg strength to perform cleanly.",
         "tt": [
-                {
+            {
                 "h": "lift your leg",
                 "p": "Lift your leg up as high as you can. Ensure your knee is at hip height and your thigh is parallel with the ground."
-                },
-                {
+            },
+            {
                 "h": "pull back to exit",
                 "p": "When exiting this skill, reach to the back of the room rather than reaching outward to the sides. This will keep the rope's loop narrow and prevent it speeding up unexpectedly."
-                },
-                {
+            },
+            {
                 "h": "land on two feet",
                 "p": "When you exit this skill, land evenly on both feet together rather than on only one leg. Returning to our most neutral body position is critical for preparing you for whatever skill you want to do next."
-                },
-                {
+            },
+            {
                 "h": "keep your chest up",
                 "p": "Keep your chest up as much as possible. Lean back slightly and keep your bodyweight over the single leg you're jumping on. This will give you more power in your jumping leg."
-                },
-                {
+            },
+            {
                 "h": "reach all the way",
                 "p": "Your restricted hand should be reaching all the way under your leg. Imagine you need to wave at someone from under your leg; they should to be able to see your whole hand. This will prevent the rope brushing your shoulders as it passes around you."
-                },
-                {
+            },
+            {
                 "h": "avoid hunching over",
                 "p": "Avoid rounding your shoulders and hunching forwards. Doing so will make it harder to jump the rope and exit the skill by reducing the power in your jumping leg."
-                },
-                {
+            },
+            {
                 "h": "avoid galloping the exit",
                 "p": "Avoid switching to your front foot as you exit. Jump on your back leg instead of kicking it behind you as you exit the skill."
-                },
-                {
+            },
+            {
                 "h": "avoid swinging out",
                 "p": "Swinging out can be a good transition into other skills, but avoid doing it as your default exit when performing this skill standalone."
-                }
-             ]
+            }
+        ]
     },
     {
         "ca": "C",
         "sc": "Ground Crosses",
         "df": "Ground Crosses are skills where the jumper crosses one or both hands around their lower legs. This usually requires them to squat down to the ground such as with the Caboose, hence their name. They are easiest to learn if performed with a Ground Stall at the beginning.",
         "tt": [
-{
-"h": "The Ground Stall",
-"p": "Ground Crosses feel very different other types of foundational crossing skills. To make them easier to complete, set up with a Ground Stall. After your last Open, hunch forward and place the rope on the floor in front of you in a bell-shape. The rope should come to a complete stop. Then. you're ready to enter the Ground Cross by sweeping the rope under your feet."
-},
-{
-"h": "Sandwich skills. Yum!",
-"p": "Ground Crosses are the first example (for many jumpers) of sandwich skills. Sandwich skills are skills which take more than two jumps (from start to finish). In this case, it's usually three jumps."
-},
-{
-"h": "Knees to chest",
-"p": "To be able to reach full in this skill, make sure your bent over as far as you can - your knees should touch your chest. In this position, you should then be able to reach fully around your knees."
-},
-{
-"h": "head down, hips up",
-"p": "This skill requires a farily awkward body position. Hunch over with your knee bents and get your chest as low as you can. In this position, your hips will be above your head. You will be looking directly at the floor 15cm in front of your toes. Stay in this position throughout the skill."
-},
-{
-"h": "sweep the rope",
-"p": "Because you're so close to the ground, more of the rope will contact the floor. This will make it harder to turn the rope. To overcome this, sweep the rope under your feet by pulling it towards the back of the room."
-},
-{
-"h": "On the ground",
-"p": "Ground Crosses are exactly as they sound, on the ground. One or both hands will cross around your knees. "
-},
-{
-"h": "Avoid uncrossing early",
-"p": "After jumping the loop of the rope, avoid uncrossing to early. This will cause you to trip immediately. This can also be casued by trying to standing back up too soon, meaning you can't reach fully."
-},
-{
-"h": "Avoid slamming the rope",
-"p": "Doing this skill at speed can be tough. Avoid slamming the rope down, otherwise it'll bounce up and become even harder to control. If doing it at speed or from another skill, reach our slightly wider than shoulder-width as you hunch over. Then pull the rope under your feet before it reaches the floor."
-}
-]
+            {
+                "h": "The Ground Stall",
+                "p": "Ground Crosses feel very different other types of foundational crossing skills. To make them easier to complete, set up with a Ground Stall. After your last Open, hunch forward and place the rope on the floor in front of you in a bell-shape. The rope should come to a complete stop. Then. you're ready to enter the Ground Cross by sweeping the rope under your feet."
+            },
+            {
+                "h": "Sandwich skills. Yum!",
+                "p": "Ground Crosses are the first example (for many jumpers) of sandwich skills. Sandwich skills are skills which take more than two jumps (from start to finish). In this case, it's usually three jumps."
+            },
+            {
+                "h": "Knees to chest",
+                "p": "To be able to reach full in this skill, make sure your bent over as far as you can - your knees should touch your chest. In this position, you should then be able to reach fully around your knees."
+            },
+            {
+                "h": "head down, hips up",
+                "p": "This skill requires a farily awkward body position. Hunch over with your knee bents and get your chest as low as you can. In this position, your hips will be above your head. You will be looking directly at the floor 15cm in front of your toes. Stay in this position throughout the skill."
+            },
+            {
+                "h": "sweep the rope",
+                "p": "Because you're so close to the ground, more of the rope will contact the floor. This will make it harder to turn the rope. To overcome this, sweep the rope under your feet by pulling it towards the back of the room."
+            },
+            {
+                "h": "On the ground",
+                "p": "Ground Crosses are exactly as they sound, on the ground. One or both hands will cross around your knees. "
+            },
+            {
+                "h": "Avoid uncrossing early",
+                "p": "After jumping the loop of the rope, avoid uncrossing to early. This will cause you to trip immediately. This can also be casued by trying to standing back up too soon, meaning you can't reach fully."
+            },
+            {
+                "h": "Avoid slamming the rope",
+                "p": "Doing this skill at speed can be tough. Avoid slamming the rope down, otherwise it'll bounce up and become even harder to control. If doing it at speed or from another skill, reach our slightly wider than shoulder-width as you hunch over. Then pull the rope under your feet before it reaches the floor."
+            }
+        ]
     },
     {
         "ca": "C",
         "sc": "Tucked Crosses",
-        "df": "Tucked Crosses are skills where the jumper performs a normal Body, Leg or Ground Cross, but with the top hand tucked under the other hand. For example, in a T-Toad, the jumper tucks the hand that's usually above their leg (top hand) underneath the hand that’s crossing under their leg, effectively trapping the ‘top’ hand.",
+        "df": "Tucked Crosses are skills where the jumper performs a normal Body, Leg or Ground Cross, but with the top hand tucked under the other hand. For example, in a T-Toad, the jumper tucks the hand that's usually above their leg (top hand) underneath the hand that's crossing under their leg, effectively trapping the 'top' hand.",
         "pr": "Leg Crosses",
         "tt": [
-{
-"h": "4-count skill",
-"p": "The basic structure of this skill involes four counts. The swing in, the Tucked Cross itself, the swing out, and finally the exit skill. Make sure you're comfortable with this structure before experimenting with other ways to do this skill."
-},
-{
-"h": "Focus on the scoop",
-"p": "Because your hands are more restricted than normal, you need to put extra effort into scooping to ensure the rope has enough momentum to move around you."
-},
-{
-"h": "Start without the rope",
-"p": "To better understand how Tucked Crosses work, put down the rope. Cross your arms into the normal position of a Toad (for example). Next, take your hand which is not reaching under your leg (your 'top' hand) and tuck it underneath your other hand so it's on the bottom now (but still across your hips as before). This is how all Tucked Crosses differ from their foundational counterpart."
-}
-]
+            {
+                "h": "4-count skill",
+                "p": "The basic structure of this skill involes four counts. The swing in, the Tucked Cross itself, the swing out, and finally the exit skill. Make sure you're comfortable with this structure before experimenting with other ways to do this skill."
+            },
+            {
+                "h": "Focus on the scoop",
+                "p": "Because your hands are more restricted than normal, you need to put extra effort into scooping to ensure the rope has enough momentum to move around you."
+            },
+            {
+                "h": "Start without the rope",
+                "p": "To better understand how Tucked Crosses work, put down the rope. Cross your arms into the normal position of a Toad (for example). Next, take your hand which is not reaching under your leg (your 'top' hand) and tuck it underneath your other hand so it's on the bottom now (but still across your hips as before). This is how all Tucked Crosses differ from their foundational counterpart."
+            }
+        ]
     },
     {
         "ca": "C",
@@ -265,55 +265,50 @@
         "df": "Gogo Crosses are skills where the jumper crosses one of their hands around their body twice. Imagine your left hand crossing under your leg from left to right, then reaching back around the front of your leg from right to left - the hand goes one way then it goes the other way - it 'go-gos'.",
         "pr": "Leg Crosses, Gogo Swings",
         "tt": [
-{
-"h": "Understanding 'Go-go'",
-"p": "A Gogo is a type of where one of your hands crosses aroudn your body twice. where To better understand what a Gogo is, lift up your left leg. Reach under your leg with your left hand. You'll be reaching from the left to the right. Then, reach around the front of your left shin from the right to the left. This is one the easiest Gogo hand positions to reach into. And there are many more!"
-},
-{
-"h": "Swing into it",
-"p": "After first, you may stuggle enter Gogo Crosses directly. Try swinging into position with two swings - a Leg Swing then a Gogo Swing. This will help you build up confidence generating the momentum you need to perform a Gogo Cross."
-},
-{
-"h": "Opposites attract",
-"p": "The basic entrance for any Gogo Cross is a Body, Leg or Ground. Whichever you do, pay attention to whether your arms are uncrossed (like a Leg Over) or crossed (like aToad). The Gogo for that skill will always be the opposite to it."
-},
-{
-"h": "Try long handles",
-"p": "Gogo Crosses can be hard to reach into if you have more mobility in your hips. If you do, then grab a pair of long handles to assist. Even the most mobile jumper will struggle to reach with short handles in more advanced Gogo Crosses!"
-}
-]
+            {
+                "h": "Understanding 'Go-go'",
+                "p": "A Gogo is a type of where one of your hands crosses aroudn your body twice. where To better understand what a Gogo is, lift up your left leg. Reach under your leg with your left hand. You'll be reaching from the left to the right. Then, reach around the front of your left shin from the right to the left. This is one the easiest Gogo hand positions to reach into. And there are many more!"
+            },
+            {
+                "h": "Swing into it",
+                "p": "After first, you may stuggle enter Gogo Crosses directly. Try swinging into position with two swings - a Leg Swing then a Gogo Swing. This will help you build up confidence generating the momentum you need to perform a Gogo Cross."
+            },
+            {
+                "h": "Opposites attract",
+                "p": "The basic entrance for any Gogo Cross is a Body, Leg or Ground. Whichever you do, pay attention to whether your arms are uncrossed (like a Leg Over) or crossed (like aToad). The Gogo for that skill will always be the opposite to it."
+            },
+            {
+                "h": "Try long handles",
+                "p": "Gogo Crosses can be hard to reach into if you have more mobility in your hips. If you do, then grab a pair of long handles to assist. Even the most mobile jumper will struggle to reach with short handles in more advanced Gogo Crosses!"
+            }
+        ]
     },
     {
         "ca": "C",
         "sc": "Knot Crosses",
-        "df": "Knot Crosses are skills where the jumper performs a normal Body, Leg or Ground cross except that the most restricted hand crosses above the least restricted hand from within the original restriction. For example, in an EB Knot the hand which is behind the jumper’s back reaches forward (from behind their back) and crosses over and in front of their other arm.",
+        "df": "Knot Crosses are skills where the jumper performs a normal Body, Leg or Ground cross except that the most restricted hand crosses above the least restricted hand from within the original restriction. For example, in an EB Knot the hand which is behind the jumper's back reaches forward (from behind their back) and crosses over and in front of their other arm.",
         "pr": "Body Crosses, Leg Crosses",
         "tt": [
-{
-"h": "Try long handles",
-"p": "Knot Crosses can be really hard to reach into. If you need some extra help, then grab a pair of long handles to assist. Even the most flexible jumper will struggle to reach with short handles in more advanced Knot Crosses!"
-},
-{
-"h": "Reach all the way",
-"p": "Ensure you reach as far as you can around each body part to allow the rope to pass aroudn your body without interruption."
-},
-{
-"h": "Entering right",
-"p": "The basic entreance for any Knot is from its parent skill, the Gogo. However, this in itself can be really tricky. An alternative method is to use a modified side swing to enter."
-}
-]
+            {
+                "h": "Try long handles",
+                "p": "Knot Crosses can be really hard to reach into. If you need some extra help, then grab a pair of long handles to assist. Even the most flexible jumper will struggle to reach with short handles in more advanced Knot Crosses!"
+            },
+            {
+                "h": "Reach all the way",
+                "p": "Ensure you reach as far as you can around each body part to allow the rope to pass aroudn your body without interruption."
+            },
+            {
+                "h": "Entering right",
+                "p": "The basic entreance for any Knot is from its parent skill, the Gogo. However, this in itself can be really tricky. An alternative method is to use a modified side swing to enter."
+            }
+        ]
     },
     {
         "ca": "C",
         "sc": "Inverse Bounding",
-        "df": "Inverse Bounding are skills where the jumper peforms a Leg Cross, except the way they 'jump' is non-standard. This can mean jumping on the 'opposite' leg or both at the same time. Inverse Bounding is useful for adapting skills to better suit othher aspects of a sequence’s choreography, such as Leg Cross in Double Unders.",
+        "df": "Inverse Bounding are skills where the jumper peforms a Leg Cross, except the way they 'jump' is non-standard. This can mean jumping on the 'opposite' leg or both at the same time. Inverse Bounding is useful for adapting skills to better suit othher aspects of a sequence's choreography, such as Leg Cross in Double Unders.",
         "pr": "Leg Crosses",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "C",
@@ -321,23 +316,23 @@
         "df": "A Switch Cross is a transition between any two crosses where the most restricted hand changes without an Open in between the two crosses. The most common of these is the basic Switch Cross itself, however a jumper can switch between any two skills, such as a left and right Toad, or from a left Cross and a right Toad. All \"perfect\" Switch Crosses where the switch occurs between two identical skills can be found here. All other 'combinations' can be found in the 'Combos This Appears In' section of the skills' dedicated page.",
         "pr": "Body Crosses, Leg Crosses, Ground Crosses",
         "tt": [
-{ 
-"h": "Timing is key",
-"p": "To complete the switch with ease, imagine a clock (12 o'clock above you and 6 o'clock undeneath you). After jumping the first cross, wait until the rope passes 12 o'oclock, then being uncrossing your arms. Then, make sure you've re-crossed them before the rope reaches 3 o'clock in front of you."
-},
-{ 
-"h": "Don't swipe",
-"p": "Avoid swiping your hands from side to side (as if wiping a tabletop) as your switch from cross to cross. Instead, as you switch, lift your hands up to chest height and open up your arms just enough for your hands to uncross. Then re-cross and lower your hands again."
-},
-{ 
-"h": "End with a deep reach",
-"p": "Switches can mess with the momentum of the rope. To make it as smooth as possible, scoop down and back as much as you can as you jump the second cross."
-},
-{ 
-"h": "Remember the law",
-"p": "Switch crosses can highlight imbalances. A great way to master switches crosses is to ensure you are really comfortable with each skill on both sides separately first. Finally, practice the switch both ways too (left to right and vice versa)."
-}
-]
+            { 
+                "h": "Timing is key",
+                "p": "To complete the switch with ease, imagine a clock (12 o'clock above you and 6 o'clock undeneath you). After jumping the first cross, wait until the rope passes 12 o'oclock, then being uncrossing your arms. Then, make sure you've re-crossed them before the rope reaches 3 o'clock in front of you."
+            },
+            { 
+                "h": "Don't swipe",
+                "p": "Avoid swiping your hands from side to side (as if wiping a tabletop) as your switch from cross to cross. Instead, as you switch, lift your hands up to chest height and open up your arms just enough for your hands to uncross. Then re-cross and lower your hands again."
+            },
+            { 
+                "h": "End with a deep reach",
+                "p": "Switches can mess with the momentum of the rope. To make it as smooth as possible, scoop down and back as much as you can as you jump the second cross."
+            },
+            { 
+                "h": "Remember the law",
+                "p": "Switch crosses can highlight imbalances. A great way to master switches crosses is to ensure you are really comfortable with each skill on both sides separately first. Finally, practice the switch both ways too (left to right and vice versa)."
+            }
+        ]
     },
     {
         "ca": "C",
@@ -346,127 +341,127 @@
         "rd": "Y",
         "pr": "Leg Crosses",
         "tt": [
-{
-"h": "Crouch down",
-"p": "Crouch down slightly to help you reach under your leg for this skill. Place your legs at shoulder-width distance so and bend your knees slightly."
-},
-{
-"h": "Step through, literally",
-"p": "Step-Throughs are usually modified Leg Crosses. How they differ is that we step over the loop of the rope rather than jump over it. Do to this, plant the foot you would normally lift up and step through the rope with the foot you would've jumped over it with. After the loop has passed around and overhead, shift your bodyweight onto the leg you stepped through with, and lift up the leg which would normally be lifted."
-},
-{
-"h": "Swing out",
-"p": "Usually, Step-Through skills are exited with a swing on the opposite side of the body. Imagine a clock - wait for the rope to pass overhead and, as the rope it approaches 3 o'clock, lift your planted leg and begin swinging out. Swing the rope as vertically as possible and stand back up straight to finish."
-},
-{
-"h": "Rest Day Friendly",
-"p": "Since these skills require no jumping whatsoever, they're a great choice for active rest days, or if you have an injury which prevents you from jumping."
-},
-{
-"h": "Avoid Touching The Rope",
-"p": "Because of the hunched-over body position, it can be easy for the rope to touch your leg as it passes around in this skill. Avoid the rope touching your body, otherwise it will disrupt the flow of the rope. Reach under your leg as far as possible."
-},
-{
-"h": "The Unrestricted Hand",
-"p": "Because of the hunched-over body position, the rope may move around you slightly diagonally. This is okay, but it's important that your unrestricted hand isn't not lifted up too high away from your hips. It's also crucial your unrestricted hand does not pass overhead."
-}
-]
+            {
+                "h": "Crouch down",
+                "p": "Crouch down slightly to help you reach under your leg for this skill. Place your legs at shoulder-width distance so and bend your knees slightly."
+            },
+            {
+                "h": "Step through, literally",
+                "p": "Step-Throughs are usually modified Leg Crosses. How they differ is that we step over the loop of the rope rather than jump over it. Do to this, plant the foot you would normally lift up and step through the rope with the foot you would've jumped over it with. After the loop has passed around and overhead, shift your bodyweight onto the leg you stepped through with, and lift up the leg which would normally be lifted."
+            },
+            {
+                "h": "Swing out",
+                "p": "Usually, Step-Through skills are exited with a swing on the opposite side of the body. Imagine a clock - wait for the rope to pass overhead and, as the rope it approaches 3 o'clock, lift your planted leg and begin swinging out. Swing the rope as vertically as possible and stand back up straight to finish."
+            },
+            {
+                "h": "Rest Day Friendly",
+                "p": "Since these skills require no jumping whatsoever, they're a great choice for active rest days, or if you have an injury which prevents you from jumping."
+            },
+            {
+                "h": "Avoid Touching The Rope",
+                "p": "Because of the hunched-over body position, it can be easy for the rope to touch your leg as it passes around in this skill. Avoid the rope touching your body, otherwise it will disrupt the flow of the rope. Reach under your leg as far as possible."
+            },
+            {
+                "h": "The Unrestricted Hand",
+                "p": "Because of the hunched-over body position, the rope may move around you slightly diagonally. This is okay, but it's important that your unrestricted hand isn't not lifted up too high away from your hips. It's also crucial your unrestricted hand does not pass overhead."
+            }
+        ]
     },
     {
         "ca": "S",
         "sc": "Main",
-        "df": "Side Swings are skills where both of the jumper’s hands are on the same side of their body, resulting in the loop of the swinging beside their body. Swings are the connective tissue of jump rope, allowing jumpers to transition between all other skills."
+        "df": "Side Swings are skills where both of the jumper's hands are on the same side of their body, resulting in the loop of the swinging beside their body. Swings are the connective tissue of jump rope, allowing jumpers to transition between all other skills."
     },
     {
         "ca": "S",
         "sc": "Foundational Swings",
-        "df": "Foundational Swings are the first two side swings any beginner will learn: the Wrist Swing and the Box Swing. They’re extremely versatile and the most common swings in sequences. You can learn a lot about how jump rope freestyle works just by mastering your Foundational Swings and their many variations.",
+        "df": "Foundational Swings are the first two side swings any beginner will learn: the Wrist Swing and the Box Swing. They're extremely versatile and the most common swings in sequences. You can learn a lot about how jump rope freestyle works just by mastering your Foundational Swings and their many variations.",
         "bg": "Y",
         "rd": "Y",
         "tt": [
-{
-"h": "Use both wrists",
-"p": "Use both wrists to swing the rope. If you only use your dominant hand, the rope will diagonally and be imbalanced."
-},
-{
-"h": "hands on hips",
-"p": "Keep your hands on your hips at all times. Avoid lifting your leading hand up past elbow-height."
-},
-{
-"h": "Keep it vertical",
-"p": "Ideally, the rope should swing next your body in a vertical line. As you rotate the rope, imagine painting a small circle on a wall next you."
-},
-{
-"h": "Transition at 3 o'clock",
-"p": "Ideally, the rope should swing next your body in a vertical line."
-},
-{
-"h": "Keep it narrow",
-"p": "Your swings should close to you. Imagine you're in a narrow corridor as you do this skill. Avoid hitting the walls either side of you."
-},
-{
-"h": "Point purposefully",
-"p": "During this skill, both handles should point in the same direction, perpendicular to the direction you're facing."
-},
-{
-"h": "Count your jumps",
-"p": "When first learning to swing, it's okay to stand still as you swing the rope next to your body. Once you feel comfortable with this, try jumping on the spot (known as bounding) as you swing. A basic swing will always take at least two jumps - one jump during the swing, and one jump during the exit skill."
-},
-{
-"h": "Keep your feet together",
-"p": "To help you develop your rhythm with swings, keep your feet together at all times. Once you've comfortable with this, you can then experiement with different types of footwork such as Boxer Step or Speed Step for even more of a challenge."
-},
-{
-"h": "Avoid your hands touching",
-"p": "Your swing should be narrow and efficient, but avoid holdin your hands too close together such that they actually touch. If they do touch, the loop of the rope may tangle and make it harder to jump the rope after the swing."
-},
-{
-"h": "Avoid swiping it",
-"p": "Swing, don't swipe. Avoid pulling the rope sideways too hard, as this cause it move diagonally."
-},
-{
-"h": "Test with a toe catch",
-"p": "To ensure you have good form, it's good practice to drill this skill with a toe catch instead of jumps. This help enable you to check you're able to get the loops of the rope under both feet easily. When you're ready, you can then gradually introduce the jumps."
-}
-]
+            {
+                "h": "Use both wrists",
+                "p": "Use both wrists to swing the rope. If you only use your dominant hand, the rope will diagonally and be imbalanced."
+            },
+            {
+                "h": "hands on hips",
+                "p": "Keep your hands on your hips at all times. Avoid lifting your leading hand up past elbow-height."
+            },
+            {
+                "h": "Keep it vertical",
+                "p": "Ideally, the rope should swing next your body in a vertical line. As you rotate the rope, imagine painting a small circle on a wall next you."
+            },
+            {
+                "h": "Transition at 3 o'clock",
+                "p": "Ideally, the rope should swing next your body in a vertical line."
+            },
+            {
+                "h": "Keep it narrow",
+                "p": "Your swings should close to you. Imagine you're in a narrow corridor as you do this skill. Avoid hitting the walls either side of you."
+            },
+            {
+                "h": "Point purposefully",
+                "p": "During this skill, both handles should point in the same direction, perpendicular to the direction you're facing."
+            },
+            {
+                "h": "Count your jumps",
+                "p": "When first learning to swing, it's okay to stand still as you swing the rope next to your body. Once you feel comfortable with this, try jumping on the spot (known as bounding) as you swing. A basic swing will always take at least two jumps - one jump during the swing, and one jump during the exit skill."
+            },
+            {
+                "h": "Keep your feet together",
+                "p": "To help you develop your rhythm with swings, keep your feet together at all times. Once you've comfortable with this, you can then experiement with different types of footwork such as Boxer Step or Speed Step for even more of a challenge."
+            },
+            {
+                "h": "Avoid your hands touching",
+                "p": "Your swing should be narrow and efficient, but avoid holdin your hands too close together such that they actually touch. If they do touch, the loop of the rope may tangle and make it harder to jump the rope after the swing."
+            },
+            {
+                "h": "Avoid swiping it",
+                "p": "Swing, don't swipe. Avoid pulling the rope sideways too hard, as this cause it move diagonally."
+            },
+            {
+                "h": "Test with a toe catch",
+                "p": "To ensure you have good form, it's good practice to drill this skill with a toe catch instead of jumps. This help enable you to check you're able to get the loops of the rope under both feet easily. When you're ready, you can then gradually introduce the jumps."
+            }
+        ]
     },
     {
         "ca": "S",
         "sc": "EB Swings",
-        "df": "EB Swings are swings where one hand is restricted behind the jumper’s back in the “EB” position. They are a great way for beginners to explore swings which lead to more advanced skills such as the EB itself or EB Toad. EB Swings also function as a fun skill unto themselves on active rest days.",
+        "df": "EB Swings are swings where one hand is restricted behind the jumper's back in the “EB” position. They are a great way for beginners to explore swings which lead to more advanced skills such as the EB itself or EB Toad. EB Swings also function as a fun skill unto themselves on active rest days.",
         "bg": "Y",
         "rd": "Y",
         "pr": "Foundational Swings",
         "tt": [
-{
-"h": "Front hand leads",
-"p": "Lead with the front hand to direct the rope. As you do the first swing, bring your hands together in front of you and draw a straight line next your body. Then, put your outside hand behind your back"
-},
-{
-"h": "Two-Step Skills",
-"p": "EB Swing skills, in isolation, generally have two steps. The swing in and the swing out. Once you've mastered the basic movement pattern, you can connect EB Swings in many other ways."
-},
-{
-"h": "Avoid early uncrossing",
-"p": "Avoid uncrossing your back hand too early. Wait until the rope has passed your hips before removing the hand from behind your body."
-},
-{
-"h": "Use both wrists",
-"p": "Use both wrists to generate the rope's momentum. If one wrist becomes frozen, the rope's arc will being moving around your diagonally."
-},
-{
-"h": "Avoid lifting your hands",
-"p": "Keep both hands on your hips at all times. Avoid lifting them up to guide the rope around you. This will interfer with the flow of the rope and make it harder to complete the skill."
-},
-{
-"h": "Connect with it",
-"p": "EB Swings can connect different skills together such as the EB Toad and the basic EB. Try it yourself and build a sequence with one hand 'stuck' behind your back."
-},
-{
-"h": "Rest day friendly",
-"p": "Can't jump, but want to anyway? EB Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
-}
-]
+            {
+                "h": "Front hand leads",
+                "p": "Lead with the front hand to direct the rope. As you do the first swing, bring your hands together in front of you and draw a straight line next your body. Then, put your outside hand behind your back"
+            },
+            {
+                "h": "Two-Step Skills",
+                "p": "EB Swing skills, in isolation, generally have two steps. The swing in and the swing out. Once you've mastered the basic movement pattern, you can connect EB Swings in many other ways."
+            },
+            {
+                "h": "Avoid early uncrossing",
+                "p": "Avoid uncrossing your back hand too early. Wait until the rope has passed your hips before removing the hand from behind your body."
+            },
+            {
+                "h": "Use both wrists",
+                "p": "Use both wrists to generate the rope's momentum. If one wrist becomes frozen, the rope's arc will being moving around your diagonally."
+            },
+            {
+                "h": "Avoid lifting your hands",
+                "p": "Keep both hands on your hips at all times. Avoid lifting them up to guide the rope around you. This will interfer with the flow of the rope and make it harder to complete the skill."
+            },
+            {
+                "h": "Connect with it",
+                "p": "EB Swings can connect different skills together such as the EB Toad and the basic EB. Try it yourself and build a sequence with one hand 'stuck' behind your back."
+            },
+            {
+                "h": "Rest day friendly",
+                "p": "Can't jump, but want to anyway? EB Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
+            }
+        ]
     },
     {
         "ca": "S",
@@ -476,39 +471,39 @@
         "rd": "Y",
         "pr": "Foundational Swings",
         "tt": [
-{
-"h": "lift your leg",
-"p": "Lift your leg up as high as you can. Ensure your knee is at hip height and your thigh is parallel with the ground."
-},
-{
-"h": "swing vertically",
-"p": "Ensure the rope swings as vertically as possible next to your body."
-},
-{
-"h": "Connect with it",
-"p": "EB Swings can connect different skills together such as the EB Toad and the basic EB. Try it yourself and build a sequence with one hand 'stuck' under your leg."
-},
-{
-"h": "keep your chest up",
-"p": "Keep your chest up as much as possible. Lean back slightly and keep your bodyweight over the single leg you're jumping on. This will give you more power in your jumping leg."
-},
-{
-"h": "reach all the way",
-"p": "Your restricted hand should be reaching all the way under your leg. Imagine you need to wave at someone from under your leg; they should to be able to see your whole hand. This will prevent the rope brushing your shoulders as it passes around you."
-},
-{
-"h": "avoid hunching over",
-"p": "Avoid rounding your shoulders and hunching forwards. Doing so will make it harder to jump the rope and exit the skill by reducing the power in your jumping leg."
-},
-{
-"h": "beginner friendly",
-"p": "Leg Swings are great for beginners, as they allow you to expand your vocabulary of side swings whilst also helping to improve your balance."
-},
-{
-"h": "Rest Day Friendly",
-"p": "Since these skills require no jumping whatsoever, they're a great choice for active rest days, or if you have an injury which prevents you from jumping. Just swing out of the leg restriction on the opposite side of your body instead of jumping the Leg Cross which would normally follow the swing."
-}
-]
+            {
+                "h": "lift your leg",
+                "p": "Lift your leg up as high as you can. Ensure your knee is at hip height and your thigh is parallel with the ground."
+            },
+            {
+                "h": "swing vertically",
+                "p": "Ensure the rope swings as vertically as possible next to your body."
+            },
+            {
+                "h": "Connect with it",
+                "p": "EB Swings can connect different skills together such as the EB Toad and the basic EB. Try it yourself and build a sequence with one hand 'stuck' under your leg."
+            },
+            {
+                "h": "keep your chest up",
+                "p": "Keep your chest up as much as possible. Lean back slightly and keep your bodyweight over the single leg you're jumping on. This will give you more power in your jumping leg."
+            },
+            {
+                "h": "reach all the way",
+                "p": "Your restricted hand should be reaching all the way under your leg. Imagine you need to wave at someone from under your leg; they should to be able to see your whole hand. This will prevent the rope brushing your shoulders as it passes around you."
+            },
+            {
+                "h": "avoid hunching over",
+                "p": "Avoid rounding your shoulders and hunching forwards. Doing so will make it harder to jump the rope and exit the skill by reducing the power in your jumping leg."
+            },
+            {
+                "h": "beginner friendly",
+                "p": "Leg Swings are great for beginners, as they allow you to expand your vocabulary of side swings whilst also helping to improve your balance."
+            },
+            {
+                "h": "Rest Day Friendly",
+                "p": "Since these skills require no jumping whatsoever, they're a great choice for active rest days, or if you have an injury which prevents you from jumping. Just swing out of the leg restriction on the opposite side of your body instead of jumping the Leg Cross which would normally follow the swing."
+            }
+        ]
     },
     {
         "ca": "S",
@@ -516,27 +511,27 @@
         "df": "Awesome Annies are swings which enable the jumper to transition between the two Leg Crosses, such as the Toad and Leg Over. All Leg Crosses can be Awesome Annie'd from but not only a few can be Awesome Annie'd into, including the Leg Over, Toad and T-Toad.",
         "pr": "Leg Crosses",
         "tt": [
-{ 
-"h": "Keep Knees High",
-"p": "As you switch from leg to leg, keep your lifted knee at hip height or higher. If your knee(s) begins to drop it'll prevent you from transitioning smoothly."
-},
-{ 
-"h": "Transition at 3 o'clock",
-"p": "Wait until the loop of the rope approaches 3 o'clock before you being the transition."
-},
-{ 
-"h": "Hand, leg, wait!",
-"p": "The key to a successful Awesome Annie is executing all the steps in the correct order. Once the rope is in position and you're ready, first move your top hand across to the other side of your body. Then, switch legs and lift your opposite knee up high - at this point your restricted hand will naturally want to reach under the newly-liftd leg. Finally, wait. Wait for the loop of the rope to pass overhead and out in front of you before starting the next skill - or another Awesome Annie."
-},
-{ 
-"h": "Master your basics",
-"p": "All Awesome Annie skills are fundamentally based on the two 'base' variations - Toad & Leg Over Awesome Annie. To improve any and all your Awesome Annies, master these two variations (on both sides if you can) for seemless transitions everytime."
-},
-{ 
-"h": "Keep your top hand low",
-"p": "Avoid unintentionally lifting your unrestricted hand up as you transition from side to side. Keep this hand below shoulder-height as close to your hips as possible. "
-}
-]
+            { 
+                "h": "Keep Knees High",
+                "p": "As you switch from leg to leg, keep your lifted knee at hip height or higher. If your knee(s) begins to drop it'll prevent you from transitioning smoothly."
+            },
+            { 
+                "h": "Transition at 3 o'clock",
+                "p": "Wait until the loop of the rope approaches 3 o'clock before you being the transition."
+            },
+            { 
+                "h": "Hand, leg, wait!",
+                "p": "The key to a successful Awesome Annie is executing all the steps in the correct order. Once the rope is in position and you're ready, first move your top hand across to the other side of your body. Then, switch legs and lift your opposite knee up high - at this point your restricted hand will naturally want to reach under the newly-liftd leg. Finally, wait. Wait for the loop of the rope to pass overhead and out in front of you before starting the next skill - or another Awesome Annie."
+            },
+            { 
+                "h": "Master your basics",
+                "p": "All Awesome Annie skills are fundamentally based on the two 'base' variations - Toad & Leg Over Awesome Annie. To improve any and all your Awesome Annies, master these two variations (on both sides if you can) for seemless transitions everytime."
+            },
+            { 
+                "h": "Keep your top hand low",
+                "p": "Avoid unintentionally lifting your unrestricted hand up as you transition from side to side. Keep this hand below shoulder-height as close to your hips as possible. "
+            }
+        ]
     },
     {
         "ca": "S",
@@ -544,12 +539,7 @@
         "df": "Gogo swings are swings where one hand crosses around one of the jumper's body part twice, such as around their hips. Imagine your left hand crossing across your back from left to right, then reaching back around the front of your hips from right to left -  the hand goes one way then it goes the other way - it 'go-gos'. One of the most common gogo swings is the EB Gogo Swing which is used to create a popular type of Mic Release called the EB Gogo Mic Release.",
         "rd": "Y",
         "pr": "Foundational Swings, Leg Swings, EB Swings",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "S",
@@ -558,35 +548,35 @@
         "rd": "Y",
         "pr": "Foundational Swings, Leg Swings",
         "tt": [
-{
-"h": "use your pinky",
-"p": "Hold the second handle with your pinky finger. This will ensure there is an adequete gap in the loop of the rope so it doesn't tangle as you swing."
-},
-{
-"h": "Pass at 6 o'clock",
-"p": "Always pass the handle from one hand to the other when the loop of the rope passes your feet at 6 o'clock."
-},
-{
-"h": "Keep it narrow",
-"p": "Keep your swings narrow and close to your body. Imagine you're in a narrow corridor - avoid hitting the walls as you swing from side to side with the one hand."
-},
-{
-"h": "Grab the same handle",
-"p": "For most handle passes, you will re-grab the handle which you passed in the first place. This can be easy to notice if your handles are different colours. If you hold your 'passed' handle by your pinky then you'll be able to keep track easily."
-},
-{
-"h": "Know the difference",
-"p": "Before exploring One-Handed Swings, it's important to know the difference between your foundational swings - the Box Swing and Wrist Swing. During One-Handed Swings, all your swings on one side will be Box Swings and all your swings on the other side will be Wrist Swings. "
-},
-{
-"h": "Spice it up!",
-"p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
-},
-{
-"h": "Rest day friendly",
-"p": "Can't jump, but want to anyway? One-Handed Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
-}
-]
+            {
+                "h": "use your pinky",
+                "p": "Hold the second handle with your pinky finger. This will ensure there is an adequete gap in the loop of the rope so it doesn't tangle as you swing."
+            },
+            {
+                "h": "Pass at 6 o'clock",
+                "p": "Always pass the handle from one hand to the other when the loop of the rope passes your feet at 6 o'clock."
+            },
+            {
+                "h": "Keep it narrow",
+                "p": "Keep your swings narrow and close to your body. Imagine you're in a narrow corridor - avoid hitting the walls as you swing from side to side with the one hand."
+            },
+            {
+                "h": "Grab the same handle",
+                "p": "For most handle passes, you will re-grab the handle which you passed in the first place. This can be easy to notice if your handles are different colours. If you hold your 'passed' handle by your pinky then you'll be able to keep track easily."
+            },
+            {
+                "h": "Know the difference",
+                "p": "Before exploring One-Handed Swings, it's important to know the difference between your foundational swings - the Box Swing and Wrist Swing. During One-Handed Swings, all your swings on one side will be Box Swings and all your swings on the other side will be Wrist Swings. "
+            },
+            {
+                "h": "Spice it up!",
+                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
+            },
+            {
+                "h": "Rest day friendly",
+                "p": "Can't jump, but want to anyway? One-Handed Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
+            }
+        ]
     },
     {
         "ca": "D",
@@ -599,31 +589,31 @@
         "df": "Contact Stalls are skills where the jumper transitions from jumping forwards to backwards, or vice versa, by allowing the rope to contact their body briefly, before reversing its direction. This 'contact' can be with the foot, your torso or during a Leg Wrap.",
         "bg": "Y",
         "tt": [
-{
-"h": "point the handles",
-"p": "The stall the rope in this skill, point the handles in the direction the rope is travelling. This will cancel out the rope's momentum, and allow you to then reverse its direction."
-},
-{
-"h": "reach past your hips",
-"p": "As the rope contacts your body, continue moving your hands in the direction the rope was travelling it until you're reaching fully past your hips. This will help you kepe the tension in the rope, making it easier to reverse the direction of the rope smothly."
-},
-{
-"h": "Time it right",
-"p": "This stall happens immediately after you have jumped over the loop of the rope. Remove all energy in the rope as you land so that the loop of the rope travels no further than a quarter rotation away from your feet, before you reverse its direction and jump over the loop again (now in the opposite direction)."
-},
-{
-"h": "four-count stall",
-"p": "This stall will take four counts (or jumps) altogether to complete. The jump over the loop of the rope of the last skill before the stall begins, a 'mini' jump as you bring the rope into the stal against your body, another jump as you reverse the direction of the rope, then one final jump over the rope again as you complete the exit skill."
-},
-{
-"h": "avoid exiting too early",
-"p": "This stall will take four counts to complete. Don't rush the middle section as you reverse the rope's direction."
-},
-{
-"h": "count out loud",
-"p": "Try jumping four times (all Opens) before you start this skill, whilst counting out loud. Continue counting as you start the stall until the very end. Keep your counting confident as a constant pace."
-}
-]
+            {
+                "h": "point the handles",
+                "p": "The stall the rope in this skill, point the handles in the direction the rope is travelling. This will cancel out the rope's momentum, and allow you to then reverse its direction."
+            },
+            {
+                "h": "reach past your hips",
+                "p": "As the rope contacts your body, continue moving your hands in the direction the rope was travelling it until you're reaching fully past your hips. This will help you kepe the tension in the rope, making it easier to reverse the direction of the rope smothly."
+            },
+            {
+                "h": "Time it right",
+                "p": "This stall happens immediately after you have jumped over the loop of the rope. Remove all energy in the rope as you land so that the loop of the rope travels no further than a quarter rotation away from your feet, before you reverse its direction and jump over the loop again (now in the opposite direction)."
+            },
+            {
+                "h": "four-count stall",
+                "p": "This stall will take four counts (or jumps) altogether to complete. The jump over the loop of the rope of the last skill before the stall begins, a 'mini' jump as you bring the rope into the stal against your body, another jump as you reverse the direction of the rope, then one final jump over the rope again as you complete the exit skill."
+            },
+            {
+                "h": "avoid exiting too early",
+                "p": "This stall will take four counts to complete. Don't rush the middle section as you reverse the rope's direction."
+            },
+            {
+                "h": "count out loud",
+                "p": "Try jumping four times (all Opens) before you start this skill, whilst counting out loud. Continue counting as you start the stall until the very end. Keep your counting confident as a constant pace."
+            }
+        ]
     },
     {
         "ca": "D",
@@ -631,23 +621,23 @@
         "df": "No Contact Stalls are skills where the jumper transitions from jumping frowards to backwards, or vice versa, without allowing the rope to contact their body before reversing its direction. This is achieved by jumping the loop of the rope such as in a basic Cross, then exiting by jumping another basic Cross, this time backwards.",
         "pr": "Contact Stalls",
         "tt": [
-{
-"h": "point the handles",
-"p": "The stall the rope in this skill, point the handles in the direction the rope is travelling. This will cancel out the rope's momentum, and allow you to then reverse its direction."
-},
-{
-"h": "Time it right",
-"p": "This stall happens immediately after you have jumped over the loop of the rope. Remove all energy in the rope as you land so that the loop of the rope travels no further than a quarter rotation away from your feet, before you reverse its direction and jump over the loop again (now in the opposite direction)."
-},
-{
-"h": "three-count stall",
-"p": "This stall will take three counts (or jumps) altogether to complete. The jump over the loop of the rope, another jump as you reverse the direction of the rope, then one final jump over the rope again to exit the skill."
-},
-{
-"h": "be gentle",
-"p": "No Contact Stalls are diffuclt skills to control, especially at speed. Be gentle by holding your handles with a light grip."
-}
-]
+            {
+                "h": "point the handles",
+                "p": "The stall the rope in this skill, point the handles in the direction the rope is travelling. This will cancel out the rope's momentum, and allow you to then reverse its direction."
+            },
+            {
+                "h": "Time it right",
+                "p": "This stall happens immediately after you have jumped over the loop of the rope. Remove all energy in the rope as you land so that the loop of the rope travels no further than a quarter rotation away from your feet, before you reverse its direction and jump over the loop again (now in the opposite direction)."
+            },
+            {
+                "h": "three-count stall",
+                "p": "This stall will take three counts (or jumps) altogether to complete. The jump over the loop of the rope, another jump as you reverse the direction of the rope, then one final jump over the rope again to exit the skill."
+            },
+            {
+                "h": "be gentle",
+                "p": "No Contact Stalls are diffuclt skills to control, especially at speed. Be gentle by holding your handles with a light grip."
+            }
+        ]
     },
     {
         "ca": "D",
@@ -656,27 +646,27 @@
         "bg": "Y",
         "pr": "Bilateral Footwork, Foundational Swings, Body Crosses",
         "tt": [
-{
-"h": "Forward Straddle First",
-"p": "Before starting your 180 turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
-},
-{
-"h": "Turn with intent",
-"p": "When first learning any 180 turn, avoid automatically turning it (pun intended) into a full 360 after you jump the rope backwards. This can lead to a bad force of habit."
-},
-{
-"h": "Adding a cross?",
-"p": "If you're turning around into a backwards cross (of any type), use a Box Swing. At the moment you begin to turn, lead with the hand that's crossing your hips by tucking it under your other hand as you form the backwards cross."
-},
-{
-"h": "Avoid under/over rotating",
-"p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
-},
-{
-"h": "Start without a bounce",
-"p": "When first learning this turn, you can get comfortable by not jumping as you perform the swing. Once you're comfortable though, remember to include the jump as you swing."
-}
-]
+            {
+                "h": "Forward Straddle First",
+                "p": "Before starting your 180 turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
+            },
+            {
+                "h": "Turn with intent",
+                "p": "When first learning any 180 turn, avoid automatically turning it (pun intended) into a full 360 after you jump the rope backwards. This can lead to a bad force of habit."
+            },
+            {
+                "h": "Adding a cross?",
+                "p": "If you're turning around into a backwards cross (of any type), use a Box Swing. At the moment you begin to turn, lead with the hand that's crossing your hips by tucking it under your other hand as you form the backwards cross."
+            },
+            {
+                "h": "Avoid under/over rotating",
+                "p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
+            },
+            {
+                "h": "Start without a bounce",
+                "p": "When first learning this turn, you can get comfortable by not jumping as you perform the swing. Once you're comfortable though, remember to include the jump as you swing."
+            }
+        ]
     },
     {
         "ca": "D",
@@ -685,35 +675,35 @@
         "bg": "Y",
         "pr": "Bilateral Footwork, Foundational Swings, Body Crosses",
         "tt": [
-{
-"h": "Start without a bounce",
-"p": "When first learning this turn, you can get comfortable by not jumping as you perform the swing. Once you're comfortable though, remember to include the jump as you swing."
-},
-{
-"h": "Draw a rainbow",
-"p": "As you turn from the back to the front, draw a rainbow direclty over your head with the rope. This is the path the rope needs to follow for an efficient backwards turn."
-},
-{
-"h": "Keep it vertical",
-"p": "Avoid rotating your body too early. If you do, you'll pull the rope diagonally as you turn and make it much harder to control and you'll likely trip. Imagine you're in a narrow corridor. Avoid swinging the rope into the walls beside you."
-},
-{
-"h": "Avoid under/over rotating",
-"p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
-},
-{
-"h": "Lift your arms",
-"p": "As you draw the arc overhead and turn, lift your arms up high. This will help you control the speed and path of the rope. As you get more confident, lift your arm less and less. But be careful, the less you lift them, the faster the rope will travel as you turn."
-},
-{
-"h": "Avoid double bouncing",
-"p": "As you turn, avoid bouncing one too many times. As you complete your last backwards jump, land in the Forward Straddle ready to turn, then turn your shoulder quickly as you draw the arc overhead. Your very next jump will be the forwards skill (be it an Open, Cross or a Swing)."
-},
-{
-"h": "Forward Straddle First",
-"p": "Before starting your backwarks turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
-}
-]
+            {
+                "h": "Start without a bounce",
+                "p": "When first learning this turn, you can get comfortable by not jumping as you perform the swing. Once you're comfortable though, remember to include the jump as you swing."
+            },
+            {
+                "h": "Draw a rainbow",
+                "p": "As you turn from the back to the front, draw a rainbow direclty over your head with the rope. This is the path the rope needs to follow for an efficient backwards turn."
+            },
+            {
+                "h": "Keep it vertical",
+                "p": "Avoid rotating your body too early. If you do, you'll pull the rope diagonally as you turn and make it much harder to control and you'll likely trip. Imagine you're in a narrow corridor. Avoid swinging the rope into the walls beside you."
+            },
+            {
+                "h": "Avoid under/over rotating",
+                "p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
+            },
+            {
+                "h": "Lift your arms",
+                "p": "As you draw the arc overhead and turn, lift your arms up high. This will help you control the speed and path of the rope. As you get more confident, lift your arm less and less. But be careful, the less you lift them, the faster the rope will travel as you turn."
+            },
+            {
+                "h": "Avoid double bouncing",
+                "p": "As you turn, avoid bouncing one too many times. As you complete your last backwards jump, land in the Forward Straddle ready to turn, then turn your shoulder quickly as you draw the arc overhead. Your very next jump will be the forwards skill (be it an Open, Cross or a Swing)."
+            },
+            {
+                "h": "Forward Straddle First",
+                "p": "Before starting your backwarks turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
+            }
+        ]
     },
     {
         "ca": "D",
@@ -721,23 +711,23 @@
         "df": "360 Turns are skills where the jumper completes a full 360º, starting and ending forwards (or backwards), whilst the rope continues moving in the same direction throughout the entire skill. This can be done three fundamental ways - as basic 360 Turns with a jump in backwards phase (recommended for beginners), as Full Turns with no jump in the backwards phase, or as Half Turns where you turn 180º in each direction such left then right, or vice versa.",
         "pr": "Forwards 180s, Backwards 180s",
         "tt": [
-{
-"h": "turn one way",
-"p": "What makes a 360 turn different from other turns is the fact you're turning the same way throughout the whole skill until you eventually reach the starting point again. If you change the direction you're turning during the skill then it's no longer a 360 turn."
-},
-{
-"h": "360 in three",
-"p": "At their core, 360 turns take 3 jump to complete - a swing to a backwards jumps to a forwards jump. More complex 360 turns can be created by simply altering these three skills for difficult 'parts'."
-},
-{
-"h": "Avoid double bouncing",
-"p": "As you turn back from backwards to forwards, avoid double bouncing and thereby changing the rhythm of the skill. To achieve this, right before you begin turning back around, rotate your shoulders and look over your shoulder to get a 'headstart'."
-},
-{
-"h": "Forward Straddle First",
-"p": "Before starting your 360 Turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
-}
-]
+            {
+                "h": "turn one way",
+                "p": "What makes a 360 turn different from other turns is the fact you're turning the same way throughout the whole skill until you eventually reach the starting point again. If you change the direction you're turning during the skill then it's no longer a 360 turn."
+            },
+            {
+                "h": "360 in three",
+                "p": "At their core, 360 turns take 3 jump to complete - a swing to a backwards jumps to a forwards jump. More complex 360 turns can be created by simply altering these three skills for difficult 'parts'."
+            },
+            {
+                "h": "Avoid double bouncing",
+                "p": "As you turn back from backwards to forwards, avoid double bouncing and thereby changing the rhythm of the skill. To achieve this, right before you begin turning back around, rotate your shoulders and look over your shoulder to get a 'headstart'."
+            },
+            {
+                "h": "Forward Straddle First",
+                "p": "Before starting your 360 Turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
+            }
+        ]
     },
     {
         "ca": "D",
@@ -745,39 +735,34 @@
         "df": "Dive Turns are skills where the jumper performs a 180 or 360 Turn with no side swing in the forwards phase.",
         "pr": "Forwards 180s, 360 Turns",
         "tt": [
-{
-"h": "Look over your shoulder",
-"p": "As you're jumping the Open before turning, begin turning by looking over your shouler in the direction you intend to turn. Keep your shoulders relaxed so you can turn your upper body slightly, but without moving your arms."
-},
-{
-"h": "Why is it a dive?",
-"p": "Like the EB, a basic 180 Turn involves a side swing at the beginning. And like a Dive EB, a Dive turn involves not performing this swing and transitioning from the last Open immediately into the skill. This can make the beginning of the skill feel abrupt and sudden."
-},
-{
-"h": "Take it slow",
-"p": "The start of the this skill can feel abrupt and sudden. Take it slow and avoid whipping the rope around you. This will give you more time to complete the turn and ensure the rope travels through the vertical plane correctly."
-},
-{
-"h": "Keep it behind you",
-"p": "As you complete the turn, the rope will travel behind you for a whole rotation. It's crucial the rope stays behind you from the moment you do the last forwards Open until you do the first backwards Open. To achieve this, point your handles behind you and turn sharply."
-},
-{
-"h": "Keep the rope vertical",
-"p": "During any turn, the rope needs to travel through the vertical plane. However, during a Dive turn, it can be easy to pull the rope around in a diagonal plane. Be careful to avoid this by allowing the rope to swing all the way up to 11 o'clock as you turn 180 degrees. Then, be patient as the rope falls back down to your feet."
-}
-]
+            {
+                "h": "Look over your shoulder",
+                "p": "As you're jumping the Open before turning, begin turning by looking over your shouler in the direction you intend to turn. Keep your shoulders relaxed so you can turn your upper body slightly, but without moving your arms."
+            },
+            {
+                "h": "Why is it a dive?",
+                "p": "Like the EB, a basic 180 Turn involves a side swing at the beginning. And like a Dive EB, a Dive turn involves not performing this swing and transitioning from the last Open immediately into the skill. This can make the beginning of the skill feel abrupt and sudden."
+            },
+            {
+                "h": "Take it slow",
+                "p": "The start of the this skill can feel abrupt and sudden. Take it slow and avoid whipping the rope around you. This will give you more time to complete the turn and ensure the rope travels through the vertical plane correctly."
+            },
+            {
+                "h": "Keep it behind you",
+                "p": "As you complete the turn, the rope will travel behind you for a whole rotation. It's crucial the rope stays behind you from the moment you do the last forwards Open until you do the first backwards Open. To achieve this, point your handles behind you and turn sharply."
+            },
+            {
+                "h": "Keep the rope vertical",
+                "p": "During any turn, the rope needs to travel through the vertical plane. However, during a Dive turn, it can be easy to pull the rope around in a diagonal plane. Be careful to avoid this by allowing the rope to swing all the way up to 11 o'clock as you turn 180 degrees. Then, be patient as the rope falls back down to your feet."
+            }
+        ]
     },
     {
         "ca": "D",
         "sc": "Leg Hook Turns",
         "df": "Leg Hook Turns are skills where the jumper performs a 180 or 360 Turn with a Leg Hook in the backwards phase. A Leg Hook is a pseudo-Leg Cross where the jumper jumps the loop of the rope with one hand under the leg, except their arms aren't crossed.",
         "pr": "Leg Crosses, 360 Turns",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "D",
@@ -785,23 +770,23 @@
         "df": "Half Turns are skills where the jumpers performs a 360 Turn except they turn 180º in each direction such left then right, or vice versa.",
         "pr": "Forwards 180s, Backwards 180s",
         "tt": [
-{
-"h": "It's a 360, kind of",
-"p": "A Half Turn is quite literally a 360 Turn, except instead of turning the same direction continously throughout the skill, you turn back on yourself for the second half of the 360, effectively undoing the 360."
-},
-{
-"h": "Turn in three",
-"p": "At their core, Half Turns take 3 jump to complete - a swing to a backwards jumps to a forwards jump. More complex 360 turns can be created by simply altering these three skills for difficult 'parts'."
-},
-{
-"h": "Avoid double bouncing",
-"p": "As you turn back from backwards to forwards, avoid double bouncing and thereby changing the rhythm of the skill. To achieve this, right before you begin turning back around, rotate your shoulders and look over your shoulder to get a 'headstart'."
-},
-{
-"h": "Forward Straddle twice",
-"p": "Since we are turning in two different direction during this skill, we need to perform a Forward Straddle twice - once before the first 180 turn and once before the second. For the first turn, whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). Then, as you land the backwards jumps perform another Forward Straddle with the other foot at the front."
-}
-]
+            {
+                "h": "It's a 360, kind of",
+                "p": "A Half Turn is quite literally a 360 Turn, except instead of turning the same direction continously throughout the skill, you turn back on yourself for the second half of the 360, effectively undoing the 360."
+            },
+            {
+                "h": "Turn in three",
+                "p": "At their core, Half Turns take 3 jump to complete - a swing to a backwards jumps to a forwards jump. More complex 360 turns can be created by simply altering these three skills for difficult 'parts'."
+            },
+            {
+                "h": "Avoid double bouncing",
+                "p": "As you turn back from backwards to forwards, avoid double bouncing and thereby changing the rhythm of the skill. To achieve this, right before you begin turning back around, rotate your shoulders and look over your shoulder to get a 'headstart'."
+            },
+            {
+                "h": "Forward Straddle twice",
+                "p": "Since we are turning in two different direction during this skill, we need to perform a Forward Straddle twice - once before the first 180 turn and once before the second. For the first turn, whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). Then, as you land the backwards jumps perform another Forward Straddle with the other foot at the front."
+            }
+        ]
     },
     {
         "ca": "D",
@@ -809,31 +794,31 @@
         "df": "Full Turns are skills where the jumper performs a 360 Turn without a jump in the backwards phase. Like how a 180 Turn is a Swing + a 180, a Half Turn is quite simply a Swing + a 360.",
         "pr": "Forwards 180s, 360 Turns",
         "tt": [
-{
-"h": "Full = Swing + 360",
-"p": "A Full Turn is similar to a 360 Turn since you complete a full 360º rotation througout the skill. The difference here though, is there is no jump during the backwards phase. That means you turn 360 in one count. If a basic 180 turn is a Swing + a 180, then a Full is quite simply a Swing + a 360."
-},
-{
-"h": "Forward Straddle, Big",
-"p": "Before starting your 180 turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). The bigger the straddle, the easier it'll be to turn around in one count."
-},
-{
-"h": "Use your shoulders a little",
-"p": "Turning around a full 360º in one count can be challenging. Unlike other types of turns, it is recommended here to pre-emptively turn your hips in the direction you intend to turn so you can complete the full 360º more easily.'"
-},
-{
-"h": "Keep it narrow",
-"p": "Avoid pulling the rope diagonally as you turn around. Imagine you're in a narrow corridor. Avoid swinging the rope into the walls beside you."
-},
-{
-"h": "Stay alert",
-"p": "Stay alert, this skill happens a lot faster than other 360 turns. Be gentle as you swing so you don't overdo it."
-},
-{
-"h": "Keep it in front",
-"p": "As you swing the rope around in one fell swoop, track the loop of the rope with your eyes. Keep it in front of you - you should be able to see it at all times."
-}
-]
+            {
+                "h": "Full = Swing + 360",
+                "p": "A Full Turn is similar to a 360 Turn since you complete a full 360º rotation througout the skill. The difference here though, is there is no jump during the backwards phase. That means you turn 360 in one count. If a basic 180 turn is a Swing + a 180, then a Full is quite simply a Swing + a 360."
+            },
+            {
+                "h": "Forward Straddle, Big",
+                "p": "Before starting your 180 turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). The bigger the straddle, the easier it'll be to turn around in one count."
+            },
+            {
+                "h": "Use your shoulders a little",
+                "p": "Turning around a full 360º in one count can be challenging. Unlike other types of turns, it is recommended here to pre-emptively turn your hips in the direction you intend to turn so you can complete the full 360º more easily.'"
+            },
+            {
+                "h": "Keep it narrow",
+                "p": "Avoid pulling the rope diagonally as you turn around. Imagine you're in a narrow corridor. Avoid swinging the rope into the walls beside you."
+            },
+            {
+                "h": "Stay alert",
+                "p": "Stay alert, this skill happens a lot faster than other 360 turns. Be gentle as you swing so you don't overdo it."
+            },
+            {
+                "h": "Keep it in front",
+                "p": "As you swing the rope around in one fell swoop, track the loop of the rope with your eyes. Keep it in front of you - you should be able to see it at all times."
+            }
+        ]
     },
     {
         "ca": "D",
@@ -843,196 +828,196 @@
         "rd": "Y",
         "pr": "Backwards 180s, 360 Turns",
         "tt": [
-{
-"h": "don't let it touch you",
-"p": "As the rope swings behind your body, avoid letting it touch your the back of your legs or feet. Turn out of the way of the rope just in time for it swing past you so you can transition into the forwards part of this skill smoothly."
-},
-{
-"h": "Turn early",
-"p": "To help make the transition from backweards to forwards seemless and prevent the rope touching your back, turn around a fraction earlier than usual. As the rope approaches your feet begin turning so you've turn 90º (half way) at the moment the loop of the rope passes your feet."
-},
-{
-"h": "Hips or shoulders?",
-"p": "Most Texan Turns can be peformed two ways - with your hands on your hips (in pocket position) or up higher on top of your shoudlers. Both positions are 'valid', it comes down to personal preference and style as to which you do. Leanr both and decide which you prefer."
-},
-{
-"h": "3-count turn",
-"p": "Foundational Texan Turns take 3 jumps to complete. The jump of the last backwards skill before you begin turning, the swing that is the Texan itself, then the jump of the forwards skill as you exit."
-},
-{
-"h": "Forward Straddle First",
-"p": "Before starting your 180 turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
-},
-{
-"h": "Avoid under/over rotating",
-"p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
-},
-{
-"h": "Start without a bounce",
-"p": "When first learning this turn, you can get comfortable by not jumping as you perform the swing. Once you're comfortable though, remember to include the jump as you swing."
-},
-{
-"h": "Momentum is key",
-"p": "Don't force it. The key to a clean Texan Turn is the momentum inherited from the previous skill. Let the rope do the work as you focus on timing your turn right."
-}
-]
+            {
+                "h": "don't let it touch you",
+                "p": "As the rope swings behind your body, avoid letting it touch your the back of your legs or feet. Turn out of the way of the rope just in time for it swing past you so you can transition into the forwards part of this skill smoothly."
+            },
+            {
+                "h": "Turn early",
+                "p": "To help make the transition from backweards to forwards seemless and prevent the rope touching your back, turn around a fraction earlier than usual. As the rope approaches your feet begin turning so you've turn 90º (half way) at the moment the loop of the rope passes your feet."
+            },
+            {
+                "h": "Hips or shoulders?",
+                "p": "Most Texan Turns can be peformed two ways - with your hands on your hips (in pocket position) or up higher on top of your shoudlers. Both positions are 'valid', it comes down to personal preference and style as to which you do. Leanr both and decide which you prefer."
+            },
+            {
+                "h": "3-count turn",
+                "p": "Foundational Texan Turns take 3 jumps to complete. The jump of the last backwards skill before you begin turning, the swing that is the Texan itself, then the jump of the forwards skill as you exit."
+            },
+            {
+                "h": "Forward Straddle First",
+                "p": "Before starting your 180 turn, land in a Forward Straddle - whichever direction you intend to turn, place the other foot at the front (if turning left, put your right foot in front). This will enable you to efficiently turn out by using your core and hips."
+            },
+            {
+                "h": "Avoid under/over rotating",
+                "p": "Avoid under or over rotating in your 180. Ideally you should exactly turn 180º so the rope can move in a single plane. This will prevent the rope being pulled diagonally and tripping you up."
+            },
+            {
+                "h": "Start without a bounce",
+                "p": "When first learning this turn, you can get comfortable by not jumping as you perform the swing. Once you're comfortable though, remember to include the jump as you swing."
+            },
+            {
+                "h": "Momentum is key",
+                "p": "Don't force it. The key to a clean Texan Turn is the momentum inherited from the previous skill. Let the rope do the work as you focus on timing your turn right."
+            }
+        ]
     },
     {
         "ca": "W",
         "sc": "Main",
-        "df": "Wraps are skills where the rope is wrapped around part of the jumper’s body, usually their wrist or ankle. Wraps allow jumpers to explore the concept of nesting where they perform different skills inside of of their wraps."
+        "df": "Wraps are skills where the rope is wrapped around part of the jumper's body, usually their wrist or ankle. Wraps allow jumpers to explore the concept of nesting where they perform different skills inside of of their wraps."
     },
     {
         "ca": "W",
         "sc": "Arm Wraps",
-        "df": "Arm Wraps are skills where the rope is wrapped around the jumper’s forearm during a side swing. These are great for beginners to learn, to help them understand the structure and flow of all other wraps.",
+        "df": "Arm Wraps are skills where the rope is wrapped around the jumper's forearm during a side swing. These are great for beginners to learn, to help them understand the structure and flow of all other wraps.",
         "bg": "Y",
         "rd": "Y",
         "pr": "Foundational Swings, Body Crosses",
         "tt": [
-{
-"h": "Count to four",
-"p": "Foundationally, arm wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
-},
-{
-"h": "Swing close",
-"p": "Swing close to your hips throughout the whole skill."
-},
-{
-"h": "Wrap your wrist",
-"p": "Although this is called an 'arm wrap', the rope should actually wrap around your wrist. Doing so will give you more control of the rope as it rotates. However, you can choose to adjust the style of the skill by wrapping anywhere on your arm from your wrist all the way up to your shoulder."
-},
-{
-"h": "Wrap tightly",
-"p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your arm. If the rope wraps loosely, not only will it be slack but it will also make the rope even shorter than it already becomes in a wrap which also makes it difficult to control."
-},
-{
-"h": "Know your exit",
-"p": "The entry skill and exit skills are closely linked. By default the exit skill of an arm wrap is the 'cross' that pairs up with the type of swing you start the arm wrap with. For example, as the entry skill of a Toad Arm Wrap is a Toad Swing, the exit skill is a Toad."
-},
-{
-"h": "Change sides to unwrap",
-"p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
-},
-{
-"h": "The entry skill",
-"p": "Arm Wraps traditionally start with a side swing. The arm wrap itself is quite literally a 'second' side swing where our arm is in the way of the path of the rope, thus creating the wrap as a consequence."
-}
-]
+            {
+                "h": "Count to four",
+                "p": "Foundationally, arm wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
+            },
+            {
+                "h": "Swing close",
+                "p": "Swing close to your hips throughout the whole skill."
+            },
+            {
+                "h": "Wrap your wrist",
+                "p": "Although this is called an 'arm wrap', the rope should actually wrap around your wrist. Doing so will give you more control of the rope as it rotates. However, you can choose to adjust the style of the skill by wrapping anywhere on your arm from your wrist all the way up to your shoulder."
+            },
+            {
+                "h": "Wrap tightly",
+                "p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your arm. If the rope wraps loosely, not only will it be slack but it will also make the rope even shorter than it already becomes in a wrap which also makes it difficult to control."
+            },
+            {
+                "h": "Know your exit",
+                "p": "The entry skill and exit skills are closely linked. By default the exit skill of an arm wrap is the 'cross' that pairs up with the type of swing you start the arm wrap with. For example, as the entry skill of a Toad Arm Wrap is a Toad Swing, the exit skill is a Toad."
+            },
+            {
+                "h": "Change sides to unwrap",
+                "p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
+            },
+            {
+                "h": "The entry skill",
+                "p": "Arm Wraps traditionally start with a side swing. The arm wrap itself is quite literally a 'second' side swing where our arm is in the way of the path of the rope, thus creating the wrap as a consequence."
+            }
+        ]
     },
     {
         "ca": "W",
         "sc": "Gogo Arm Wraps",
-        "df": "Arm Wraps are skills where the rope is wrapped around the jumper’s forearm during a Gogo Swing. ",
+        "df": "Arm Wraps are skills where the rope is wrapped around the jumper's forearm during a Gogo Swing. ",
         "rd": "Y",
         "pr": "Arm Wraps",
         "tt": [
-{
-"h": "Count to four",
-"p": "Foundationally, arm wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
-},
-{
-"h": "Swing close",
-"p": "Swing close to your hips throughout the whole skill."
-},
-{
-"h": "Wrap your wrist",
-"p": "Although this is called an 'arm wrap', the rope should actually wrap around your wrist. Doing so will give you more control of the rope as it rotates. However, you can choose to adjust the style of the skill by wrapping anywhere on your arm from your wrist all the way up to your shoulder."
-},
-{
-"h": "Wrap tightly",
-"p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your arm. If the rope wraps loosely, not only will it be slack but it will also make the rope even shorter than it already becomes in a wrap which also makes it difficult to control."
-},
-{
-"h": "Know your exit",
-"p": "The entry skill and exit skills are closely linked. By default the exit skill of a Gogo Arm Wrap is the exit skill of the relative Gogo Cross. For example, as the entry skill of an Inverse Toad Gogo is an Open, the exit skil of the Inverse Toad Gogo Arm Wrap is also an Open."
-},
-{
-"h": "Change sides to unwrap",
-"p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
-},
-{
-"h": "The entry skill",
-"p": "Gogo Arm Wraps traditionally start with a Gogo Swing. The arm wrap itself is quite literally a 'second' side swing where our arm is in the way of the path of the rope, thus creating the wrap as a consequence."
-}
-]
+            {
+                "h": "Count to four",
+                "p": "Foundationally, arm wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
+            },
+            {
+                "h": "Swing close",
+                "p": "Swing close to your hips throughout the whole skill."
+            },
+            {
+                "h": "Wrap your wrist",
+                "p": "Although this is called an 'arm wrap', the rope should actually wrap around your wrist. Doing so will give you more control of the rope as it rotates. However, you can choose to adjust the style of the skill by wrapping anywhere on your arm from your wrist all the way up to your shoulder."
+            },
+            {
+                "h": "Wrap tightly",
+                "p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your arm. If the rope wraps loosely, not only will it be slack but it will also make the rope even shorter than it already becomes in a wrap which also makes it difficult to control."
+            },
+            {
+                "h": "Know your exit",
+                "p": "The entry skill and exit skills are closely linked. By default the exit skill of a Gogo Arm Wrap is the exit skill of the relative Gogo Cross. For example, as the entry skill of an Inverse Toad Gogo is an Open, the exit skil of the Inverse Toad Gogo Arm Wrap is also an Open."
+            },
+            {
+                "h": "Change sides to unwrap",
+                "p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
+            },
+            {
+                "h": "The entry skill",
+                "p": "Gogo Arm Wraps traditionally start with a Gogo Swing. The arm wrap itself is quite literally a 'second' side swing where our arm is in the way of the path of the rope, thus creating the wrap as a consequence."
+            }
+        ]
     },
     {
         "ca": "W",
         "sc": "Thigh Wraps",
-        "df": "Thigh Wraps are skills where the rope is wrapped around the jumper’s upper leg during a Leg Swing.",
+        "df": "Thigh Wraps are skills where the rope is wrapped around the jumper's upper leg during a Leg Swing.",
         "rd": "Y",
         "pr": "Leg Swings, Arm Wraps",
         "tt": [
-{
-"h": "Count to four",
-"p": "Foundationally, thigh wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
-},
-{
-"h": "Swing close",
-"p": "Swing close to your hips throughout the whole skill."
-},
-{
-"h": "Wrap above the knee",
-"p": "Wrap the rope around your thigh (above your knee), ideally as close to the middle of upper leg as possible. Doing so will give you more control of the rope as it rotates."
-},
-{
-"h": "Wrap tightly",
-"p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your thigh. This can be achieved by placing both handles directly onto your thigh as you wrap the rope. If the rope wraps loosely, not only will it be slack but it will also make the rope even shorter than it already becomes in a wrap which also makes it difficult to control."
-},
-{
-"h": "Control the speed",
-"p": "The usable length of the rope significantly reduces as you wrap around your thigh. This in turn causes the speed of the rope's revolutions to drastically increase during this skill. To maintain good control and a smooth consistent flow, adjust the speed of the rope by being more gentle as the rope wraps."
-},
-{
-"h": "Know your exit",
-"p": "The entry skill and exit skills are closely linked. By default the exit skill of a Thigh Wrap is the exit skill of the relative Leg Cross. For example, as the entry skill of a Leg Over is an Cross, the exit skil of the Leg Over Thigh Wrap is also an Cross."
-},
-{
-"h": "Change sides to unwrap",
-"p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
-},
-{
-"h": "The entry skill",
-"p": "Thigh Wraps traditionally start with a Leg Swing. The thigh wrap itself is quite literally a 'second' side swing where our leg is in the way of the path of the rope, thus creating the wrap as a consequence."
-}
-]
+            {
+                "h": "Count to four",
+                "p": "Foundationally, thigh wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
+            },
+            {
+                "h": "Swing close",
+                "p": "Swing close to your hips throughout the whole skill."
+            },
+            {
+                "h": "Wrap above the knee",
+                "p": "Wrap the rope around your thigh (above your knee), ideally as close to the middle of upper leg as possible. Doing so will give you more control of the rope as it rotates."
+            },
+            {
+                "h": "Wrap tightly",
+                "p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your thigh. This can be achieved by placing both handles directly onto your thigh as you wrap the rope. If the rope wraps loosely, not only will it be slack but it will also make the rope even shorter than it already becomes in a wrap which also makes it difficult to control."
+            },
+            {
+                "h": "Control the speed",
+                "p": "The usable length of the rope significantly reduces as you wrap around your thigh. This in turn causes the speed of the rope's revolutions to drastically increase during this skill. To maintain good control and a smooth consistent flow, adjust the speed of the rope by being more gentle as the rope wraps."
+            },
+            {
+                "h": "Know your exit",
+                "p": "The entry skill and exit skills are closely linked. By default the exit skill of a Thigh Wrap is the exit skill of the relative Leg Cross. For example, as the entry skill of a Leg Over is an Cross, the exit skil of the Leg Over Thigh Wrap is also an Cross."
+            },
+            {
+                "h": "Change sides to unwrap",
+                "p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
+            },
+            {
+                "h": "The entry skill",
+                "p": "Thigh Wraps traditionally start with a Leg Swing. The thigh wrap itself is quite literally a 'second' side swing where our leg is in the way of the path of the rope, thus creating the wrap as a consequence."
+            }
+        ]
     },
     {
         "ca": "W",
         "sc": "Leg Wraps",
-        "df": "Leg Wraps are skills where the rope is wrapped around the jumper’s lower leg during a Leg Cross.",
+        "df": "Leg Wraps are skills where the rope is wrapped around the jumper's lower leg during a Leg Cross.",
         "pr": "Leg Crosses, Leg Swings, Arm Wraps, Awesome Annies",
         "tt": [
-{
-"h": "Count to four",
-"p": "Foundationally, Leg Wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
-},
-{
-"h": "Start with consecutives",
-"p": "Before trying this Leg Wrap, start by practising consecutive Leg Crosses - just two in a row will do. Once comfortable, you can enter the wrap by modifying the hand placement of the restriced hand (the one under your leg) so it's not reaching as far as it normally would. As well as this, twist your leg slightly so your lower leg sticks out to the side in the way of the path of the rope."
-},
-{
-"h": "Wrap below the knee",
-"p": "Although this is called a 'leg wrap', it's important we wrap around a specific part of the leg. Generally, the rope should wrap around your lower leg just below the knee, on your calf muscle."
-},
-{
-"h": "Wrap tightly",
-"p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your leg. This can be achieved by placing your restricted hand against the back of your leg as you wrap the rope. If the rope wraps loosely, not only will it be slack but it will also make the rope even shorter than it already becomes in a wrap which also makes it difficult to control."
-},
-{
-"h": "Know your exit",
-"p": "The entry skill and exit skills are closely linked. By default the exit skill of a Leg Wrap is the exit skill of the relative Leg Cross. For example, as the entry skill of a Leg Over is an Cross, the exit skil of the Leg Over Wrap is also an Cross."
-},
-{
-"h": "Change sides to unwrap",
-"p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
-},
-{
-"h": "The entry skill",
-"p": "Leg Wraps traditionally start with a Leg Cross. The Leg Wrap itself is quite literally a 'second' Leg Cross where our leg is in the way of the path of the rope, thus creating the wrap as a consequence. We can also achieve this by performing the relative Leg Swing for that Leg Cross."
-}
-]
+            {
+                "h": "Count to four",
+                "p": "Foundationally, Leg Wraps have four basic steps - the entry skill, the wrap itself, the unwrap swing, then finally the exit skill."
+            },
+            {
+                "h": "Start with consecutives",
+                "p": "Before trying this Leg Wrap, start by practising consecutive Leg Crosses - just two in a row will do. Once comfortable, you can enter the wrap by modifying the hand placement of the restriced hand (the one under your leg) so it's not reaching as far as it normally would. As well as this, twist your leg slightly so your lower leg sticks out to the side in the way of the path of the rope."
+            },
+            {
+                "h": "Wrap below the knee",
+                "p": "Although this is called a 'leg wrap', it's important we wrap around a specific part of the leg. Generally, the rope should wrap around your lower leg just below the knee, on your calf muscle."
+            },
+            {
+                "h": "Wrap tightly",
+                "p": "To keep control of the momentum in the loop of the rope, wrap it tightly onto your leg. This can be achieved by placing your restricted hand against the back of your leg as you wrap the rope. If the rope wraps loosely, not only will it be slack but it will also make the rope even shorter than it already becomes in a wrap which also makes it difficult to control."
+            },
+            {
+                "h": "Know your exit",
+                "p": "The entry skill and exit skills are closely linked. By default the exit skill of a Leg Wrap is the exit skill of the relative Leg Cross. For example, as the entry skill of a Leg Over is an Cross, the exit skil of the Leg Over Wrap is also an Cross."
+            },
+            {
+                "h": "Change sides to unwrap",
+                "p": "To unwrap, bring the rope across to the other side of your body as the loop of the rope passes overhead at 12 o'clock."
+            },
+            {
+                "h": "The entry skill",
+                "p": "Leg Wraps traditionally start with a Leg Cross. The Leg Wrap itself is quite literally a 'second' Leg Cross where our leg is in the way of the path of the rope, thus creating the wrap as a consequence. We can also achieve this by performing the relative Leg Swing for that Leg Cross."
+            }
+        ]
     },
     {
         "ca": "W",
@@ -1040,36 +1025,21 @@
         "df": "Step-Through Wraps are skills where the jumper performs a Leg Wrap, except they step over the loop of the rope instead of jumping it.",
         "rd": "Y",
         "pr": "Step-Throughs, Leg Swings, Arm Wraps, Leg Wraps",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "W",
         "sc": "Double Wraps",
         "df": "Double Wraps are skills where the jumper wraps the rope twice around the same body part. This results in the basic four-count structure of the wrap changing to six or seven, depending on the body part.",
         "pr": "Arm Wraps, Leg Wraps",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "W",
         "sc": "Dual Wraps",
         "df": "Double Wraps are skills where the jumper wraps the rope twice around the two different body parts. This results in the basic four-count structure of the wrap changing to as many as nine counts.",
         "pr": "Arm Wraps, Leg Wraps",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "W",
@@ -1077,31 +1047,26 @@
         "df": "180 Unwraps are skills where the jumper turns 180º as they perform the unwrap swing, resulting in the jumper entering the wrap forwards and exiting the wrap backwards, or vice versa. Traditionally, the jumper will turn in the direction of of the unwrap swing.",
         "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Forwards 180s",
         "tt": [
-{
-"h": "turn away",
-"p": "In most cases, the 180 Turn will always be away from where the wrap occurs. So, if we wrap our left arm or leg, we will turn towards the right during at the end of the wrap."
-},
-{
-"h": "Time it right",
-"p": "Avoid turning too early. The 180 turn should occur either as finish unwrapping the rope or immediately after the rope has been unwrapped. Never before."
-},
-{
-"h": "Switching exits",
-"p": "Turning around has a knock-on effect on the exit skill. If the exit skill was originally an 'open' skill, it will now be a 'crossed' skill, and vice versa."
-}
-]
+            {
+                "h": "turn away",
+                "p": "In most cases, the 180 Turn will always be away from where the wrap occurs. So, if we wrap our left arm or leg, we will turn towards the right during at the end of the wrap."
+            },
+            {
+                "h": "Time it right",
+                "p": "Avoid turning too early. The 180 turn should occur either as finish unwrapping the rope or immediately after the rope has been unwrapped. Never before."
+            },
+            {
+                "h": "Switching exits",
+                "p": "Turning around has a knock-on effect on the exit skill. If the exit skill was originally an 'open' skill, it will now be a 'crossed' skill, and vice versa."
+            }
+        ]
     },
     {
         "ca": "W",
         "sc": "Gogo Unwraps",
         "df": "Gogo Unwraps are skills where the jumper unwraps from a Leg Wrap by transitioning into a Gogo Cross instead of performing the tradiational unwrap swing. The four-count structure of the wrap remained unchanged.",
         "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Gogo Crosses",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "W",
@@ -1109,24 +1074,14 @@
         "df": "One-Handed Wraps are skills where the jumper performs an Arm, Thigh or Leg Wrap whilst performing One-Handed Swings. ",
         "pr": "One-Handed Swings, Thigh Wraps, Leg Wraps",
         "rd": "Y",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "W",
         "sc": "Linked Wraps",
-        "df": "Linked Wraps are combos where two wraps are linked by overlapping the first wrap’s exit skill (count 4) with the second wrap’s entry skill (count 1), resulting in a 7-count structure. This is distinctly different performing both wraps fully back-to-back, which would require 8 count in total. A very common variation of this involves performing an Awesome Annie in between two Leg Wraps. ",
+        "df": "Linked Wraps are combos where two wraps are linked by overlapping the first wrap's exit skill (count 4) with the second wrap's entry skill (count 1), resulting in a 7-count structure. This is distinctly different performing both wraps fully back-to-back, which would require 8 count in total. A very common variation of this involves performing an Awesome Annie in between two Leg Wraps. ",
         "pr": "Arm Wraps, Leg Wraps, Awesome Annies",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "R",
@@ -1141,55 +1096,55 @@
         "rd": "Y",
         "pr": "Foundational Swings",
         "tt": [
-{
-"h": "scoop upwards",
-"p": "To keep the rope airborne, scoop upwards with each airborne rotation. Instead of drawing a circle as you rotate, draw a slightly eliptical loop vertically (taller than it is wide)."
-},
-{
-"h": "Pop or throw?",
-"p": "Mic Releases can be performed with a wrist pop or tissue box method, and it's good practice to learn both. However, if your turning is restricted than the tissue box method will usually be the better option."
-},
-{
-"h": "Try without jumping",
-"p": "As you're learning and mastering your Mic Release, don't worry about jumping/bounding throughout the skill. Once you feel ready, add the bounds for each step. You should bound during the side swing (where you actually release the handle), during the airborne rotation(s) and during the exit skill (where we catch the handle)."
-},
-{
-"h": "Use a toe catch",
-"p": "Struggling with the catch? Stand still and the drill this skill with a toe catch at the end until you can confidently get the loop of the rope under your feet. Then, reintroduce the jump."
-},
-{
-"h": "Keep constant momentum",
-"p": "It's crucial that your keep the rotation of the rope consistent and constant throughout the wrap and the release. Any pause or break will cause the rope to lose its momentum and begin to fall out of the air."
-}
-]
+            {
+                "h": "scoop upwards",
+                "p": "To keep the rope airborne, scoop upwards with each airborne rotation. Instead of drawing a circle as you rotate, draw a slightly eliptical loop vertically (taller than it is wide)."
+            },
+            {
+                "h": "Pop or throw?",
+                "p": "Mic Releases can be performed with a wrist pop or tissue box method, and it's good practice to learn both. However, if your turning is restricted than the tissue box method will usually be the better option."
+            },
+            {
+                "h": "Try without jumping",
+                "p": "As you're learning and mastering your Mic Release, don't worry about jumping/bounding throughout the skill. Once you feel ready, add the bounds for each step. You should bound during the side swing (where you actually release the handle), during the airborne rotation(s) and during the exit skill (where we catch the handle)."
+            },
+            {
+                "h": "Use a toe catch",
+                "p": "Struggling with the catch? Stand still and the drill this skill with a toe catch at the end until you can confidently get the loop of the rope under your feet. Then, reintroduce the jump."
+            },
+            {
+                "h": "Keep constant momentum",
+                "p": "It's crucial that your keep the rotation of the rope consistent and constant throughout the wrap and the release. Any pause or break will cause the rope to lose its momentum and begin to fall out of the air."
+            }
+        ]
     },
     {
         "ca": "R",
         "sc": "Vertical Releases",
-        "df": "Vertical releases are skills where the jumper performs a release without a swing whilst the rope’s arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body.",
+        "df": "Vertical releases are skills where the jumper performs a release without a swing whilst the rope's arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body.",
         "pr": "Body Crosses, Leg Crosses, Awesome Annies, Mic Releases",
         "tt": [
-{
-"h": "Release at 11 o'clock",
-"p": "Release the handle just before the loop of the rope passes directly overhead."
-},
-{
-"h": "Let it go...",
-"p": "Unlike other release methods, in this type, you don't need to do anything special to make the rope airboune. Just release your grip of the handle and let it go."
-},
-{
-"h": "Count the rotations",
-"p": "This skill can be performed with one or two rotations next to your body. If your arms are crossing your body then two rotations is easier, but if your arms aren't then one rotation will be easier."
-},
-{
-"h": "No swings",
-"p": "This release happens during the jumped part of the skill instead of during a swing next to the body. Release the handle just after you've jumped over the loop of the rope, as the rope travels upwards and begins to pass overhead."
-},
-{
-"h": "Scoop down, not up",
-"p": "Unlike normal Mic Releases, Vertical Releases require a slightly different technique. As you release the rope, scoop down with your turning hand rather than up to keep control of the airborne rope."
-}
-]
+            {
+                "h": "Release at 11 o'clock",
+                "p": "Release the handle just before the loop of the rope passes directly overhead."
+            },
+            {
+                "h": "Let it go...",
+                "p": "Unlike other release methods, in this type, you don't need to do anything special to make the rope airboune. Just release your grip of the handle and let it go."
+            },
+            {
+                "h": "Count the rotations",
+                "p": "This skill can be performed with one or two rotations next to your body. If your arms are crossing your body then two rotations is easier, but if your arms aren't then one rotation will be easier."
+            },
+            {
+                "h": "No swings",
+                "p": "This release happens during the jumped part of the skill instead of during a swing next to the body. Release the handle just after you've jumped over the loop of the rope, as the rope travels upwards and begins to pass overhead."
+            },
+            {
+                "h": "Scoop down, not up",
+                "p": "Unlike normal Mic Releases, Vertical Releases require a slightly different technique. As you release the rope, scoop down with your turning hand rather than up to keep control of the airborne rope."
+            }
+        ]
     },
     {
         "ca": "R",
@@ -1198,35 +1153,30 @@
         "rd": "Y",
         "pr": "Arm Wraps, Thigh Wraps, Leg Wraps, Mic Releases",
         "tt": [
-{
-"h": "One, two, threelease",
-"p": "Release the handle on the third count of the wrap, as you're unwrapping the rope. This means the airborne rotation of the release will be the fourth count of the wrap."
-},
-{
-"h": "Double rotation friendly",
-"p": "This release will usually flow better with a double rotation. To do this, spin the rope a little faster than usual as you release and then allow the loop of the rope to complete two full revoultions next to your body before catching the handle."
-},
-{
-"h": "Wrap tightly",
-"p": "To ensure the rope successfully releases from your wrapped body part, wrap the rope tightly so there's no slack."
-},
-{
-"h": "Keep constant momentum",
-"p": "It's crucial that your keep the rotation of the rope consistent and constant throughout the wrap and the release. Any pause or break will cause the rope to lose its momentum and begin to fall out of the air."
-}
-]
+            {
+                "h": "One, two, threelease",
+                "p": "Release the handle on the third count of the wrap, as you're unwrapping the rope. This means the airborne rotation of the release will be the fourth count of the wrap."
+            },
+            {
+                "h": "Double rotation friendly",
+                "p": "This release will usually flow better with a double rotation. To do this, spin the rope a little faster than usual as you release and then allow the loop of the rope to complete two full revoultions next to your body before catching the handle."
+            },
+            {
+                "h": "Wrap tightly",
+                "p": "To ensure the rope successfully releases from your wrapped body part, wrap the rope tightly so there's no slack."
+            },
+            {
+                "h": "Keep constant momentum",
+                "p": "It's crucial that your keep the rotation of the rope consistent and constant throughout the wrap and the release. Any pause or break will cause the rope to lose its momentum and begin to fall out of the air."
+            }
+        ]
     },
     {
         "ca": "R",
         "sc": "Same-Side Releases",
         "df": "Same-Side Releases are skills where the jumper releases the opposite handle to the one which they would normally release (left hand if swinging to the left), and rotates the rope with other hand instead. These are typically used as transitions into Mambas, as catching the rope without doing so is much more difficult.",
         "pr": "Mic Releases",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "R",
@@ -1234,12 +1184,7 @@
         "df": "Step-Through Releases are skills where the jumper performs a Vertical Release after stepping over the loop of the rope. These can also be performed with Same-Side Releases, depending on the Leg Cross the jumper steps through.",
         "rd": "Y",
         "pr": "Step-Throughs, Mic Releases",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "R",
@@ -1247,36 +1192,21 @@
         "df": "Mambas are skills where the jumper transitions between a Mic Release and a Same-Side Release by rotating the rope twice on either side of their body. The jump can enter a Mamba from a Mic Release or a Same-Side Release as well perform other skills at the same as the Mamba, including 360 Turns and Double Unders.",
         "rd": "Y",
         "pr": "Mic Releases, Same-Side Releases",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "R",
         "sc": "Floaters",
         "df": "Floaters are skills where the jumper brings the rope to a complete pause above their head and releases one or both handles for a very short time, before catching them again. Floaters are unique because none of the standard rules of 'combo buidling' apply since they enable the jumper to perform any skills before/after any other skill - something which is normally impossible.",
         "pr": "Foundational Swings, Leg Swings, Body Crosses, Leg Crosses",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "R",
         "sc": "Floater Mic Releases",
         "df": "Floater Mic Release are skills where the jumper brings the rope to a complete pause above their head and releases one handle (for example their left), handle passes the other handle (their right handle to their left hand) then begins rotating the rope with the other hand, before catching the first handle (with their right hand). These are literally a hybrid of Mic Releases and basic Floaters.",
         "pr": "Floaters, Mic Releases",
-        "tt": [
-{
-"h": "coming soon",
-"p": "top tips for this skill are coming soon..."
-}
-]
+        "tt": []
     },
     {
         "ca": "R",
@@ -1285,39 +1215,39 @@
         "rd": "Y",
         "pr": "Handle Passes, One-Handed Swings, Mic Releases",
         "tt": [
-{
-"h": "use your pinky",
-"p": "Hold the second handle with your pinky finger. This will ensure there is an adequete gap in the loop of the rope so it doesn't tangle as you swing & release the rope."
-},
-{
-"h": "Keep it narrow",
-"p": "Keep your swings narrow and close to your body. Imagine you're in a narrow corridor - avoid hitting the walls as you swing from side to side with the one hand."
-},
-{
-"h": "Release your pinky",
-"p": "For a standard Mic Release, release the handle you're holding with your pinky finger."
-},
-{
-"h": "Time it right",
-"p": "As we can't do a tissue box or wrist pop with only one hand, it's important to time the release right. Let go of the handle as the loop of the the rope approaches to the top of the revolution at roughly 11 o'clock. This will prevent the rope slamming into the floor."
-},
-{
-"h": "Spice it up!",
-"p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
-},
-{
-"h": "Rest day friendly",
-"p": "Can't jump, but want to anyway? One-Handed Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
-},
-{
-"h": "Keep constant momentum",
-"p": "It's crucial that your keep the rotation of the rope consistent and constant throughout the wrap and the release. Any pause or break will cause the rope to lose its momentum and begin to fall out of the air."
-},
-{
-"h": "Double rotation friendly",
-"p": "This release will usually flow better with a double rotation. To do this, spin the rope a little faster than usual as you release and then allow the loop of the rope to complete two full revoultions next to your body before catching the handle."
-}
-]
+            {
+                "h": "use your pinky",
+                "p": "Hold the second handle with your pinky finger. This will ensure there is an adequete gap in the loop of the rope so it doesn't tangle as you swing & release the rope."
+            },
+            {
+                "h": "Keep it narrow",
+                "p": "Keep your swings narrow and close to your body. Imagine you're in a narrow corridor - avoid hitting the walls as you swing from side to side with the one hand."
+            },
+            {
+                "h": "Release your pinky",
+                "p": "For a standard Mic Release, release the handle you're holding with your pinky finger."
+            },
+            {
+                "h": "Time it right",
+                "p": "As we can't do a tissue box or wrist pop with only one hand, it's important to time the release right. Let go of the handle as the loop of the the rope approaches to the top of the revolution at roughly 11 o'clock. This will prevent the rope slamming into the floor."
+            },
+            {
+                "h": "Spice it up!",
+                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
+            },
+            {
+                "h": "Rest day friendly",
+                "p": "Can't jump, but want to anyway? One-Handed Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
+            },
+            {
+                "h": "Keep constant momentum",
+                "p": "It's crucial that your keep the rotation of the rope consistent and constant throughout the wrap and the release. Any pause or break will cause the rope to lose its momentum and begin to fall out of the air."
+            },
+            {
+                "h": "Double rotation friendly",
+                "p": "This release will usually flow better with a double rotation. To do this, spin the rope a little faster than usual as you release and then allow the loop of the rope to complete two full revoultions next to your body before catching the handle."
+            }
+        ]   
     },
     {
         "ca": "R",
@@ -1327,39 +1257,39 @@
         "rd": "Y",
         "pr": "Foundational Swings, Leg Swings, EB Swings",
         "tt": [
-{
-"h": "use your pinky",
-"p": "Hold the second handle with your pinky finger. This will ensure there is an adequete gap in the loop of the rope so it doesn't tangle as you swing."
-},
-{
-"h": "Pass at 6 o'clock",
-"p": "Always pass the handle from one hand to the other when the loop of the rope passes your feet at 6 o'clock."
-},
-{
-"h": "Keep it narrow",
-"p": "Keep your swings narrow and close to your body. Imagine you're in a narrow corridor - avoid hitting the walls as you swing from side to side with the one hand."
-},
-{
-"h": "Grab the same handle",
-"p": "For most handle passes, you will re-grab the handle which you passed in the first place. This can be easy to notice if your handles are different colours. If you hold your 'passed' handle by your pinky then you'll be able to keep track easily."
-},
-{
-"h": "Know the difference",
-"p": "Before exploring One-Handed Swings, it's important to know the difference between your foundational swings - the Box Swing and Wrist Swing. During One-Handed Swings, all your swings on one side will be Box Swings and all your swings on the other side will be Wrist Swings. "
-},
-{
-"h": "Spice it up!",
-"p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
-},
-{
-"h": "Rest day friendly",
-"p": "Can't jump, but want to anyway? One-Handed Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
-},
-{
-"h": "Finish in two",
-"p": "It's common to pass the handle to and fro in two swings back-to-back rather than swing the rope continuously in one hand. When this happens, the 'pass' and the 'grab' will be on different sides of the body. If the 'pass' was a Box Swing then the 'grab' will be a 'Wrist Swing' and vice versa."
-}
-]
+            {
+                "h": "use your pinky",
+                "p": "Hold the second handle with your pinky finger. This will ensure there is an adequete gap in the loop of the rope so it doesn't tangle as you swing."
+            },
+            {
+                "h": "Pass at 6 o'clock",
+                "p": "Always pass the handle from one hand to the other when the loop of the rope passes your feet at 6 o'clock."
+            },
+            {
+                "h": "Keep it narrow",
+                "p": "Keep your swings narrow and close to your body. Imagine you're in a narrow corridor - avoid hitting the walls as you swing from side to side with the one hand."
+            },
+            {
+                "h": "Grab the same handle",
+                "p": "For most handle passes, you will re-grab the handle which you passed in the first place. This can be easy to notice if your handles are different colours. If you hold your 'passed' handle by your pinky then you'll be able to keep track easily."
+            },
+            {
+                "h": "Know the difference",
+                "p": "Before exploring One-Handed Swings, it's important to know the difference between your foundational swings - the Box Swing and Wrist Swing. During One-Handed Swings, all your swings on one side will be Box Swings and all your swings on the other side will be Wrist Swings. "
+            },
+            {
+                "h": "Spice it up!",
+                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
+            },
+            {
+                "h": "Rest day friendly",
+                "p": "Can't jump, but want to anyway? One-Handed Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
+            },
+            {
+                "h": "Finish in two",
+                "p": "It's common to pass the handle to and fro in two swings back-to-back rather than swing the rope continuously in one hand. When this happens, the 'pass' and the 'grab' will be on different sides of the body. If the 'pass' was a Box Swing then the 'grab' will be a 'Wrist Swing' and vice versa."
+            }
+        ]
     },
     {
         "ca": "R",
@@ -1367,450 +1297,445 @@
         "df": "Handle Holds are skills where the jumper places (and holds) one of their handles by their knee with a bent leg. Many types of skills are possible during a Handle Hold including Leg Crosses, Wraps, 180 Turns, Releases and more.",
         "pr": "Leg Crosses",
         "tt": [
-{
-"h": "Consider long handles",
-"p": "Passing and grabbing the handle can be tough in this skill. But it can be especially tough with short handles. Long handles make it easier to hold the handle with your leg as well as provide more."
-},
-{
-"h": "Wear shorts",
-"p": "Handle holds involve placing one handle behind your knee and keeping it place by bending your leg to pinch the handle. Wearing shorts means the handle will come into contact with your skin which will provide much more grip than trousers/bottoms."
-},
-{
-"h": "It's just consecutives",
-"p": "Fundamentally, basic Handle Holds are just consecutive Leg Crosses or other combos. Ensure you have the prerequisite skills you need for this skill by practising the movements without the handle hold itself. Then, when you're comfortable, include the handle hold."
-}
-]
+            {
+                "h": "Consider long handles",
+                "p": "Passing and grabbing the handle can be tough in this skill. But it can be especially tough with short handles. Long handles make it easier to hold the handle with your leg as well as provide more."
+            },
+            {
+                "h": "Wear shorts",
+                "p": "Handle holds involve placing one handle behind your knee and keeping it place by bending your leg to pinch the handle. Wearing shorts means the handle will come into contact with your skin which will provide much more grip than trousers/bottoms."
+            },
+            {
+                "h": "It's just consecutives",
+                "p": "Fundamentally, basic Handle Holds are just consecutive Leg Crosses or other combos. Ensure you have the prerequisite skills you need for this skill by practising the movements without the handle hold itself. Then, when you're comfortable, include the handle hold."
+            }
+        ]
     },
     {
         "ca": "M",
         "sc": "Main",
-        "df": "Multiples are skills where the rope makes two or more revolutions per one jump, either passing under the jumper’s feet or in a swing at their side. Multiples are described by how many revolutions they contain, e.g. double, triple, quadruple under and so on."
+        "df": "Multiples are skills where the rope makes two or more revolutions per one jump, either passing under the jumper's feet or in a swing at their side. Multiples are described by how many revolutions they contain, e.g. double, triple, quadruple under and so on."
     },
     {
         "ca": "M",
         "sc": "Double Unders",
-        "df": "Double unders are skills where the rope completes two revolutions in one jump, either passing under the jumper’s feet or in a swing at their side. There are 10 foundational double unders, upon which all other advanced double under variations are built.",
+        "df": "Double unders are skills where the rope completes two revolutions in one jump, either passing under the jumper's feet or in a swing at their side. There are 10 foundational double unders, upon which all other advanced double under variations are built.",
         "pr": "Body Crosses, Foundational Swings",
         "tt": [
-{
-"h": "Chest up, eyes forward",
-"p": "Keep your chest up and gaze locked on the horizon to ensure your upper body is full upright. This will help you ensure all your 'energy' is focused on jumping upwards. If you're hunched over or looking at the floor in front of you, this will imapct your bound height."
-},
-{
-"h": "It's in the elbows",
-"p": "To generate the force required to get the rope around, focus on your elbows not your wrists. Imagine your hands are wet and and to try shake them dry. This is the technique for generating the rope's momentum. And this force originates from the elbows as we shake."
-},
-{
-"h": "No dolphin, no banana",
-"p": "Avoid allowing your body to curl forward like a banana or dolphin. This common issue is due to the anterior chain (the muscles in the front of the body) being more dominant than the posterior chain. To overcome this, focus on engaging your glutes and upper back as well pulling back your shoulders."
-},
-{
-"h": "Drive down",
-"p": "To achieve the speed needed for a double under, you don't rely on spinning faster. Instead, focus on driving your rope down. This will have the same effect, except with one added bonus - it will also aid in your bound height. 'Every action has an equal and opposite reaction'. As you driven the rope down, you'll be helping yourself bound up with the madximum height."
-},
-{
-"h": "Elevate then rotate",
-"p": "One of the fundamental aspects of multiples is the idea that we 'elevate then rotate'. This means we take off right before we begin rotating the rope. This will prevent you tripping on the rope at the start of the double under."
-},
-{
-"h": "Take it slow",
-"p": "Avoid going too fast. It's easier to keep your form tight if you jump up a little higher and turn the rope slower. Not only that, this will also give you more time to think, making more advanced movements easier whilst in the air."
-},
-{
-"h": "Break 'em up",
-"p": "Struggling with consecutives? Break them up by doing several single unders in between each. Then, try two doubles followed by several singles, and gradually increase the quantity over time."
-},
-{
-"h": "Stay in one stop",
-"p": "Avoid drifting around as you do several double unders in a row. Pick a spot and try to stick to it. This will also help you stay balanced and efficient."
-},
-{
-"h": "Cadence matters",
-"p": "Double unders aren't simply singles but in double-time. Instead, they have a slightly different rhythm. The first under is slightly more intense and faster than the second. This is the result of us jumping up with all our force as start the double, then relaxing in the peak of the bound as we fall and complete the second under. Use this free fall to prepare for the landing and wahtever comes after."
-},
-{
-"h": "Land softly",
-"p": "Avoid landing heavily at the end each double under. Try to land softly so you can spring back up without putting too much stress on your knees or feet."
-}
-] 
+            {
+                "h": "Chest up, eyes forward",
+                "p": "Keep your chest up and gaze locked on the horizon to ensure your upper body is full upright. This will help you ensure all your 'energy' is focused on jumping upwards. If you're hunched over or looking at the floor in front of you, this will imapct your bound height."
+            },
+            {
+                "h": "It's in the elbows",
+                "p": "To generate the force required to get the rope around, focus on your elbows not your wrists. Imagine your hands are wet and and to try shake them dry. This is the technique for generating the rope's momentum. And this force originates from the elbows as we shake."
+            },
+            {
+                "h": "No dolphin, no banana",
+                "p": "Avoid allowing your body to curl forward like a banana or dolphin. This common issue is due to the anterior chain (the muscles in the front of the body) being more dominant than the posterior chain. To overcome this, focus on engaging your glutes and upper back as well pulling back your shoulders."
+            },
+            {
+                "h": "Drive down",
+                "p": "To achieve the speed needed for a double under, you don't rely on spinning faster. Instead, focus on driving your rope down. This will have the same effect, except with one added bonus - it will also aid in your bound height. 'Every action has an equal and opposite reaction'. As you driven the rope down, you'll be helping yourself bound up with the madximum height."
+            },
+            {
+                "h": "Elevate then rotate",
+                "p": "One of the fundamental aspects of multiples is the idea that we 'elevate then rotate'. This means we take off right before we begin rotating the rope. This will prevent you tripping on the rope at the start of the double under."
+            },
+            {
+                "h": "Take it slow",
+                "p": "Avoid going too fast. It's easier to keep your form tight if you jump up a little higher and turn the rope slower. Not only that, this will also give you more time to think, making more advanced movements easier whilst in the air."
+            },
+            {
+                "h": "Break 'em up",
+                "p": "Struggling with consecutives? Break them up by doing several single unders in between each. Then, try two doubles followed by several singles, and gradually increase the quantity over time."
+            },
+            {
+                "h": "Stay in one stop",
+                "p": "Avoid drifting around as you do several double unders in a row. Pick a spot and try to stick to it. This will also help you stay balanced and efficient."
+            },
+            {
+                "h": "Cadence matters",
+                "p": "Double unders aren't simply singles but in double-time. Instead, they have a slightly different rhythm. The first under is slightly more intense and faster than the second. This is the result of us jumping up with all our force as start the double, then relaxing in the peak of the bound as we fall and complete the second under. Use this free fall to prepare for the landing and wahtever comes after."
+            },
+            {
+                "h": "Land softly",
+                "p": "Avoid landing heavily at the end each double under. Try to land softly so you can spring back up without putting too much stress on your knees or feet."
+            }
+        ] 
     },
     {
         "ca": "M",
         "sc": "Triple Unders",
-        "df": "Triple unders are skills where the rope completes three revolutions in one jump, either passing under the jumper’s feet or in a swing at their side. There are 28 foundational triple unders, upon which all other advanced triple under variations are built.\n",
+        "df": "Triple unders are skills where the rope completes three revolutions in one jump, either passing under the jumper's feet or in a swing at their side. There are 28 foundational triple unders, upon which all other advanced triple under variations are built.\n",
         "pr": "Double Unders",
         "tt": [
-{
-"h": "Chest up, eyes forward",
-"p": "Keep your chest up and gaze locked on the horizon to ensure your upper body is full upright. This will help you ensure all your 'energy' is focused on jumping upwards. If you're hunched over or looking at the floor in front of you, this will imapct your bound height."
-},
-{
-"h": "It's in the elbows",
-"p": "To generate the force required to get the rope around, focus on your elbows not your wrists. Imagine your hands are wet and and to try shake them dry. This is the technique for generating the rope's momentum. And this force originates from the elbows as we shake."
-},
-{
-"h": "No dolphin, no banana",
-"p": "Avoid allowing your body to curl forward like a banana or dolphin. This common issue is due to the anterior chain (the muscles in the front of the body) being more dominant than the posterior chain. To overcome this, focus on engaging your glutes and upper back as well pulling back your shoulders."
-},
-{
-"h": "Drive down",
-"p": "To achieve the speed needed for a double under, you don't rely on spinning faster. Instead, focus on driving your rope down. This will have the same effect, except with one added bonus - it will also aid in your bound height. 'Every action has an equal and opposite reaction'. As you driven the rope down, you'll be helping yourself bound up with the madximum height."
-},
-{
-"h": "Elevate then rotate",
-"p": "One of the fundamental aspects of multiples is the idea that we 'elevate then rotate'. This means we take off right before we begin rotating the rope. This will prevent you tripping on the rope at the start of the double under."
-},
-{
-"h": "Take it slow",
-"p": "Avoid going too fast. It's easier to keep your form tight if you jump up a little higher and turn the rope slower. Not only that, this will also give you more time to think, making more advanced movements easier whilst in the air."
-},
-{
-"h": "Break 'em up",
-"p": "Struggling with consecutives? Break them up by doing several single unders in between each. Then, try two doubles followed by several singles, and gradually increase the quantity over time."
-},
-{
-"h": "Stay in one stop",
-"p": "Avoid drifting around as you do several double unders in a row. Pick a spot and try to stick to it. This will also help you stay balanced and efficient."
-},
-{
-"h": "Cadence matters",
-"p": "Double unders aren't simply singles but in double-time. Instead, they have a slightly different rhythm. The first under is slightly more intense and faster than the second. This is the result of us jumping up with all our force as start the double, then relaxing in the peak of the bound as we fall and complete the second under. Use this free fall to prepare for the landing and wahtever comes after."
-},
-{
-"h": "Land softly",
-"p": "Avoid landing heavily at the end each double under. Try to land softly so you can spring back up without putting too much stress on your knees or feet."
-}
-]
+            {
+                "h": "Chest up, eyes forward",
+                "p": "Keep your chest up and gaze locked on the horizon to ensure your upper body is full upright. This will help you ensure all your 'energy' is focused on jumping upwards. If you're hunched over or looking at the floor in front of you, this will imapct your bound height."
+            },
+            {
+                "h": "It's in the elbows",
+                "p": "To generate the force required to get the rope around, focus on your elbows not your wrists. Imagine your hands are wet and and to try shake them dry. This is the technique for generating the rope's momentum. And this force originates from the elbows as we shake."
+            },
+            {
+                "h": "No dolphin, no banana",
+                "p": "Avoid allowing your body to curl forward like a banana or dolphin. This common issue is due to the anterior chain (the muscles in the front of the body) being more dominant than the posterior chain. To overcome this, focus on engaging your glutes and upper back as well pulling back your shoulders."
+            },
+            {
+                "h": "Drive down",
+                "p": "To achieve the speed needed for a double under, you don't rely on spinning faster. Instead, focus on driving your rope down. This will have the same effect, except with one added bonus - it will also aid in your bound height. 'Every action has an equal and opposite reaction'. As you driven the rope down, you'll be helping yourself bound up with the madximum height."
+            },
+            {
+                "h": "Elevate then rotate",
+                "p": "One of the fundamental aspects of multiples is the idea that we 'elevate then rotate'. This means we take off right before we begin rotating the rope. This will prevent you tripping on the rope at the start of the double under."
+            },
+            {
+                "h": "Take it slow",
+                "p": "Avoid going too fast. It's easier to keep your form tight if you jump up a little higher and turn the rope slower. Not only that, this will also give you more time to think, making more advanced movements easier whilst in the air."
+            },
+            {
+                "h": "Break 'em up",
+                "p": "Struggling with consecutives? Break them up by doing several single unders in between each. Then, try two doubles followed by several singles, and gradually increase the quantity over time."
+            },
+            {
+                "h": "Stay in one stop",
+                "p": "Avoid drifting around as you do several double unders in a row. Pick a spot and try to stick to it. This will also help you stay balanced and efficient."
+            },
+            {
+                "h": "Cadence matters",
+                "p": "Double unders aren't simply singles but in double-time. Instead, they have a slightly different rhythm. The first under is slightly more intense and faster than the second. This is the result of us jumping up with all our force as start the double, then relaxing in the peak of the bound as we fall and complete the second under. Use this free fall to prepare for the landing and wahtever comes after."
+            },
+            {
+                "h": "Land softly",
+                "p": "Avoid landing heavily at the end each double under. Try to land softly so you can spring back up without putting too much stress on your knees or feet."
+            }
+        ]
     },
-{
-    "ca": "P",
-    "sc": "Main",
-    "df": "Principles are core mechanics that skills share regardless of which category they belong to. Skill categories group tricks based on 'what' they are, whereas principles group tricks based on 'how' they work. For example, EB and EB Toad are both Half Crosses (principle) because of 'how' you do them, but one is a Leg Cross (category) and the other is not."
-},
     {
-    "ca": "P",
-    "sc": "Front Crosses",
-    "df": "Front crosses are skills where the jumper crosses both hands in front of their body, such as the basic Cross and. They require no Swings or Opens to enter into, and can be performed after any other type of Cross.",
-    "tt": [
-{
-"h": "cross & uncross by 3 o'clock",
-"p": "Imagine a clock around you, with 12 above your head and 6 beneath your feet. In this skill, being entering the cross by the time the rope's loop reaches 3 o'clock."
-},
-{
-"h": "no swings are needed",
-"p": "When entering this skill, you can do so without needing any swings before it. Once you've mastered that, try adding entering this skill from many types of swings."
-},
-{
-"h": "avoid reaching forwards",
-"p": "Avoid reaching out too far in front of your hips during this skill. Your hands should be as close to your mid-section as possible, as if you were giving yourself a hug."
-}
-]
-},
+        "ca": "P",
+        "sc": "Main",
+        "df": "Principles are core mechanics that skills share regardless of which category they belong to. Skill categories group tricks based on 'what' they are, whereas principles group tricks based on 'how' they work. For example, EB and EB Toad are both Half Crosses (principle) because of 'how' you do them, but one is a Leg Cross (category) and the other is not."
+    },
+        {
+        "ca": "P",
+        "sc": "Front Crosses",
+        "df": "Front crosses are skills where the jumper crosses both hands in front of their body, such as the basic Cross and. They require no Swings or Opens to enter into, and can be performed after any other type of Cross.",
+        "tt": [
+            {
+                "h": "cross & uncross by 3 o'clock",
+                "p": "Imagine a clock around you, with 12 above your head and 6 beneath your feet. In this skill, being entering the cross by the time the rope's loop reaches 3 o'clock."
+            },
+            {
+                "h": "no swings are needed",
+                "p": "When entering this skill, you can do so without needing any swings before it. Once you've mastered that, try adding entering this skill from many types of swings."
+            },
+            {
+                "h": "avoid reaching forwards",
+                "p": "Avoid reaching out too far in front of your hips during this skill. Your hands should be as close to your mid-section as possible, as if you were giving yourself a hug."
+            }
+        ]
+    },
     {
         "ca": "P",
         "sc": "Half Crosses",
         "df": "Half crosses are skills where the jumper crosses one hand in front of their body and one behind their body, such as the EB and the AS Toad. They require one Swing to enter into or an Open, commonly referred to as a Dive in.",
-        "tt": 
-[
-{
-"h": "enter with a swing",
-"p": "This skill is traditionally entered with a swing. As you swing, bring your hand very close together and draw a straight line beside you. As you reach past you, put your arm (left hand if swinging to the left), behind your body and you're done."
-},
-{ 
-"h": "exit directly to Open",
-"p": "This skill is traditionally exited directly into an Open. Immediately after jumping the loop of the rope, gently remove your arm from behind your body and allow the rope's loop to pass of your shoulder before reaching your feet."
-},
-{ 
-"h": "Diving in",
-"p": "This skill can be spiced up with a Dive enterance. This involves removing the swing (which normally proceeds it) entirely. To do this, place your arm behind your body immediately after jumping the loop of the rope (of the last Open)."
-},
-{ 
-"h": "Avoid hooking your hand",
-"p": "When placing your hand behind your body, avoid hooking it with too much force. If you hook it, it will cause the rope to move around you diagonally, preventing you from clearing the loop of the rope."
-},
-{ 
-"h": "Avoid bending your elbow",
-"p": "When placing your hand behind your body, avoid bending your elbow too much to reach around. This will usually cause you to over-reach. Instead, keep a relaxed, most-straight arm. As you reach behind, you'll find you can reach far enough without bending your elbow much at all."
-},
-{ 
-"h": "Exiting with a swing",
-"p": "This skill can be exited with a swing, which is sometimes easier than its traditional exit (Open). To do this, jump through the skill and then wait for the loop of the rope to pass over your head another time. Then, as it approaches your feet again, uncross your front hand as opening a door and swing out."
-},
-{ 
-"h": "Keep your hands in position",
-"p": "When jumping through this skill, it's important to not let your hand drift upwards (such as reach too high up your back). Doing so will cause the loop of the rope to move around your diagonally."
-}
-]
+        "tt": [
+            {
+                "h": "enter with a swing",
+                "p": "This skill is traditionally entered with a swing. As you swing, bring your hand very close together and draw a straight line beside you. As you reach past you, put your arm (left hand if swinging to the left), behind your body and you're done."
+            },
+            { 
+                "h": "exit directly to Open",
+                "p": "This skill is traditionally exited directly into an Open. Immediately after jumping the loop of the rope, gently remove your arm from behind your body and allow the rope's loop to pass of your shoulder before reaching your feet."
+            },
+            { 
+                "h": "Diving in",
+                "p": "This skill can be spiced up with a Dive enterance. This involves removing the swing (which normally proceeds it) entirely. To do this, place your arm behind your body immediately after jumping the loop of the rope (of the last Open)."
+            },
+            { 
+                "h": "Avoid hooking your hand",
+                "p": "When placing your hand behind your body, avoid hooking it with too much force. If you hook it, it will cause the rope to move around you diagonally, preventing you from clearing the loop of the rope."
+            },
+            { 
+                "h": "Avoid bending your elbow",
+                "p": "When placing your hand behind your body, avoid bending your elbow too much to reach around. This will usually cause you to over-reach. Instead, keep a relaxed, most-straight arm. As you reach behind, you'll find you can reach far enough without bending your elbow much at all."
+            },
+            { 
+                "h": "Exiting with a swing",
+                "p": "This skill can be exited with a swing, which is sometimes easier than its traditional exit (Open). To do this, jump through the skill and then wait for the loop of the rope to pass over your head another time. Then, as it approaches your feet again, uncross your front hand as opening a door and swing out."
+            },
+            { 
+                "h": "Keep your hands in position",
+                "p": "When jumping through this skill, it's important to not let your hand drift upwards (such as reach too high up your back). Doing so will cause the loop of the rope to move around your diagonally."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Back Crosses",
         "df": "Back crosses are skills where the jumper crosses both hands behind their body, such as the TS and CL. They require two Swings to enter into or an Open (the default option). Only three of these exist.",
         "tt": [
-{
-"h": "enter with an Open",
-"p": "This skill is traditionally entered with an Open. Immediately after you jump the loop of the rope, put both hands behind your body and reach across ."
-},
-{ 
-"h": "entering two swings",
-"p": "Another way to enter this skill is with two swings. Swing the rope beside you as if entering an EB (or any other Half Cross) and place one hand behind your body. Wait for the rope to pass overhead then, as it approaches your feet, place your other hand behind your body as well. Let the rope pass overhead one more time then jump the skill."
-},
-{ 
-"h": "Avoid uncrossing early",
-"p": "When you jump the loop of the rope, wait until you've completely cleared it before uncrossing your arms. Uncrossing too early will cause you to trip."
-},
-{ 
-"h": "Reach fully across",
-"p": "When placing your hand behind your body, cross as far as you can such that your rope can travel around your shoulders without touching your body. If you don't reach far enough, the rope will get caught and lose all its momentum."
-},
-{ 
-"h": "two-count skill",
-"p": "This skill traditionally takes two jumps to complete. One to get your hands into position and one more to actually jump the cross."
-}
-]
+            {
+                "h": "enter with an Open",
+                "p": "This skill is traditionally entered with an Open. Immediately after you jump the loop of the rope, put both hands behind your body and reach across ."
+            },
+            { 
+                "h": "entering two swings",
+                "p": "Another way to enter this skill is with two swings. Swing the rope beside you as if entering an EB (or any other Half Cross) and place one hand behind your body. Wait for the rope to pass overhead then, as it approaches your feet, place your other hand behind your body as well. Let the rope pass overhead one more time then jump the skill."
+            },
+            { 
+                "h": "Avoid uncrossing early",
+                "p": "When you jump the loop of the rope, wait until you've completely cleared it before uncrossing your arms. Uncrossing too early will cause you to trip."
+            },
+            { 
+                "h": "Reach fully across",
+                "p": "When placing your hand behind your body, cross as far as you can such that your rope can travel around your shoulders without touching your body. If you don't reach far enough, the rope will get caught and lose all its momentum."
+            },
+            { 
+                "h": "two-count skill",
+                "p": "This skill traditionally takes two jumps to complete. One to get your hands into position and one more to actually jump the cross."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Front Swings",
         "df": "Front swings are skills where the jumper swings the rope whilst both hands are in front of their body, such as the Wrist Swing and Toad Gogo Swing. The require no Swings or Opens to enter into, but usually serve as the entrance for many other skills.",
         "tt": [
-{
-"h": "Transition at 3 o'clock",
-"p": "Imagine a clock, with 12 o'clock above your head and 6 o'clock underneath you. Transition into and out of this skill when the rope is at 3 o'clock."
-},
-{
-"h": "Hand positions",
-"p": "Front Swings are skills where both hands are in front of their body you swing the rope next you."
-}
-]
+            {
+                "h": "Transition at 3 o'clock",
+                "p": "Imagine a clock, with 12 o'clock above your head and 6 o'clock underneath you. Transition into and out of this skill when the rope is at 3 o'clock."
+            },
+            {
+                "h": "Hand positions",
+                "p": "Front Swings are skills where both hands are in front of their body you swing the rope next you."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Back Swings",
         "df": "Back swings are skills where the jumper swings the rope whilst one or both of their hands are behind their body, such as the EB Swing and EB Leg Over Swing. They require one Front Swing to enter into or an Open, commonly referred to as a Dive in.",
         "tt": [
-{
-"h": "Transition at 6 o'clock",
-"p": "Imagine a clock, with 12 o'clock above your head and 6 o'clock underneath you. Transition into and out of this skill after the rope is passes your feet at 6 o'clock."
-},
-{
-"h": "Enter with a swing",
-"p": "Traditionall this skill is entered with a Front Swing Bring the rope into a Box Swing then, as the rope passes your feet, place your outside hand behind your body. Let the rope pass over head then, as it approaches your feet again, uncross you the hand that's in front of you."
-},
-{
-"h": "Enter with a swing",
-"p": "Traditionall this skill is entered with a Front Swing Bring the rope into a Box Swing then, as the rope passes your feet, place your outside hand behind your body. Let the rope pass over head then, as it approaches your feet again, uncross you the hand that's in front of you."
-},
-{
-"h": "Front hand leads",
-"p": "Lead with the front hand to direct the rope. As you do the first swing, bring your hands together in front of you and draw a straight line next your body. Then, put your outside hand behind your back"
-},
-{
-"h": "Two-Step Skills",
-"p": "Back Swings, in isolation, generally have two steps. The swing in and the swing out. Once you've mastered the basic movement pattern, you can connect them in many other ways."
-},
-{
-"h": "Avoid early uncrossing",
-"p": "Avoid uncrossing your back hand too early. Wait until the rope has passed your hips before removing the hand from behind your body."
-},
-{
-"h": "Use both wrists",
-"p": "Use both wrists to generate the rope's momentum. If one wrist becomes frozen, the rope's arc will being moving around your diagonally."
-},
-{
-"h": "Avoid lifting your hands",
-"p": "Keep both hands on your hips at all times. Avoid lifting them up to guide the rope around you. This will interfer with the flow of the rope and make it harder to complete the skill."
-},
-{
-"h": "Connect with it",
-"p": "EB Swings can connect different skills together such as the EB Toad and the basic EB. Try it yourself and build a sequence with one hand 'stuck' behind your back."
-}
-]
+            {
+                "h": "Transition at 6 o'clock",
+                "p": "Imagine a clock, with 12 o'clock above your head and 6 o'clock underneath you. Transition into and out of this skill after the rope is passes your feet at 6 o'clock."
+            },
+            {
+                "h": "Enter with a swing",
+                "p": "Traditionally this skill is entered with a Front Swing Bring the rope into a Box Swing then, as the rope passes your feet, place your outside hand behind your body. Let the rope pass over head then, as it approaches your feet again, uncross you the hand that's in front of you."
+            },
+            {
+                "h": "Front hand leads",
+                "p": "Lead with the front hand to direct the rope. As you do the first swing, bring your hands together in front of you and draw a straight line next your body. Then, put your outside hand behind your back"
+            },
+            {
+                "h": "Two-Step Skills",
+                "p": "Back Swings, in isolation, generally have two steps. The swing in and the swing out. Once you've mastered the basic movement pattern, you can connect them in many other ways."
+            },
+            {
+                "h": "Avoid early uncrossing",
+                "p": "Avoid uncrossing your back hand too early. Wait until the rope has passed your hips before removing the hand from behind your body."
+            },
+            {
+                "h": "Use both wrists",
+                "p": "Use both wrists to generate the rope's momentum. If one wrist becomes frozen, the rope's arc will being moving around your diagonally."
+            },
+            {
+                "h": "Avoid lifting your hands",
+                "p": "Keep both hands on your hips at all times. Avoid lifting them up to guide the rope around you. This will interfer with the flow of the rope and make it harder to complete the skill."
+            },
+            {
+                "h": "Connect with it",
+                "p": "EB Swings can connect different skills together such as the EB Toad and the basic EB. Try it yourself and build a sequence with one hand 'stuck' behind your back."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Dive in",
         "df": "Dives are skills where the jumper enters into a Half Cross, such as the EB without first performing the side swing that usually proceeds it. They can be used to make sequences more seemless by literally removing the number of steps between different skills.",
         "tt": [
-{
-"h": "Dive = no swing",
-"p": "Dive is short-hand for 'no swing'. What this means is there is usually a swing at the beginning of this skill, but this time it's intentionally removed. This means you must enter the skill from an Open jump by moving the restricted hand into position immediately after the rope passes under your feet. This transition can feel very sudden, as if the hand is 'diving' into position, hence the name."
-},
-{
-"h": "Time it right",
-"p": "Move your restricted hand into position immediately after the rope passes under your feet at 7 o'clock."
-},
-{
-"h": "Don't force it",
-"p": "When you move your hand into position, do so gently. If you use too much force, this can cause the ope to react by moving digaonally around you."
-},
-{
-"h": "Wait for the jump",
-"p": "After completing the 'dive', you will have to wait what feels like an abnormally long time before it's time to take the next jump. This is normal. Be patient while the rope completes a full revolution before you jump the loop of the rope again. If you try to cut this movement short the rope will being moving diagonally which will make it almost impossible to not trip."
-},
-{
-"h": "Use the toe catch",
-"p": "This skill can feel unnatural at first, compared to the traditional 'swing in' version. To get comfortable with the dive entry, drill it with a toe catch until you're confident the rope can consistently reach your feet."
-}
-]
+            {
+                "h": "Dive = no swing",
+                "p": "Dive is short-hand for 'no swing'. What this means is there is usually a swing at the beginning of this skill, but this time it's intentionally removed. This means you must enter the skill from an Open jump by moving the restricted hand into position immediately after the rope passes under your feet. This transition can feel very sudden, as if the hand is 'diving' into position, hence the name."
+            },
+            {
+                "h": "Time it right",
+                "p": "Move your restricted hand into position immediately after the rope passes under your feet at 7 o'clock."
+            },
+            {
+                "h": "Don't force it",
+                "p": "When you move your hand into position, do so gently. If you use too much force, this can cause the ope to react by moving digaonally around you."
+            },
+            {
+                "h": "Wait for the jump",
+                "p": "After completing the 'dive', you will have to wait what feels like an abnormally long time before it's time to take the next jump. This is normal. Be patient while the rope completes a full revolution before you jump the loop of the rope again. If you try to cut this movement short the rope will being moving diagonally which will make it almost impossible to not trip."
+            },
+            {
+                "h": "Use the toe catch",
+                "p": "This skill can feel unnatural at first, compared to the traditional 'swing in' version. To get comfortable with the dive entry, drill it with a toe catch until you're confident the rope can consistently reach your feet."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Swing in",
         "df": "All crossing skills can be entered from an Open, but in some cases, swinging in can be more natural or smoother. Front Crosses such as the basic Cross are proceeded by a Box Swing, whereas skills such as the Leg Over are proceeded by a Wrist Swing.",
         "tt": [
-{
-"h": "", 
-"p": "The type of swing you need depends on the skill you're entering into. If it's a cross (such as a Toad) then you'll need a Box Swing, whereas if it's an ucrossed skill (such as a Leg Over) you'll need a Wrist Swing."
-},
-{
-"h": "Keep it narrow",
-"p": "Imagine you're in a narrow corridor and swing close to your body. Reaching out too wide in the swing is inefficient."
-},
-{
-"h": "Don't rush it",
-"p": "Take your time as you swing into the skill. Allow the rope to complete a full revolution beside you before entering the skill. If you try to cut the swing short the rope will travel diagonally across you and this increases the chances of you tripping."
-}
-]
+            {
+            "h": "Know your swing", 
+            "p": "The type of swing you need depends on the skill you're entering into. If it's a cross (such as a Toad) then you'll need a Box Swing, whereas if it's an ucrossed skill (such as a Leg Over) you'll need a Wrist Swing."
+            },
+            {
+            "h": "Keep it narrow",
+            "p": "Imagine you're in a narrow corridor and swing close to your body. Reaching out too wide in the swing is inefficient."
+            },
+            {
+            "h": "Don't rush it",
+            "p": "Take your time as you swing into the skill. Allow the rope to complete a full revolution beside you before entering the skill. If you try to cut the swing short the rope will travel diagonally across you and this increases the chances of you tripping."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Swing out",
         "df": "All crossing skills can be exited directly into an Open, but in some cases, swinging out can be more natural and easier. Half Crosses, such as the EB, and Leg Crosses, such as the Leg Over, are both easier to perform if swung out of. Swinging out also sometimes allows a jumper to transition between one skill and the next more fluidly.",
         "tt": [
-{
-"h": "Time it right",
-"p": "Avoid swinging out too early. Wait until the loop of the rope reaches 4 o'clock before you transition out of the last skill."
-},
-{
-"h": "Keep it narrow",
-"p": "Imagine you're in a narrow corridor and swing close to your body. Reaching out too wide in the swing is inefficient."
-},
-{
-"h": "The easy way out", 
-"p": "Many skills can be exited with a skill, and this is usually done to make it easier. However, it can also serve as the transition into another skill, making the transition between both skills smoother."
-}
-]
+            {
+                "h": "Time it right",
+                "p": "Avoid swinging out too early. Wait until the loop of the rope reaches 4 o'clock before you transition out of the last skill."
+            },
+            {
+                "h": "Keep it narrow",
+                "p": "Imagine you're in a narrow corridor and swing close to your body. Reaching out too wide in the swing is inefficient."
+            },
+            {
+                "h": "The easy way out", 
+                "p": "Many skills can be exited with a skill, and this is usually done to make it easier. However, it can also serve as the transition into another skill, making the transition between both skills smoother."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Wrist Swing Releases",
         "df": "Wrist Swing Releases are skills where the jumper performs a Wrist Swing, before then releasing the top handle (of the hand which is crossing over the body) as the rope approaches the top of its revolution (12 o'clock). These are typically performed with a double rotation as a stylistic choice.",
         "tt": [
-{
-"h": "hand placement",
-"p": "At the start of this release, you'll perform a side swing with a Wrist Swing hand placement. The handle you will release is the one which is underneath the other hand."
-},
-{
-"h": "Just let go",
-"p": "To release the handle, simply let go gently as the rope approaches the top of its revolution."
-},
-{
-"h": "Release at 11 o'clock",
-"p": "Release the handle as the loop of the rope swings overhead, at roughly 11 o'clock. If you release too late, the rope will shoot out in front of you uncontrollably."
-},
-{
-"h": "Scoop down, not up",
-"p": "Unlike normal Mic Releases, Vertical Releases require a slightly different technique. As you release the rope, scoop down with your turning hand rather than up to keep control of the airborne rope."
-}
-]
+            {
+                "h": "hand placement",
+                "p": "At the start of this release, you'll perform a side swing with a Wrist Swing hand placement. The handle you will release is the one which is underneath the other hand."
+            },
+            {
+                "h": "Just let go",
+                "p": "To release the handle, simply let go gently as the rope approaches the top of its revolution."
+            },
+            {
+                "h": "Release at 11 o'clock",
+                "p": "Release the handle as the loop of the rope swings overhead, at roughly 11 o'clock. If you release too late, the rope will shoot out in front of you uncontrollably."
+            },
+            {
+                "h": "Scoop down, not up",
+                "p": "Unlike normal Mic Releases, Vertical Releases require a slightly different technique. As you release the rope, scoop down with your turning hand rather than up to keep control of the airborne rope."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Wrist Pop Releases",
         "df": "Wrist Pop Releases are skills where the jumper performs a modified Box Swing, where their outer hand (hand not crossing the body) is placed on top of the other hand's wrist, before releasing then it by popping if off the back of the other hand's wrist. This is the most biomechnically-efficient way to perform a Mic Release and so its recommended that beginners learn this first before exploring other types.",
         "tt": [
-{
-"h": "handle placement",
-"p": "Place the handle you're going to release on the back of the opposite, roughly where a wristwatch would be. Point the tip of the handle forward so it's perpendicular to turning handle."
-},
-{
-"h": "Pop up & forward",
-"p": "To avoid the rope slamming into the floor or trailing behind you, pop the handle up and forward so the rope rotates at chest height right next to you."
-},
-{
-"h": "Release at 7 o'clock",
-"p": "Release the handle as the loop of the rope swings past your feet, at roughly 7 o'clock."
-},
-{
-"h": "On the neck",
-"p": "Place the handle on the back of your opposite wrist so that the neck of the handle rests on your wrist. If the handle contacts your wrist too close to either end / tip of the handle it will not release properly."
-}
-]
+            {
+                "h": "handle placement",
+                "p": "Place the handle you're going to release on the back of the opposite, roughly where a wristwatch would be. Point the tip of the handle forward so it's perpendicular to turning handle."
+            },
+            {
+                "h": "Pop up & forward",
+                "p": "To avoid the rope slamming into the floor or trailing behind you, pop the handle up and forward so the rope rotates at chest height right next to you."
+            },
+            {
+                "h": "Release at 7 o'clock",
+                "p": "Release the handle as the loop of the rope swings past your feet, at roughly 7 o'clock."
+            },
+            {
+                "h": "On the neck",
+                "p": "Place the handle on the back of your opposite wrist so that the neck of the handle rests on your wrist. If the handle contacts your wrist too close to either end / tip of the handle it will not release properly."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Box Swing Releases",
         "df": "Box Swing Releases are skills where the jumper performs a modified Box Swing, where the outer handle (the hand not crossing the body) is pointed towards the floor, before then releasing this handle by pulling it gently upwards.",
         "tt": [
-{
-"h": "Release at 7 o'clock",
-"p": "Release the handle as the loop of the rope swings past your feet, at roughly 7 o'clock."
-},
-{
-"h": "point down",
-"p": "Point the handle which you're going to release down towards the floor. Hold it level with the turning handle."
-},
-{
-"h": "tissue box method",
-"p": "Tug the handle upwards to avoid slamming the rope into the floor as you release it. Imagine pulling a tissue from a tissue box - this is the amount of effort required."
-},
-{
-"h": "hold the end",
-"p": "As you transition into the box swing of this release, allow the releasing handle to gently slip out of your hand's normal grip so that you are only holding onto the tip as if pinching a tissue."
-},
-{
-"h": "Avoid tossing out",
-"p": "Avoid tossing the handle sideways away from you. As the released rope rotates next to you, it will natural move away from you before moving back again, so you do not need to add more sideways momentum to this (unless done as a stylistic choice)."
-},
-{
-"h": "Pop up & forward",
-"p": "To avoid the rope slamming into the floor or trailing behind you, toss the handle up and forward so the rope rotates at chest height right next to you."
-}
-]
+            {
+                "h": "Release at 7 o'clock",
+                "p": "Release the handle as the loop of the rope swings past your feet, at roughly 7 o'clock."
+            },
+            {
+                "h": "point down",
+                "p": "Point the handle which you're going to release down towards the floor. Hold it level with the turning handle."
+            },
+            {
+                "h": "tissue box method",
+                "p": "Tug the handle upwards to avoid slamming the rope into the floor as you release it. Imagine pulling a tissue from a tissue box - this is the amount of effort required."
+            },
+            {
+                "h": "hold the end",
+                "p": "As you transition into the box swing of this release, allow the releasing handle to gently slip out of your hand's normal grip so that you are only holding onto the tip as if pinching a tissue."
+            },
+            {
+                "h": "Avoid tossing out",
+                "p": "Avoid tossing the handle sideways away from you. As the released rope rotates next to you, it will natural move away from you before moving back again, so you do not need to add more sideways momentum to this (unless done as a stylistic choice)."
+            },
+            {
+                "h": "Pop up & forward",
+                "p": "To avoid the rope slamming into the floor or trailing behind you, toss the handle up and forward so the rope rotates at chest height right next to you."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "No Swing Releases",
-        "df": "No Swing Releases are skills where the jumper performs a release without a swing whilst the rope’s arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body.",
+        "df": "No Swing Releases are skills where the jumper performs a release without a swing whilst the rope's arc is above their head (around 12 o'clock). This is distinctly different from a Mic Release, where the jumper releases the rope at 6 o'clock in a side swing next to their body.",
         "tt": [
-{
-"h": "Release at 11 o'clock",
-"p": "Release the handle just before the loop of the rope passes directly overhead."
-},
-{
-"h": "Let it go...",
-"p": "Unlike other release methods, in this type, you don't need to do anything special to make the rope airboune. Just release your grip of the handle and let it go."
-},
-{
-"h": "Count the rotations",
-"p": "This skill can be performed with one or two rotations next to your body. If your arms are crossing your body then two rotations is easier, but if your arms aren't then one rotation will be easier."
-},
-{
-"h": "No swings",
-"p": "This release happens during the jumped part of the skill instead of during a swing next to the body. Release the handle just after you've jumped over the loop of the rope, as the rope travels upwards and begins to pass overhead."
-}
-]
+            {
+                "h": "Release at 11 o'clock",
+                "p": "Release the handle just before the loop of the rope passes directly overhead."
+            },
+            {
+                "h": "Let it go...",
+                "p": "Unlike other release methods, in this type, you don't need to do anything special to make the rope airboune. Just release your grip of the handle and let it go."
+            },
+            {
+                "h": "Count the rotations",
+                "p": "This skill can be performed with one or two rotations next to your body. If your arms are crossing your body then two rotations is easier, but if your arms aren't then one rotation will be easier."
+            },
+            {
+                "h": "No swings",
+                "p": "This release happens during the jumped part of the skill instead of during a swing next to the body. Release the handle just after you've jumped over the loop of the rope, as the rope travels upwards and begins to pass overhead."
+            }
+        ]
     },
     {
         "ca": "P",
         "sc": "Consecutives",
         "df": "All crossing and swinging skills can be performed consecutively, where the jumper repeated the same skills back-to-back without anything in between. True consecutives have no Opens in between the skills at all (e.g Cross > Cross > Cross), whereas semi-consecutives have one Open in between the skills (e.g. Cross > Open > Cross > Open > Cross). These can be fun (and very benefitial) ways to challenge yourself by testing how many consecutives of a skill you can without tripping.",
         "tt": [
-{ 
-"h": "Scoop wrists evenly",
-"p": "It's critical you scoop/rotate both wrists evenly. If one wrist works harder than the other, the rope's arc will begin to tilt to one side and it'll trip you up."
-},
-{ 
-"h": "Keep hands in position",
-"p": "Avoid letting your hands drift from where they belon in each skill. If they drift forwards or upwards you'll trip."
-},
-{ 
-"h": "Momentum is your friend",
-"p": "Some restrictions can be challenging to create momentum in. To be successful, ensure you jump at a good pace (both before and during these skills) so the rope has plenty of momentum throughout."
-}
-]
-},
+            { 
+                "h": "Scoop wrists evenly",
+                "p": "It's critical you scoop/rotate both wrists evenly. If one wrist works harder than the other, the rope's arc will begin to tilt to one side and it'll trip you up."
+            },
+            { 
+                "h": "Keep hands in position",
+                "p": "Avoid letting your hands drift from where they belon in each skill. If they drift forwards or upwards you'll trip."
+            },
+            { 
+                "h": "Momentum is your friend",
+                "p": "Some restrictions can be challenging to create momentum in. To be successful, ensure you jump at a good pace (both before and during these skills) so the rope has plenty of momentum throughout."
+            }
+        ]
+    },
     {
         "ca": "X",
         "sc": "Basic Crosses",
@@ -1826,7 +1751,7 @@
         "sc": "Beginner Friendly",
         "df": "Beginner friendly means only skills featured in the Beginner Friendly collection. These are very easy to learn so if you're new to jump rope, or want to master your fundamentals, then this is for you! For an added challenge, try unlocking this on both sides!"
     },
-{
+    {
         "ca": "X",
         "sc": "Turns",
         "df": "This creation includes turning skills such as 180s, 360s and Texans. For an added challenge, try unlocking this on both sides!"
@@ -1846,8 +1771,4 @@
         "sc": "Backwards",
         "df": "This challenge features mostly or entirely backwards skills. Remember to keep your hands close to your hips and your shoulders relaxed. For an added challenge, try unlocking it on both sides!"
     }
-
-
-
-
 ]
