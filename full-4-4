@@ -6984,7 +6984,7 @@
     {
         "na": "EB Arm Wrap 180",
         "ax": "W3g",
-        "sk": "> Swing > EB Arm Wrap > Unwrap Swing 180> <BW> Open >",
+        "sk": "> Swing > EB Arm Wrap > Unwrap Swing 180 > <BW> Open >",
         "no": "S, E[s], (Eo)[s)>, «O,",
         "ty": "V",
         "as": "W3",
@@ -6999,7 +6999,7 @@
     {
         "na": "Dive EB Arm Wrap 180",
         "ax": "W3h",
-        "sk": "> Open > EB Arm Wrap > Unwrap Swing 180> <BW> Open >",
+        "sk": "> Open > EB Arm Wrap > Unwrap Swing 180 > <BW> Open >",
         "no": "O, E[s], (Eo)[s)>, «O,",
         "ty": "V",
         "as": "W3",
@@ -17303,7 +17303,7 @@
     },
     {
         "na": "Mic Release to Dive EB Arm Wrap 180",
-        "sk": "> Swing > Mic Release > Open > EB Arm Wrap > Unwrap Swing 180> <BW> Open >",
+        "sk": "> Swing > Mic Release > Open > EB Arm Wrap > Unwrap Swing 180 > <BW> Open >",
         "no": "S, M, O, E[s], E[s)>, O,",
         "ty": "CO",
         "vi": 848349572,
@@ -18327,7 +18327,7 @@
     },
     {
         "na": "Challenge 72",
-        "sk": "> Cross > Open > EB Arm Wrap > Unwrap Swing 180> <BW> Open > <BW> Texan 180 > Leg Over <OS> > Swing <B> > Arm Wrap > Unwrap Swing > Cross >",
+        "sk": "> Cross > Open > EB Arm Wrap > Unwrap Swing 180 > <BW> Open > <BW> Texan 180 > Leg Over <OS> > Swing <B> > Arm Wrap > Unwrap Swing > Cross >",
         "no": "C, O, E[s], (Eo)[s)>, O, O}, Lo, S, [S], [S), C,",
         "ty": "CH",
         "vi": 836498609,
@@ -18585,7 +18585,7 @@
     },
     {
         "na": "Challenge 95",
-        "sk": "> Swing > Mic Release <WP> > Open > EB Arm Wrap > Unwrap Swing 180> <BW> Open 180 > Swing <B> > Arm Wrap > Unwrap Swing > Swing > EB > EB Arm Wrap > Unwrap Swing > EB Swing 180 > <BW> Swing > <BW> Cross Texan 180 > Cross >",
+        "sk": "> Swing > Mic Release <WP> > Open > EB Arm Wrap > Unwrap Swing 180 > <BW> Open 180 > Swing <B> > Arm Wrap > Unwrap Swing > Swing > EB > EB Arm Wrap > Unwrap Swing > EB Swing 180 > <BW> Swing > <BW> Cross Texan 180 > Cross >",
         "no": "S, M, O, E[s], (Eo)[s)>, «O>, S, [S], [S), S, Ec, E[s], (Eo)[s), Es<, «S, «Cx<, C, O,",
         "ty": "CH",
         "vi": 836498894,
