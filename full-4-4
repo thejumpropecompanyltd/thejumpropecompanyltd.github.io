@@ -18303,7 +18303,7 @@
     },
     {
         "na": "Challenge 70",
-        "sk": "> Swing <B> > Arm Wrap > Unwrap Swing > Cross > Arm Wrap > Cross > Cross <OS> >",
+        "sk": "> Swing <B> > Arm Wrap > Unwrap Swing > Cross > Arm Wrap > Unwrap Swing > Cross > Cross <OS> >",
         "no": "S, [S], [S), C, [S], [S), C, -C,",
         "ty": "CH",
         "vi": 836498468,
@@ -18479,7 +18479,7 @@
     },
     {
         "na": "Challenge 85",
-        "sk": "> Open Open <DU> > Swing <W> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> > Swing Open <DU> <OS> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> >",
+        "sk": "> Open Open <DU> > Swing <W> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> > Swing Open <DU> <OS> > Open Open <DU> > Swing Open <DU> <OS> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> > Swing <W> <OS> > Open Open <DU> >",
         "no": "OO, S, OO, -S, OO, -SO, OO, -SO, OO, -S, OO, -S, OO,",
         "ty": "CH",
         "vi": 836506627,
