@@ -13361,9 +13361,9 @@
     {
         "na": "EB to EB (via EB Leg Over Swing)",
         "sk": "> Swing > EB > EB Leg Over Swing > EB >",
-        "no": "S, Ec, Es, Ec,",
+        "no": "S, Ec, Le, Ec,",
         "ty": "CO",
-        "vi": "CS",
+        "vi": 1198498206,
         "c1": "Body Cross"
     },
     {
