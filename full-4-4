@@ -4329,6 +4329,34 @@
         "sd": 2
     },
     {
+        "na": "Toad Step Through",
+        "ax": "C72",
+        "sk": "> Toad Step Through > Swing <W> >",
+        "no": "Tc_, S,",
+        "ty": "S",
+        "as": "C72",
+        "vi": 1199920102,
+        "c1": "Step Through",
+        "c2": "Leg Cross",
+        "p1": "Front Cross",
+        "hs": 1,
+        "sd": 1
+    },
+    {
+        "na": "Leg Over Step Through",
+        "ax": "C73",
+        "sk": "> Leg Over Step Through > Swing <B> > Swing <W> >",
+        "no": "Lo_, S, S,",
+        "ty": "S",
+        "as": "C73",
+        "vi": 1199920145,
+        "c1": "Step Through",
+        "c2": "Leg Cross",
+        "p1": "Front Cross",
+        "hs": 1,
+        "sd": 1
+    },
+    {
         "na": "Wrist Swing",
         "ax": "S1",
         "sk": "> Swing <W> >",
