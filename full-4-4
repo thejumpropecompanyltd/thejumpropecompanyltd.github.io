@@ -3452,58 +3452,6 @@
         "sd": 2
     },
     {
-        "na": "Tucked Toad 'Awesome Annie'",
-        "ax": "C32",
-        "ty": "S",
-        "as": "C32",
-        "vi": "CS",
-        "c1": "Tucked Cross",
-        "c2": "Leg Cross",
-        "c3": "Awesome Annie",
-        "p1": "Front Cross",
-        "hs": 2,
-        "sd": 2
-    },
-    {
-        "na": "Tucked Leg Over 'Awesome Annie'",
-        "ax": "C33",
-        "ty": "S",
-        "as": "C33",
-        "vi": "CS",
-        "c1": "Tucked Cross",
-        "c2": "Leg Cross",
-        "c3": "Awesome Annie",
-        "p1": "Front Cross",
-        "hs": 2,
-        "sd": 2
-    },
-    {
-        "na": "Tucked Inverse Toad 'Awesome Annie'",
-        "ax": "C34",
-        "ty": "S",
-        "as": "C34",
-        "vi": "CS",
-        "c1": "Tucked Cross",
-        "c2": "Leg Cross",
-        "c3": "Awesome Annie",
-        "p1": "Front Cross",
-        "hs": 2,
-        "sd": 2
-    },
-    {
-        "na": "Tucked Inverse Leg Over 'Awesome Annie'",
-        "ax": "C35",
-        "ty": "S",
-        "as": "C35",
-        "vi": "CS",
-        "c1": "Tucked Cross",
-        "c2": "Leg Cross",
-        "c3": "Awesome Annie",
-        "p1": "Front Cross",
-        "hs": 2,
-        "sd": 2
-    },
-    {
         "na": "Cross Gogo",
         "ax": "C36",
         "ty": "S",
