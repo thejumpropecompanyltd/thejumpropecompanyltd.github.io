@@ -336,8 +336,8 @@
     },
     {
         "ca": "C",
-        "sc": "Step-Throughs",
-        "df": "Step-Throughs are skills where the jumper steps through the loop of the rope instead of jumping over it. Leg Crosses and Leg Wraps are commonly performed as Step-Throughs as a stylist choice. They are excellent active rest day skills since they involve no jumping whatsoever.",
+        "sc": "Step Throughs",
+        "df": "Step Throughs are skills where the jumper steps through the loop of the rope instead of jumping over it. Leg Crosses and Leg Wraps are commonly performed as Step Throughs as a stylist choice. They are excellent active rest day skills since they involve no jumping whatsoever.",
         "rd": "Y",
         "pr": "Leg Crosses",
         "tt": [
@@ -347,11 +347,11 @@
             },
             {
                 "h": "Step through, literally",
-                "p": "Step-Throughs are usually modified Leg Crosses. How they differ is that we step over the loop of the rope rather than jump over it. Do to this, plant the foot you would normally lift up and step through the rope with the foot you would've jumped over it with. After the loop has passed around and overhead, shift your bodyweight onto the leg you stepped through with, and lift up the leg which would normally be lifted."
+                "p": "Step Throughs are usually modified Leg Crosses. How they differ is that we step over the loop of the rope rather than jump over it. Do to this, plant the foot you would normally lift up and step through the rope with the foot you would've jumped over it with. After the loop has passed around and overhead, shift your bodyweight onto the leg you stepped through with, and lift up the leg which would normally be lifted."
             },
             {
                 "h": "Swing out",
-                "p": "Usually, Step-Through skills are exited with a swing on the opposite side of the body. Imagine a clock - wait for the rope to pass overhead and, as the rope it approaches 3 o'clock, lift your planted leg and begin swinging out. Swing the rope as vertically as possible and stand back up straight to finish."
+                "p": "Usually, Step Through skills are exited with a swing on the opposite side of the body. Imagine a clock - wait for the rope to pass overhead and, as the rope it approaches 3 o'clock, lift your planted leg and begin swinging out. Swing the rope as vertically as possible and stand back up straight to finish."
             },
             {
                 "h": "Rest Day Friendly",
@@ -570,7 +570,7 @@
             },
             {
                 "h": "Spice it up!",
-                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
+                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step Throughs."
             },
             {
                 "h": "Rest day friendly",
@@ -1021,10 +1021,10 @@
     },
     {
         "ca": "W",
-        "sc": "Step-Through Wraps",
-        "df": "Step-Through Wraps are skills where the jumper performs a Leg Wrap, except they step over the loop of the rope instead of jumping it.",
+        "sc": "Step Through Wraps",
+        "df": "Step Through Wraps are skills where the jumper performs a Leg Wrap, except they step over the loop of the rope instead of jumping it.",
         "rd": "Y",
-        "pr": "Step-Throughs, Leg Swings, Arm Wraps, Leg Wraps",
+        "pr": "Step Throughs, Leg Swings, Arm Wraps, Leg Wraps",
         "tt": []
     },
     {
@@ -1180,10 +1180,10 @@
     },
     {
         "ca": "R",
-        "sc": "Step-Through Releases",
-        "df": "Step-Through Releases are skills where the jumper performs a Vertical Release after stepping over the loop of the rope. These can also be performed with Same-Side Releases, depending on the Leg Cross the jumper steps through.",
+        "sc": "Step Through Releases",
+        "df": "Step Through Releases are skills where the jumper performs a Vertical Release after stepping over the loop of the rope. These can also be performed with Same-Side Releases, depending on the Leg Cross the jumper steps through.",
         "rd": "Y",
-        "pr": "Step-Throughs, Mic Releases",
+        "pr": "Step Throughs, Mic Releases",
         "tt": []
     },
     {
@@ -1233,7 +1233,7 @@
             },
             {
                 "h": "Spice it up!",
-                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
+                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step Throughs."
             },
             {
                 "h": "Rest day friendly",
@@ -1279,7 +1279,7 @@
             },
             {
                 "h": "Spice it up!",
-                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step-Throughs."
+                "p": "Once you're feeling comfortable, get spicy with it! There are lots of skills that can be performed with both handles in one hand such as Leg Wraps, Mic Releases and even Step Throughs."
             },
             {
                 "h": "Rest day friendly",
@@ -1744,7 +1744,7 @@
     {
         "ca": "X",
         "sc": "Rest Day Friendly",
-        "df": "Rest day friendly means there's little to no jumps whatsoever, making it perfect for your active rest day or if you're injured but can't stay away from the rope! Remember, rest day friendly does not always mean beginner friendly, so keep your eyes peeled for Mic Releases or Step-Through Wraps."
+        "df": "Rest day friendly means there's little to no jumps whatsoever, making it perfect for your active rest day or if you're injured but can't stay away from the rope! Remember, rest day friendly does not always mean beginner friendly, so keep your eyes peeled for Mic Releases or Step Through Wraps."
     },
     {
         "ca": "X",
