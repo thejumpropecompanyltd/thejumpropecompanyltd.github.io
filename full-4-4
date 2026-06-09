@@ -4932,7 +4932,7 @@
         "no": "S, Ei, Ia, C,",
         "ty": "S",
         "as": "S20",
-        "vi": "CS",
+        "vi": 1199664557,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "p1": "Half Cross",
@@ -4941,7 +4941,7 @@
         "sd": 2
     },
     {
-        "na": "Inverse EB Toad Awesome Annie (Toad Swing in)",
+        "na": "Inverse EB Toad Awesome Annie (Inverse Toad Swing in)",
         "ax": "S20a",
         "sk": "> Inverse Toad Swing > Inverse EB Toad > Inverse Toad Awesome Annie > Cross >",
         "no": "Ts, Ei, Ia, C,",
@@ -4994,7 +4994,7 @@
         "no": "Tc, (To)o, Ta, C,",
         "ty": "S",
         "as": "S22",
-        "vi": "CS",
+        "vi": 1199664556,
         "c1": "Awesome Annie",
         "c2": "Leg Cross",
         "c3": "Gogo Cross",
