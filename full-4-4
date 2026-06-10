@@ -6187,8 +6187,8 @@
         "c1": "Dive Turn",
         "c2": "360 Turn",
         "c3": "Ground Cross",
-        "hs": 2,
-        "sd": 4
+        "sd": 4,
+        "hs": 2
     },
     {
         "na": "Dive Swing Cross 360",
