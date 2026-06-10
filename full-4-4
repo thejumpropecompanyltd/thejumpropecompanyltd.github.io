@@ -6458,7 +6458,7 @@
         "na": "Dive Inverse Leg Hook 360",
         "ax": "D67",
         "no": "O>, «Oi>,",
-        "sk": "> Open 180 > <BW> Inverse Leg Hook 180 >"
+        "sk": "> Open 180 > <BW> Inverse Leg Hook 180 >",
         "ty": "S",
         "as": "D67",
         "vi": 1200258692,
@@ -6472,7 +6472,7 @@
         "na": "Dive Switch Leg Hook 360",
         "ax": "D92",
         "no": "O>, «-Ot>,",
-        "sk": "> Open 180 > <BW> Leg Hook 180 <OS> >"
+        "sk": "> Open 180 > <BW> Leg Hook 180 <OS> >",
         "ty": "V",
         "as": "D92",
         "vi": 1200258691,
@@ -6486,7 +6486,7 @@
         "na": "Dive Switch Inverse Leg Hook 360",
         "ax": "D93",
         "no": "O>, «-Oi>,",
-        "sk": "> Open 180 > <BW> Inverse Leg Hook 180 <OS> >"
+        "sk": "> Open 180 > <BW> Inverse Leg Hook 180 <OS> >",
         "ty": "V",
         "as": "D93",
         "vi": "CS",
