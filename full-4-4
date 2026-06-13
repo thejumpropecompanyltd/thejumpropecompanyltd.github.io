@@ -1729,7 +1729,7 @@
         "as": "C101",
         "vi": 1201006076,
         "c1": "Backwards Body Cross",
-        "hs": 0,
+        "hs": 1,
         "sd": 1
     },
     {
@@ -1741,7 +1741,7 @@
         "as": "C101",
         "vi": 1201006077,
         "c1": "Backwards Body Cross",
-        "hs": 0,
+        "hs": 1,
         "sd": 1
     },
     {
@@ -1753,7 +1753,7 @@
         "as": "C101",
         "vi": 1201006075,
         "c1": "Backwards Body Cross",
-        "hs": 0,
+        "hs": 1,
         "sd": 1
     },
     {
@@ -1765,7 +1765,7 @@
         "as": "C101",
         "vi": 1201006074,
         "c1": "Backwards Body Cross",
-        "hs": 0,
+        "hs": 1,
         "sd": 1
     },
     {
@@ -1790,7 +1790,7 @@
         "as": "C102",
         "vi": 1201006923,
         "c1": "Backwards Body Cross",
-        "hs": 0,
+        "hs": 2,
         "sd": 1
     },
     {
@@ -1802,7 +1802,7 @@
         "as": "C102",
         "vi": 1201007230,
         "c1": "Backwards Body Cross",
-        "hs": 0,
+        "hs": 2,
         "sd": 1
     },
     {
@@ -1999,8 +1999,8 @@
         "as": "C103",
         "vi": "CS",
         "c1": "Backwards Leg Cross",
-        "hs": 0,
-        "sd": 1
+        "hs": 1,
+        "sd": 2
     },
     {
         "na": "Toad (consecutively)",
@@ -2118,8 +2118,8 @@
         "as": "C104",
         "vi": "CS",
         "c1": "Backwards Leg Cross",
-        "hs": 0,
-        "sd": 1
+        "hs": 1,
+        "sd": 2
     },
     {
         "na": "Inverse Toad (consecutively)",
@@ -2220,8 +2220,8 @@
         "as": "C105",
         "vi": "CS",
         "c1": "Backwards Leg Cross",
-        "hs": 0,
-        "sd": 1
+        "hs": 2,
+        "sd": 2
     },
     {
         "na": "Elephant (consecutively)",
@@ -2356,8 +2356,8 @@
         "as": "C106",
         "vi": "CS",
         "c1": "Backwards Leg Cross",
-        "hs": 0,
-        "sd": 1
+        "hs": 1,
+        "sd": 2
     },
     {
         "na": "Leg Over (Swing Cross out)",
@@ -2516,8 +2516,8 @@
         "as": "C107",
         "vi": 1201007583,
         "c1": "Backwards Leg Cross",
-        "hs": 0,
-        "sd": 1
+        "hs": 1,
+        "sd": 2
     },
     {
         "na": "Inverse Leg Over (Swing Cross out)",
@@ -2826,6 +2826,18 @@
         "sd": 2
     },
     {
+        "na": "Backwards Caboose",
+        "ax": "C108",
+        "sk": "> Between-the-Leg Stall > <BW> Caboose >",
+        "no": "O; «T,",
+        "ty": "S",
+        "as": "C108",
+        "vi": "CS",
+        "c1": "Backwards Ground Cross",
+        "hs": 2,
+        "sd": 2
+    },
+    {
         "na": "Caboose (Ground Stall in)",
         "ax": "C17a",
         "sk": "> Ground Stall > Pull-Through > Caboose >",
@@ -2983,6 +2995,18 @@
         "sd": 2
     },
     {
+        "na": "Backwards AS",
+        "ax": "C109",
+        "sk": "> <BW> AS >",
+        "no": "«N,",
+        "ty": "S",
+        "as": "C109",
+        "vi": "CS",
+        "c1": "Backwards Ground Cross",
+        "hs": 2,
+        "sd": 2
+    },
+    {
         "na": "AS (Ground Stall in)",
         "ax": "C19a",
         "sk": "> Ground Stall > Open > AS >",
@@ -3065,6 +3089,18 @@
         "vi": 832941441,
         "c1": "Ground Cross",
         "p1": "Back Cross",
+        "hs": 2,
+        "sd": 2
+    },
+    {
+        "na": "Backwards CL",
+        "ax": "C110",
+        "sk": "> <BW> CL >",
+        "no": "«En,",
+        "ty": "S",
+        "as": "C110",
+        "vi": "CS",
+        "c1": "Backwards Ground Cross",
         "hs": 2,
         "sd": 2
     },
@@ -3370,6 +3406,18 @@
         "sd": 2
     },
     {
+        "na": "Backwards T-Toad",
+        "ax": "C111",
+        "sk": "> <BW> Cross > <BW> Swing > <BW> T-Toad >",
+        "no": "«C, «S, «T(c),",
+        "ty": "S",
+        "as": "C111",
+        "vi": "CS",
+        "c1": "Backwards Tucked Cross",
+        "hs": 2,
+        "sd": 2
+    },
+    {
         "na": "T-Toad (Swing in)",
         "ax": "C24b",
         "sk": "> Swing <B> > T-Toad > Swing <B> > Cross >",
@@ -3458,6 +3506,18 @@
         "p1": "Front Cross",
         "p3": "Swing in",
         "p4": "Swing out",
+        "hs": 2,
+        "sd": 2
+    },
+    {
+        "na": "Backwards Inverse T-Toad",
+        "ax": "C112",
+        "sk": "> <BW> Cross > <BW> Swing > <BW> Inverse T-Toad >",
+        "no": "«C, «S, «I(c),",
+        "ty": "S",
+        "as": "C112",
+        "vi": "CS",
+        "c1": "Backwards Tucked Cross",
         "hs": 2,
         "sd": 2
     },
@@ -3693,6 +3753,18 @@
         "sd": 3
     },
     {
+        "na": "Backwards Toad Gogo",
+        "ax": "C113",
+        "sk": "> <BW> Open > <BW> Toad Gogo > <BW> Toad >",
+        "no": "«O, «(To)o, «Tc,",
+        "ty": "S",
+        "as": "C113",
+        "vi": "CS",
+        "c1": "Backwards Gogo Cross",
+        "hs": 2,
+        "sd": 3
+    },
+    {
         "na": "Toad Gogo (Toad Wrist Swing in)",
         "ax": "C38a",
         "sk": "> Toad Swing <W> > Toad Gogo >",
@@ -3733,6 +3805,18 @@
         "c1": "Gogo Cross",
         "c2": "Leg Cross",
         "p1": "Front Cross",
+        "hs": 2,
+        "sd": 3
+    },
+    {
+        "na": "Backwards Inverse Toad Gogo",
+        "ax": "C114",
+        "sk": "> <BW> Open > <BW> Inverse Toad Gogo > <BW> Inverse Toad >",
+        "no": "«O, «(Io)o, «Ic,",
+        "ty": "S",
+        "as": "C114",
+        "vi": "CS",
+        "c1": "Backwards Gogo Cross",
         "hs": 2,
         "sd": 3
     },
