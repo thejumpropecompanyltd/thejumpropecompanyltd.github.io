@@ -209,6 +209,12 @@
     },
     {
         "ca": "C",
+        "sc": "Backwards Leg Crosses",
+        "df": "Backwards Leg Crosses are skills where the jumper crosses one or both hands under one of their legs, such as the Toad and Leg Over. They require good balance and leg strength to perform cleanly.",
+        "tt": []
+    },
+    {
+        "ca": "C",
         "sc": "Ground Crosses",
         "df": "Ground Crosses are skills where the jumper crosses one or both hands around their lower legs. This usually requires them to squat down to the ground such as with the Caboose, hence their name. They are easiest to learn if performed with a Ground Stall at the beginning.",
         "tt": [
