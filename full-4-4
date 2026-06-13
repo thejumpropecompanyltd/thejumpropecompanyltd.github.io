@@ -1991,6 +1991,18 @@
         "sd": 2
     },
     {
+        "na": "Backwards Toad",
+        "ax": "C103",
+        "sk": "> <BW> Toad >",
+        "no": "«Tc,",
+        "ty": "S",
+        "as": "C103",
+        "vi": "CS",
+        "c1": "Backwards Leg Cross",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Toad (consecutively)",
         "ax": "C7a",
         "sk": "> Toad > Toad > Toad >",
@@ -2098,6 +2110,18 @@
         "sd": 2
     },
     {
+        "na": "Backwards Inverse Toad",
+        "ax": "C104",
+        "sk": "> <BW> Inverse Toad >",
+        "no": "«Ic,",
+        "ty": "S",
+        "as": "C104",
+        "vi": "CS",
+        "c1": "Backwards Leg Cross",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Inverse Toad (consecutively)",
         "ax": "C8a",
         "sk": "> Inverse Toad > Inverse Toad > Inverse Toad >",
@@ -2186,6 +2210,18 @@
         "p1": "Front Cross",
         "hs": 2,
         "sd": 2
+    },
+    {
+        "na": "Backwards Elephant",
+        "ax": "C105",
+        "sk": "> <BW> Elephant >",
+        "no": "«Ti,",
+        "ty": "S",
+        "as": "C105",
+        "vi": "CS",
+        "c1": "Backwards Leg Cross",
+        "hs": 0,
+        "sd": 1
     },
     {
         "na": "Elephant (consecutively)",
@@ -2310,6 +2346,18 @@
         "p1": "Front Cross",
         "hs": 1,
         "sd": 2
+    },
+    {
+        "na": "Backwards Leg Over",
+        "ax": "C106",
+        "sk": "> <BW> Cross > <BW> Leg Over >",
+        "no": "«C, «Lo,",
+        "ty": "S",
+        "as": "C106",
+        "vi": "CS",
+        "c1": "Backwards Leg Cross",
+        "hs": 0,
+        "sd": 1
     },
     {
         "na": "Leg Over (Swing Cross out)",
@@ -2458,6 +2506,18 @@
         "p1": "Front Cross",
         "hs": 1,
         "sd": 2
+    },
+    {
+        "na": "Backwards Inverse Leg Over",
+        "ax": "C107",
+        "sk": "> <BW> Cross > <BW> Inverse Leg Over >",
+        "no": "«C, «Jo,",
+        "ty": "S",
+        "as": "C107",
+        "vi": 1201007583,
+        "c1": "Backwards Leg Cross",
+        "hs": 0,
+        "sd": 1
     },
     {
         "na": "Inverse Leg Over (Swing Cross out)",
