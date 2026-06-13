@@ -1997,7 +1997,7 @@
         "no": "«Tc,",
         "ty": "S",
         "as": "C103",
-        "vi": "CS",
+        "vi": 1201040652,
         "c1": "Backwards Leg Cross",
         "hs": 1,
         "sd": 2
@@ -2116,7 +2116,7 @@
         "no": "«Ic,",
         "ty": "S",
         "as": "C104",
-        "vi": "CS",
+        "vi": 1201040650,
         "c1": "Backwards Leg Cross",
         "hs": 1,
         "sd": 2
@@ -2218,7 +2218,7 @@
         "no": "«Ti,",
         "ty": "S",
         "as": "C105",
-        "vi": "CS",
+        "vi": 1201041862,
         "c1": "Backwards Leg Cross",
         "hs": 2,
         "sd": 2
@@ -2354,7 +2354,7 @@
         "no": "«C, «Lo,",
         "ty": "S",
         "as": "C106",
-        "vi": "CS",
+        "vi": 1201040651,
         "c1": "Backwards Leg Cross",
         "hs": 1,
         "sd": 2
@@ -3412,8 +3412,9 @@
         "no": "«C, «S, «T(c),",
         "ty": "S",
         "as": "C111",
-        "vi": "CS",
+        "vi": 1201041348,
         "c1": "Backwards Tucked Cross",
+        "p3": "Swing in",
         "hs": 2,
         "sd": 2
     },
@@ -3516,8 +3517,9 @@
         "no": "«C, «S, «I(c),",
         "ty": "S",
         "as": "C112",
-        "vi": "CS",
+        "vi": 1201041346,
         "c1": "Backwards Tucked Cross",
+        "p3": "Swing in",
         "hs": 2,
         "sd": 2
     },
