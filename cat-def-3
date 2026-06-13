@@ -463,6 +463,15 @@
     },
     {
         "ca": "S",
+        "sc": "Backwards Foundational Swings",
+        "df": "Backwards Foundational Swings are the two basic side swings with your hands on your hips, but backwards.",
+        "bg": "Y",
+        "rd": "Y",
+        "pr": "Foundational Swings",
+        "tt": []
+    },
+    {
+        "ca": "S",
         "sc": "EB Swings",
         "df": "EB Swings are swings where one hand is restricted behind the jumper's back in the “EB” position. They are a great way for beginners to explore swings which lead to more advanced skills such as the EB itself or EB Toad. EB Swings also function as a fun skill unto themselves on active rest days.",
         "bg": "Y",
@@ -498,6 +507,15 @@
                 "p": "Can't jump, but want to anyway? EB Swings are perfect for rest days since they can be performed with little to no jumping whatsoever."
             }
         ]
+    },
+    {
+        "ca": "S",
+        "sc": "Backwards EB Swings",
+        "df": "Backwards EB Swings are swings where one hand is restricted behind the jumper's back in the “EB” position. They are a great way for beginners to explore swings which lead to more advanced skills such as the EB itself or EB Toad. EB Swings also function as a fun skill unto themselves on active rest days.",
+        "bg": "Y",
+        "rd": "Y",
+        "pr": "Foundational Swings, EB Swings",
+        "tt": []
     },
     {
         "ca": "S",
@@ -543,8 +561,17 @@
     },
     {
         "ca": "S",
+        "sc": "Backwards Leg Swings",
+        "df": "Backwards Legs Swings are swings where one hand or both of the jumper's hands are restricted under one of their legs. They can be used as an entry point or transition between different Backwards Leg Crosses.",
+        "bg": "Y",
+        "rd": "Y",
+        "pr": "Foundational Swings, Leg Swings",
+        "tt": []
+    },
+    {
+        "ca": "S",
         "sc": "Awesome Annies",
-        "df": "Awesome Annies are swings which enable the jumper to transition between the two Leg Crosses, such as the Toad and Leg Over. All Leg Crosses can be Awesome Annie'd from but not only a few can be Awesome Annie'd into, including the Leg Over, Toad and T-Toad.",
+        "df": "Awesome Annies are swings which enable the jumper to transition between the two Leg Crosses, such as the Toad and Leg Over. All Leg Crosses can be Awesome Annie'd from but only a few can be Awesome Annie'd into, including the Leg Over, Toad and T-Toad.",
         "pr": "Leg Crosses",
         "tt": [
             { 
@@ -571,10 +598,25 @@
     },
     {
         "ca": "S",
+        "sc": "Backwards Awesome Annies",
+        "df": "Backwards Awesome Annies are swings which enable the jumper to transition between the two Backwards Leg Crosses, such as the Toad and Leg Over.",
+        "pr": "Leg Crosses, Backwards Leg Crosses, Awesome Annies",
+        "tt": []
+    },
+    {
+        "ca": "S",
         "sc": "Gogo Swings",
         "df": "Gogo swings are swings where one hand crosses around one of the jumper's body part twice, such as around their hips. Imagine your left hand crossing across your back from left to right, then reaching back around the front of your hips from right to left -  the hand goes one way then it goes the other way - it 'go-gos'. One of the most common gogo swings is the EB Gogo Swing which is used to create a popular type of Mic Release called the EB Gogo Mic Release.",
         "rd": "Y",
         "pr": "Foundational Swings, Leg Swings, EB Swings",
+        "tt": []
+    },
+    {
+        "ca": "S",
+        "sc": "Backwards Gogo Swings",
+        "df": "Backwards Gogo swings are swings where one hand crosses around one of the jumper's body part twice, such as around their hips. Imagine your left hand crossing across your back from left to right, then reaching back around the front of your hips from right to left -  the hand goes one way then it goes the other way - it 'go-gos'.",
+        "rd": "Y",
+        "pr": "Foundational Swings, Leg Swings, EB Swings, Backwards Leg Swings, Backwards EB Swings, Gogo Swings",
         "tt": []
     },
     {
