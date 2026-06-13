@@ -1721,6 +1721,54 @@
         "sd": 1
     },
     {
+        "na": "Backwards EB",
+        "ax": "C101",
+        "sk": "> <BW> EB >",
+        "no": "«Ec,",
+        "ty": "S",
+        "as": "C101",
+        "vi": 1201006076,
+        "c1": "Backwards Body Cross",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards EB (EB Swing in)",
+        "ax": "C101a",
+        "sk": "> <BW> EB Swing > <BW> EB >",
+        "no": "«Es, «Ec,",
+        "ty": "V",
+        "as": "C101",
+        "vi": 1201006077,
+        "c1": "Backwards Body Cross",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards EB (Swing out)",
+        "ax": "C101b",
+        "sk": "> <BW> EB > <BW> Swing >",
+        "no": "«Ec, «S,",
+        "ty": "V",
+        "as": "C101",
+        "vi": 1201006075,
+        "c1": "Backwards Body Cross",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards EB (EB Swing in, Swing out)",
+        "ax": "C101c",
+        "sk": "> <BW> EB Swing > <BW> EB > <BW> Swing >",
+        "no": "«Es, «Ec, «S,",
+        "ty": "V",
+        "as": "C101",
+        "vi": 1201006074,
+        "c1": "Backwards Body Cross",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "TS",
         "ax": "C3",
         "sk": "> Open > TS >",
