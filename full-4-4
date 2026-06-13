@@ -1551,6 +1551,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Cross",
+        "ax": "C100",
+        "sk": "> Cross >",
+        "no": "C,",
+        "ty": "S",
+        "as": "C100",
+        "vi": 836655690,
+        "c1": "Backwards Body Cross",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Cross (consecutively)",
         "ax": "C1a",
         "sk": "> Cross > Cross > Cross >",
