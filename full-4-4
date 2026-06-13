@@ -4647,6 +4647,30 @@
         "sd": 1
     },
     {
+        "na": "Backwards Box Swing",
+        "ax": "S100",
+        "sk": "> <BW> Swing <B> >",
+        "no": "«S,",
+        "ty": "S",
+        "as": "S100",
+        "vi": "CS",
+        "c1": "Backwards Foundational Swing",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Wrist Swing to Cross",
+        "ax": "S101",
+        "sk": "> <BW> Swing <W> > <BW> Cross >",
+        "no": "«S, «C,",
+        "ty": "S",
+        "as": "S101",
+        "vi": 836657433,
+        "c1": "Backwards Foundational Swing",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Box Swing to Wrist Swing",
         "ax": "S3",
         "sk": "> Swing <B> > Swing <W> <OS> >",
@@ -4659,6 +4683,18 @@
         "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "nn": "Double Swing",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Wrist Swing to Box Swing",
+        "ax": "S102",
+        "sk": "> <BW> Swing <W> > <BW> Swing <B> >",
+        "no": "«S, «S,",
+        "ty": "S",
+        "as": "S102",
+        "vi": "CS",
+        "c1": "Backwards Foundational Swing",
         "hs": 0,
         "sd": 1
     },
@@ -4692,6 +4728,18 @@
         "c8": "Rest Day Friendly",
         "p2": "Front Swing",
         "nn": "Double Swing",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Box Swing to Wrist Swing",
+        "ax": "S103",
+        "sk": "> <BW> Swing <B> > <BW> Swing <W> > <BW> Cross >",
+        "no": "«S, «S, «C,",
+        "ty": "S",
+        "as": "S103",
+        "vi": "CS",
+        "c1": "Backwards Foundational Swing",
         "hs": 0,
         "sd": 1
     },
@@ -4743,6 +4791,20 @@
         "sd": 1
     },
     {
+        "na": "Backwards EB Swing",
+        "ax": "S104",
+        "sk": "> <BW> EB Swing > <BW> Swing >",
+        "no": "«Es, «S,",
+        "ty": "S",
+        "as": "S104",
+        "vi": "CS",
+        "c1": "Backwards EB Swing",
+        "c7": "Beginner Friendly",
+        "c8": "Rest Day Friendly",
+        "hs": 1,
+        "sd": 1
+    },
+    {
         "na": "Dive EB Swing",
         "ax": "S4a",
         "sk": "> Open > EB Swing >",
@@ -4769,6 +4831,18 @@
         "p2": "Front Swing",
         "hs": 1,
         "sd": 2
+    },
+    {
+        "na": "Backwards Toad Swing",
+        "ax": "S105",
+        "sk": "> <BW> Swing > <BW> Toad Swing >",
+        "no": "«S, «Ts,",
+        "ty": "S",
+        "as": "S105",
+        "vi": "CS",
+        "c1": "Backwards Leg Swing",
+        "hs": 1,
+        "sd": 1
     },
     {
         "na": "Toad Wrist Swing",
@@ -4800,6 +4874,18 @@
         "sd": 2
     },
     {
+        "na": "Backwards Inverse Toad Swing",
+        "ax": "S106",
+        "sk": "> <BW> Swing > <BW> Inverse Toad Swing >",
+        "no": "«S, «Is,",
+        "ty": "S",
+        "as": "S106",
+        "vi": "CS",
+        "c1": "Backwards Leg Swing",
+        "hs": 1,
+        "sd": 1
+    },
+    {
         "na": "Inverse Toad Wrist Swing",
         "ax": "S6a",
         "sk": "> Inverse Toad Swing <W> >",
@@ -4826,6 +4912,18 @@
         "p2": "Front Swing",
         "hs": 1,
         "sd": 2
+    },
+    {
+        "na": "Backwards Leg Over Swing",
+        "ax": "S107",
+        "sk": "> <BW> Swing > <BW> Leg Over Swing > <BW> Swing >",
+        "no": "«S, «Ls, «S,",
+        "ty": "S",
+        "as": "S107",
+        "vi": "CS",
+        "c1": "Backwards Leg Swing",
+        "hs": 1,
+        "sd": 1
     },
     {
         "na": "Leg Over Swing (Swing Cross out)",
@@ -5011,6 +5109,54 @@
         "p2": "Front Swing",
         "hs": 1,
         "sd": 2
+    },
+    {
+        "na": "Backwards Toad Awesome Annie",
+        "ax": "S108",
+        "sk": "> <BW> Cross > <BW> Toad Awesome Annie > <BW> Toad >",
+        "no": "«C, «Ta, «Tc,",
+        "ty": "S",
+        "as": "S108",
+        "vi": 1201054444,
+        "c1": "Backwards Awesome Annie",
+        "hs": 1,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Leg Over Awesome Annie",
+        "ax": "S109",
+        "sk": "> <BW> Leg Hook > <BW> Leg Over Awesome Annie > <BW> Leg Over >",
+        "no": "«Ot, «La, «Lo,",
+        "ty": "S",
+        "as": "S109",
+        "vi": 1201054442,
+        "c1": "Backwards Awesome Annie",
+        "hs": 1,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Inverse Toad Awesome Annie",
+        "ax": "S110",
+        "sk": "> <BW> Cross > <BW> Inverse Toad Awesome Annie > <BW> Inverse Toad >",
+        "no": "«C, «Ia, «Ic,",
+        "ty": "S",
+        "as": "S110",
+        "vi": 1201054443,
+        "c1": "Backwards Awesome Annie",
+        "hs": 1,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Elephant Awesome Annie",
+        "ax": "S111",
+        "sk": "> <BW> Cross > <BW> Elephant Awesome Annie > <BW> Elephant >",
+        "no": "«C, «Ta, «Ti,",
+        "ty": "S",
+        "as": "S111",
+        "vi": 1201054445,
+        "c1": "Backwards Awesome Annie",
+        "hs": 1,
+        "sd": 1
     },
     {
         "na": "Toad Awesome Annie (consecutively)",
