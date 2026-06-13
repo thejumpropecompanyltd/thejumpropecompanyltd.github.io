@@ -1782,6 +1782,30 @@
         "sd": 1
     },
     {
+        "na": "Backwards TS",
+        "ax": "C102",
+        "sk": "> <BW> TS >",
+        "no": "«E,",
+        "ty": "S",
+        "as": "C102",
+        "vi": 1201006923,
+        "c1": "Backwards Body Cross",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards TS (EB Swing in)",
+        "ax": "C102a",
+        "sk": "> <BW> EB Swing > <BW> TS >",
+        "no": "«Es, «E,",
+        "ty": "V",
+        "as": "C102",
+        "vi": 1201007230,
+        "c1": "Backwards Body Cross",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "TS (consecutively)",
         "ax": "C3a",
         "sk": "> Open > TS > TS >",
