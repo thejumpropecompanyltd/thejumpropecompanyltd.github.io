@@ -166,6 +166,7 @@
         "sc": "Backwards Body Crosses",
         "df": "Backwards Body Crosses are skills where the jumper crosses both hands around their upper body, such as the basic Cross and the EB. These crosses are the easiest backwards skills to learn and recommended for beginners.",
         "bg": "Y",
+        "pr": "Body Crosses",
         "tt": []
     },
     {
@@ -211,6 +212,7 @@
         "ca": "C",
         "sc": "Backwards Leg Crosses",
         "df": "Backwards Leg Crosses are skills where the jumper crosses one or both hands under one of their legs, such as the Toad and Leg Over. They require good balance and leg strength to perform cleanly.",
+        "pr": "Leg Crosses",
         "tt": []
     },
     {
@@ -254,9 +256,16 @@
     },
     {
         "ca": "C",
+        "sc": "Backwards Ground Crosses",
+        "df": "Backwards Ground Crosses are skills where the jumper crosses one or both hands around their lower legs. This usually requires them to squat down to the ground such as with the Caboose, hence their name. They are easiest to learn if performed with a Ground Stall at the beginning.",
+        "pr": "Ground Crosses",
+        "tt": []
+    },
+    {
+        "ca": "C",
         "sc": "Tucked Crosses",
         "df": "Tucked Crosses are skills where the jumper performs a normal Body, Leg or Ground Cross, but with the top hand tucked under the other hand. For example, in a T-Toad, the jumper tucks the hand that's usually above their leg (top hand) underneath the hand that's crossing under their leg, effectively trapping the 'top' hand.",
-        "pr": "Leg Crosses",
+        "pr": "Leg Crosses, Backwards Leg Crosses",
         "tt": [
             {
                 "h": "4-count skill",
@@ -271,6 +280,13 @@
                 "p": "To better understand how Tucked Crosses work, put down the rope. Cross your arms into the normal position of a Toad (for example). Next, take your hand which is not reaching under your leg (your 'top' hand) and tuck it underneath your other hand so it's on the bottom now (but still across your hips as before). This is how all Tucked Crosses differ from their foundational counterpart."
             }
         ]
+    },
+    {
+        "ca": "C",
+        "sc": "Backwards Tucked Crosses",
+        "df": "Backwards Tucked Crosses are skills where the jumper performs a normal Body, Leg or Ground Cross, but with the top hand tucked under the other hand. For example, in a T-Toad, the jumper tucks the hand that's usually above their leg (top hand) underneath the hand that's crossing under their leg, effectively trapping the 'top' hand.",
+        "pr": "Leg Crosses, Backwards Leg Crosses",
+        "tt": []
     },
     {
         "ca": "C",
@@ -295,6 +311,13 @@
                 "p": "Gogo Crosses can be hard to reach into if you have more mobility in your hips. If you do, then grab a pair of long handles to assist. Even the most mobile jumper will struggle to reach with short handles in more advanced Gogo Crosses!"
             }
         ]
+    },
+    {
+        "ca": "C",
+        "sc": "Backwards Gogo Crosses",
+        "df": "Backwards Gogo Crosses are skills where the jumper crosses one of their hands around their body twice. Imagine your left hand crossing under your leg from left to right, then reaching back around the front of your leg from right to left - the hand goes one way then it goes the other way - it 'go-gos'.",
+        "pr": "Leg Crosses, Gogo Swings, Gogo Crosses, Backwards Leg Crosses",
+        "tt": []
     },
     {
         "ca": "C",
