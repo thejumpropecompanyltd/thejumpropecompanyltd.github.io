@@ -163,6 +163,13 @@
     },
     {
         "ca": "C",
+        "sc": "Backwards Body Crosses",
+        "df": "Body Crosses are skills where the jumper crosses both hands around their upper body, such as the basic Cross and the EB. These crosses are the easiest backwards skills to learn and recommended for beginners.",
+        "bg": "Y",
+        "tt": []
+    },
+    {
+        "ca": "C",
         "sc": "Leg Crosses",
         "df": "Leg Crosses are skills where the jumper crosses one or both hands under one of their legs, such as the Toad and Leg Over. They require good balance and leg strength to perform cleanly.",
         "tt": [
