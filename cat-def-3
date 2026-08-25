@@ -46,6 +46,13 @@
     },
     {
         "ca": "F",
+        "sc": "Backwards Bilateral Footwork", 
+        "df": "Backwards Bilateral Footwork are skills where the jumper moves both feet together in unison, either doing the same thing or mirroring each other. This footwork is the easiest to learn and highly recommended for beginners.",
+        "bg": "Y",
+        "tt": []
+    },
+    {
+        "ca": "F",
         "sc": "Unilateral Footwork",
         "df": "Unilateral Footwork are skills where the jumper one foot moves horizontally or vertically, whilst the other stays under the jumper's body. Unilateral Footwoork is harder than Bilateral Footwork because it requires more leg strength and good balance to perform cleanly.",
         "bg": "Y",
@@ -86,6 +93,13 @@
     },
     {
         "ca": "F",
+        "sc": "Backwards Unilateral Footwork",
+        "df": "Backwards Unilateral Footwork are skills where the jumper one foot moves horizontally or vertically, whilst the other stays under the jumper's body. Unilateral Footwoork is harder than Bilateral Footwork because it requires more leg strength and good balance to perform cleanly.",
+        "bg": "Y",
+        "tt": []
+    },
+    {
+        "ca": "F",
         "sc": "Compound Footwork",
         "df": "Compound Footwork are skills where the jumper moves their feet independently from one another in a combination of unilateral and bilateral positions, such as the Running Man Shuffle. These are the hardest footwork skills to learn since they require the most coordination to perform cleanly.",
         "pr": "Bilateral Footwork, Unilateral Footwork",
@@ -119,6 +133,13 @@
                 "p": "Compound Footwork skills involve constantly switching between jumping on one leg and two. This means you'll be required to shift your bodyweight between your feet, rather than bouncing from foot to foot/feet. Stay light on your feet as youn do these skills."
             }
         ]
+    },
+    {
+        "ca": "F",
+        "sc": "Backwards Compound Footwork",
+        "df": "Backwards Compound Footwork are skills where the jumper moves their feet independently from one another in a combination of unilateral and bilateral positions, such as the Running Man Shuffle. These are the hardest footwork skills to learn since they require the most coordination to perform cleanly.",
+        "pr": "Backwards Bilateral Footwork, Backwards Unilateral Footwork",
+        "tt": []
     },
     {
         "ca": "C",
