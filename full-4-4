@@ -259,6 +259,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Bell",
+        "ax": "F105",
+        "sk": "> <BW> Bell <FW> > <BW> Bell <BW> >",
+        "no": "A, B,",
+        "ty": "S",
+        "as": "F105",
+        "vi": 1221200870,
+        "c1": "Backwards Bilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Bell (4 count)",
         "ax": "F5a",
         "sk": "> Bell <FW> > Bell <BW> > Bell <FW> > Bell <BW> >",
@@ -285,6 +298,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Side Straddle",
+        "ax": "F106",
+        "sk": "> <BW> Side Straddle > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F106",
+        "vi": 1221201743,
+        "c1": "Backwards Bilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Side Straddle (4 count)",
         "ax": "F6a",
         "sk": "> Side Straddle > Single Bounce > Side Straddle > Single Bounce >",
@@ -306,6 +332,19 @@
         "as": "F7",
         "vi": 833065486,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Forward Straddle",
+        "ax": "F107",
+        "sk": "> <BW> Forward Straddle > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F107",
+        "vi": 1221202673,
+        "c1": "Backwards Bilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
@@ -350,6 +389,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Scissors",
+        "ax": "F108",
+        "sk": "> <BW> Forward Straddle > <BW> Forward Straddle <OS> >",
+        "no": "A, B,",
+        "ty": "S",
+        "as": "F108",
+        "vi": 1221203779,
+        "c1": "Backwards Bilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Scissors (4 count)",
         "ax": "F8a",
         "sk": "> Forward Straddle > Forward Straddle <OS> > Forward Straddle <OS> > Forward Straddle <OS> >",
@@ -371,6 +423,19 @@
         "as": "F9",
         "vi": 833068409,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards X-Motion",
+        "ax": "F109",
+        "sk": "> <BW> Side Straddle > <BW> X-Motion >",
+        "no": "A, B,",
+        "ty": "S",
+        "as": "F109",
+        "vi": 1221204189,
+        "c1": "Backwards Bilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
