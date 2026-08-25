@@ -161,7 +161,7 @@
         "no": "O,,",
         "ty": "S",
         "as": "F102",
-        "vi": 836657202,
+        "vi": 836655831,
         "c1": "Backwards Bilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
@@ -228,6 +228,19 @@
         "as": "F4",
         "vi": 833066952,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Skier",
+        "ax": "F104",
+        "sk": "> <BW> Skier > <BW> Skier <OS> >",
+        "no": "A, B,",
+        "ty": "S",
+        "as": "F104",
+        "vi": 1221198545,
+        "c1": "Backwards Bilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
