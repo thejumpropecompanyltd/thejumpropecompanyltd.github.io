@@ -130,6 +130,17 @@
         "vi": 833100885,
         "c1": "Bilateral Footwork"
     },
+    { 
+        "na": "Backwards Single Bounce",
+        "ax": "F100",
+        "sk": "> <BW> Open >",
+        "no": "O,",
+        "ty": "S",
+        "as": "F100",
+        "vi": 836657202,
+        "c1": "Backwards Bilateral Footwork",
+        "c7": "Beginner Friendly"
+    },
     {
         "na": "Double Bounce",
         "ax": "F2",
@@ -139,6 +150,19 @@
         "as": "F2",
         "vi": 833065423,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Double Bounce",
+        "ax": "F102",
+        "sk": "> <BW> Double Bounce >",
+        "no": "O,,",
+        "ty": "S",
+        "as": "F102",
+        "vi": 836657202,
+        "c1": "Backwards Bilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
@@ -165,6 +189,19 @@
         "as": "F3",
         "vi": 833066987,
         "c1": "Bilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Twister",
+        "ax": "F103",
+        "sk": "> <BW> Twister > <BW> Twister <OS> >",
+        "no": "A, B,",
+        "ty": "S",
+        "as": "F103",
+        "vi": 1221195332,
+        "c1": "Backwards Bilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
