@@ -467,6 +467,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Single Leg Jumps",
+        "ax": "F110",
+        "sk": "> <BW> Single Leg Jumps >",
+        "no": "R, R, R, R,",
+        "ty": "S",
+        "as": "F110",
+        "vi": 1221503708,
+        "c1": "Backwards Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Single Leg Jumps (2-2)",
         "ax": "F10a",
         "sk": "> Single Leg Jump > Single Leg Jump > Single Leg Jump <OS> > Single Leg Jump > Single Leg Jump <OS> > Single Leg Jump > Single Leg Jump <OS> > Single Leg Jump >",
@@ -501,6 +514,19 @@
         "as": "F11",
         "vi": 833071640,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Front Tap",
+        "ax": "F111",
+        "sk": "> <BW> Front Tap > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F111",
+        "vi": 1221496464,
+        "c1": "Backwards Unilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
@@ -584,6 +610,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Side Tap",
+        "ax": "F112",
+        "sk": "> <BW> Side Tap > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F112",
+        "vi": 1221497803,
+        "c1": "Backwards Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Side Tap (4 count)",
         "ax": "F12a",
         "sk": "> Side Tap > Single Bounce > Side Tap > Single Bounce >",
@@ -657,6 +696,19 @@
         "as": "F13",
         "vi": 833071552,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Back Tap",
+        "ax": "F113",
+        "sk": "> <BW> Back Tap > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F113",
+        "vi": 1221494999,
+        "c1": "Backwards Unilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
@@ -740,6 +792,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Cross Over",
+        "ax": "F114",
+        "sk": "> <BW> Cross Over > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F114",
+        "vi": 1221499501,
+        "c1": "Backwards Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Cross Over (4 count)",
         "ax": "F14a",
         "sk": "> Cross Over > Single Bounce > Cross Over > Single Bounce >",
@@ -766,6 +831,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Cross Behind",
+        "ax": "F115",
+        "sk": "> <BW> Cross Behind > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F115",
+        "vi": 1221500170,
+        "c1": "Backwards Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Knee Raise",
         "ax": "F16",
         "sk": "> Knee Raise > Single Bounce >",
@@ -774,6 +852,19 @@
         "as": "F16",
         "vi": 833073485,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Knee Raise",
+        "ax": "F116",
+        "sk": "> <BW> Knee Raise > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F116",
+        "vi": 1221500479,
+        "c1": "Backwards Unilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
@@ -896,6 +987,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Side Raise",
+        "ax": "F18",
+        "sk": "> <BW> Side Raise > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F118",
+        "vi": 1221501235,
+        "c1": "Backwards Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Side Raise (4 count)",
         "ax": "F17a",
         "sk": "> Side Raise > Single Bounce > Side Raise > Single Bounce >",
@@ -917,6 +1021,19 @@
         "as": "F19",
         "vi": 833073438,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Kick Back",
+        "ax": "F119",
+        "sk": "> <BW> Kick Back > <BW> Single Bounce >",
+        "no": "A, O,",
+        "ty": "S",
+        "as": "F119",
+        "vi": 1221501754,
+        "c1": "Backwards Unilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
@@ -1013,6 +1130,19 @@
         "sd": 1
     },
     {
+        "na": "Backwards Front to Back",
+        "ax": "F121",
+        "sk": "> <BW> Front Tap > <BW> Back Tap >",
+        "no": "A, B,",
+        "ty": "S",
+        "as": "F121",
+        "vi": 1221502453,
+        "c1": "Backwards Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "Front to Back (4 count)",
         "ax": "F21a",
         "sk": "> Front Tap > Back Tap >",
@@ -1047,6 +1177,19 @@
         "as": "F22",
         "vi": 833089479,
         "c1": "Unilateral Footwork",
+        "c7": "Beginner Friendly",
+        "hs": 0,
+        "sd": 1
+    },
+    {
+        "na": "Backwards Back to Front",
+        "ax": "F122",
+        "sk": "> <BW> Back Tap > <BW> Front Tap >",
+        "no": "A, B,",
+        "ty": "S",
+        "as": "F122",
+        "vi": 1221502454,
+        "c1": "Backwards Unilateral Footwork",
         "c7": "Beginner Friendly",
         "hs": 0,
         "sd": 1
@@ -1162,6 +1305,18 @@
         "sd": 1
     },
     {
+        "na": "Backwards High Knee Cross Over",
+        "ax": "F125",
+        "sk": "> <BW> Knee Raise > <BW> Cross Over > <BW> Knee Raise > <BW> Single Bounce >",
+        "no": "A, B, A, C,",
+        "ty": "S",
+        "as": "F125",
+        "vi": 1221504183,
+        "c1": "Backwards Unilateral Footwork",
+        "hs": 0,
+        "sd": 1
+    },
+    {
         "na": "High Knee Cross Over (to Side Straddle)",
         "ax": "F25a",
         "sk": "> Knee Raise > Cross Over > Knee Raise > Side Straddle >",
@@ -1182,6 +1337,18 @@
         "as": "F26",
         "vi": 833076954,
         "c1": "Compound Footwork",
+        "hs": 0,
+        "sd": 2
+    },
+    {
+        "na": "Backwards High Knee Side Straddle",
+        "ax": "F126",
+        "sk": "> <BW> Knee Raise > <BW> Side Straddle >",
+        "no": "A, B, O, O,",
+        "ty": "S",
+        "as": "F126",
+        "vi": 833076954,
+        "c1": "Backwards Compound Footwork",
         "hs": 0,
         "sd": 2
     },
@@ -1250,6 +1417,17 @@
         "as": "F28",
         "vi": 833068718,
         "c1": "Compound Footwork",
+        "hs": 0,
+        "sd": 2
+    },
+    {
+        "na": "Backwards Running Man Shuffle",
+        "ax": "F128",
+        "sk": "> <BW> Knee Raise > <BW> Forward Straddle > <BW> Knee Raise <OS> > <BW> Forward Straddle >",
+        "ty": "S",
+        "as": "F128",
+        "vi": 1221505688,
+        "c1": "Backwards Compound Footwork",
         "hs": 0,
         "sd": 2
     },
