@@ -1341,18 +1341,6 @@
         "sd": 2
     },
     {
-        "na": "Backwards High Knee Side Straddle",
-        "ax": "F126",
-        "sk": "> <BW> Knee Raise > <BW> Side Straddle >",
-        "no": "A, B, O, O,",
-        "ty": "S",
-        "as": "F126",
-        "vi": 833076954,
-        "c1": "Backwards Compound Footwork",
-        "hs": 0,
-        "sd": 2
-    },
-    {
         "na": "High Knee Side Straddle (4 count)",
         "ax": "F26a",
         "sk": "> Knee Raise > Side Straddle > Knee Raise > Side Straddle >",
